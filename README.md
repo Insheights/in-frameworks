@@ -1,8 +1,12 @@
 # Insheights Integrated Value Creation System 
 
-A collection of organizational and product frameworks developed by Insheights LLC.
+An integrated system of organizational and product frameworks developed by Insheights LLC.
 
-The Insheights Integrated Value Creation System is how organizations define, build, and deliver value — from strategic intent to customer outcome.
+The Insheights Integrated Value Creation System is how organizations define, build, and deliver value — from strategic intent to value.
+
+- **Integrated** — purposefully unified across strategy, operating model, and value delivery
+- **Value Creation** — the single purpose the whole system serves
+- **System** — interdependent parts that work as one
 
 ---
 
