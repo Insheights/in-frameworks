@@ -1,18 +1,18 @@
-# Insheights Value Creation Suite 
+# Insheights Integrated Value Creation System 
 
 A collection of organizational and product frameworks developed by Insheights LLC.
 
-The Insheights Value Creation Suite is how organizations define, build, and deliver value — from strategic intent to customer outcome.
+The Insheights Integrated Value Creation System is how organizations define, build, and deliver value — from strategic intent to customer outcome.
 
 ---
 
-## OSP — Organization Strategy Planning
+## OSM — Organization Strategy Model
 
 **Strategic Value Creation | Value Priorities | Value Streams**
 
-How organizations translate strategic intent into prioritized value creation outcomes. OSP connects Values, Mission, and Vision through a Strategic Value Creation process informed by internal/external context, leadership direction, stakeholder/customer expectations, and enterprise risk — then drives execution through a continuous feedback loop between Governance & Measurement and Execution & Deployment by Value Stream.
+How organizations translate strategic intent into prioritized value creation outcomes. OSM connects Values, Mission, and Vision through a Strategic Value Creation process informed by internal/external context, leadership direction, stakeholder/customer expectations, and enterprise risk — then drives execution through a continuous feedback loop between Governance & Measurement and Execution & Deployment by Value Stream.
 
-![OSP Diagram](diagrams/osp.png)
+![OSM Diagram](diagrams/osm.png)
 
 ---
 
@@ -24,7 +24,7 @@ How organizations create value through the interplay of strategy, product operat
 
 ![PTS Diagram](diagrams/pts-detailed.png)
 
-PTS is where OSP's strategic intent, value priorities, and value streams are:
+PTS is where OSM's strategic intent, value priorities, and value streams are:
 
 - **Structured** — into a product operating model organized around value streams
 - **Empowered** — through persistent cross-functional teams built to own and deliver those value priorities
@@ -68,7 +68,7 @@ Each Product Mindset principle has a direct home in CVDM:
 
 ## Summary
 
-OSP defines where value must be created. PTS structures, empowers, and executes around that intent. CVDM is the model where empowered teams practice, test, and reinforce their product mindset — delivering value to the customer continuously.
+OSM defines where value must be created. PTS structures, empowers, and executes around that intent. CVDM is the model where empowered teams practice, test, and reinforce their product mindset — delivering value to the customer continuously.
 
 ---
 
