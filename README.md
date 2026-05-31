@@ -1,12 +1,26 @@
 # Insheights Integrated Value Creation System 
 
+**Organization Strategy Model (OSM) | Product Transformation System (PTS) | Customer Value Delivery Model (CVDM)**
+
 An integrated system of organizational and product frameworks developed by Insheights LLC.
 
-The Insheights Integrated Value Creation System is how organizations define, build, and deliver value — from strategic intent to value.
+The Insheights Integrated Value Creation System is how organizations define, build, and deliver value — from strategic intent to value — integrating existing practices into a coherent system. 
 
 - **Integrated** — purposefully unified across strategy, operating model, and value delivery
 - **Value Creation** — the single purpose the whole system serves
 - **System** — interdependent parts that work as one
+
+**Product Mindset** is the operating philosophy of the system — shaping how strategy is formed, how teams are built, and how value is delivered.
+
+| Product Mindset Principle | Description |
+|---|---|
+| Customer obsession | Every decision starts with the customer — their journey, needs, and experience take priority over internal preferences or assumptions |
+| Outcome over output | Success is measured by value delivered to the customer, not by features shipped or tasks completed |
+| Continuous discovery | Teams stay in constant contact with reality — learning from customers, data, and feedback rather than building on assumptions |
+| Hypothesis-driven thinking | Every initiative is treated as a testable assumption — teams define what they expect, deliver, and learn from the result |
+| Cross-functional ownership | Teams own the full value delivery chain end-to-end — not individual functions or hand-offs |
+
+![IIVCS Diagram](diagrams/iivcs.png)
 
 ---
 
@@ -15,6 +29,29 @@ The Insheights Integrated Value Creation System is how organizations define, bui
 **Strategic Value Creation | Value Priorities | Value Streams**
 
 How organizations translate strategic intent into prioritized value creation outcomes. OSM connects Values, Mission, and Vision through a Strategic Value Creation process informed by internal/external context, leadership direction, stakeholder/customer expectations, and enterprise risk — then drives execution through a continuous feedback loop between Governance & Measurement and Execution & Deployment by Value Stream.
+
+The organization approaches Strategic Value Creation with a Product Mindset — strategies are living hypotheses, continuously tested and refined as execution generates signal. Strategy inputs are never static: market shifts, stakeholder expectations, and delivery outcomes continuously feed back into strategic reassessment. Product Mindset maturity — the organization's readiness to operate this way — is an internal context factor that shapes which strategies are realistic and executable.
+
+Value Streams — the pre-existing business workflows and capabilities through which value is created and delivered — are the organizing unit of execution across OSM, PTS, and CVDM. 
+
+OSM scales vertically across the organization (Organization > Enterprise/Functions > Portfolio)
+
+| Level | Scope | Primary Users |
+|---|---|---|
+| **Organization** | Organization-wide strategic intent and value priorities | CEO, Board, Executive Team |
+| **Enterprise / Function** | Enterprise/Function alignment to organization strategic intent | Enterprise/Functional Leaders, Business Units |
+| **Portfolio** | Portfolio alignment to Enterprise/Function intent and value stream allocation | Portfolio Managers, Product Leaders |
+
+
+Each Product Mindset principle has a direct role in OSM:
+
+| Product Mindset Principle | How It Shows Up in OSM |
+|---|---|
+| Customer obsession | Stakeholder & Customer Expectations is a direct input to Strategic Value Creation — customer needs shape where value priorities are set |
+| Outcome over output | Strategic Objectives are defined as Outcomes and Value Priorities, not activities or deliverables |
+| Continuous discovery | Strategy inputs are never static — market shifts, stakeholder expectations, and delivery outcomes continuously feed back into strategic reassessment |
+| Hypothesis-driven thinking | Strategies are living hypotheses — Governance & Measurement tests whether strategic bets are generating expected outcomes |
+| Cross-functional ownership | Execution & Deployment is organized by Value Stream, not by department or function — ownership cuts across organizational boundaries |
 
 ![OSM Diagram](diagrams/osm.png)
 
@@ -34,15 +71,17 @@ PTS is where OSM's strategic intent, value priorities, and value streams are:
 - **Empowered** — through persistent cross-functional teams built to own and deliver those value priorities
 - **Executed** — through the Customer Value Delivery Model
 
-Product Mindset is the foundation empowered teams carry into every phase. 
+Product Mindset is the foundation empowered teams carry into every phase.
 
-| Product Mindset Principle | Description |
+Each Product Mindset principle has a direct role in PTS:
+
+| Product Mindset Principle | How It Shows Up in PTS |
 |---|---|
-| Customer obsession | Every decision starts with the customer — their journey, needs, and experience take priority over internal preferences or assumptions |
-| Outcome over output | Success is measured by value delivered to the customer, not by features shipped or tasks completed |
-| Continuous discovery | Teams stay in constant contact with reality — learning from customers, data, and feedback rather than building on assumptions |
-| Hypothesis-driven thinking | Every initiative is treated as a testable assumption — teams define what they expect, deliver, and learn from the result |
-| Cross-functional ownership | Teams own the full value delivery chain end-to-end — not individual functions or hand-offs |
+| Customer obsession | Teams are organized around value streams that serve customer needs — POM Enablers orient the operating model toward customer outcomes, not deliverables |
+| Outcome over output | Leadership sets Outcomes/OKRs, not feature lists — teams are measured on value delivered, not tasks completed |
+| Continuous discovery | Discover is continuous and overlapping — teams never stop learning from customers, data, and market signals across all phases |
+| Hypothesis-driven thinking | Each phase from Discover through Support is a testable assumption — the feedback and learning loop validates or corrects direction |
+| Cross-functional ownership | Persistent cross-functional teams own the full value delivery chain end-to-end — from Discovery through Support — without hand-offs |
 
 ---
 
@@ -51,6 +90,8 @@ Product Mindset is the foundation empowered teams carry into every phase.
 **Customer Journey | Value Stream | Value Delivery**
 
 How organizations map customer journeys to value streams, ensuring customer needs trigger appropriate capabilities and processes that deliver value. CVDM connects Customer/User journeys to Value Propositions, Products/Services, Value Streams, Capabilities, and Processes — with five continuous feedback loops covering experience feedback, journey insights, delivery learning, strategic evolution, and performance optimization.
+
+Product Mindset, carried into CVDM by empowered teams from PTS, is where it moves from philosophy to practice.
 
 CVDM is the model where the Product Mindset is:
 
@@ -62,7 +103,7 @@ Each Product Mindset principle has a direct home in CVDM:
 
 | Product Mindset Principle | How It Shows Up in CVDM |
 |---|---|
-| Customer obsession | Drives the Customer Journey — the journey is the anchor, not the product |
+| Customer obsession | Anchors every decision to the Customer Journey — not the product, not the feature |
 | Outcome over output | Maps to the Value Proposition and feedback loops — CVDM measures value received, not features shipped |
 | Continuous discovery | Powers the feedback loop from Customer Experience back to Journey Insights |
 | Hypothesis-driven thinking | Each Value Stage in CVDM is a testable assumption about how value is delivered |
@@ -72,7 +113,25 @@ Each Product Mindset principle has a direct home in CVDM:
 
 ## Summary
 
-OSM defines where value must be created. PTS structures, empowers, and executes around that intent. CVDM is the model where empowered teams practice, test, and reinforce their product mindset — delivering value to the customer continuously.
+Value Streams — the pre-existing business workflows and capabilities 
+through which value is created and delivered — are the common spine 
+of the Insheights Integrated Value Creation System.
+
+OSM aligns strategic priorities to value streams — translating 
+strategic intent, stakeholder expectations, and enterprise risk into 
+the objectives and value priorities that determine where execution 
+must focus.
+
+PTS organises around value streams — structuring the product 
+operating model and empowering persistent cross-functional teams to 
+own and deliver against those priorities.
+
+CVDM delivers through value streams — mapping customer journeys to 
+value streams so that every journey step activates the right 
+capabilities, processes, and products to ensure value reaches the 
+customer.
+
+The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value.
 
 ---
 
