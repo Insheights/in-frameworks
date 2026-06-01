@@ -4,7 +4,7 @@
 
 An integrated system of organizational and product frameworks developed by Insheights LLC.
 
-The Insheights Integrated Value Creation System is how organizations define, build, and deliver value — from strategic intent to value — integrating existing practices into a coherent system. 
+The Insheights Integrated Value Creation System (IIVCS) is how organizations define, build, and deliver value — from strategic intent to value — integrating existing practices into a coherent system. 
 
 - **Integrated** — purposefully unified across strategy, operating model, and value delivery
 - **Value Creation** — the single purpose the whole system serves
@@ -59,7 +59,7 @@ Each Product Mindset principle has a direct role in OSM:
 
 ## PTS — Product Transformation System
 
-**Product Operating Model | Cross Functional Team | Value Stream Outcome Delivery**
+**Product Operating Model (POM) | Cross Functional Team | Value Stream Outcome Delivery**
 
 How organizations create value through the interplay of strategy, product operating model enablers, product management activities, and product mindset — enabled by AI to drive outcomes. PTS defines four POM Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) that empower persistent cross-functional product teams to work through continuous, overlapping phases: Discover, Define, Develop, Deliver, Launch, and Support — underpinned by a continuous feedback and learning loop.
 
@@ -81,7 +81,7 @@ Each Product Mindset principle has a direct role in PTS:
 | Outcome over output | Leadership sets Outcomes/OKRs, not feature lists — teams are measured on value delivered, not tasks completed |
 | Continuous discovery | Discover is continuous and overlapping — teams never stop learning from customers, data, and market signals across all phases |
 | Hypothesis-driven thinking | Each phase from Discover through Support is a testable assumption — the feedback and learning loop validates or corrects direction |
-| Cross-functional ownership | Persistent cross-functional teams own the full value delivery chain end-to-end — from Discovery through Support — without hand-offs |
+| Cross-functional ownership | Persistent cross-functional teams own the full value delivery chain end-to-end — from Discover through Support — without hand-offs |
 
 ---
 
@@ -89,7 +89,7 @@ Each Product Mindset principle has a direct role in PTS:
 
 **Customer Journey | Value Stream | Value Delivery**
 
-How organizations map customer journeys to value streams, ensuring customer needs trigger appropriate capabilities and processes that deliver value. CVDM connects Customer/User journeys to Value Propositions, Products/Services, Value Streams, Capabilities, and Processes — with five continuous feedback loops covering experience feedback, journey insights, delivery learning, strategic evolution, and performance optimization.
+CVDM ensures every Customer/User journey step triggers the right Value Stream stage — defining the Products/Services, Capabilities, Processes, and Information flows required to deliver the Value Proposition as a realized customer outcome — with five continuous feedback loops covering experience feedback, journey insights, delivery learning, strategic evolution, and performance optimization.
 
 Product Mindset, carried into CVDM by empowered teams from PTS, is where it moves from philosophy to practice.
 
@@ -111,6 +111,14 @@ Each Product Mindset principle has a direct home in CVDM:
 
 ![CVDM Diagram](diagrams/cvdm-layered.png)
 
+---
+
+## Comparison with Established Frameworks
+
+The IIVCS is distinct from established Enterprise Architecture, product, and value delivery frameworks in its simultaneous coverage of customer journey, value stream delivery, outcome measurement, and upstream feedback. See [IIVCS Comparison with Established Frameworks](comparison.md).
+
+---
+
 ## Summary
 
 Value Streams — the pre-existing business workflows and capabilities 
@@ -131,7 +139,9 @@ value streams so that every journey step activates the right
 capabilities, processes, and products to ensure value reaches the 
 customer.
 
-The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value.
+The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value. See [Feedback](feedback.md).
+
+3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [3E Value Measurement Model](3e.md) and [8 Values Model](8-values.md).
 
 ---
 
