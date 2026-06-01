@@ -141,7 +141,7 @@ customer.
 
 The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value. See [Feedback](feedback.md).
 
-3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [3E Value Measurement Model](3e.md) and [8 Values Model](8-values.md).
+3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md) and [Insheights 8 Organizational Values Measurement Model](8-values.md).
 
 ---
 

@@ -1,10 +1,10 @@
-# Insheights 8 Values Model
+# Insheights 8 Organizational Values Measurement Model
 
 **Customer Value | Financial Value | People Value | Operational Value | Market Value | Strategic Value | Innovation Value | Impact Value**
 
 The organizational value measurement model of the Insheights Integrated Value Creation System, developed by Insheights LLC.
 
-The Insheights 8 Values Model defines how the Insheights Integrated Value Creation System generates Organization Value — translating the outcomes of strategy, transformation, and delivery into eight dimensions of value that compound over time into sustained organizational impact. Each Value is operationally grounded in the IIVCS, behaviorally measured through AER, and delivery-measured through 3E.
+The Insheights 8 Organizational Values Measurement Model defines how the Insheights Integrated Value Creation System generates Organization Value — translating the outcomes of strategy, transformation, and delivery into eight dimensions of value that compound over time into sustained organizational impact. Each Value is operationally grounded in the IIVCS, behaviorally measured through AER, and delivery-measured through 3E.
 
 - **Operational** — each Value is generated through OSM, PTS, and CVDM, not observed from outside
 - **Behavioral** — AER operates across two parallel tracks: Customer AER measuring how customers respond to value delivery, and Organizational AER measuring how the delivering organization responds to its own operating model
@@ -35,6 +35,8 @@ Org AER         Adoption → Engagement → Retention
 - **Adoption** — customers take up the value offered, entering the value stream
 - **Engagement** — customers actively use the value, returning signal through the journey
 - **Retention** — customers persist, choosing this value stream over time
+
+> **Sector note:** R is **Retention** or **Recommendation** — the sustained proof of value realized, expressed as continued engagement over time (Retention) or active advocacy to others (Recommendation), depending on the primary value proof mechanism of the industry and context.
 
 **Organizational AER** measures how the delivering organization responds to its own operating model:
 - **Adoption** — teams adopt the operating model, practices, and ways of working

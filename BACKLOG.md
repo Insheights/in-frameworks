@@ -5,13 +5,13 @@
 ## High Priority
 
 ### 1. Practitioners Guide — OSM
-A step-by-step guide for practitioners applying the Organization Strategy Model framework. Covers how to run the strategy development process, align stakeholders, translate Vision into Strategic Objectives, and set up Governance & Measurement cadences.
+A step-by-step guide for practitioners applying the Organization Strategy Model framework. Covers how to run the strategy development process, align stakeholders, translate Vision into Strategic Objectives, and set up Governance & Measurement cadences. Must include worked examples of applying 3E measurement at the strategic level (Effectiveness as the primary signal) and generating the 8 Values that OSM most directly drives: Strategic Value and Innovation Value direction-setting. Must include OSM-specific system health indicators — signals that confirm OSM is generating executable strategy, not just documented strategy. Must include a light translation note for non-product contexts: OSM's principles apply to any organization type; "Product Mindset" is the operating philosophy, not a product-industry constraint.
 
 ### 2. Practitioners Guide — PTS
-A step-by-step guide for practitioners applying the Product Transformation System. Covers how to stand up a Product Operating Model, structure cross-functional teams around value streams, activate each POM Enabler, and run the Discover–Support phases continuously.
+A step-by-step guide for practitioners applying the Product Transformation System. Covers how to stand up a Product Operating Model, structure cross-functional teams around value streams, activate each POM Enabler, and run the Discover–Support phases continuously. Must include worked examples of applying 3E measurement to transformation (Efficiency as table stake, Effectiveness as the goal) and generating the 8 Values that PTS most directly drives: People Value, Operational Value, and Innovation Value. Must include PTS-specific system health indicators — signals that confirm the product operating model is delivering against value stream priorities, not just operating. Must include an industry translation note: in non-product contexts, POM maps to the operating model and product teams map to delivery teams — "Product" is the default frame, not a constraint. Must include a phase mapping table translating Discover → Support to equivalent practice language across key sectors (healthcare, government, professional services, manufacturing, financial services). Must cover the Launch phase in full: external GTM (awareness, acquisition, channel activation) and internal change communication and training — both are the conditions that place the customer at the first CVDM journey step.
 
 ### 3. Practitioners Guide — CVDM
-A step-by-step guide for practitioners applying the Customer Value Delivery Model. Covers how to map customer journeys to value streams, define value stages, operationalize capabilities and processes, and activate the five feedback loops.
+A step-by-step guide for practitioners applying the Customer Value Delivery Model. Covers how to map customer journeys to value streams, define value stages, operationalize capabilities and processes, and activate the five feedback loops. Must include worked examples of applying the full 3E sequence (Use → Feel → Achieve) at the value stage and value stream level, and generating the 8 Values that CVDM most directly drives: Customer Value, Market Value, and the feedback that compounds all remaining Values over time. Must include CVDM-specific system health indicators — signals that confirm customer outcomes are being produced and feeding back into strategic refinement. Must include a light translation note for non-product contexts: "customer" maps to patient, citizen, client, or user depending on sector — the journey and value delivery logic applies regardless of the relationship label.
 
 ### 4. Adoption Sequencing & Maturity Model
 A maturity model that helps organizations self-assess their current state and determine where to start — OSM, PTS, or CVDM — and in what sequence. Defines what early, developing, and mature adoption looks like across the suite.
@@ -20,8 +20,11 @@ A maturity model that helps organizations self-assess their current state and de
 
 ## Medium Priority
 
-### 6. Measurement Framework
-A shared measurement model spanning all three frameworks. Defines what good looks like at each layer — strategic, product, and customer — and identifies the signals and metrics that indicate the suite is working, not just being followed.
+### 15. IIVCS Assessment
+A structured assessment instrument spanning all IIVCS components — OSM, PTS, CVDM, 3E, 8 Values, and the Feedback System — that enables an organization to evaluate its current state across the full system and establish its maturity level. The assessment produces a maturity profile that identifies where the system is strong, where gaps exist, and which components to prioritize for adoption or refinement. Connects directly to backlog #4 (Adoption Sequencing & Maturity Model) — the maturity model defines the levels; the assessment is how organizations place themselves within it.
+
+### 6. Measurement Framework — Metrics and Indicators
+The 3E Operational Values Measurement Model and 8 Organizational Values Measurement Model are now documented as standalone frameworks. What remains is the practitioner-facing layer: concrete metrics, indicators, and thresholds for each dimension across OSM, PTS, and CVDM. Covers what good looks like at each layer — strategic, product, and customer — with specific signals (leading and lagging) that indicate the suite is working, not just being followed. Complements the practitioner guides by providing the measurement reference practitioners apply when running each framework.
 
 ### 7. Role and Ownership Model
 Defines who drives OSM, who operationalizes PTS, and who governs CVDM. Covers decision rights, responsibilities, and how leadership and teams interact across the three frameworks.
@@ -43,10 +46,13 @@ Refinements to the Organization Strategy Model addressing two gaps: (1) the role
 Refinements to the Product Transformation System addressing three gaps: (1) platform team role — defining the mandate and interaction model for Core, Shared, and Platform-Enabled teams; (2) POM Enabler feedback — a path from team experience back to the operating model so that enabler gaps surface and are corrected; (3) Support phase — reframing Support as an ongoing operating mode, not an endpoint phase.
 
 ### 12. CVDM Framework Refinements
-Refinements to the Customer Value Delivery Model addressing five gaps: (1) pre-journey context — acquisition and awareness before the first journey step; (2) failure journeys and churn — modeling failed journeys and exit paths, not just successful delivery; (3) customer segmentation — differentiating journeys, value propositions, and value streams across customer segments; (4) Value Proposition validation — a feedback loop that tests whether the value proposition remains accurate and relevant; (5) monetization — how value delivered translates to value captured.
+Refinements to the Customer Value Delivery Model addressing four gaps: (1) failure journeys and churn — modeling failed journeys and exit paths, not just successful delivery; (2) customer segmentation — differentiating journeys, value propositions, and value streams across customer segments; (3) Value Proposition validation — a feedback loop that tests whether the value proposition remains accurate and relevant; (4) monetization — how value delivered translates to value captured.
+
+### 14. Reassess comparison.md
+Reassess the framework comparison document in light of the renaming of the 3E and 8 Values models. Review whether the comparisons, table structure, and framing accurately reflect the current state of the IIVCS and its measurement models.
 
 ### 13. System Health Indicators
-A concise set of indicators spanning all three frameworks that signal whether the system is working — not just being followed. Complements the Measurement Framework by focusing on system-level health: is OSM generating executable strategy, is PTS delivering against value stream priorities, is CVDM producing customer outcomes that feed back into strategic refinement.
+A concise set of indicators spanning all three frameworks that signal whether the system is working — not just being followed. Focuses on system-level health: is OSM generating executable strategy, is PTS delivering against value stream priorities, is CVDM producing customer outcomes that feed back into strategic refinement. These indicators must be embedded within each practitioner guide — not published as a standalone document — so practitioners have health checks in context as they apply each framework.
 
 ---
 
