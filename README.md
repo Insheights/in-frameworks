@@ -141,7 +141,7 @@ customer.
 
 The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value. See [Feedback](feedback.md).
 
-3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md) and [Insheights 8 Organizational Values Measurement Model](8-values.md).
+3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. AER — Adoption, Engagement, Retention — is the behavioral signal layer, measuring how customers and organizational teams respond to value delivery across two parallel tracks. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md), [Insheights AER Behavioral Measurement Model](aer.md), and [Insheights 8 Organizational Values Measurement Model](8-values.md).
 
 ---
 

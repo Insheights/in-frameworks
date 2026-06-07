@@ -29,21 +29,9 @@ Org AER         Adoption → Engagement → Retention
 8 Values    →   Organization Value → Impact
 ```
 
-3E drives both AER tracks — Efficiency enables Adoption, Experience deepens Engagement, Effectiveness earns Retention — across customer and organizational dimensions.
+3E drives both AER tracks — Efficiency enables Adoption, Experience deepens Engagement, Effectiveness earns Retention — across customer and organizational dimensions. Customer AER drives Customer and Financial Value directly. Organizational AER drives People Value directly. Both compound across the remaining Values over time.
 
-**Customer AER** measures how customers respond to value delivery:
-- **Adoption** — customers take up the value offered, entering the value stream
-- **Engagement** — customers actively use the value, returning signal through the journey
-- **Retention** — customers persist, choosing this value stream over time
-
-> **Sector note:** R is **Retention** or **Recommendation** — the sustained proof of value realized, expressed as continued engagement over time (Retention) or active advocacy to others (Recommendation), depending on the primary value proof mechanism of the industry and context.
-
-**Organizational AER** measures how the delivering organization responds to its own operating model:
-- **Adoption** — teams adopt the operating model, practices, and ways of working
-- **Engagement** — teams engage with purpose, culture, and the work — active participation, not compliance
-- **Retention** — talent, institutional knowledge, and organizational stability are sustained
-
-Customer AER drives Customer and Financial Value directly. Organizational AER drives People Value directly. Both compound across the remaining Values over time.
+See [Insheights AER Behavioral Measurement Model](aer.md).
 
 ---
 
