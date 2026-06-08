@@ -130,23 +130,11 @@ Value Streams — the pre-existing business workflows and capabilities
 through which value is created and delivered — are the common spine 
 of the Insheights Integrated Value Creation System.
 
-OSM aligns strategic priorities to value streams — translating 
-strategic intent, stakeholder expectations, and enterprise risk into 
-the objectives and value priorities that determine where execution 
-must focus.
-
-PTS organises around value streams — structuring the product 
-operating model and empowering persistent cross-functional teams to 
-own and deliver against those priorities.
-
-CVDM delivers through value streams — mapping customer journeys to 
-value streams so that every journey step activates the right 
-capabilities, processes, and products to ensure value reaches the 
-customer.
+OSM **governs** the value streams, PTS **operationalizes** them, and CVDM **realizes** value through them. What each framework owns, how they align up and down the system, and where behavioral signal is measured are set out in [Framework Positioning](positioning.md) — the canonical reference for how the three relate.
 
 The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value. See [Feedback](feedback.md).
 
-3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. AER — Adoption, Engagement, Retention — is the behavioral signal layer, measuring how customers and organizational teams respond to value delivery across two parallel tracks. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md), [Insheights AER Behavioral Measurement Model](aer.md), and [Insheights 8 Organizational Values Measurement Model](8-values.md).
+3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. AER — Adoption, Engagement, Retention — is the behavioral signal layer, measuring how customers respond to value delivery and how organizational teams respond to the operating model, across two parallel tracks. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md), [Insheights AER Behavioral Measurement Model](aer.md), and [Insheights 8 Organizational Values Measurement Model](8-values.md).
 
 ---
 

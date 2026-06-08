@@ -139,11 +139,14 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ```
 Effectiveness underperforming?
-    → Is Experience strong?
-        → Yes: problem is in delivery or product — Effectiveness gap is real, address directly
-        → No: fix Experience first — Effectiveness may follow
-    → Is Efficiency strong?
-        → No: fix Efficiency first — Experience and Effectiveness cannot be reached
+    → Check Experience (the bridge):
+        → Weak: fix Experience first — Effectiveness may follow
+        → Strong: continue ↓
+    → Check Efficiency (the table stake):
+        → Weak: fix Efficiency first — Experience and Effectiveness cannot be reached
+        → Strong: Efficiency and Experience both hold, yet outcomes fail — the value
+          was used and felt but did not achieve. The problem is the value proposition
+          itself, not its delivery. Return to discovery / value-proposition validation.
 ```
 
 ---
@@ -389,7 +392,8 @@ These signals confirm 3E is being applied correctly — not just being followed 
 **Diagnostic sequence**
 
 ```
-Effectiveness gap → check Experience → check Efficiency → fix the earliest failure in the chain
+Effectiveness gap → check Experience → check Efficiency → fix the earliest failure in the chain.
+If Experience and Efficiency both hold, the gap is the value proposition itself — return to discovery.
 ```
 
 **3E → AER connection**

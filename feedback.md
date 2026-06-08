@@ -12,7 +12,9 @@ The IIVCS feedback system is how the organization continuously refines where and
 
 **Organizational feedback** surfaces at the organizational level — the 8 Values metrics aggregate the outcomes of strategy, transformation, and delivery into organizational dimensions that feed back into OSM's Governance & Measurement and strategic reassessment.
 
-Together, the two levels form the complete upstream feedback path: CVDM → PTS → OSM.
+**Behavioral feedback** bridges the two — AER (Adoption, Engagement, Retention) translates the operational signals into the behavioral patterns of customers and teams that become organizational outcomes. It is the layer that connects how value is delivered (operational) to what the organization generates (organizational). See [AER Behavioral Measurement Model](aer.md).
+
+Together, the levels form the complete upstream feedback path. Viewed through the frameworks it runs CVDM → PTS → OSM; viewed through the measurement layers that ride it, CVDM's loops → AER → 8 Values → OSM — the same flow, two lenses.
 
 ---
 
@@ -28,13 +30,13 @@ CVDM's five continuous feedback loops are the operational feedback mechanism of 
 | Strategic evolution | Whether strategic priorities remain valid given delivery outcomes |
 | Performance optimization | Whether capabilities and processes are performing at the required maturity |
 
-Experience feedback surfaces first — the most immediate signal from the customer journey. Delivery learning surfaces last — the outcome validation that feeds strategic reassessment.
+Experience feedback surfaces first — the most immediate signal from the customer journey. Strategic evolution surfaces last — whether strategic priorities remain valid given delivery outcomes, the signal that feeds strategic reassessment.
 
 ---
 
 ## Organizational Feedback — 8 Values
 
-The 8 Values metrics aggregate organizational outcomes and return them upstream to OSM's Governance & Measurement — validating whether strategic priorities are generating the right organizational value across all eight dimensions.
+The [8 Values](8-values.md) metrics aggregate organizational outcomes and return them upstream to OSM's Governance & Measurement — validating whether strategic priorities are generating the right organizational value across all eight dimensions.
 
 | 8 Value | What It Signals |
 |---|---|
@@ -58,14 +60,19 @@ The IIVCS feedback system runs upstream in two layers — operational signals ri
 ```
 CVDM      Experience → Journey insights → Performance optimization → Delivery learning → Strategic evolution
                 ↓
-AER       Adoption → Engagement → Retention
+AER       Adoption → Engagement → Retention            (two tracks: Customer AER and Organizational AER)
                 ↓
-8 Values  Customer → Financial → Market → Strategic → Innovation → Impact
-                ↓
-OSM       Governance & Measurement → Strategic Reassessment
+8 Values  People · Operational · Customer · Financial · Market · Strategic · Innovation · Impact
+                ↓                                                   ↓
+          People + Operational Value                      Customer · Financial · Market ·
+          → PTS (operating-model adjustment)              Strategic · Innovation · Impact
+                                                                    ↓
+                                                          OSM  Governance & Measurement → Strategic Reassessment
 ```
 
-3E provides the measurement language at every point in the return journey — grounding both operational and organizational feedback in Efficiency, Experience, and Effectiveness.
+The path forks at the 8 Values: People and Operational Value feed PTS to signal whether the operating model needs adjustment; the other six feed OSM's Governance & Measurement and strategic reassessment. AER runs as two parallel tracks — Customer AER and Organizational AER.
+
+[3E](3e.md) provides the measurement language at every point in the return journey — grounding both operational and organizational feedback in Efficiency, Experience, and Effectiveness.
 
 The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value.
 

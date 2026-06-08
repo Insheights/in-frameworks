@@ -75,9 +75,6 @@ A reference table specifying the minimum observable signal per value dimension t
 ### 13. System Health Indicators
 A concise set of indicators spanning all three frameworks that signal whether the system is working — not just being followed. Focuses on system-level health: is OSM generating executable strategy, is PTS delivering against value stream priorities, is CVDM producing customer outcomes that feed back into strategic refinement. These indicators must be embedded within each practitioner guide — not published as a standalone document — so practitioners have health checks in context as they apply each framework.
 
-### 21. Reconcile README and positioning.md
-positioning.md now describes how OSM, PTS, and CVDM relate — governs / operationalizes / realizes, the dual-track AER homes (Org AER ↔ PTS, Customer AER ↔ CVDM, reconciled at OSM), and outcome ownership (OSM defines value-stream outcomes, PTS owns delivery, product teams own the customer outcomes that evidence them). The README narrative describes the same frameworks independently, creating drift risk. Make positioning.md the canonical source for how the frameworks relate and have the README reference it rather than re-describe the relationships; reconcile any divergence between the two.
-
 ---
 
 © 2026 Insheights LLC. All rights reserved.
