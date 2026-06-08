@@ -12,8 +12,6 @@ The Insheights 8 Organizational Values Measurement Model defines how the Insheig
 
 The 8 Values bridge directly to the International Integrated Reporting Council (IIRC) 6 Capitals framework — translating IIVCS operational value generation into the stock of capitals reported to investors and stakeholders.
 
-![8 Values Diagram](diagrams/8-values.png)
-
 ---
 
 ## The Measurement Architecture
@@ -259,6 +257,20 @@ Each IIVCS framework generates value across multiple dimensions simultaneously. 
 ## Feedback
 
 The 8 Values metrics surface organizational outcomes back to OSM's Governance & Measurement and PTS's operating model — forming the organizational feedback layer of the IIVCS. See [IIVCS Feedback System](feedback.md).
+
+---
+
+## Limitations
+
+The 8 Values is a synthesis model — it reads across 3E and AER signals and infers organizational value. That makes it powerful and also the most assumption-heavy layer of the architecture:
+
+- **Heaviest instrumentation demand.** A credible 8 Values profile presumes 3E and AER signals already exist across architecture elements and both tracks. On a first run, most organizations will find several values unmeasured — the practitioner guide treats this as the expected starting finding. Until the signals exist, parts of the profile are informed assumption, not measurement.
+- **Compounding relationships are a model, not measured causality.** The directional chain (People → Operational → Customer → Financial, and the rest) is a reasoned diagnostic for tracing root cause upstream — not a statistically established set of causal links. Use it to form hypotheses, then verify; do not report the arrows as proven.
+- **The IR 6 Capitals bridge is many-to-many.** Several values map to the same capital (Customer + Market → Social & Relationship; Operational + Strategic + Innovation → Intellectual). Rolling values up to capitals without an agreed aggregation convention risks double-counting. The bridge enables IR-compatible *framing*; it is not an audited translation.
+- **Generation status is a judgment, not a score.** "Generating strongly / with gaps / weakly / unmeasured" is a practitioner reading, not a calculated number. Two readers may interpret the same signals differently. The model supplies structure and discipline — not objectivity.
+- **Not an external reporting standard.** The 8 Values is an internal, operational measurement model. It does not replace audited financial statements, ESG/GRI disclosure, or IR assurance — it produces the operational data that feeds them.
+
+**When not to use it:** as a board scorecard before the underlying signals exist; as a substitute for statutory or ESG reporting; in organizations not operating OSM, PTS, and CVDM, where the values have no traceable operational source to read from.
 
 ---
 

@@ -56,7 +56,7 @@ People Value and Operational Value feed PTS — signaling whether the operating 
 The IIVCS feedback system runs upstream in two layers — operational signals rising first, organizational signals confirming last.
 
 ```
-CVDM      Experience → Journey insights → Delivery learning → Strategic evolution
+CVDM      Experience → Journey insights → Performance optimization → Delivery learning → Strategic evolution
                 ↓
 AER       Adoption → Engagement → Retention
                 ↓

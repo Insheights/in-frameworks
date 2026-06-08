@@ -71,12 +71,12 @@ AER translates behavioral signal into organizational value across the 8 Values.
 - Engagement with purpose and culture generates discretionary effort and organizational health
 - Retention of talent and institutional knowledge sustains the delivery system
 
-Both tracks compound across the remaining 8 Values over time. Customer Retention generates Market Value through advocacy. Organizational Engagement generates Operational and Innovation Value through discretionary effort and creative investment. Impact Value depends on sustained behavioral commitment across both tracks.
+Both tracks compound across the remaining 8 Values over time. Customer Retention generates Market Value through advocacy. Organizational Engagement generates Operational and Innovation Value through discretionary effort and creative investment, and Organizational Retention sustains Strategic Value by preserving the institutional knowledge and continuity that strategy execution depends on. Impact Value depends on sustained behavioral commitment across both tracks.
 
 | AER Track | Primary 8 Values | Compounding 8 Values |
 |---|---|---|
-| **Customer AER** | Customer Value, Financial Value | Market Value, Strategic Value |
-| **Organizational AER** | People Value | Operational Value, Innovation Value, Impact Value |
+| **Customer AER** | Customer Value, Financial Value | Market Value |
+| **Organizational AER** | People Value | Operational Value, Strategic Value, Innovation Value, Impact Value |
 
 ---
 
@@ -98,6 +98,20 @@ Org AER         Adoption → Engagement → Retention
 The sequence matters. 3E signals surface first — operational, at the journey and delivery level. AER signals surface next — behavioral, as cumulative patterns of customer and team response. 8 Values signals surface last — organizational, as the compound outcome of sustained behavioral commitment over time.
 
 This sequencing makes AER the leading indicator of 8 Values performance. A decline in Adoption or Engagement is an early warning for Customer, Financial, or People Value — visible before the organizational impact registers in value metrics. Teams and leaders who monitor AER can act before value erosion becomes value loss.
+
+---
+
+## Limitations
+
+AER measures behavior, which makes it more actionable than sentiment — but also harder to instrument. Its boundaries:
+
+- **Behavioral-data dependent.** AER requires observable behavioral signals — adoption rates, engagement depth, retention and recommendation curves — across both tracks. Organizations that rely only on attitudinal surveys (satisfaction, engagement scores) cannot populate AER without new instrumentation.
+- **Organizational AER is the harder track.** Customer behavioral analytics are common; behavioral — not survey-based — measures of team adoption, engagement, and retention by capability area are rare. Most organizations will begin with a partial Org AER and should not mistake a Gallup-style engagement score for a behavioral signal.
+- **Retention signal lags.** Retention and Recommendation require months-long windows to mature. AER's leading-indicator value lives mostly in Adoption and Engagement; the Retention dimension confirms rather than warns.
+- **Conceptually derived.** The 3E → AER stage mapping and the dual-track parallelism are reasoned constructs, not empirically validated relationships. A 3E gap *predicting* an AER gap is a model assertion to verify, not a measured law.
+- **No external benchmarks.** Like 3E, AER has no published industry reference ranges; comparison is against your own baseline over time.
+
+**When not to use it:** very early-stage contexts with no behavioral data yet; relationships too infrequent or one-off to generate a retention signal; situations where a single attitudinal instrument already answers the question being asked.
 
 ---
 

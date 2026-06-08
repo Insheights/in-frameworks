@@ -4,7 +4,7 @@
 
 An integrated system of organizational and product frameworks developed by Insheights LLC.
 
-The Insheights Integrated Value Creation System (IIVCS) is how organizations define, build, and deliver value — from strategic intent to value — integrating existing practices into a coherent system. 
+The Insheights Integrated Value Creation System (IIVCS) is how organizations define, build, and deliver value — from strategic intent to realized customer outcome — by integrating existing practices into a coherent system rather than replacing them.
 
 - **Integrated** — purposefully unified across strategy, operating model, and value delivery
 - **Value Creation** — the single purpose the whole system serves
@@ -115,7 +115,12 @@ Each Product Mindset principle has a direct home in CVDM:
 
 ## Comparison with Established Frameworks
 
-The IIVCS is distinct from established Enterprise Architecture, product, and value delivery frameworks in its simultaneous coverage of customer journey, value stream delivery, outcome measurement, and upstream feedback. See [IIVCS Comparison with Established Frameworks](comparison.md).
+The IIVCS is distinct from established Enterprise Architecture, product, and value delivery frameworks in its simultaneous coverage of customer journey, value stream delivery, outcome measurement, and upstream feedback. Standalone comparisons cover each layer:
+
+- [IIVCS Comparison with Established Frameworks](iivcs-comparison.md) — TOGAF, BIZBOK, ArchiMate, SAFe, Service Blueprint, Value Stream Mapping, Jobs To Be Done
+- [3E Comparison with Industry Standards](3e-comparison.md) — ISO 9241-11, Balanced Scorecard, Google HEART, NPS/CSAT/CES, AARRR
+- [AER Comparison with Industry Standards](aer-comparison.md) — ADKAR, Kotter 8-Step, McKinsey 7-S, Employee Engagement Surveys, NPS
+- [8 Values Comparison with Industry Standards](8-values-comparison.md) — Balanced Scorecard, IIRC 6 Capitals, EFQM, ESG/GRI, OKRs
 
 ---
 
@@ -142,6 +147,33 @@ customer.
 The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value. See [Feedback](feedback.md).
 
 3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. AER — Adoption, Engagement, Retention — is the behavioral signal layer, measuring how customers and organizational teams respond to value delivery across two parallel tracks. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md), [Insheights AER Behavioral Measurement Model](aer.md), and [Insheights 8 Organizational Values Measurement Model](8-values.md).
+
+---
+
+## Documents in This System
+
+**Frameworks**
+- This document — OSM (Organization Strategy Model), PTS (Product Transformation System), CVDM (Customer Value Delivery Model)
+
+**Measurement models**
+- [Insheights 3E Operational Values Measurement Model](3e.md) — Efficiency, Experience, Effectiveness
+- [Insheights AER Behavioral Measurement Model](aer.md) — Adoption, Engagement, Retention
+- [Insheights 8 Organizational Values Measurement Model](8-values.md) — the eight value dimensions
+- [IIVCS Feedback System](feedback.md) — operational and organizational feedback paths
+
+**Comparisons with established frameworks**
+- [IIVCS](iivcs-comparison.md) · [3E](3e-comparison.md) · [AER](aer-comparison.md) · [8 Values](8-values-comparison.md)
+
+**Practitioner guides** ([guides/](guides/))
+- [3E Practitioners Guide](guides/3e-practitioners-guide.md)
+- [8 Values Practitioners Guide](guides/8-values-practitioners-guide.md)
+- [Practitioners Guide Template](guides/practitioners-guide-template.md)
+
+**Reference**
+- [Glossary](glossary.md) — terms, acronyms, and external frameworks
+
+**Planning**
+- [Backlog](BACKLOG.md)
 
 ---
 
