@@ -18,6 +18,8 @@
 
 > **Not a product organization?** [One sentence on how the language maps — e.g., "product team" → "delivery team", "customer" → "patient/citizen/client".]
 
+> **Where this fits:** [For a framework guide (OSM/PTS/CVDM), state in one line how this framework relates to the others and link [Framework Positioning](../positioning.md). For a measurement-model guide (3E/AER/8 Values), state which layer of the measurement architecture it occupies.]
+
 ---
 
 ## Before You Start
@@ -128,7 +130,9 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ---
 
-## Worked Example
+## Worked Example(s)
+
+> Include at least one fully worked example; two or three across different sectors is stronger — the worked examples are the most valuable part of a practitioner guide. Repeat the structure below for each example.
 
 > **Scenario:** [Describe a realistic organization — sector, size, context — and the situation that brought them to this framework. Keep it to two or three sentences.]
 
