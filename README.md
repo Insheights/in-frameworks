@@ -154,6 +154,7 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 
 **Frameworks**
 - This document — OSM (Organization Strategy Model), PTS (Product Transformation System), CVDM (Customer Value Delivery Model)
+- [Framework Positioning](positioning.md) — how OSM, PTS, and CVDM relate within the system
 
 **Measurement models**
 - [Insheights 3E Operational Values Measurement Model](3e.md) — Efficiency, Experience, Effectiveness

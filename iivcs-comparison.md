@@ -10,13 +10,13 @@ A comparison of the Insheights Integrated Value Creation System and its measurem
 
 The Insheights 3E Operational Values Measurement Model is distinct from all established Enterprise Architecture frameworks in its simultaneous coverage of customer journey, value stream delivery, and outcome measurement.
 
-| EA Framework | Journey Anchor | Value Stream | Capability Mapping | Feedback Loops | 3E Equivalent |
+| EA Framework | Journey Anchor | Value Stream | Capability Mapping | Upstream Feedback | 3E Equivalent |
 |---|---|---|---|---|---|
 | **TOGAF** | Absent | Partial | Strong | Weak | None |
-| **BIZBOK** | Weak | Strong | Strong | Weak | None |
+| **BIZBOK** | Partial | Strong | Strong | Weak | None |
 | **ArchiMate** | Absent | Strong | Strong | Absent | None |
 | **SAFe** | Partial | Strong | Partial | Partial | None |
-| **Service Blueprint** | Strong | Strong | Absent | Absent | Efficiency only |
+| **Service Blueprint** | Strong | Strong | Absent | Absent | Efficiency + Experience |
 | **Value Stream Mapping** | Weak | Strong | Absent | Absent | Efficiency only |
 | **Jobs To Be Done** | Strong | Absent | Absent | Absent | Experience + Effectiveness |
 | **Insheights 3E Operational Values Measurement Model** | Strong | Strong | Strong | Strong | Complete |

@@ -38,6 +38,12 @@ An external benchmarking framework for 3E signals, enabling organizations to com
 ### 7. Role and Ownership Model
 Defines who drives OSM, who operationalizes PTS, and who governs CVDM. Covers decision rights, responsibilities, and how leadership and teams interact across the three frameworks.
 
+### 22. End-to-End Traced Case
+A single real or realistic-composite organization traced end to end through the full system — OSM strategic priority → PTS operating-model gap → CVDM journey signal → Organizational and Customer AER → 8 Values profile → IR 6 Capitals line — demonstrating that the layers connect in practice, not just on paper. The IIVCS differentiates on modeled interdependence; this is the artifact that evidences the interdependence rather than asserting it. Distinct from the per-framework worked examples in the practitioner guides, which each exercise one framework at a time — this traces one organization through every layer as a single connected case. The highest-leverage credibility artifact in the backlog: one worked thread does more than further framework refinement, and it is the only thing that tests whether the interlock survives contact with reality.
+
+### 23. Falsifiable Compounding and Causal Claims
+Make the system's core connection claims testable rather than narrative. The 3E → AER → 8 Values chain and the 8 Values compounding relationships (e.g., People Value drives Operational Value) are currently stated as directional logic. For at least the core chain, define what observation would disprove each link — the conditions under which the claimed relationship does not hold. Directly de-risks the primary differentiator (modeled interdependence): connection claims that cannot be falsified read as unfalsifiable narrative under expert scrutiny, and the more the system leans on its interlock, the more this matters.
+
 ---
 
 ## Lower Priority
@@ -46,13 +52,13 @@ Defines who drives OSM, who operationalizes PTS, and who governs CVDM. Covers de
 Detailed guidance on how AI fits into each framework — scenario modeling and risk analysis in OSM, telemetry, prioritization, and decision support in PTS, journey personalization and signal detection in CVDM.
 
 ### 10. OSM Framework Refinements
-Refinements to the Organization Strategy Model addressing two gaps: (1) the role of Values as a constraint on strategy — a mechanism for values to reject or eliminate strategic options, not just inform them; (2) cascade logic across OSM levels — how alignment flows and how conflicts resolve across Organization → Enterprise/Function → Portfolio.
+Refinements to the Organization Strategy Model. The IIVCS-specific refinement is (1) the role of Values as a constraint on strategy — a mechanism for values to reject or eliminate strategic options, not just inform them. The remaining gap — (2) prioritization and cross-level conflict resolution across Organization → Enterprise/Function → Portfolio — is addressed through existing practices (portfolio prioritization, OKR cascading, governance cadences, ERM), integrated as plug points rather than invented; see #8. OSM governs and reconciles; it does not replace the organization's prioritization and arbitration methods.
 
 ### 11. PTS Framework Refinements
 Refinements to the Product Transformation System addressing three gaps: (1) platform team role — defining the mandate and interaction model for Core, Shared, and Platform-Enabled teams; (2) POM Enabler feedback — a path from team experience back to the operating model so that enabler gaps surface and are corrected; (3) Support phase — reframing Support as an ongoing operating mode, not an endpoint phase.
 
 ### 12. CVDM Framework Refinements
-Refinements to the Customer Value Delivery Model addressing four gaps: (1) failure journeys and churn — modeling failed journeys and exit paths, not just successful delivery; (2) customer segmentation — differentiating journeys, value propositions, and value streams across customer segments; (3) Value Proposition validation — a feedback loop that tests whether the value proposition remains accurate and relevant; (4) monetization — how value delivered translates to value captured.
+Refinements to the Customer Value Delivery Model. IIVCS-specific refinements: (1) failure journeys and churn — modeling failed journeys and exit paths, not just successful delivery; (3) Value Proposition validation — a feedback loop that tests whether the value proposition remains accurate and relevant. Addressed through existing practices (integrated as plug points, not invented; see #8): (2) customer segmentation — differentiating journeys, value propositions, and value streams across segments uses established segmentation methods; (4) monetization — how delivered value translates to value captured uses established pricing and monetization models. CVDM realizes and measures value; it does not replace the organization's segmentation and monetization methods.
 
 ### 14. Reassess comparison.md
 Reassess the framework comparison document in light of the renaming of the 3E and 8 Values models. Review whether the comparisons, table structure, and framing accurately reflect the current state of the IIVCS and its measurement models. Note: standalone comparison documents now exist for AER (aer-comparison.md), IIVCS (iivcs-comparison.md), and 8 Values (8-values-comparison.md). The original comparison.md has been removed. Reassessment should determine whether a unified comparison document is needed or whether standalone documents per model are sufficient.
@@ -68,6 +74,9 @@ A reference table specifying the minimum observable signal per value dimension t
 
 ### 13. System Health Indicators
 A concise set of indicators spanning all three frameworks that signal whether the system is working — not just being followed. Focuses on system-level health: is OSM generating executable strategy, is PTS delivering against value stream priorities, is CVDM producing customer outcomes that feed back into strategic refinement. These indicators must be embedded within each practitioner guide — not published as a standalone document — so practitioners have health checks in context as they apply each framework.
+
+### 21. Reconcile README and positioning.md
+positioning.md now describes how OSM, PTS, and CVDM relate — governs / operationalizes / realizes, the dual-track AER homes (Org AER ↔ PTS, Customer AER ↔ CVDM, reconciled at OSM), and outcome ownership (OSM defines value-stream outcomes, PTS owns delivery, product teams own the customer outcomes that evidence them). The README narrative describes the same frameworks independently, creating drift risk. Make positioning.md the canonical source for how the frameworks relate and have the README reference it rather than re-describe the relationships; reconcile any divergence between the two.
 
 ---
 
