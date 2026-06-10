@@ -153,16 +153,18 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 **Comparisons with established frameworks**
 - [IIVCS](iivcs-comparison.md) · [3E](3e-comparison.md) · [AER](aer-comparison.md) · [8 Values](8-values-comparison.md)
 
+**Integration**
+- [Integration with Existing Practices](integration.md) — SAFe, Scrum, OKRs, ITIL, ERM, Design Thinking, VSM, JTBD
+
 **Practitioner guides** ([guides/](guides/))
 - [3E Practitioners Guide](guides/3e-practitioners-guide.md)
 - [8 Values Practitioners Guide](guides/8-values-practitioners-guide.md)
-- [Practitioners Guide Template](guides/practitioners-guide-template.md)
 
 **Reference**
 - [Glossary](glossary.md) — terms, acronyms, and external frameworks
 
 **Planning**
-- [Backlog](BACKLOG.md)
+- [Roadmap](ROADMAP.md)
 
 ---
 

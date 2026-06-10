@@ -10,6 +10,8 @@ The Insheights 8 Organizational Values Measurement Model defines how the Insheig
 - **Behavioral** — AER operates across two parallel tracks: Customer AER measuring how customers respond to value delivery, and Organizational AER measuring how the delivering organization responds to its own operating model
 - **Compounding** — Values do not operate independently; they reinforce and amplify each other over time
 
+![8-values Diagram](diagrams/8-values.png)
+
 The 8 Values bridge directly to the International Integrated Reporting Council (IIRC) 6 Capitals framework — translating IIVCS operational value generation into the stock of capitals reported to investors and stakeholders.
 
 ---
@@ -216,6 +218,66 @@ Impact Value is not separate from the other Values — it is amplified by them a
 
 ---
 
+## Compounding Relationships
+
+The 8 Values do not operate as a linear chain — they form a network in which most values are convergence nodes, receiving from and generating into multiple other values simultaneously. See the diagram at the top of this document.
+
+**Arrow encoding:**
+- **Solid arrows** — direct, continuous relationship: active, ongoing, and traceable
+- **Dashed arrows** — indirect, episodic relationship: real but mediated or periodic rather than immediate
+
+### Bidirectional Relationships — Solid
+
+| Relationship | Direction A | Direction B |
+|---|---|---|
+| **Strategic ↔ Innovation** | Strategic direction sets where innovation investment is focused | Disruptive innovation reshapes strategic direction |
+| **Strategic ↔ Market** | Strategic choices shape market positioning and competitive strategy | Market signals inform strategic reassessment |
+| **Strategic ↔ Financial** | Strategic direction determines capital allocation and resource deployment | Financial performance informs strategic capacity and priority |
+| **Financial ↔ Operational** | Financial returns fund operational investment and capability improvement | Operational efficiency and throughput generate financial returns |
+| **Operational ↔ Customer** | Operational capability enables consistent customer value delivery | Customer signal and demand drive operational improvement and redesign |
+| **People ↔ Impact** | People capability and culture generate societal and ecosystem impact | Purpose and impact attract, engage, and retain people |
+| **Customer ↔ Impact** | Delivering genuine customer value creates direct societal benefit | Impact purpose deepens customer loyalty and advocacy |
+| **Market ↔ Impact** | Market reach and reputation amplify societal and ecosystem impact | Strong impact builds market reputation and trust |
+
+### Bidirectional Relationship — Dashed
+
+| Relationship | Direction A | Direction B |
+|---|---|---|
+| **Innovation ↔ Financial** | Innovation generates financial return through new products, IP, and market expansion — over time and through the operational chain | Financial strength funds R&D, experimentation, and innovation infrastructure |
+
+The Innovation ↔ Financial relationship is indirect and episodic: financial return from innovation routes through operations and customer delivery rather than immediately, and financial investment in innovation produces returns on a cycle rather than continuously.
+
+### One-Way Relationships
+
+| Relationship | Type | Mechanism |
+|---|---|---|
+| **People → Operational** | Foundational | People capability is the prerequisite for operational performance |
+| **People → Innovation** | Foundational | People capability and engagement drive innovation capacity |
+| **Operational → Impact** | Generative | How the organisation operates directly creates or undermines societal and ecosystem impact |
+| **Operational → Strategic** | Feedback | Operational capability and capacity inform strategic feasibility — what the organisation can actually execute |
+| **Customer → Financial** | Generative | Customer value delivery generates revenue, margin, and financial sustainability |
+| **Customer → Market** | Generative | Consistent customer outcomes build market reputation and position |
+| **Customer → Strategic** | Feedback | Customer outcomes are direct evidence for whether strategic hypotheses are being validated |
+
+### Convergence Nodes
+
+Every value except People receives inputs from multiple sources — making it a convergence node where different streams compound into a single dimension.
+
+| Node | Receives from |
+|---|---|
+| **Strategic** | Innovation, Market, Financial *(bidirectional)* + Operational, Customer *(one-way)* |
+| **Financial** | Operational, Customer *(one-way)* + Strategic, Operational *(bidirectional)* + Innovation *(dashed)* |
+| **Operational** | People *(one-way)* + Customer, Financial *(bidirectional)* |
+| **Customer** | Operational *(bidirectional)* + Impact *(bidirectional)* |
+| **Market** | Customer *(one-way)* + Strategic, Impact *(bidirectional)* |
+| **Innovation** | People *(one-way)* + Strategic *(bidirectional)* + Financial *(dashed)* |
+| **Impact** | Operational *(one-way)* + People, Customer, Market *(bidirectional)* |
+| **People** | Impact *(bidirectional)* |
+
+**People Value is the primary source node** — the one place where value originates without a dominant upstream driver. Every other value synthesises inputs from multiple sources and radiates back into the system.
+
+---
+
 ## 8 Values and IR 6 Capitals — The Bridge
 
 The Insheights 8 Values model is the operational measurement layer of the IIVCS — measuring how value is generated through strategy, transformation, and delivery. It bridges directly to the International Integrated Reporting Council (IIRC) 6 Capitals framework, translating operational value generation into the stock of capitals reported to investors and stakeholders.
@@ -265,7 +327,7 @@ The 8 Values metrics surface organizational outcomes back to OSM's Governance & 
 The 8 Values is a synthesis model — it reads across 3E and AER signals and infers organizational value. That makes it powerful and also the most assumption-heavy layer of the architecture:
 
 - **Heaviest instrumentation demand.** A credible 8 Values profile presumes 3E and AER signals already exist across architecture elements and both tracks. On a first run, most organizations will find several values unmeasured — the practitioner guide treats this as the expected starting finding. Until the signals exist, parts of the profile are informed assumption, not measurement.
-- **Compounding relationships are a model, not measured causality.** The directional chain (People → Operational → Customer → Financial, and the rest) is a reasoned diagnostic for tracing root cause upstream — not a statistically established set of causal links. Use it to form hypotheses, then verify; do not report the arrows as proven.
+- **Compounding relationships are a model, not measured causality.** The directional and bidirectional relationships across the network are a reasoned diagnostic model for tracing root cause — not a statistically established set of causal links. Use them to form hypotheses, then verify; do not report the arrows as proven.
 - **The IR 6 Capitals bridge is many-to-many.** Several values map to the same capital (Customer + Market → Social & Relationship; Operational + Strategic + Innovation → Intellectual). Rolling values up to capitals without an agreed aggregation convention risks double-counting. The bridge enables IR-compatible *framing*; it is not an audited translation.
 - **Generation status is a judgment, not a score.** "Generating strongly / with gaps / weakly / unmeasured" is a practitioner reading, not a calculated number. Two readers may interpret the same signals differently. The model supplies structure and discipline — not objectivity.
 - **Not an external reporting standard.** The 8 Values is an internal, operational measurement model. It does not replace audited financial statements, ESG/GRI disclosure, or IR assurance — it produces the operational data that feeds them.
@@ -280,7 +342,7 @@ Organization Value is not a single metric — it is the sum of eight interconnec
 
 Customer Value and Financial Value are the most visible — behavioral and financial proof that the system is working. People Value and Operational Value are the engine — the human and capability foundation that makes sustained delivery possible. Market Value and Strategic Value are the multipliers — amplifying what is built and directing where it goes next. Innovation Value and Impact Value are the future — ensuring the organization continues to create value beyond what it delivers today.
 
-The feedback runs in all directions. Customer Value signals inform Strategic Value reassessment. Operational Value gaps surface as Innovation Value opportunities. People Value strength amplifies Market Value. Impact Value commitment deepens Customer and People Value. No dimension stands alone — each generates and is generated by the others.
+The relationships run in all directions. Most values are convergence nodes — receiving from and generating into multiple others simultaneously. Strategic Value synthesises signal from Innovation, Financial, Operational, Customer, and Market to continuously refine direction. Financial Value accumulates from Operational and Customer performance and reinvests into both. Impact Value connects People, Operational, Customer, and Market into a single dimension of societal and ecosystem return. People Value is the primary source — the foundation that, through capability and purpose, sets everything else in motion. No dimension stands alone — each generates and is generated by the others.
 
 Measured through 3E, expressed behaviorally through AER, and bridged to IR 6 Capitals for external reporting, the Insheights 8 Values model is how the IIVCS makes Organization Value visible, measurable, and continuously improvable.
 
