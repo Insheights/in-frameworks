@@ -16,9 +16,6 @@ A step-by-step guide for practitioners applying the Customer Value Delivery Mode
 ### Adoption Sequencing & Maturity Model
 A maturity model that helps organizations self-assess their current state and determine where to start — OSM, PTS, or CVDM — and in what sequence. Defines what early, developing, and mature adoption looks like across the suite. Connects directly to the IIVCS Assessment instrument.
 
-### Integration with Existing Practices
-Guidance on how IIVCS connects to and integrates with existing organizational practices — including SAFe, Scrum, OKRs, ITIL, ERM, governance cadences, portfolio investment, and value stream mapping. Includes an existing-vs-new map (what IIVCS genuinely adds vs. what organizations already have) and explicit plug points where existing practices connect into each framework.
-
 ---
 
 ## Planned
@@ -59,10 +56,6 @@ Guidance on how AI fits into each framework — scenario modeling in OSM, teleme
 
 ### CVDM Framework Refinements
 (1) Failure journeys and churn — modeling exit paths, not just successful delivery. (2) Value Proposition validation feedback loop.
-
-### Visual Diagrams
-- `diagrams/8-values.png` — Compounding relationships between the eight value dimensions, showing the directional chain: People Value → Operational Value → Customer Value → Financial Value, with Market Value, Innovation Value, and Impact Value connections.
-- `diagrams/measurement-architecture.png` — Full 3E → AER → 8 Values → OSM Governance → IR 6 Capitals measurement sequence as a single connected diagram.
 
 ### 8 Values Minimum Viable Signal Set
 A reference table specifying the minimum observable signal per value dimension for organizations without full 3E and AER instrumentation. To be embedded within the Metrics and Indicators guide.
