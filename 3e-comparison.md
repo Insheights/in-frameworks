@@ -119,9 +119,9 @@ No established measurement framework treats its dimensions as a causal sequence 
 
 3E explicitly classifies its dimensions by signal timing: Efficiency and Experience are leading (operational and behavioral signals that surface before outcomes materialize), and Effectiveness is lagging (outcome validation that surfaces last). This classification is unusual in measurement frameworks — most mix leading and lagging metrics without naming the distinction. The consequence is operational: teams monitoring leading signals can identify value failures before they register as outcome degradation. The NPS decline, the Retention drop, the revenue shortfall — by the time these Effectiveness signals appear, the upstream failure has usually been present for weeks or months. 3E's leading signal structure is designed to surface intervention opportunities before lagging indicators confirm the damage.
 
-### Complete Coverage via Elements of Value
+### Broad Coverage via Elements of Value
 
-3E is grounded in Bain & Company's Elements of Value research — 30 B2C elements and 40 B2B elements spanning functional, emotional, relational, career, and inspirational dimensions. The three 3E dimensions collectively capture all 70 elements, with no element falling outside the model. This grounding means 3E is not an arbitrary three-category framework — each dimension covers a defined set of customer value drivers, and together they achieve complete coverage of what customers and organizations need from value delivery. Among the frameworks compared here, 3E is distinctive in grounding its dimensions in an external, researched taxonomy of customer value rather than in author-defined categories.
+3E is grounded in Bain & Company's Elements of Value research — 30 B2C elements and 40 B2B elements spanning functional, emotional, relational, career, and inspirational dimensions. The three 3E dimensions map across all 70 elements, spanning functional, emotional, and strategic value. This grounding means 3E is not an arbitrary three-category framework — each dimension covers a defined set of customer value drivers, and together they provide broad coverage of what customers and organizations value. Among the frameworks compared here, 3E is distinctive in grounding its dimensions in an external, researched taxonomy of customer value rather than in author-defined categories.
 
 ### Cross-Architectural Consistency
 
@@ -130,6 +130,12 @@ No established measurement framework treats its dimensions as a causal sequence 
 ### Connection to Behavioral and Organizational Outcomes
 
 3E does not terminate at measurement — it connects forward to AER (behavioral response) and upstream to the 8 Values (organizational outcomes). Each 3E dimension drives the corresponding AER stage: Efficiency enables Adoption, Experience sustains Engagement, Effectiveness earns Retention. AER in turn drives the 8 Values — Customer, Financial, People, Operational, and the compounding Values over time. No established measurement framework embeds itself within a connected outcome architecture in this way. NPS, BSC, and HEART all terminate at the signal they produce; 3E is a node in a connected system.
+
+---
+
+## Limitations
+
+This comparison is a structured argument, not an independent evaluation.
 
 ---
 

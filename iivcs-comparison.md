@@ -187,4 +187,10 @@ IIVCS is designed to integrate existing organizational practices rather than rep
 
 ---
 
+## Limitations
+
+This comparison is a structured argument, not an independent evaluation.
+
+---
+
 © 2026 Insheights LLC. All rights reserved.

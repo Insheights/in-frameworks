@@ -10,20 +10,22 @@ A comparison of the Insheights AER Behavioral Measurement Model against establis
 
 AER (Adoption | Engagement | Retention) measures behavioral response to value delivery across two parallel tracks — Customer AER and Organizational AER. It occupies the behavioral signal layer between 3E (how value is delivered) and the 8 Values (what the organization generates as a result).
 
-The frameworks below each capture a portion of what AER measures. None covers both tracks simultaneously, and none embeds behavioral measurement within a connected value delivery architecture.
+Each of the frameworks below captures part of what AER measures. What distinguishes AER among them is covering both behavioral tracks — customer and organizational — in one model and embedding them within a connected value delivery architecture (3E → AER → 8 Values). The Service-Profit Chain is the closest precedent for the dual-track idea (see [iivcs-comparison.md](iivcs-comparison.md#related-prior-work)).
 
 ---
 
 ## Framework Comparison
 
-| Framework | Domain | Measures Behavior | Dual-Track (Customer + Org) | Leading Indicator | Connected to Value Architecture |
-|---|---|---|---|---|---|
-| **Prosci ADKAR** | Individual change | Partially (Ability, Reinforcement) | No — individual only | Partially | No |
-| **Kotter 8-Step** | Change leadership sequencing | No — prescribes actions | No | No | No |
-| **McKinsey 7-S** | Organizational alignment | No — structural conditions | No | No | No |
-| **Employee Engagement Surveys** | Organizational health | No — attitudinal | No — org only | Partially | No |
-| **Net Promoter Score** | Customer advocacy | Partially — stated likelihood | No — customer only | Partially | No |
-| **Insheights AER** | Behavioral response to value delivery | Yes — behavioral, not attitudinal | Yes — both tracks | Yes | Yes — 3E → AER → 8 Values |
+**Reading the table.** Ratings reflect how directly each framework is *designed* to address each dimension — coverage by design, not validated outcomes. These are the dimensions AER is built around, so the table maps where established frameworks also address each; it is not a neutral ranking. The final column states maturity, where AER is Conceptual and the others are proven in practice.
+
+| Framework | Domain | Measures Behavior | Dual-Track (Customer + Org) | Leading Indicator | Connected to Value Architecture | Maturity |
+|---|---|---|---|---|---|---|
+| **Prosci ADKAR** | Individual change | Partially (Ability, Reinforcement) | No — individual only | Partially | No | Mature |
+| **Kotter 8-Step** | Change leadership sequencing | No — prescribes actions | No | No | No | Mature |
+| **McKinsey 7-S** | Organizational alignment | No — structural conditions | No | No | No | Mature |
+| **Employee Engagement Surveys** | Organizational health | No — attitudinal | No — org only | Partially | No | Mature |
+| **Net Promoter Score** | Customer advocacy | Partially — stated likelihood | No — customer only | Partially | No | Mature |
+| **Insheights AER** | Behavioral response to value delivery | Yes — behavioral, not attitudinal | Yes — both tracks | Yes | Yes — 3E → AER → 8 Values | Conceptual |
 
 ---
 
@@ -93,7 +95,7 @@ NPS measures customer likelihood to recommend, used as a proxy for customer loya
 
 ### Dual-Track Structure
 
-No industry standard framework measures customer behavioral response and organizational behavioral response within a single model. AER runs both tracks in parallel because organizational value depends on both simultaneously. A delivery system that generates customer adoption while losing organizational capability is not sustainable. A delivery system with strong internal engagement that fails to produce customer retention is not creating value. The dual track is the structural insight that no established framework captures.
+Among the industry-standard frameworks compared here, none measures customer and organizational behavioral response within a single model. AER runs both tracks in parallel because organizational value depends on both simultaneously. A delivery system that generates customer adoption while losing organizational capability is not sustainable. A delivery system with strong internal engagement that fails to produce customer retention is not creating value. The dual track is the structural insight that no established framework captures.
 
 ### Leading Indicator Architecture
 
@@ -102,6 +104,12 @@ AER occupies the middle layer of a three-layer measurement sequence: 3E signals 
 ### Behavioral, Not Attitudinal
 
 AER measures what customers and teams do, not how they feel. Satisfaction is a condition; behavior is the signal. This distinction — shared with NPS and engagement surveys at the instrument level, but applied more consistently — means AER metrics are directly actionable: adoption rates, engagement depth, retention curves, and recommendation frequency are observable, trackable, and predictive in ways that sentiment scores alone are not.
+
+---
+
+## Limitations
+
+This comparison is a structured argument, not an independent evaluation.
 
 ---
 

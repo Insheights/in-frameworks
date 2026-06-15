@@ -125,4 +125,10 @@ The 8 Values is the only framework in this comparison that explicitly operates i
 
 ---
 
+## Limitations
+
+This comparison is a structured argument, not an independent evaluation.
+
+---
+
 © 2026 Insheights LLC. All rights reserved.
