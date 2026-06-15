@@ -24,6 +24,23 @@ The Insheights Integrated Value Creation System (IIVCS) is how organizations def
 
 ---
 
+## What Makes IIVCS Distinctive
+
+Two things set IIVCS apart.
+
+**It is a coherent system, not a single-layer tool.** OSM, PTS, and CVDM integrate strategy, operating model, and customer delivery into one connected system — with value streams as a shared spine and a single measurement language (3E → AER → 8 Values) running through all of them. Most frameworks address one layer; IIVCS connects them, and is designed to integrate existing practices rather than replace them.
+
+**Within that system, it measures value on two parallel behavioral tracks.** Most frameworks measure one side of value creation — either how the organization delivers (operating-model and flow metrics) or how customers respond (satisfaction, loyalty, NPS). IIVCS measures both, and treats neither as sufficient alone:
+
+- **Organizational AER** — does the operating model get adopted, engaged with, and sustained *inside* the organization?
+- **Customer AER** — does the value get adopted, engaged with, and retained *outside*, by customers?
+
+The two run in parallel because either alone produces nothing: an operating model teams adopt but that yields no customer outcome creates no value, and customer delivery that no sustained operating model can support cannot last.
+
+Together — the coherent system and the dual-track measurement within it — are the contribution. OSM governs *what* value to create, PTS carries the organizational track as the operating model, and CVDM carries the customer track at the point of delivery, with 3E feeding behavioral signal in and the 8 Values capturing what it generates. See [AER Behavioral Measurement Model](aer.md) and [Framework Positioning](positioning.md).
+
+---
+
 ## OSM — Organization Strategy Model
 
 **Strategic Value Creation | Value Priorities | Value Streams**
@@ -115,7 +132,7 @@ Each Product Mindset principle has a direct home in CVDM:
 
 ## Comparison with Established Frameworks
 
-The IIVCS is distinct from established Enterprise Architecture, product, and value delivery frameworks in its simultaneous coverage of customer journey, value stream delivery, outcome measurement, and upstream feedback. Standalone comparisons cover each layer:
+What distinguishes IIVCS from established Enterprise Architecture, product, and value delivery frameworks is the combination of two things: a coherent system connecting customer journey, value stream delivery, outcome measurement, and upstream feedback — and dual-track behavioral measurement, reading organizational and customer adoption in parallel within it. Standalone comparisons cover each layer:
 
 - [IIVCS Comparison with Established Frameworks](iivcs-comparison.md) — TOGAF, BIZBOK, ArchiMate, SAFe, Service Blueprint, Value Stream Mapping, Jobs To Be Done
 - [3E Comparison with Industry Standards](3e-comparison.md) — ISO 9241-11, Balanced Scorecard, Google HEART, NPS/CSAT/CES, AARRR
@@ -134,7 +151,7 @@ OSM **governs** the value streams, PTS **operationalizes** them, and CVDM **real
 
 The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value. See [Feedback](feedback.md).
 
-3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. AER — Adoption, Engagement, Retention — is the behavioral signal layer, measuring how customers respond to value delivery and how organizational teams respond to the operating model, across two parallel tracks. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md), [Insheights AER Behavioral Measurement Model](aer.md), and [Insheights 8 Organizational Values Measurement Model](8-values.md).
+3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. AER — Adoption, Engagement, Retention — is the behavioral signal layer, measuring how customers respond to value delivery and how organizational teams respond to the operating model across two parallel tracks, neither sufficient without the other. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md), [Insheights AER Behavioral Measurement Model](aer.md), and [Insheights 8 Organizational Values Measurement Model](8-values.md).
 
 ![Measurement Architecture](diagrams/measurement-architecture.png)
 
