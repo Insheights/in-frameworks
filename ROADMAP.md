@@ -5,7 +5,7 @@
 ## In Development
 
 ### Practitioners Guide — OSM
-A step-by-step guide for practitioners applying the Organization Strategy Model. Covers how to run the strategy development process, align stakeholders, translate Vision into Strategic Objectives, and set up Governance & Measurement cadences. Includes worked examples of applying 3E measurement at the strategic level and generating the 8 Values that OSM most directly drives: Strategic Value and Innovation Value. Includes OSM-specific system health indicators and a translation note for non-product organizational contexts.
+A step-by-step guide for practitioners applying the Organization Strategy Model. Covers how to run the strategy development process, align stakeholders, translate Vision into Strategic Objectives, and set up Governance & Measurement cadences. Includes worked examples of applying 3E measurement at the strategic level and generating the Values that OSM most directly drives: Strategic Value and Innovation Value. Includes OSM-specific system health indicators and a translation note for non-product organizational contexts.
 
 ### Practitioners Guide — PTS
 A step-by-step guide for practitioners applying the Product Transformation System. Covers how to stand up a Product Operating Model, structure cross-functional teams around value streams, activate each POM Enabler, and run the Discover–Support phases continuously. Includes worked examples of 3E measurement in transformation contexts, PTS-specific system health indicators, an industry translation note, and full coverage of the Launch phase — external GTM and internal change communication.
@@ -25,6 +25,9 @@ A structured assessment spanning all IIVCS components — OSM, PTS, CVDM, 3E, 8 
 
 ### Measurement Framework — Metrics and Indicators
 Practitioner-facing layer for the 3E and 8 Values measurement models: concrete metrics, indicators, and thresholds for each dimension across OSM, PTS, and CVDM. Covers leading and lagging signals that indicate the system is working at each architecture level.
+
+### 8 Values Minimum Viable Signal Set
+A reference table specifying the minimum observable signal per value dimension for organizations without full 3E and AER instrumentation. Embedded within the Metrics and Indicators guide.
 
 ### 3E Aggregation and Portfolio View
 Roll-up logic from Process → Capability → Value Stage → Value Stream, enabling portfolio decisions using a consistent measurement language. Depends on Metrics and Indicators being defined first.
@@ -57,11 +60,8 @@ Guidance on how AI fits into each framework — scenario modeling in OSM, teleme
 ### CVDM Framework Refinements
 (1) Failure journeys and churn — modeling exit paths, not just successful delivery. (2) Value Proposition validation feedback loop.
 
-### 8 Values Minimum Viable Signal Set
-A reference table specifying the minimum observable signal per value dimension for organizations without full 3E and AER instrumentation. To be embedded within the Metrics and Indicators guide.
-
-### System Health Indicators
-A concise set of indicators spanning all three frameworks that signal whether the system is working, not just being followed. To be embedded within each practitioner guide.
+### System Health Indicators — Consolidated View
+A concise suite-level view that consolidates the OSM-, PTS-, and CVDM-specific system health indicators from the practitioner guides into a single cross-framework signal set — indicating whether the system is working, not just being followed.
 
 ---
 
