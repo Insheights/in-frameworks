@@ -176,6 +176,9 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 - [Integration with Existing Practices](integration.md) — SAFe, Scrum, OKRs, ITIL, ERM, Design Thinking, VSM, JTBD
 
 **Practitioner guides** ([guides/](guides/))
+- [OSM Practitioners Guide](guides/osm-practitioners-guide.md)
+- [PTS Practitioners Guide](guides/pts-practitioners-guide.md)
+- [CVDM Practitioners Guide](guides/cvdm-practitioners-guide.md)
 - [3E Practitioners Guide](guides/3e-practitioners-guide.md)
 - [8 Values Practitioners Guide](guides/8-values-practitioners-guide.md)
 
