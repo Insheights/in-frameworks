@@ -147,7 +147,7 @@ JTBD has no delivery architecture, no operating model, no measurement layer for 
 
 Two bodies of work predate IIVCS and anticipate parts of its logic. IIVCS's contribution is comparative — tighter integration and operationalization — not the first discovery of these relationships.
 
-### Service-Profit Chain (Heskett, Sasser & Schlesinger, HBR 1994)
+### Service-Profit Chain (Heskett et al., "Putting the Service-Profit Chain to Work," HBR 1994)
 
 The Service-Profit Chain is the closest intellectual precedent to the IIVCS measurement logic, and predates it by three decades. It establishes a causal chain: internal service quality → employee satisfaction and retention → service value → customer satisfaction and loyalty → revenue growth and profitability. It is the original articulation that *organizational* behavior and *customer* behavior are linked, and that both connect to financial outcomes.
 
