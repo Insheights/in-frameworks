@@ -4,24 +4,27 @@
 
 ## In Development
 
+> **Status — all items below: draft ready, needs review.** First drafts are written, committed, and linked from the README; they are pending review and refinement before being considered final.
+
 ### Practitioners Guide — OSM
 A step-by-step guide for practitioners applying the Organization Strategy Model. Covers how to run the strategy development process, align stakeholders, translate Vision into Strategic Objectives, and set up Governance & Measurement cadences. Includes worked examples of applying 3E measurement at the strategic level and generating the Values that OSM most directly drives: Strategic Value and Innovation Value. Includes OSM-specific system health indicators and a translation note for non-product organizational contexts.
+**Draft:** [guides/osm-practitioners-guide.md](guides/osm-practitioners-guide.md) — *needs review.*
 
 ### Practitioners Guide — PTS
 A step-by-step guide for practitioners applying the Product Transformation System. Covers how to stand up a Product Operating Model, structure cross-functional teams around value streams, activate each POM Enabler, and run the Discover–Support phases continuously. Includes worked examples of 3E measurement in transformation contexts, PTS-specific system health indicators, an industry translation note, and full coverage of the Launch phase — external GTM and internal change communication.
+**Draft:** [guides/pts-practitioners-guide.md](guides/pts-practitioners-guide.md) — *needs review.*
 
 ### Practitioners Guide — CVDM
 A step-by-step guide for practitioners applying the Customer Value Delivery Model. Covers how to map customer journeys to value streams, define value stages, operationalize capabilities and processes, and activate the five feedback loops. Includes worked examples of the full 3E sequence (Use → Feel → Achieve) at value stage and value stream level, CVDM-specific system health indicators, and a translation note for non-product contexts.
+**Draft:** [guides/cvdm-practitioners-guide.md](guides/cvdm-practitioners-guide.md) — *needs review.*
 
 ### Adoption Sequencing & Maturity Model
-A maturity model that helps organizations self-assess their current state and determine where to start — OSM, PTS, or CVDM — and in what sequence. Defines what early, developing, and mature adoption looks like across the suite. Connects directly to the IIVCS Assessment instrument.
+A maturity model that helps organizations self-assess their current state and determine where to start — OSM, PTS, or CVDM — and in what sequence. Defines what early, developing, and mature adoption looks like across the suite. Includes the IIVCS self-assessment in two forms — a quick directional check and a detailed, evidence-anchored scored instrument that produces a maturity profile (strengths, gaps, adoption priorities) across all IIVCS components.
+**Draft:** [adoption-maturity.md](adoption-maturity.md), with [quick-assessment.md](quick-assessment.md) and [detail-assessment.md](detail-assessment.md) — *needs review.*
 
 ---
 
 ## Planned
-
-### IIVCS Assessment Instrument
-A structured assessment spanning all IIVCS components — OSM, PTS, CVDM, 3E, 8 Values, and the Feedback System — that enables an organization to evaluate its current state and establish its maturity level. Produces a maturity profile identifying strengths, gaps, and adoption priorities.
 
 ### Measurement Framework — Metrics and Indicators
 Practitioner-facing layer for the 3E and 8 Values measurement models: concrete metrics, indicators, and thresholds for each dimension across OSM, PTS, and CVDM. Covers leading and lagging signals that indicate the system is working at each architecture level.
