@@ -8,24 +8,26 @@ A comparison of the Insheights Integrated Value Creation System against establis
 
 ## Positioning
 
-The IIVCS (OSM | PTS | CVDM) is a system of three interdependent frameworks that spans the full arc from strategic intent to realized customer outcome — integrated with a shared measurement language (3E, AER, 8 Values) and a feedback architecture that continuously returns customer signal upstream to strategy.
+The IIVCS (OSM | PTS | CVDM) is a system of three interdependent frameworks designed to span the full arc from strategic intent to realized customer outcome — integrated with a shared measurement language (3E, AER, 8 Values) and a feedback architecture that returns customer signal upstream to strategy.
 
-The frameworks below each address a portion of this span. None covers the full arc from strategy to delivery to outcome measurement to upstream feedback within a single coherent system. None connects behavioral response to value delivery with organizational value generation. None uses a consistent measurement language from individual process level to organizational value level.
+The frameworks below were each built for a different primary purpose — architecture description, delivery scaling, service design, demand insight. Each addresses part of this arc; what distinguishes IIVCS is how tightly it integrates them within one system, anchored outside-in on the customer journey. The comparison is *integrative reach*, not a claim that any single capability below is novel — several have decades of prior art (see [Related Prior Work](#related-prior-work)).
 
 ---
 
 ## Framework Comparison
 
-| Framework | Strategy to Delivery | Customer Journey Anchor | Value Stream Coverage | Operating Model | Behavioral Measurement | Org Value Connection | Feedback Architecture |
-|---|---|---|---|---|---|---|---|
-| **TOGAF** | Partial | Absent | Partial | Absent | Absent | Absent | Absent |
-| **BIZBOK** | Partial | Partial | Strong | Partial | Absent | Partial | Absent |
-| **ArchiMate** | Partial | Absent | Partial | Absent | Absent | Absent | Absent |
-| **SAFe** | Strong | Partial | Strong | Strong | Partial | Partial | Partial |
-| **Service Blueprint** | Absent | Strong | Partial | Absent | Absent | Absent | Absent |
-| **Value Stream Mapping** | Absent | Partial | Strong | Absent | Absent | Absent | Absent |
-| **Jobs To Be Done** | Absent | Partial | Absent | Absent | Absent | Absent | Absent |
-| **IIVCS** | Strong | Strong | Strong | Strong | Strong | Strong | Strong |
+**Reading the table.** Ratings reflect how directly each framework is *designed* to address each dimension — coverage by design, not validated outcomes. These are the dimensions IIVCS is built to integrate, so the table maps where established frameworks also address each; it is not a neutral ranking. The final column states maturity, where IIVCS is Conceptual and the others are proven in practice.
+
+| Framework | Strategy to Delivery | Customer Journey Anchor | Value Stream Coverage | Operating Model | Behavioral Measurement | Org Value Connection | Feedback Architecture | Maturity |
+|---|---|---|---|---|---|---|---|---|
+| **TOGAF** | Partial | Absent | Partial | Absent | Absent | Absent | Absent | Mature |
+| **BIZBOK** | Partial | Partial | Strong | Partial | Absent | Partial | Absent | Mature |
+| **ArchiMate** | Partial | Absent | Partial | Absent | Absent | Absent | Absent | Mature |
+| **SAFe** | Strong | Partial | Strong | Strong | Partial | Partial | Partial | Mature |
+| **Service Blueprint** | Absent | Strong | Partial | Absent | Absent | Absent | Absent | Established |
+| **Value Stream Mapping** | Absent | Partial | Strong | Absent | Absent | Absent | Absent | Established |
+| **Jobs To Be Done** | Absent | Partial | Absent | Absent | Absent | Absent | Absent | Established |
+| **IIVCS** | Strong | Strong | Strong | Strong | Strong | Strong | Strong | Conceptual |
 
 ---
 
@@ -141,11 +143,31 @@ JTBD has no delivery architecture, no operating model, no measurement layer for 
 
 ---
 
+## Related Prior Work
+
+Two bodies of work predate IIVCS and anticipate parts of its logic. IIVCS's contribution is comparative — tighter integration and operationalization — not the first discovery of these relationships.
+
+### Service-Profit Chain (Heskett, Sasser & Schlesinger, HBR 1994)
+
+The Service-Profit Chain is the closest intellectual precedent to the IIVCS measurement logic, and predates it by three decades. It establishes a causal chain: internal service quality → employee satisfaction and retention → service value → customer satisfaction and loyalty → revenue growth and profitability. It is the original articulation that *organizational* behavior and *customer* behavior are linked, and that both connect to financial outcomes.
+
+**Alignment:** The Service-Profit Chain anticipates the dual-track logic at the heart of IIVCS — that organizational and customer behavior both drive value and must be read together. AER's two parallel tracks (Organizational AER and Customer AER) are a direct descendant of this insight.
+
+**Key difference:** The Service-Profit Chain is a causal hypothesis supported by empirical research across service firms — not an operating system. It does not define an operating model (PTS), a delivery architecture anchored on the customer journey (CVDM), a strategy-governance layer (OSM), or a measurement language applied consistently across architecture levels (3E). It establishes that the links exist; it does not provide the system to operate, measure, and improve them. IIVCS operationalizes the relationship the Service-Profit Chain identified, across a full strategy-to-delivery architecture.
+
+What IIVCS adds is not the discovery that organizational and customer behavior both matter — the Service-Profit Chain established that — but an integrated system for running and measuring both within one architecture.
+
+### Strategy Maps (Kaplan & Norton, 2004)
+
+Strategy Maps cascade cause-and-effect across measurement perspectives, from learning and process measures up through customer to financial outcomes — the closest precedent to the 3E → AER → 8 Values chain. The detailed distinction is drawn in [8-values-comparison.md](8-values-comparison.md) (compounding model, operational grounding, leading-indicator structure) and [3e-comparison.md](3e-comparison.md) (sequenced diagnostic vs. parallel perspectives). IIVCS differs in anchoring the bottom of the chain on customer-journey delivery signal and structuring leading/lagging order explicitly rather than per-implementation.
+
+---
+
 ## The Distinctive Contribution of IIVCS
 
 ### From Strategy to Outcome in One System
 
-No established framework spans strategy, operating model, and customer value delivery within a single coherent system connected by a shared measurement language. TOGAF and BIZBOK address architecture. SAFe addresses delivery scaling. Service Blueprint and VSM address delivery analysis. JTBD addresses demand insight. Each covers a distinct span; none integrates them. IIVCS is the system that connects these spans — OSM sets strategic direction, PTS operationalizes it, CVDM realizes it — with value streams as the common spine.
+Most established frameworks are built for one part of the strategy-to-outcome arc, not the whole of it — TOGAF and BIZBOK address architecture, SAFe addresses delivery scaling, Service Blueprint and VSM address delivery analysis, JTBD addresses demand insight. IIVCS's distinguishing choice is to integrate strategy, operating model, and customer value delivery within a single system connected by a shared measurement language — OSM sets strategic direction, PTS operationalizes it, CVDM realizes it — with value streams as the common spine. The integration is the contribution, not the individual spans, each of which has precedent.
 
 ### Customer Journey as Organizing Principle
 
@@ -157,7 +179,7 @@ Established frameworks document or optimize individual layers without building a
 
 ### Consistent Measurement from Process to Organization
 
-The 3E → AER → 8 Values measurement chain provides a consistent language from individual process level to organizational value generation. A process-level Efficiency signal aggregates through Capability and Value Stream levels via 3E, connects to behavioral response via AER, and ultimately drives one of eight organizational value dimensions. No established framework connects the measurement of an individual process step to an organizational value outcome through a coherent chain.
+The 3E → AER → 8 Values measurement chain provides a consistent language from individual process level to organizational value generation. A process-level Efficiency signal aggregates through Capability and Value Stream levels via 3E, connects to behavioral response via AER, and ultimately drives one of eight organizational value dimensions. Few frameworks carry a single measurement chain from an individual process step to an organizational value outcome; Kaplan & Norton's Strategy Maps cascade cause-and-effect across measurement levels, and this chain is in that lineage — distinguished by anchoring the bottom on customer-journey delivery signal and the top on a defined set of organizational value dimensions (see [Related Prior Work](#related-prior-work)).
 
 ### Integration, Not Replacement
 

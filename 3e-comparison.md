@@ -16,14 +16,16 @@ The frameworks below each capture a portion of what 3E measures. None sequences 
 
 ## Framework Comparison
 
-| Framework | Sequenced Causal Model | Leading/Lagging Classification | Grounded in Customer Value Elements | Cross-Architectural Consistency | Connected to Behavioral and Org Outcomes |
-|---|---|---|---|---|---|
-| **ISO 9241-11** | No — three independent lenses | No | No — ergonomics research | No — product-interaction only | No |
-| **Balanced Scorecard** | No — four parallel perspectives | Partially | No | No — strategic level only | No |
-| **Google HEART** | No — five independent dimensions | No | No | No — product analytics only | No |
-| **NPS / CSAT / CES** | No — single-dimension instruments | Partially (CES is leading) | No | No | No |
-| **AARRR** | Partially — funnel sequence | Partially | No — company-centric | No | No |
-| **Insheights 3E** | Yes — Use → Feel → Achieve | Yes — Efficiency + Experience leading, Effectiveness lagging | Yes — 70 B2B/B2C Elements of Value | Yes — Value Stream to Process level | Yes — 3E → AER → 8 Values |
+**Reading the table.** Ratings reflect how directly each framework is *designed* to address each dimension — coverage by design, not validated outcomes. These are the dimensions 3E is built around, so the table maps where established frameworks also address each; it is not a neutral ranking. The final column states maturity, where 3E is Conceptual and the others are proven in practice.
+
+| Framework | Sequenced Causal Model | Leading/Lagging Classification | Grounded in Customer Value Elements | Cross-Architectural Consistency | Connected to Behavioral and Org Outcomes | Maturity |
+|---|---|---|---|---|---|---|
+| **ISO 9241-11** | No — three independent lenses | No | No — ergonomics research | No — product-interaction only | No | Mature |
+| **Balanced Scorecard** | No — four parallel perspectives | Partially | No | No — strategic level only | No | Mature |
+| **Google HEART** | No — five independent dimensions | No | No | No — product analytics only | No | Mature |
+| **NPS / CSAT / CES** | No — single-dimension instruments | Partially (CES is leading) | No | No | No | Mature |
+| **AARRR** | Partially — funnel sequence | Partially | No — company-centric | No | No | Established |
+| **Insheights 3E** | Yes — Use → Feel → Achieve | Yes — Efficiency + Experience leading, Effectiveness lagging | Yes — 70 B2B/B2C Elements of Value | Yes — Value Stream to Process level | Yes — 3E → AER → 8 Values | Conceptual |
 
 ---
 
@@ -119,7 +121,7 @@ No established measurement framework treats its dimensions as a causal sequence 
 
 ### Complete Coverage via Elements of Value
 
-3E is grounded in Bain & Company's Elements of Value research — 30 B2C elements and 40 B2B elements spanning functional, emotional, relational, career, and inspirational dimensions. The three 3E dimensions collectively capture all 70 elements, with no element falling outside the model. This grounding means 3E is not an arbitrary three-category framework — each dimension covers a defined set of customer value drivers, and together they achieve complete coverage of what customers and organizations need from value delivery. No established measurement framework achieves this mapping to a validated taxonomy of customer value.
+3E is grounded in Bain & Company's Elements of Value research — 30 B2C elements and 40 B2B elements spanning functional, emotional, relational, career, and inspirational dimensions. The three 3E dimensions collectively capture all 70 elements, with no element falling outside the model. This grounding means 3E is not an arbitrary three-category framework — each dimension covers a defined set of customer value drivers, and together they achieve complete coverage of what customers and organizations need from value delivery. Among the frameworks compared here, 3E is distinctive in grounding its dimensions in an external, researched taxonomy of customer value rather than in author-defined categories.
 
 ### Cross-Architectural Consistency
 

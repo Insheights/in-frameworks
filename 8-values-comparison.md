@@ -10,20 +10,22 @@ A comparison of the Insheights 8 Organizational Values Measurement Model against
 
 The Insheights 8 Values model measures organizational value generation — what the organization produces across eight interconnected dimensions as a result of its strategy, transformation, and delivery operating through the IIVCS. It occupies the organizational outcome layer of the measurement architecture: downstream of 3E (how value is delivered) and AER (behavioral response to delivery), and upstream of governance and external reporting.
 
-The frameworks below each capture a portion of what the 8 Values measures. None connects organizational value generation to an operational delivery system. None models compounding relationships between dimensions. None positions value measurement as a leading indicator layer between delivery signals and governance reporting.
+Each of the frameworks below captures part of what the 8 Values measures. What distinguishes the 8 Values among them is the combination of three choices: tracing value generation to an operational delivery system (OSM/PTS/CVDM), modeling compounding relationships between dimensions rather than treating them independently, and positioning value measurement as a leading-indicator layer between delivery signals and governance reporting. The Balanced Scorecard's strategy maps are the closest precedent for the compounding idea (see below).
 
 ---
 
 ## Framework Comparison
 
-| Framework | Domain | Operational Grounding | Compounding Model | Leading Indicator | Connected to Delivery Architecture | External Reporting Bridge |
-|---|---|---|---|---|---|---|
-| **Balanced Scorecard** | Strategic performance measurement | No — measures outcomes | No — independent perspectives | Partially — strategy maps attempt this | No | No |
-| **IIRC 6 Capitals** | Integrated reporting for investors | No — reports capital stock | No — independent capitals | No — lagging stock measurement | No | Yes — primary purpose |
-| **EFQM Excellence Model** | Organizational quality assessment | No — diagnoses conditions | No — enablers and results are separate | Partially — enablers lead results | No | No |
-| **ESG / GRI Standards** | Sustainability and impact disclosure | No — reports impact metrics | No — independent dimensions | No — lagging disclosure | No | Yes — primary purpose |
-| **OKRs** | Goal alignment and progress tracking | No — framework-agnostic | No — objectives are independent | Partially — key results track toward objectives | No | No |
-| **Insheights 8 Values** | Organizational value generation measurement | Yes — generated through OSM, PTS, CVDM | Yes — values reinforce and amplify each other | Yes — 3E → AER → 8 Values sequence | Yes — delivery signals feed value dimensions directly | Yes — bridges to IIRC 6 Capitals |
+**Reading the table.** Ratings reflect how directly each framework is *designed* to address each dimension — coverage by design, not validated outcomes. These are the dimensions the 8 Values model is built around, so the table maps where established frameworks also address each; it is not a neutral ranking. The final column states maturity, where the 8 Values is Conceptual and the others are proven in practice.
+
+| Framework | Domain | Operational Grounding | Compounding Model | Leading Indicator | Connected to Delivery Architecture | External Reporting Bridge | Maturity |
+|---|---|---|---|---|---|---|---|
+| **Balanced Scorecard** | Strategic performance measurement | No — measures outcomes | No — independent perspectives | Partially — strategy maps attempt this | No | No | Mature |
+| **IIRC 6 Capitals** | Integrated reporting for investors | No — reports capital stock | No — independent capitals | No — lagging stock measurement | No | Yes — primary purpose | Mature |
+| **EFQM Excellence Model** | Organizational quality assessment | No — diagnoses conditions | No — enablers and results are separate | Partially — enablers lead results | No | No | Mature |
+| **ESG / GRI Standards** | Sustainability and impact disclosure | No — reports impact metrics | No — independent dimensions | No — lagging disclosure | No | Yes — primary purpose | Mature |
+| **OKRs** | Goal alignment and progress tracking | No — framework-agnostic | No — objectives are independent | Partially — key results track toward objectives | No | No | Mature |
+| **Insheights 8 Values** | Organizational value generation measurement | Yes — generated through OSM, PTS, CVDM | Yes — values reinforce and amplify each other | Yes — 3E → AER → 8 Values sequence | Yes — delivery signals feed value dimensions directly | Yes — bridges to IIRC 6 Capitals | Conceptual |
 
 ---
 
