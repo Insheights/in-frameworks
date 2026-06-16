@@ -165,7 +165,6 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 - [Adoption Sequencing & Maturity Model](adoption-maturity.md) — where to start, in what sequence, and what early/developing/mature adoption looks like
 - [IIVCS Quick Self-Assessment](quick-assessment.md) — directional reading, one question per element
 - [IIVCS Detailed Assessment](detail-assessment.md) — structured, scored self-assessment across all components, producing a maturity profile
-- [Assessment Solution build inputs](assessment/) — machine-readable model + build spec for a progress-tracking assessment application
 
 **Measurement models**
 - [Insheights 3E Operational Values Measurement Model](3e.md) — Efficiency, Experience, Effectiveness
