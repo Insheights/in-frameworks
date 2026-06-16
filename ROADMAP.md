@@ -32,9 +32,6 @@ Practitioner-facing layer for the 3E and 8 Values measurement models: concrete m
 
 ## Planned
 
-### Detailed Assessment — Dry Run & Calibration
-A first real run of the detailed assessment against a design-partner value stream, to calibrate what the spec cannot settle on paper: whether the double-barreled criteria (3.M1, 3.M3) need splitting once their clauses prove to pass/fail independently; whether component 7 (Feedback System) is in fact the binding weakest-link floor every time; and whether the v0 † thresholds hold. Outputs feed *Metrics and Indicators* and the assessment's next revision. Run via the assessment solution (maintained privately).
-
 ### 8 Values Minimum Viable Signal Set
 A reference table specifying the minimum observable signal per value dimension for organizations without full 3E and AER instrumentation. Embedded within the Metrics and Indicators guide.
 
@@ -50,8 +47,17 @@ Defines who drives OSM, who operationalizes PTS, and who governs CVDM. Covers de
 ### End-to-End Traced Case
 A single realistic-composite organization traced end to end through the full system — OSM strategic priority → PTS operating-model gap → CVDM journey signal → AER → 8 Values → IR 6 Capitals. Demonstrates that the layers connect in practice, not just on paper.
 
+---
+
+## Requires a Client Engagement
+
+> These items cannot be completed on paper — they need a real client / design-partner engagement: a live value stream to assess and its data over time. They are well-defined and ready, but gated on that access.
+
+### Detailed Assessment — Dry Run & Calibration
+A first real run of the detailed assessment against a design-partner value stream, to calibrate what the spec cannot settle on paper: whether the double-barreled criteria (3.M1, 3.M3) need splitting once their clauses prove to pass/fail independently; whether component 7 (Feedback System) is in fact the binding weakest-link floor every time; and whether the v0 † thresholds hold. Outputs feed *Metrics and Indicators* and the assessment's next revision. Run via the assessment solution (maintained privately).
+
 ### Falsifiable Compounding and Causal Claims
-Testability criteria for the system's core connection claims. Defines what observations would disprove the 3E → AER → 8 Values chain and the 8 Values compounding relationships — making the model's interdependence verifiable, not just asserted.
+Testability criteria for the system's core connection claims. Defines what observations would disprove the 3E → AER → 8 Values chain and the 8 Values compounding relationships — making the model's interdependence verifiable, not just asserted. *Defining* the criteria can be done now; *validating* them — linking adoption fidelity to value outcomes — depends on real instrumented assessment data over time, for which *Detailed Assessment — Dry Run & Calibration* is the first source.
 
 ---
 
