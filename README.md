@@ -170,6 +170,7 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 - [Insheights 3E Operational Values Measurement Model](3e.md) — Efficiency, Experience, Effectiveness
 - [Insheights AER Behavioral Measurement Model](aer.md) — Adoption, Engagement, Retention
 - [Insheights 8 Organizational Values Measurement Model](8-values.md) — the eight value dimensions
+- [Measurement Framework — Metrics and Indicators](metrics-and-indicators.md) — concrete metrics, indicators, and thresholds for 3E and 8 Values, incl. the 8 Values Minimum Viable Signal Set
 - [IIVCS Feedback System](feedback.md) — operational and organizational feedback paths
 
 **Comparisons with established frameworks**
