@@ -66,6 +66,8 @@ For each IIVCS element, pick the **highest statement that is *fully* true** toda
 
 > **Want the full picture?** This quick check is directional only — a one-question read per element, no evidence test. The [IIVCS Detailed Assessment](detail-assessment.md) applies evidence-anchored, gated criteria across all eight components and produces a maturity profile with strengths, constraint, and adoption priority. Use this to orient; use the detailed assessment to decide.
 
+> **What a level means.** Maturity here is **adoption fidelity** — the frameworks present and connected — not proof of value created. A Mature reading means the machinery is in place and wired together, not that the organization is yet creating more value.
+
 ---
 
 ## Related

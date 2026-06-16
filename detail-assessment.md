@@ -21,7 +21,8 @@ The assessment is run by **several respondents who score independently first, th
 
 1. **Choose the value stream** and assemble the respondents (see [Who Participates](#who-participates)).
 2. **Score independently first.** Each respondent rates the criteria they have visibility into — ✓ / ~ / ✗, or **—** (no visibility) — recording evidence. No group discussion yet.
-3. **Collate and reconcile.** Line up the individual ratings per criterion. Unanimous ✓ *with evidence* → ✓. Any divergence → ⚡ Split: discuss the evidence to resolve it, or record it as a finding — *who* saw it differently (e.g., leadership vs. the doers) is itself diagnostic.
+3. **Collate and reconcile.** Line up the individual ratings per criterion. Unanimous ✓ *with evidence* → ✓. Any divergence → ⚡ Split. **A Split resolves to ✓ only on new shared evidence that everyone can see — never by discussion-to-consensus.** Talking until the doer agrees with the senior voice is exactly the anchoring that independent scoring was meant to prevent; if no new evidence appears, the Split stands as a finding. *Who* saw it differently (e.g., leadership vs. the doers) is itself diagnostic.
+   - **Thin-source flag.** Where only one respondent had visibility of a criterion, a ✓ has no divergence check behind it. Mark it **✓ⁿ⁼¹** (thinly sourced) and carry the flag into the profile — it is a ✓ to confirm with a second perspective, not one to lean on.
 4. **Gate each component to a level** using the rule below — a level is earned only when *all* its criteria (and all criteria below it) are ✓. Averages are not used.
 5. **Read system maturity** as the weakest *connected* link, **carry the dispersion log**, and **build the maturity profile** — strengths, constraint, adoption priority.
 
@@ -56,7 +57,21 @@ Each respondent rates every visible criterion with **exactly one** of the four o
 
 ### A note on quantitative thresholds
 
-Some criteria below are marked **†** — they depend on a numeric threshold (a coverage %, a cadence, a "consistently") that the [Measurement Framework — Metrics and Indicators](ROADMAP.md) guide will define. Until that guide is published, score **†** criteria on the room's evidence-based judgment and **record the basis you used** (e.g., "AER measured on 3 of the value stream's 4 primary journeys"). When thresholds are published, re-score these against them — your recorded basis makes that re-score honest.
+Some criteria below are marked **†** — they depend on a numeric threshold (a coverage %, a cadence, a "consistently") that the [Measurement Framework — Metrics and Indicators](ROADMAP.md) guide will define precisely. Until that guide publishes, score **†** criteria against the **v0 default thresholds** below — not on open-ended room judgment — and **record the basis you used**. When the official thresholds publish, re-score against them; the v0 defaults are set conservatively, so the expected move is confirmation, not demotion.
+
+**v0 default thresholds** *(provisional — to be confirmed by the Metrics and Indicators guide):*
+
+| † Criterion | v0 threshold |
+|---|---|
+| **1.M1** — governance revises on signal | ≥1 priority changed, retired, or re-resourced in the last 2 governance cycles as a direct result of signal |
+| **5.D1** — one AER track measured | Adoption, engagement, *and* retention each tracked on the value stream's primary journey(s) |
+| **6.D1** — value beyond financial/operational | ≥3 of the 8 value dimensions tracked |
+| **2.M3** — Organizational AER measured | All three Org AER stages — adoption, engagement, sustainment — each instrumented with ≥1 signal and reviewed on a cadence |
+| **3.M3** — five loops + Customer AER | All 5 feedback loops have a named owner and cadence, *and* Customer AER (adoption, engagement, retention) is each instrumented across the journey |
+| **4.M1** — 3E applied consistently | A 3E profile exists at ≥3 of the 5 architecture levels, including value stream and value stage |
+| **8.M1** — outcomes over output, consistently | Outcome-based measures are the *primary* success measure for the majority (≥ half) of the value stream's teams/initiatives |
+
+These v0 defaults give the Developing→Mature boundary a defensible bar today; they do not lift the [Mature-pending cap](#scoring--gated-not-averaged) — a component is still held at "Developing (Mature-pending)" until the *official* thresholds confirm it.
 
 ---
 
@@ -247,6 +262,10 @@ Maturity is **gated**: a component earns a level only when *all* the criteria at
 
 Any **~ Partial** or **⚡ Split** on a criterion means that criterion is *not* ✓ — so it does not clear the gate. Record it: Partials are your next move within the component; Splits are a disagreement to resolve before the score is trustworthy.
 
+**Report progress by tier — split the criterion-pass count.** The gate is honest but lossy: it gives the level, not the distance to the next one. So for each component also report the criteria at ✓ — but **split by tier: Developing (of 3) and Mature (of 3) separately**, never as a combined "/6." Only the Developing three gate the Early→Developing line, so a combined count can rise — someone clears a *Mature* criterion — while the distance to your actual next level does not move at all, and it would quietly reward working Mature criteria out of order while a Developing one is still open. Reported split — e.g., "OSM: Developing, **D 3/3 · M 1/3**" — the number that moves is the number that gates, and out-of-order Mature progress shows up for what it is: real, but not yet buying a level. This is a progress indicator, not a score; the gate still decides the level.
+
+**Cap at "Developing (Mature-pending)" until the thresholds publish.** Most † criteria sit at the Mature tier (see [What This Instrument Is](#what-this-instrument-is--and-is-not)), so until the Metrics and Indicators guide fixes their thresholds, the Developing→Mature boundary rests on room judgment. To avoid telling anyone they are Mature and later walking it back, **do not report Mature yet**: a component that meets all Mature criteria on current judgment reads **"Developing (Mature-pending)"** with **M 3/3** shown — not "Mature." When the thresholds publish and confirm it, it becomes Mature, so the only possible move is forward.
+
 **System maturity** is **not** an average across components. It is the level of your **weakest connected link** along the chain strategy → operating model → delivery → feedback (components **1 → 2 → 3 → 7**). A system is only as connected as its weakest link. The measurement and foundation components (4, 5, 6, 8) are read as *enablers* of that chain, not as independent scores (see the note in the profile).
 
 ---
@@ -263,23 +282,28 @@ In the third column, list every criterion in that component that did **not** rea
 
 Listing these turns the score into a to-do list — each shortfall is a concrete next move.
 
-| Component | Level (Early/Developing/Mature) | Criteria blocking the next level *(list each, with its ~ / ⚡ / ✗ rating)* |
-|---|---|---|
-| 1. OSM — Strategy & Governance | | |
-| 2. PTS — Operating Model | | |
-| 3. CVDM — Delivery & Realization | | |
-| 4. 3E — Operational Measurement | | |
-| 5. AER — Behavioral Measurement | | |
-| 6. 8 Values — Organizational Outcomes | | |
-| 7. Feedback System — Upstream Loops | | |
-| 8. Product Mindset — Foundation | | |
-| **System maturity** *(weakest connected link, 1→2→3→7)* | | |
+| Component | Level | D ✓ (/3) | M ✓ (/3) | Criteria blocking the next level *(list each, with its ~ / ⚡ / ✗ rating)* |
+|---|---|---|---|---|
+| 1. OSM — Strategy & Governance | | /3 | /3 | |
+| 2. PTS — Operating Model | | /3 | /3 | |
+| 3. CVDM — Delivery & Realization | | /3 | /3 | |
+| 4. 3E — Operational Measurement | | /3 | /3 | |
+| 5. AER — Behavioral Measurement | | /3 | /3 | |
+| 6. 8 Values — Organizational Outcomes | | /3 | /3 | |
+| 7. Feedback System — Upstream Loops | | /3 | /3 | |
+| 8. Product Mindset — Foundation | | /3 | /3 | |
+| **System maturity** *(weakest connected link, 1→2→3→7)* | | — | — | |
 
-**Dispersion log** — from the independent ratings, record every **⚡ Split** and the *pattern*: which role rated higher and which lower, not just that they disagreed. A consistent leadership-rates-higher pattern means strategy or the operating model is not landing where the work happens; a cluster of Splits in one component means you do not yet have a reliable reading there — resolve them before acting on that component's level. The by-role divergence is often the most actionable output of the whole assessment.
+> **Levels:** Early / Developing / Mature — but until the Metrics and Indicators thresholds publish, a component meeting all Mature criteria caps at **"Developing (Mature-pending)"**, never Mature, so no one is later demoted. **D ✓** is your fast progress signal toward the next gate; **M ✓** shows Mature progress that is real but not yet buying a level.
+
+**Dispersion log** — from the independent ratings, record two things:
+
+- **Splits.** Every **⚡ Split** and the *pattern*: which role rated higher and which lower, not just that they disagreed. A consistent leadership-rates-higher pattern means strategy or the operating model is not landing where the work happens; a cluster of Splits in one component means you do not yet have a reliable reading there — resolve them before acting on that component's level. The by-role divergence is often the most actionable output of the whole assessment.
+- **Thinly-sourced ✓s.** Every **✓ⁿ⁼¹** — a ✓ resting on a single respondent's visibility. These count toward the gate but carry no divergence check; a level (especially a Mature one) propped up by several ✓ⁿ⁼¹ is less trustworthy than its label, and confirming them with a second perspective is a cheap, high-value next step.
 
 **Then read three things:**
 
-- **Strengths** — components at Mature. Protect these; they are where the system already works.
+- **Strengths** — components at Mature (or, pre-threshold, your **"Developing (Mature-pending)"** components — those that meet all Mature criteria against the v0 defaults). Protect these; they are where the system already works.
 - **Constraint** — your lowest *connected* component (1, 2, 3, or 7). This is the break where value leaks out — and your adoption priority. The specific criteria *not yet ✓* are your concrete next moves.
 - **Entry point & sequence** — map your constraint to a starting point below, then follow the [sequencing principles](adoption-maturity.md#sequencing-principles) in the Maturity Model.
 
@@ -292,13 +316,15 @@ Listing these turns the score into a to-do list — each shortfall is a concrete
 
 > **A note on the measurement and foundation components (4, 5, 6, 8).** These are not separate entry points — they are how the three frameworks are instrumented and operated. A gap here usually *explains* a gap on the framework it serves: a weak 3E (4) shows up as a blind CVDM (3); a weak Product Mindset (8) shows up across all three. Close them in service of the connected framework, not in isolation.
 
+> **Expected constraint — calibrate this against real assessments.** Component 7 (Feedback System) is the hardest to mature: 7.M2 — a customer signal traced all the way to a strategic decision — is a near all-or-nothing bar, and it is the same closed-loop behavior as 1.M1 (governance revises on signal) seen from the other end. So for most organizations the weakest connected link will be **7**, and the system reading will effectively answer *"is the upstream loop closed?"* — which is diagnostically intended, since closing the loop is the signature of maturity. But validate it: if 7 is the binding floor in *every* real assessment, either rename the system reading to what it actually measures, or recalibrate 7 so it can be cleared in steps rather than one leap. Until then, watch component 7's **D ✓ / M ✓** split so progress short of the full traced loop is still visible.
+
 ---
 
 ## Reassessing
 
 Maturity is a moving state, not a milestone. Re-run this instrument at the same cadence as your strategic governance review (typically quarterly), against the same value stream, to track movement.
 
-- **Watch the *system maturity* level move — not an average.** A rising system level means the frameworks are becoming more connected; isolated component gains do not move it.
+- **Watch the counts that gate, at two speeds.** Below Developing, the **Developing count (D /3)** is your fast signal — it moves as you clear the criteria that gate your next level. Pushing toward Mature, the **Mature count (M /3)** moves (capped at "Mature-pending" until thresholds publish). The **system maturity level** is the slow signal — it rises only when the *weakest connected link* clears its gate. Report all three; celebrate the count that gates, but do not mistake Mature-tier progress for a level you have not yet gated.
 - **Re-score † criteria when the Metrics and Indicators thresholds are published** — using the basis you recorded, so the re-score is honest.
 - **Resolve Splits between runs.** A criterion that is ⚡ Split twice is a standing disagreement about reality — not a scoring problem.
 - **When one value stream reaches Mature, assess the next.** Maturity spreads value stream by value stream, not in a single organization-wide leap.
@@ -309,9 +335,12 @@ Maturity is a moving state, not a milestone. Re-run this instrument at the same 
 
 Stated plainly, so results are not over-claimed:
 
+- **It measures adoption fidelity, not value outcomes.** It reads whether the IIVCS frameworks are *present and connected* — the right artifacts, loops, owners, and signals existing and running. A **Mature** reading means "the frameworks are in place and connected," **not** "the organization is creating more value." Adoption fidelity is a precondition for value, not proof of it — a well-formed journey map can still be wrong, and a governance pack can be read and ignored. Until outcome data links adoption to value (see [Falsifiable Compounding and Causal Claims](ROADMAP.md)), do not read the second meaning into the first.
 - **It is** a structured, evidence-anchored, gated judgment instrument. Its rigor comes from gating (non-compensatory levels), evidence anchors per criterion, explicit dispersion capture, and a cross-functional room — not from statistical validation.
 - **It is not** a psychometrically validated or externally benchmarked measure. It has not been calibrated against a population of known-mature and known-immature organizations.
-- **Some thresholds are not yet fixed.** Criteria marked † depend on the [Metrics and Indicators](ROADMAP.md) guide; until then they rest on recorded, evidence-based judgment.
+- **Mature is held as "Mature-pending," not reported as Mature, until the thresholds publish.** Most † criteria sit at the Mature tier, so the Developing→Mature boundary — the one most likely to be quoted — currently rests on room judgment. Criteria marked † depend on the [Metrics and Indicators](ROADMAP.md) guide; until it ships, a component meeting all Mature criteria caps at "Developing (Mature-pending)" and is confirmed Mature only when the thresholds land — so the only possible transition is forward, never a demotion.
+- **It discriminates less finely at the Mature tier than the criterion count suggests.** Several Mature criteria across components flip on the *same* shared evidence — notably the governance reconciliation that reads AER and the 8 Values against priorities, which satisfies 1.M2, 5.M3, and 6.M2 at once. This is consistent with the "maturity is connection" thesis, but it means the Mature tier has fewer independent degrees of freedom than its criterion count implies; do not claim fine-grained discrimination there.
+- **It verifies that evidence exists, not that it is good.** The gate checks that an artifact/behavior/metric can be pointed to — judging its *quality* falls to the room, and ultimately to the neutral facilitator. That is real weight on one person; pair this instrument with outcome signals (3E, AER) rather than trusting fidelity alone.
 - **Its reliability depends on the room.** Honest evidence, the doers present, and a neutral facilitator are what make a result trustworthy. Run without them, it measures optimism.
 - **Use the result to act, not to certify.** It is built to find your constraint and direct your next move — a directional grade for decisions, not a certified score for external reporting.
 

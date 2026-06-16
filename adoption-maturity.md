@@ -12,6 +12,8 @@ This model answers the two questions every organization asks before adopting the
 It is a self-orientation tool. For a directional reading use the [IIVCS Quick Self-Assessment](quick-assessment.md); for a structured, scored evaluation use the [IIVCS Detailed Assessment](detail-assessment.md). This model is the map that makes either result actionable: it tells you where you are and what to do next.
 
 > **The core idea:** IIVCS maturity is not the average of how good each framework is in isolation. It is how well the frameworks are **connected as a system** — strategy governing an operating model that realizes value at the customer journey, with signal flowing back upstream. An organization can run a strong operating model and still be *early* as a system if nothing connects it to strategy or customer reality.
+>
+> Maturity here means **adoption fidelity** — the frameworks present and connected — *not* proof of value created. It is a precondition for value, not evidence of it: a mature reading says the machinery is in place and wired together, not that the organization is yet creating more value.
 
 ---
 
