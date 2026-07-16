@@ -44,6 +44,15 @@ Defines who drives OSM, who operationalizes PTS, and who governs CVDM. Covers de
 ### End-to-End Traced Case
 A single realistic-composite organization traced end to end through the full system — OSM strategic priority → PTS operating-model gap → CVDM journey signal → AER → 8 Values → IR 6 Capitals. Demonstrates that the layers connect in practice, not just on paper.
 
+### Value Trade-offs and Value-at-Risk
+Extends the 8 Values from a set of positive dimensions to a model that also handles contention and loss. Covers how values compete for the same resources and how to reason about the trade-off (e.g. Financial vs. People Value on a shared constraint), and introduces value-at-risk — how enterprise risk and value destruction are read against the value dimensions, not just fed in as an OSM input. Complements *Falsifiable Compounding and Causal Claims*: compounding says how values reinforce, this says how they compete and erode.
+
+### Adoption Enablement Playbook
+Guidance on running the transition itself — moving an organization from current to envisioned state — not just measuring whether it took (Organizational AER). Frames the change practice around the integrated methods already referenced (ADKAR, Kotter, McKinsey 7-S in aer-comparison.md) and the POM Enablers, giving practitioners a native path through resistance, sequencing, and enablement rather than only a maturity target. Pairs with the *Adoption Sequencing & Maturity Model*, which says where to start but not how to move.
+
+### Templates and Canvases
+Downloadable, reusable artifacts that turn the practitioner guides from readable to usable: a strategy-to-value-driver canvas (OSM), a journey-to-value-stream mapping template (CVDM), a 3E instrumentation worksheet, and an 8 Values reading sheet. Depends on the practitioner guides being finalized.
+
 ---
 
 ## Requires a Client Engagement
@@ -74,6 +83,9 @@ Guidance on how AI fits into each framework — scenario modeling in OSM, teleme
 
 ### System Health Indicators — Consolidated View
 A concise suite-level view that consolidates the OSM-, PTS-, and CVDM-specific system health indicators from the practitioner guides into a single cross-framework signal set — indicating whether the system is working, not just being followed.
+
+### Context Tailoring — Industry, Size, and Maturity
+Guidance for adapting the system beyond its product-org-native framing — for non-product enterprises, smaller organizations, and different starting maturities. Extends the per-guide "translation notes" into a coherent tailoring layer: which elements are essential vs. optional at small scale, how the language maps outside a product context, and how sector characteristics shape adoption. Distinct from *3E Benchmarking*, which compares performance across peers; this shapes how the framework itself is applied.
 
 ---
 
