@@ -9,7 +9,7 @@ This model answers the two questions every organization asks before adopting the
 1. **Where do we start** — OSM, PTS, or CVDM — and in what sequence?
 2. **How mature are we** — what does early, developing, and mature adoption look like, and what would it take to advance?
 
-It is a self-orientation tool. For a directional reading use the [IIVCS Quick Self-Assessment](quick-assessment.md); for a structured, scored evaluation use the [IIVCS Detailed Assessment](detail-assessment.md). This model is the map that makes either result actionable: it tells you where you are and what to do next.
+It is a self-orientation tool. For a directional reading use the [IIVCS Quick Self-Assessment](quick-assessment.md); for a structured, scored evaluation use the IIVCS Detailed Assessment. This model is the map that makes either result actionable: it tells you where you are and what to do next.
 
 > **The core idea:** IIVCS maturity is not the average of how good each framework is in isolation. It is how well the frameworks are **connected as a system** — strategy governing an operating model that realizes value at the customer journey, with signal flowing back upstream. An organization can run a strong operating model and still be *early* as a system if nothing connects it to strategy or customer reality.
 >
@@ -44,7 +44,7 @@ Read each row and find the column that best describes you today. Your **system m
 | **Feedback System** — Upstream Loops | No upstream feedback; signals die at the team | Operational loops run and reach PTS; signal informs delivery | Full upstream path CVDM → PTS → OSM; operational + organizational feedback drives strategic reassessment |
 | **Product Mindset** — Foundation | Output-focused, project culture; assumptions go untested | Outcome language adopted; discovery practiced in places | Customer obsession, outcome-over-output, continuous discovery, hypothesis-driven thinking, and cross-functional ownership are the norm |
 
-> **How to read your result:** Note the column for each row. A row sits at a level only when it has *fully* reached it — the scored [Detailed Assessment](detail-assessment.md) makes this explicit by *gating* (you earn a level by meeting all its criteria, not by averaging close to it). Scattered results (some Mature, some Early) are the most common and the most useful finding — they show exactly which connection is missing. The component holding you back is your next adoption priority.
+> **How to read your result:** Note the column for each row. A row sits at a level only when it has *fully* reached it — the scored Detailed Assessment makes this explicit by *gating* (you earn a level by meeting all its criteria, not by averaging close to it). Scattered results (some Mature, some Early) are the most common and the most useful finding — they show exactly which connection is missing. The component holding you back is your next adoption priority.
 
 ---
 
@@ -53,7 +53,7 @@ Read each row and find the column that best describes you today. Your **system m
 Two assessment artifacts place you on this model. Use whichever fits the moment:
 
 - **[IIVCS Quick Self-Assessment](quick-assessment.md)** — a directional reading in a few minutes: one question per IIVCS element, each answer mapping to Early / Developing / Mature. Start here.
-- **[IIVCS Detailed Assessment](detail-assessment.md)** — the rigorous, scored evaluation: 32 statements across all eight components, banded into a full maturity profile with strengths, constraint, and adoption priority.
+- **IIVCS Detailed Assessment** — the rigorous, scored evaluation: evidence-anchored criteria across all eight components, gated into a full maturity profile with strengths, constraint, and adoption priority. Maintained privately; available through an Insheights engagement.
 
 Both ask the same thing the grid above does — *where is each element, and where is the weakest connected link?* — and both point back here for what to do next.
 
@@ -115,11 +115,11 @@ Whatever the entry point, four principles govern a healthy adoption:
 
 ## Connection to the Assessments
 
-This model is the qualitative map; the assessments place an organization on it. The [IIVCS Detailed Assessment](detail-assessment.md) spans all IIVCS components — OSM, PTS, CVDM, 3E, AER, 8 Values, the Feedback System, and Product Mindset — and produces a maturity profile identifying strengths, gaps, and adoption priorities.
+This model is the qualitative map; the assessments place an organization on it. The IIVCS Detailed Assessment spans all IIVCS components — OSM, PTS, CVDM, 3E, AER, 8 Values, the Feedback System, and Product Mindset — and produces a maturity profile identifying strengths, gaps, and adoption priorities.
 
 The pieces work together:
 
-- The **[Quick Self-Assessment](quick-assessment.md)** and **[Detailed Assessment](detail-assessment.md)** tell you *where you are* — directionally, or as a scored profile across the components above.
+- The **[Quick Self-Assessment](quick-assessment.md)** and the **Detailed Assessment** tell you *where you are* — directionally, or as a scored profile across the components above.
 - This **model** tells you *what to do next* — which level you are at, which connection is your constraint, and where to start.
 
 ---

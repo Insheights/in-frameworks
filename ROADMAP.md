@@ -20,13 +20,13 @@ A step-by-step guide for practitioners applying the Customer Value Delivery Mode
 
 ### Adoption Sequencing & Maturity Model
 A maturity model that helps organizations self-assess their current state and determine where to start — OSM, PTS, or CVDM — and in what sequence. Defines what early, developing, and mature adoption looks like across the suite. Includes the IIVCS self-assessment in two forms — a quick directional check and a detailed, evidence-anchored scored instrument that produces a maturity profile (strengths, gaps, adoption priorities) across all IIVCS components.
-**Draft:** [adoption-maturity.md](adoption-maturity.md), with [quick-assessment.md](quick-assessment.md) and [detail-assessment.md](detail-assessment.md) — *needs review.*
+**Draft:** [adoption-maturity.md](adoption-maturity.md), with [quick-assessment.md](quick-assessment.md) — *needs review.* The Detailed Assessment instrument is maintained privately (see the note below).
 
 ### Measurement Framework — Metrics and Indicators
 Practitioner-facing layer for the 3E and 8 Values measurement models: concrete metrics, indicators, and thresholds for each dimension across OSM, PTS, and CVDM, with the leading and lagging signals that indicate the system is working at each architecture level. Includes the **8 Values Minimum Viable Signal Set** (embedded) and defines the **reference (v1) thresholds** for the detailed assessment's † criteria — which lets the assessment lift its "Mature-pending" cap once reviewed. *3E Aggregation* and *3E Benchmarking* depend on it; field calibration of the thresholds is gated on real assessment runs.
 **Draft:** [metrics-and-indicators.md](metrics-and-indicators.md) — *needs review.*
 
-> **Note:** The IIVCS assessment *solution* (the build inputs and the application that runs the detailed assessment and tracks maturity over time) is developed in a **separate private repository**, not here. This public repo carries the assessment *methodology* — the maturity model and the quick/detailed instruments.
+> **Note:** The IIVCS **Detailed Assessment** instrument — and the assessment *solution* built on it (the build inputs and the application that runs it and tracks maturity over time) — are maintained in a **separate private repository**, not here. This public repo carries the openly published assessment *methodology*: the Adoption Sequencing & Maturity Model and the Quick Self-Assessment.
 
 ---
 

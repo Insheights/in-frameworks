@@ -121,7 +121,7 @@ For an organization without full 3E and AER instrumentation, this is the **singl
 
 ### Reference thresholds for the Detailed Assessment's † criteria
 
-The [Detailed Assessment](detail-assessment.md) marks seven criteria **†** — they depend on a threshold this guide defines. The table below promotes the assessment's provisional v0 defaults to the **reference thresholds (v1)**. Publishing these is what the assessment refers to as lifting its *Mature-pending* cap: the Developing→Mature boundary now rests on a stated bar, not open room judgment.
+The Detailed Assessment marks seven criteria **†** — they depend on a threshold this guide defines. The table below promotes the assessment's provisional v0 defaults to the **reference thresholds (v1)**. Publishing these is what the assessment refers to as lifting its *Mature-pending* cap: the Developing→Mature boundary now rests on a stated bar, not open room judgment.
 
 | † Criterion | Reference threshold (v1) | Signal / source | Review cadence |
 |---|---|---|---|
@@ -170,7 +170,7 @@ This guide makes the measurement models operable: concrete 3E metrics by dimensi
 
 Measure leading signals early and often, confirm with lagging ones, read the Use → Feel → Achieve sequence rather than isolated cells, and calibrate every band to your own baseline until benchmarks exist.
 
-See [3E](3e.md), [8 Values](8-values.md), [AER](aer.md), and the [Detailed Assessment](detail-assessment.md).
+See [3E](3e.md), [8 Values](8-values.md), and [AER](aer.md).
 
 ---
 

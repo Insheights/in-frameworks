@@ -4,13 +4,13 @@
 
 ---
 
-This is the fast self-orientation tool for the [Adoption Sequencing & Maturity Model](adoption-maturity.md). For a rigorous, scored evaluation that produces a full maturity profile, use the [IIVCS Detailed Assessment](detail-assessment.md).
+This is the fast self-orientation tool for the [Adoption Sequencing & Maturity Model](adoption-maturity.md). For a rigorous, scored evaluation that produces a full maturity profile, use the IIVCS Detailed Assessment.
 
-For each IIVCS element, pick the **highest statement that is *fully* true** today. Each maps to a maturity level: **a = Early, b = Developing, c = Mature.** If a statement is only partly true, you have not reached that level — pick the one below. (This mirrors the gated scoring in the [Detailed Assessment](detail-assessment.md): you earn a level by clearing it, not by getting close.)
+For each IIVCS element, pick the **highest statement that is *fully* true** today. Each maps to a maturity level: **a = Early, b = Developing, c = Mature.** If a statement is only partly true, you have not reached that level — pick the one below. (This mirrors the gated scoring in the Detailed Assessment: you earn a level by clearing it, not by getting close.)
 
 > **Assess one value stream at a time.** IIVCS maturity is about how the frameworks connect to deliver value — and they connect *on a value stream*. Answer for a single, named value stream, not the whole organization at once.
 
-> **Who answers it.** A single leader can run this quick check for a directional read — but having a few people (strategy, operating model, delivery, measurement) **answer independently and then compare** gives a truer answer: each role sees only its own layer, and where their answers diverge is itself a finding. For the rigorous version of this — independent scoring, evidence, and gated levels with defined roles — use the [Detailed Assessment](detail-assessment.md#who-participates).
+> **Who answers it.** A single leader can run this quick check for a directional read — but having a few people (strategy, operating model, delivery, measurement) **answer independently and then compare** gives a truer answer: each role sees only its own layer, and where their answers diverge is itself a finding. For the rigorous version of this — independent scoring, evidence, and gated levels with defined roles — use the Detailed Assessment.
 
 ---
 
@@ -64,7 +64,7 @@ For each IIVCS element, pick the **highest statement that is *fully* true** toda
 2. **Find your weakest *connected* link.** Not the weakest element in isolation, but the weakest point in the chain strategy → operating model → delivery → feedback (questions 1 → 2 → 3 → 7). That break is where value leaks out of the system, and it is your adoption priority.
 3. **Read your starting point** from [Adoption Sequencing](adoption-maturity.md#adoption-sequencing--where-to-start) in the Maturity Model, based on where the break is.
 
-> **Want the full picture?** This quick check is directional only — a one-question read per element, no evidence test. The [IIVCS Detailed Assessment](detail-assessment.md) applies evidence-anchored, gated criteria across all eight components and produces a maturity profile with strengths, constraint, and adoption priority. Use this to orient; use the detailed assessment to decide.
+> **Want the full picture?** This quick check is directional only — a one-question read per element, no evidence test. The IIVCS Detailed Assessment applies evidence-anchored, gated criteria across all eight components and produces a maturity profile with strengths, constraint, and adoption priority. Use this to orient; use the detailed assessment to decide.
 
 > **What a level means.** Maturity here is **adoption fidelity** — the frameworks present and connected — not proof of value created. A Mature reading means the machinery is in place and wired together, not that the organization is yet creating more value.
 
@@ -73,7 +73,7 @@ For each IIVCS element, pick the **highest statement that is *fully* true** toda
 ## Related
 
 - [Adoption Sequencing & Maturity Model](adoption-maturity.md) — what early/developing/mature looks like, and where to start
-- [IIVCS Detailed Assessment](detail-assessment.md) — the full scored instrument
+- **IIVCS Detailed Assessment** — the full scored instrument; maintained privately, available through an Insheights engagement
 - [Framework Positioning](positioning.md) — how OSM, PTS, and CVDM relate
 
 ---
