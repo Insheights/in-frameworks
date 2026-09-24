@@ -56,6 +56,7 @@ Candidate metrics per dimension, with the architecture level they suit, signal t
 | Engagement depth / active-use frequency | Product/Service, Value Stream | Whether value is actively used, not just accessed | Usage analytics | Baseline-relative; At risk: declining active use |
 | Customer-facing team sentiment | Value Stage | Qualitative read of how value is landing | Team feedback / CRM notes | A leading qualitative flag; corroborate with a behavioral signal |
 | Team adoption & engagement of the operating model (Org AER) | Value Stream (PTS) | Whether *teams* feel and engage with the way of working | Org AER instrumentation, eNPS | At risk: falling adoption/engagement of the model |
+| Strategy clarity & belief (OSM) | Organization, Value Stream | Whether leaders and teams can state the top priority, why it wins, and one thing ruled out — and believe it can succeed | Strategy clarity check (3 open questions + 1 belief rating), sampled at each quarterly decision forum | v1 reference: At risk below two in three answers consistent with the Strategy Kernel; Watch on flat clarity with falling belief |
 
 ### Effectiveness — Achieve *(lagging, outcome)*
 

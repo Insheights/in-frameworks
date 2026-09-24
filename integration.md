@@ -163,6 +163,8 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 
 | Existing Practice | Connects at | What It Provides |
 |---|---|---|
+| Strategy-formulation methods (Playing to Win, Rumelt's kernel, Porter, Blue Ocean, Wardley mapping) | Strategic Value Creation — diagnosis and strategic choices | The analysis behind the diagnosis, the where-to-play and how-to-win choices; OSM requires the outputs, not a particular method |
+| Hoshin Kanri | Cascade and coherence across levels | Catchball alignment and the X-matrix for cascading priorities and checking their coherence |
 | OKRs | Governance & Measurement cycle | Time-bound objectives and measurable key results for strategic commitments |
 | ERM | Strategic Value Creation inputs | Enterprise risk signal as a constraint on strategic options |
 | TOGAF / BIZBOK | Architecture governance layer | Architecture review and governance processes for OSM's deployment decisions |

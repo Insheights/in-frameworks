@@ -47,6 +47,8 @@ Together — the coherent system and the dual-track measurement within it — ar
 
 How organizations translate strategic intent into prioritized value creation outcomes. OSM connects Values, Mission, and Vision through a Strategic Value Creation process informed by internal/external context, leadership direction, stakeholder/customer expectations, and enterprise risk — then drives execution through a continuous feedback loop between Governance & Measurement and Execution & Deployment by Value Stream.
 
+OSM both formulates and governs strategy. Strategic Value Creation **diagnoses** the critical challenge the organization faces, makes explicit **strategic choices** — where to play, where not to play, and how to win (in non-competitive contexts, the theory of change) — and translates them into ranked, outcome-stated **value priorities**, each resting on written assumptions. Execution & Deployment commits resources to those priorities in rank order through value streams; Governance & Measurement tests the assumptions against execution signal and revises the strategy.
+
 The organization approaches Strategic Value Creation with a Product Mindset — strategies are living hypotheses, continuously tested and refined as execution generates signal. Strategy inputs are never static: market shifts, stakeholder expectations, and delivery outcomes continuously feed back into strategic reassessment. Product Mindset maturity — the organization's readiness to operate this way — is an internal context factor that shapes which strategies are realistic and executable.
 
 Value Streams — the pre-existing business workflows and capabilities through which value is created and delivered — are the organizing unit of execution across OSM, PTS, and CVDM. 
@@ -67,7 +69,7 @@ Each Product Mindset principle has a direct role in OSM:
 | Customer obsession | Stakeholder & Customer Expectations is a direct input to Strategic Value Creation — customer needs shape where value priorities are set |
 | Outcome over output | Strategic Objectives are defined as Outcomes and Value Priorities, not activities or deliverables |
 | Continuous discovery | Strategy inputs are never static — market shifts, stakeholder expectations, and delivery outcomes continuously feed back into strategic reassessment |
-| Hypothesis-driven thinking | Strategies are living hypotheses — Governance & Measurement tests whether strategic bets are generating expected outcomes |
+| Hypothesis-driven thinking | Strategies are living hypotheses — each value priority records the assumptions it rests on and the evidence that would refute them, and Governance & Measurement tests them as execution generates signal |
 | Cross-functional ownership | Execution & Deployment is organized by Value Stream, not by department or function — ownership cuts across organizational boundaries |
 
 ![OSM Diagram](diagrams/osm.png)

@@ -16,6 +16,8 @@
 | **Key outputs** | A 3E profile for the element; a diagnostic reading (which dimension is underperforming and why); a measurement cadence |
 | **Typical timeframe** | Initial profile: one working session. Ongoing measurement: aligned to CVDM feedback loop cadence |
 
+> **New to the IIVCS?** This guide uses system terms — architecture elements (value stream, value stage, capability, process), AER, the 8 Values, OSM, PTS, CVDM — defined in the [Glossary](../glossary.md). The model itself is set out in [3E](../3e.md); read it first if you are starting here.
+
 > **Not a product organization?** "Product/Service" → "program/service"; "customer" → "patient/client/citizen/beneficiary"; "team" → "delivery unit."
 
 ---

@@ -16,6 +16,8 @@
 | **Key outputs** | A journey-to-value-stream map; defined value stages with value propositions; operationalized capabilities/processes; 3E + Customer AER instrumentation; five active feedback loops |
 | **Typical timeframe** | Initial map and instrumentation: one to two working sessions per value stream. Feedback loops: continuous thereafter |
 
+> **New to the IIVCS?** This guide uses system terms — value stream, value stage, capability, value proposition, 3E, AER, the 8 Values, OSM, PTS, Product Mindset — defined in the [Glossary](../glossary.md). [Framework Positioning](../positioning.md) explains how CVDM relates to the other frameworks in a few minutes; read it first if you are starting here.
+
 > **Not a product organization?** "Customer" → "patient / citizen / client"; "product/service" → "program / pathway / engagement"; "journey" → "patient pathway / case lifecycle." The realization logic is unchanged — only the vocabulary shifts. See [Translation Notes](#translation-notes).
 
 > **Where this fits:** CVDM is the delivery and realization layer of the IIVCS — where value is **realized** as a customer outcome. It is **enabled** by the teams and capabilities PTS supplies, **realizes** the value-stream outcomes OSM defined, and returns operational feedback to PTS and strategic-evolution signal to OSM. It is the home of **Customer AER** and where **3E** is primarily surfaced. See [Framework Positioning](../positioning.md).

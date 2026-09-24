@@ -56,13 +56,21 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 | **Lagging indicator** | A signal that confirms an outcome after the fact (Effectiveness; AER Retention; most 8 Values signals). |
 | **Compounding** | The property that value dimensions reinforce and amplify each other over time, rather than operating independently. |
 | **Elements of Value** | Bain & Company's research taxonomy — 30 B2C and 40 B2B elements of what customers value. 3E maps to all 70. |
+| **Value priority** | A strategic objective set in OSM, stated as an outcome (not an activity or deliverable), ranked against the others, and resting on written assumptions. |
+| **Value-stream outcome** | The business intent a value stream exists to produce, defined by OSM, delivered through PTS, and evidenced by customer outcomes. It is not simply the sum of what teams deliver. |
+| **Diagnosis (crux)** | The one or two critical challenges a strategy must overcome, and why they are hard. A diagnosis names the obstacle; a context description only describes the situation. |
+| **Strategic choices** | The explicit OSM decisions about where to play, where not to play, and how to win. |
+| **How to win / theory of change** | Why the chosen customers will choose the organization over the alternatives, and the hard-to-copy advantage that makes this deliverable. In non-competitive contexts, the theory of change: why this approach will produce the outcome when past efforts did not. |
+| **Strategy Kernel** | The one-page OSM artifact that holds the diagnosis and the strategic choices. |
+| **Priority Register** | The living OSM artifact that holds the ranked value priorities. Each entry records the outcome, target, and date; the crux it addresses; its key assumptions and the tests that would refute them; its horizon, value stream, owner, committed resources, and measurement frame. |
+| **Strategic assumption** | A belief a value priority depends on, written with the evidence that would refute it and when that evidence will be checked. OSM's feedback loop tests it. |
 | **System health indicator** | A signal that confirms a framework is working — generating executable strategy / delivering against priorities / producing customer outcomes — not merely being followed. |
 
 ---
 
 ## External Frameworks Referenced
 
-Frameworks the IIVCS comparison documents position against. Listed for reference; see the comparison docs for detail.
+Frameworks the IIVCS comparison, integration, and guide documents reference. Listed for reference; see those documents for detail.
 
 | Term | Definition |
 |---|---|
@@ -70,6 +78,10 @@ Frameworks the IIVCS comparison documents position against. Listed for reference
 | **Balanced Scorecard (BSC)** | Kaplan & Norton's four-perspective strategic measurement framework (Financial, Customer, Internal Process, Learning & Growth). |
 | **ESG / GRI / SASB / TCFD / ISSB** | Environmental, Social, Governance disclosure standards and the bodies that set them (Global Reporting Initiative; Sustainability Accounting Standards Board; Task Force on Climate-related Financial Disclosures; International Sustainability Standards Board). |
 | **OKRs** | Objectives & Key Results — a goal-alignment and progress-tracking system. |
+| **Hoshin Kanri** | A strategy-deployment method that cascades breakthrough objectives through the organization by negotiated alignment ("catchball"), often using the X-matrix. |
+| **Rumelt's strategy kernel** | From *Good Strategy / Bad Strategy*: diagnosis, guiding policy, and coherent actions. The minimum structure of a real strategy. |
+| **Playing to Win** | Lafley & Martin's strategy-formulation framework of five cascading choices: winning aspiration, where to play, how to win, must-have capabilities, and management systems. |
+| **Porter — competitive strategy** | Michael Porter's competitive-analysis tools (Five Forces, value chain, generic strategies) for understanding industry structure and competitive advantage. |
 | **EFQM / RADAR** | EFQM Excellence Model — European organizational quality framework; RADAR (Results, Approaches, Deployment, Assessment & Refinement) is its scoring method. |
 | **TOGAF / BIZBOK / ArchiMate** | Enterprise Architecture frameworks and modeling language. |
 | **SAFe** | Scaled Agile Framework — enterprise agile delivery framework. |

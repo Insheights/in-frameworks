@@ -19,7 +19,7 @@ For each IIVCS element, pick the **highest statement that is *fully* true** toda
 **1. OSM — Strategy & Governance.** How are your strategic priorities expressed and governed?
 - **a)** As initiatives or activities in a plan; not governed by value stream
 - **b)** As outcomes mapped to some value streams; reviewed but rarely revised
-- **c)** As value-stream-governed outcomes, revised on dual-track AER + 8 Values signal
+- **c)** As value-stream-governed outcomes grounded in explicit choices (where to play, how to win) and written assumptions, revised on dual-track AER + 8 Values signal
 
 **2. PTS — Operating Model.** How are delivery teams organized?
 - **a)** Project teams by function, assembled and disbanded per initiative, with handoffs

@@ -16,6 +16,8 @@
 | **Key outputs** | An 8 Values profile; a compounding diagnosis; a prioritized action list; an IR 6 Capitals translation for external reporting |
 | **Typical timeframe** | Initial profile: one to two working sessions. Ongoing review: aligned to OSM governance cadence — typically quarterly, with out-of-cycle triggers defined in Step 5 |
 
+> **New to the IIVCS?** This guide uses system terms — 3E, Customer and Organizational AER, compounding, value stream, OSM, PTS, CVDM — defined in the [Glossary](../glossary.md). The model itself is set out in [8 Values](../8-values.md); read it first if you are starting here.
+
 > **Not a product organization?** "Product team" → "delivery team"; "customer" → "patient/client/citizen/beneficiary"; "value stream" → "service stream/program stream." The eight value dimensions are universal — only the vocabulary of what generates them shifts by sector.
 
 ---

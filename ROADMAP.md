@@ -7,7 +7,7 @@
 > **Status:** The practitioner-guide, maturity-model, and *Metrics and Indicators* items are **draft ready, needs review** — first drafts written, committed, and linked from the README, pending review and refinement before being considered final.
 
 ### Practitioners Guide — OSM
-A step-by-step guide for practitioners applying the Organization Strategy Model. Covers how to run the strategy development process, align stakeholders, translate Vision into Strategic Objectives, and set up Governance & Measurement cadences. Includes worked examples of applying 3E measurement at the strategic level and generating the Values that OSM most directly drives: Strategic Value and Innovation Value. Includes OSM-specific system health indicators and a translation note for non-product organizational contexts.
+A step-by-step guide for practitioners applying the Organization Strategy Model. Covers the full formulation-to-governance run: diagnosing the crux, making explicit strategic choices (where to play and not play, how to win or theory of change), setting ranked, outcome-stated priorities with written assumptions, committing resources in rank order through value streams, and governing through a feedback loop that tests those assumptions. Defines the three OSM artifacts (Strategy Kernel, Priority Register, decision log), the strategy clarity check as OSM's Experience instrument, and how OSM maps to existing strategy methods (Rumelt, Playing to Win, Porter, Hoshin Kanri, OKRs). Includes worked examples, OSM-specific system health indicators, and a translation note for non-product contexts. It also covers both earlier *OSM Framework Refinements*: values as a constraint on strategic choices (a values screen, plus values-conduct signals in governance) and cross-level conflict resolution (settled by the ranking, and escalated as an executability signal).
 **Draft:** [guides/osm-practitioners-guide.md](guides/osm-practitioners-guide.md) — *needs review.*
 
 ### Practitioners Guide — PTS
@@ -51,7 +51,7 @@ Extends the 8 Values from a set of positive dimensions to a model that also hand
 Guidance on running the transition itself — moving an organization from current to envisioned state — not just measuring whether it took (Organizational AER). Frames the change practice around the integrated methods already referenced (ADKAR, Kotter, McKinsey 7-S in aer-comparison.md) and the POM Enablers, giving practitioners a native path through resistance, sequencing, and enablement rather than only a maturity target. Pairs with the *Adoption Sequencing & Maturity Model*, which says where to start but not how to move.
 
 ### Templates and Canvases
-Downloadable, reusable artifacts that turn the practitioner guides from readable to usable: a strategy-to-value-driver canvas (OSM), a journey-to-value-stream mapping template (CVDM), a 3E instrumentation worksheet, and an 8 Values reading sheet. Depends on the practitioner guides being finalized.
+Downloadable, reusable artifacts that turn the practitioner guides from readable to usable: an OSM Strategy Kernel and Priority Register canvas, a journey-to-value-stream mapping template (CVDM), a 3E instrumentation worksheet, and an 8 Values reading sheet. Depends on the practitioner guides being finalized.
 
 ---
 
@@ -71,9 +71,6 @@ Testability criteria for the system's core connection claims. Defines what obser
 
 ### AI Augmentation Specifics
 Guidance on how AI fits into each framework — scenario modeling in OSM, telemetry and decision support in PTS, journey personalization and signal detection in CVDM.
-
-### OSM Framework Refinements
-(1) Values as a constraint on strategy — a mechanism for values to reject strategic options. (2) Cross-level conflict resolution (Organization → Enterprise/Function → Portfolio) integrated as existing-practice plug points.
 
 ### PTS Framework Refinements
 (1) Platform team role — mandate and interaction model for Core, Shared, and Platform-Enabled teams. (2) POM Enabler feedback path. (3) Support phase reframed as a continuous operating mode.
