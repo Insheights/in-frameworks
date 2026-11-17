@@ -128,7 +128,7 @@ Each Product Mindset principle has a direct home in CVDM:
 | Hypothesis-driven thinking | Each Value Stage in CVDM is a testable assumption about how value is delivered |
 | Cross-functional ownership | CVDM's Capability and Process require teams to own end-to-end delivery, not hand-offs |
 
-![CVDM Diagram](diagrams/cvdm-layered.png)
+![CVDM Diagram](diagrams/cvdm-layered.svg)
 
 ---
 
