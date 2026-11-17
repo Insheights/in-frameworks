@@ -126,7 +126,7 @@
   <!-- 3. G&M -> ERM (two-line label below the line, as CVDM) -->
   <path class="fb" d="M528,756 H608"/>
   <text class="lblf" x="566" y="772" text-anchor="middle">3. risk</text>
-  <text class="lblf" x="566" y="786" text-anchor="middle">exposure</text>
+  <text class="lblf" x="566" y="788" text-anchor="middle">exposure</text>
 
   <!-- 4. G&M -> SVC -->
   <path class="fb" d="M412.8,696 V560"/>
