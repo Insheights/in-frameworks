@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1110" height="973" viewBox="0 0 1110 973" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <title>Product Transformation System (PTS)</title>
+  <!--
+    Layout
+    - Main column x=160..940 (780 wide). POM Enablers brace on the left; Business / Customer Outcomes chevron on the right (x=960..1090).
+    - POM Enablers: Leadership, Practices and Behaviors, Organizational Architecture, Culture and Relationships (y=130..404).
+    - Objectives, Outcomes & Priorities by Value Stream (y=416..486), linked two-way to the Product Team.
+    - Persistent Cross Functional Product Team (y=542..882): six phase columns, 108 wide with 20 gaps (x=176..924),
+      a Continuous Feedback band across them and Product Mindset beneath.
+    - Product Management brace under the phases.
+    - Same visual language as osm.svg and cvdm-layered.svg (fonts, arrowheads, label beside its line, no background).
+  -->
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#DCE2E8"/>
+    </pattern>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7A8591"/>
+    </marker>
+    <marker id="ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3A87D9"/>
+    </marker>
+    <marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#FFFFFF"/>
+    </marker>
+    <style>
+      .work  { fill: none; stroke: #7A8591; stroke-width: 2.5; marker-end: url(#ag); }
+      .fb    { fill: none; stroke: #3A87D9; stroke-width: 2.5; marker-end: url(#ab); }
+      .lblf  { font-size: 13px; fill: #3B4652; font-style: italic; }
+      .wa    { fill: none; stroke: #FFFFFF; stroke-width: 4; marker-end: url(#aw); }
+      .brace { fill: none; stroke: #3A87D9; stroke-width: 2; }
+      .lbl   { font-size: 13px; fill: #3B4652; }
+      .h     { font-size: 13px; font-weight: 700; }
+      .t     { font-size: 13px; }
+      .s     { font-size: 12.5px; }
+      .dark  { fill: #2E3A46; }
+      .wht   { fill: #FFFFFF; }
+      .ph    { font-size: 14px; font-weight: 700; text-anchor: middle; }
+      .phs   { font-size: 12.5px; font-weight: 700; text-anchor: middle; }
+      .chev  { font-size: 13px; font-weight: 700; fill: #FFFFFF; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1110" height="973" fill="#F1F4F7"/>
+  <rect width="1110" height="973" fill="url(#dots)"/>
+
+  <!-- title -->
+  <text x="160" y="40" font-size="20" font-weight="700" fill="#2E3A46">Product Transformation System (PTS)</text>
+  <text x="160" y="66" font-size="15" fill="#3B4652">Product Operating Model | Cross Functional Team | Value Stream Outcome Delivery</text>
+  <text x="160" y="88" font-size="12.5" fill="#3B4652">How organizations build the capability to create value through the interplay of strategy, product operating model enablers,</text>
+  <text x="160" y="106" font-size="12.5" fill="#3B4652">product management activities, and product mindset enabled by AI to drive outcomes.</text>
+
+  <!-- ===================== POM ENABLERS ===================== -->
+
+  <path class="brace" d="M150,130 Q140,130 140,140 V248 Q140,258 130,258 Q140,258 140,268 V376 Q140,386 150,386"/>
+  <text class="h dark" x="124" y="225" text-anchor="end">Product</text>
+  <text class="h dark" x="124" y="242" text-anchor="end">Operating</text>
+  <text class="h dark" x="124" y="259" text-anchor="end">Model</text>
+  <text class="h dark" x="124" y="276" text-anchor="end">POM</text>
+  <text class="h dark" x="124" y="293" text-anchor="end">Enablers</text>
+
+  <rect x="160" y="130" width="780" height="34" rx="3" fill="#C5D0DA"/>
+  <text class="s dark" x="170" y="152"><tspan font-weight="700">Leadership</tspan> - Strategic Context, Strategy, Vision, Outcomes &amp; Priorities, Decision Making, Empowerment, Coaching</text>
+
+  <rect x="160" y="172" width="780" height="34" rx="3" fill="#C5D0DA"/>
+  <text class="s dark" x="170" y="194"><tspan font-weight="700">Practices and Behaviors</tspan> - Principles, Ways of Working, Performance Management, Experiments, Telemetry</text>
+
+  <rect x="160" y="214" width="780" height="130" rx="3" fill="#C5D0DA"/>
+  <text class="s dark" x="170" y="236" font-weight="700">Organizational Architecture</text>
+  <text class="s dark" x="170" y="256"><tspan font-style="italic">People</tspan> - Team Topologies, Roles &amp; Responsibilities, Hiring, Career Paths</text>
+  <text class="s dark" x="170" y="274"><tspan font-style="italic">Work flows</tspan> - User/Customer Journeys, Value Streams, Capabilities, Processes, Business Domain Language</text>
+  <text class="s dark" x="170" y="292"><tspan font-style="italic">Governance</tspan> - Portfolio/Funding, Planning/Cadences, IAM/Security, Regulation/Compliance/Privacy/Risk, Change,</text>
+  <text class="s dark" x="170" y="310">Data/AI, AI-Ethics, Decision Rights &amp; Guardrails</text>
+  <text class="s dark" x="170" y="328"><tspan font-style="italic">Technology</tspan> - Enterprise IT, Data/AI/ML, Platforms, DevOps, AI/ML-Ops, DevEx, Applications, Integration, Monitoring</text>
+
+  <rect x="160" y="352" width="780" height="34" rx="3" fill="#C5D0DA"/>
+  <text class="s dark" x="170" y="374"><tspan font-weight="700">Culture and Relationships</tspan> - Team Dynamics &amp; norms, Stakeholder Relationships, Collaboration, Psychological Safety, Learning</text>
+
+  <!-- everything below the enablers sits 18px higher since Culture and Relationships became one line -->
+  <g transform="translate(0,-18)">
+  <!-- ===================== OBJECTIVES BY VALUE STREAM ===================== -->
+
+  <rect x="160" y="416" width="780" height="70" rx="3" fill="#CC4458"/>
+  <text class="h wht" x="550" y="440" text-anchor="middle">Objectives, Outcomes &amp; Priorities by Value Stream</text>
+  <text class="h wht" x="550" y="459" text-anchor="middle">(Leaders - set Outcomes/OKRs, Fund Teams, Allocate to Outcomes,</text>
+  <text class="h wht" x="550" y="478" text-anchor="middle">Review Progress, Re-prioritize/Re-allocate)</text>
+
+  <!-- two-way link: objectives <-> product team -->
+  <!-- work: leaders set outcomes for the team (down); feedback: results & learnings drive re-prioritization (up) -->
+  <path class="work" d="M520,486 V538"/>
+  <text class="lbl" x="512" y="519" text-anchor="end">sets outcomes</text>
+  <path class="fb" d="M580,542 V490"/>
+  <text class="lblf" x="590" y="519">results &amp; learnings drive priority changes &amp; reallocation</text>
+
+  <!-- ===================== PRODUCT TEAM ===================== -->
+
+  <rect x="160" y="542" width="780" height="326" rx="3" fill="#D5DDE4"/>
+  <text class="h dark" x="550" y="564" text-anchor="middle">Persistent Cross Functional Product Team</text>
+  <text class="h dark" x="550" y="582" text-anchor="middle">(Value Stream-Aligned | Core + Shared + Platform-Enabled)</text>
+
+  <!-- phase columns (108 wide, 20 gaps) -->
+  <rect x="176" y="600" width="108" height="236" rx="3" fill="#2E7867"/>
+  <text class="ph wht" x="230" y="624">Discover</text>
+
+  <rect x="304" y="600" width="108" height="236" rx="3" fill="#2E7867"/>
+  <text class="ph wht" x="358" y="624">Define</text>
+
+  <rect x="432" y="600" width="108" height="236" rx="3" fill="#F2C200"/>
+  <text class="ph dark" x="486" y="624">Develop</text>
+
+  <rect x="560" y="600" width="108" height="236" rx="3" fill="#F2C200"/>
+  <text class="ph dark" x="614" y="624">Deliver</text>
+
+  <rect x="688" y="600" width="108" height="236" rx="3" fill="#3FAF9C"/>
+  <text class="ph wht" x="742" y="624">Launch/</text>
+  <text class="phs wht" x="742" y="642">Drive Adoption</text>
+  <text class="phs wht" x="742" y="659">(GTM/</text>
+  <text class="phs wht" x="742" y="676">Enablement)</text>
+
+  <rect x="816" y="600" width="108" height="236" rx="3" fill="#3F87DE"/>
+  <text class="ph wht" x="870" y="624">Support</text>
+  <text class="phs wht" x="870" y="642">(Run/</text>
+  <text class="phs wht" x="870" y="659">Incident/</text>
+  <text class="phs wht" x="870" y="676">Improve)</text>
+
+  <!-- continuous feedback band -->
+  <rect x="168" y="756" width="764" height="50" rx="3" fill="#E57E2C"/>
+  <text class="h wht" x="550" y="786" text-anchor="middle" font-size="14">Continuous Feedback, Learn (Measure), Decide (Prioritize), Iterate</text>
+  <!-- learn (up) / decide (down) arrows on each phase, straddling the band's top edge as in the original -->
+  <g fill="#FFFFFF">
+    <polygon points="220,738 228,750 223,750 223,766 217,766 217,750 212,750"/>
+    <polygon points="237,744 243,744 243,760 248,760 240,772 232,760 237,760"/>
+    <polygon points="348,738 356,750 351,750 351,766 345,766 345,750 340,750"/>
+    <polygon points="365,744 371,744 371,760 376,760 368,772 360,760 365,760"/>
+    <polygon points="476,738 484,750 479,750 479,766 473,766 473,750 468,750"/>
+    <polygon points="493,744 499,744 499,760 504,760 496,772 488,760 493,760"/>
+    <polygon points="604,738 612,750 607,750 607,766 601,766 601,750 596,750"/>
+    <polygon points="621,744 627,744 627,760 632,760 624,772 616,760 621,760"/>
+    <polygon points="732,738 740,750 735,750 735,766 729,766 729,750 724,750"/>
+    <polygon points="749,744 755,744 755,760 760,760 752,772 744,760 749,760"/>
+    <polygon points="860,738 868,750 863,750 863,766 857,766 857,750 852,750"/>
+    <polygon points="877,744 883,744 883,760 888,760 880,772 872,760 877,760"/>
+  </g>
+
+
+  <!-- product mindset -->
+  <rect x="176" y="836" width="748" height="32" rx="3" fill="#8A7B58"/>
+  <text class="h wht" x="550" y="857" text-anchor="middle">Product Mindset</text>
+
+  <!-- ===================== PRODUCT MANAGEMENT ===================== -->
+
+  <path class="brace" d="M176,874 Q176,884 186,884 H540 Q550,884 550,894 Q550,884 560,884 H914 Q924,884 924,874"/>
+  <text class="h dark" x="550" y="916" text-anchor="middle">Product Management</text>
+  <text class="t dark" x="550" y="934" text-anchor="middle">Primary Activities - continuous &amp; overlapping (not sequential phases), AI augmented</text>
+  </g>
+
+  <!-- ===================== OUTCOMES CHEVRON ===================== -->
+
+  <polygon points="960,130 1040,130 1090,490 1040,850 960,850" fill="#2E7867"/>
+  <g class="chev">
+    <text x="985" y="200">B</text><text x="985" y="222">U</text><text x="985" y="244">S</text><text x="985" y="266">I</text>
+    <text x="985" y="288">N</text><text x="985" y="310">E</text><text x="985" y="332">S</text><text x="985" y="354">S</text>
+    <g transform="translate(0,-16)">
+    <text x="1018" y="429">O</text><text x="1018" y="451">U</text><text x="1018" y="473">T</text><text x="1018" y="495">C</text>
+    <text x="1018" y="517">O</text><text x="1018" y="539">M</text><text x="1018" y="561">E</text><text x="1018" y="583">S</text>
+    </g>
+    <g transform="translate(0,-32)">
+    <text x="985" y="660">C</text><text x="985" y="682">U</text><text x="985" y="704">S</text><text x="985" y="726">T</text>
+    <text x="985" y="748">O</text><text x="985" y="770">M</text><text x="985" y="792">E</text><text x="985" y="814">R</text>
+    </g>
+  </g>
+
+  <g transform="translate(0,-18)">
+  <!-- legend -->
+  <text x="30" y="640" font-size="12" fill="#3B4652">work flow</text>
+  <path class="work" d="M30,650 H130"/>
+  <text x="30" y="676" font-size="12" fill="#3B4652" font-style="italic">feedback flow</text>
+  <path class="fb" d="M30,686 H130"/>
+
+  <text x="550" y="974" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
+  </g>
+</svg>
