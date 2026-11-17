@@ -26,7 +26,7 @@
     <style>
       .work  { fill: none; stroke: #7A8591; stroke-width: 2.5; marker-end: url(#ag); }
       .fb    { fill: none; stroke: #3A87D9; stroke-width: 2.5; marker-end: url(#ab); }
-      .lblf  { font-size: 13px; fill: #3B4652; font-style: italic; }
+      .lblf  { font-size: 13px; fill: #2F6FB5; font-style: italic; }
       .wa    { fill: none; stroke: #FFFFFF; stroke-width: 4; marker-end: url(#aw); }
       .brace { fill: none; stroke: #3A87D9; stroke-width: 2; }
       .lbl   { font-size: 13px; fill: #3B4652; }
