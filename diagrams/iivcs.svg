@@ -44,7 +44,7 @@
   <!-- legend: top-right, same spot as the other diagrams -->
   <text x="860" y="34" font-size="12" fill="#3B4652">work flow</text>
   <path class="work" d="M860,44 H960"/>
-  <text x="860" y="70" font-size="12" fill="#3B4652" font-style="italic">feedback flow</text>
+  <text x="860" y="70" font-size="12" fill="#2F6FB5" font-style="italic">feedback flow</text>
   <path class="fb" d="M860,80 H960"/>
 
   <!-- ===================== BANDS ===================== -->

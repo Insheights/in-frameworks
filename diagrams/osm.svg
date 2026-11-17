@@ -63,9 +63,9 @@
   <!-- legend: top-right, same spot and layout in osm.svg, cvdm-layered.svg, pts-detailed.svg -->
   <text x="840" y="34" font-size="12" fill="#3B4652">work flow</text>
   <path class="work" d="M840,44 H940"/>
-  <text x="840" y="70" font-size="12" fill="#3B4652" font-style="italic">feedback flow</text>
+  <text x="840" y="70" font-size="12" fill="#2F6FB5" font-style="italic">feedback flow</text>
   <path class="fb" d="M840,80 H940"/>
-  <text x="840" y="106" font-size="12" fill="#3B4652" font-style="italic">1–5 feedback sequence</text>
+  <text x="840" y="106" font-size="12" fill="#2F6FB5" font-style="italic">1–5 feedback sequence</text>
 
   <!-- ===================== WORK FLOW (verbs) ===================== -->
 
