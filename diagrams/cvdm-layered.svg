@@ -167,13 +167,12 @@
   <rect x="444" y="880" width="192" height="48" rx="3" fill="#6A5AE8"/>
   <text class="c wht" x="540" y="909">Process</text>
 
-  <!-- legend (bottom right) -->
-  <text x="900" y="806" font-size="12" fill="#3B4652">work flow</text>
-  <path class="work" d="M900,816 H1000"/>
-  <text x="900" y="842" font-size="12" fill="#3B4652" font-style="italic">feedback flow</text>
-  <path class="fb" d="M900,852 H1000"/>
-  <text x="900" y="878" font-size="12" fill="#3B4652" font-style="italic">1–5 feedback</text>
-  <text x="900" y="894" font-size="12" fill="#3B4652" font-style="italic">sequence</text>
+  <!-- legend: top-right, same spot and layout in osm.svg, cvdm-layered.svg, pts-detailed.svg -->
+  <text x="940" y="34" font-size="12" fill="#3B4652">work flow</text>
+  <path class="work" d="M940,44 H1040"/>
+  <text x="940" y="70" font-size="12" fill="#3B4652" font-style="italic">feedback flow</text>
+  <path class="fb" d="M940,80 H1040"/>
+  <text x="940" y="106" font-size="12" fill="#3B4652" font-style="italic">1–5 feedback sequence</text>
 
   <text x="525" y="968" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
 </svg>

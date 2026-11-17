@@ -172,11 +172,11 @@
   </g>
 
   <g transform="translate(0,-18)">
-  <!-- legend -->
-  <text x="30" y="640" font-size="12" fill="#3B4652">work flow</text>
-  <path class="work" d="M30,650 H130"/>
-  <text x="30" y="676" font-size="12" fill="#3B4652" font-style="italic">feedback flow</text>
-  <path class="fb" d="M30,686 H130"/>
+  <!-- legend: top-right, same spot and layout in osm.svg, cvdm-layered.svg, pts-detailed.svg (group shifts y by -18) -->
+  <text x="970" y="52" font-size="12" fill="#3B4652">work flow</text>
+  <path class="work" d="M970,62 H1070"/>
+  <text x="970" y="88" font-size="12" fill="#3B4652" font-style="italic">feedback flow</text>
+  <path class="fb" d="M970,98 H1070"/>
 
   <text x="550" y="974" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
   </g>
