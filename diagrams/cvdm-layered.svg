@@ -170,9 +170,9 @@
   <!-- legend: top-right, same spot and layout in osm.svg, cvdm-layered.svg, pts-detailed.svg -->
   <text x="940" y="34" font-size="12" fill="#3B4652">work flow</text>
   <path class="work" d="M940,44 H1040"/>
-  <text x="940" y="70" font-size="12" fill="#3B4652" font-style="italic">feedback flow</text>
+  <text x="940" y="70" font-size="12" fill="#2F6FB5" font-style="italic">feedback flow</text>
   <path class="fb" d="M940,80 H1040"/>
-  <text x="940" y="106" font-size="12" fill="#3B4652" font-style="italic">1–5 feedback sequence</text>
+  <text x="940" y="106" font-size="12" fill="#2F6FB5" font-style="italic">1–5 feedback sequence</text>
 
   <text x="525" y="968" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
 </svg>
