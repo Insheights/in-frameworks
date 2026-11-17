@@ -27,7 +27,7 @@
       .work  { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ag); }
       .fb    { fill: none; stroke: #3A87D9; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ab); }
       .lbl   { font-size: 13px; fill: #3B4652; }
-      .lblf  { font-size: 13px; fill: #3B4652; font-style: italic; }
+      .lblf  { font-size: 13px; fill: #2F6FB5; font-style: italic; }
       .h     { font-size: 13px; font-weight: 700; }
       .t     { font-size: 13px; }
       .ti    { font-size: 13px; font-style: italic; }

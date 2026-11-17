@@ -25,7 +25,7 @@
       .dg    { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-dasharray: 8 6; }
       .dr    { fill: none; stroke: #D9465A; stroke-width: 2.5; stroke-dasharray: 8 6; }
       .lbl   { font-size: 13px; fill: #3B4652; text-anchor: middle; }
-      .lblf  { font-size: 13px; fill: #3B4652; font-style: italic; text-anchor: middle; }
+      .lblf  { font-size: 13px; fill: #2F6FB5; font-style: italic; text-anchor: middle; }
       .bh    { font-size: 14px; font-weight: 700; fill: #FFFFFF; text-anchor: middle; }
       .bt    { font-size: 13px; font-weight: 700; fill: #FFFFFF; text-anchor: middle; }
     </style>
