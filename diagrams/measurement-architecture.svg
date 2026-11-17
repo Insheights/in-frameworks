@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="690" viewBox="0 0 1080 690" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <title>Insheights Measurement Architecture</title>
+  <!--
+    Layout
+    - Side boxes are 192 wide: inputs on the left (x=40) and right (x=848).
+    - Centre column x=300..780: 3E (leading indicators), the AER bridge, 8 Values (lagging indicators).
+    - Inside the bridge: Customer AER x=330..522 and Organization AER x=558..750 (192 wide each).
+    - 3E forks into both AER tracks; both tracks merge into the 8 Values.
+    - All arrows are work flow (grey); no legend needed.
+  -->
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#DCE2E8"/>
+    </pattern>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7A8591"/>
+    </marker>
+    <style>
+      .work { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ag); }
+      .line { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-linejoin: round; }
+      .box  { fill: #FFFFFF; }
+      .h    { font-size: 14px; font-weight: 700; fill: #2E3A46; text-anchor: middle; }
+      .t    { font-size: 13px; fill: #2E3A46; text-anchor: middle; }
+      .cap  { font-size: 12px; fill: #3B4652; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1080" height="690" fill="#F1F4F7"/>
+  <rect width="1080" height="690" fill="url(#dots)"/>
+
+  <!-- title -->
+  <text x="40" y="40" font-size="20" font-weight="700" fill="#2E3A46">Insheights Measurement Architecture</text>
+
+  <!-- ===================== ROW 1: architecture elements -> 3E ===================== -->
+
+  <text class="cap" x="40" y="130">Architecture Elements</text>
+  <rect class="box" x="40" y="140" width="192" height="96" rx="3"/>
+  <text class="t" x="136" y="172">Process | Capability |</text>
+  <text class="t" x="136" y="192">Value Stage | Value Stream |</text>
+  <text class="t" x="136" y="212">Product/Service</text>
+
+  <path class="work" d="M232,188 H296"/>
+
+  <text class="cap" x="780" y="130" text-anchor="end">Leading Indicators</text>
+  <rect class="box" x="300" y="140" width="480" height="96" rx="3"/>
+  <text class="h" x="540" y="172">3E</text>
+  <text class="t" x="540" y="194">Efficiency | Experience | Effectiveness</text>
+  <text class="t" x="540" y="214">measures how value is delivered at every architecture element</text>
+
+
+  <!-- ===================== ROW 2: the AER bridge ===================== -->
+
+  <text class="cap" x="780" y="284" text-anchor="end">Bridge</text>
+  <rect x="300" y="292" width="480" height="162" rx="3" fill="#F5C125"/>
+
+  <rect class="box" x="330" y="318" width="192" height="104" rx="3"/>
+  <text class="h" x="426" y="344">Customer AER</text>
+  <text class="t" x="426" y="366">Adoption</text>
+  <text class="t" x="426" y="386">Engagement</text>
+  <text class="t" x="426" y="406">Retention</text>
+
+  <rect class="box" x="558" y="318" width="192" height="104" rx="3"/>
+  <text class="h" x="654" y="344">Organization AER</text>
+  <text class="t" x="654" y="366">Adoption</text>
+  <text class="t" x="654" y="386">Engagement</text>
+  <text class="t" x="654" y="406">Retention</text>
+
+  <!-- 3E forks into both AER tracks -->
+  <path class="line" d="M540,236 V264"/>
+  <path class="work" d="M540,264 H426 V314"/>
+  <path class="work" d="M540,264 H654 V314"/>
+
+  <!-- side inputs -->
+  <rect class="box" x="40" y="322" width="192" height="96" rx="3"/>
+  <text class="t" x="136" y="364">Customer Journey</text>
+  <text class="t" x="136" y="384">Steps</text>
+  <path class="work" d="M232,370 H326"/>
+
+  <rect class="box" x="848" y="322" width="192" height="96" rx="3"/>
+  <text class="t" x="944" y="354">Product Team &amp;</text>
+  <text class="t" x="944" y="374">Product Operating</text>
+  <text class="t" x="944" y="394">Model</text>
+  <path class="work" d="M848,370 H754"/>
+
+  <!-- both AER tracks merge into the 8 Values -->
+  <path class="line" d="M426,422 V476 H654 V422"/>
+  <path class="work" d="M540,476 V516"/>
+
+  <!-- ===================== ROW 3: 8 Values ===================== -->
+
+  <text class="cap" x="780" y="510" text-anchor="end">Lagging Indicators</text>
+  <rect class="box" x="300" y="520" width="480" height="96" rx="3"/>
+  <text class="h" x="540" y="552">8 Values</text>
+  <text class="t" x="540" y="574">Strategic | Financial | Market | Innovation</text>
+  <text class="t" x="540" y="594">People | Operational | Customer | Impact</text>
+
+  <text x="540" y="664" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
+</svg>

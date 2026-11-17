@@ -20,7 +20,7 @@ The Insheights Integrated Value Creation System (IIVCS) is how organizations def
 | Hypothesis-driven thinking | Every initiative is treated as a testable assumption — teams define what they expect, deliver, and learn from the result |
 | Cross-functional ownership | Teams own the full value delivery chain end-to-end — not individual functions or hand-offs |
 
-![IIVCS Diagram](diagrams/iivcs.png)
+![IIVCS Diagram](diagrams/iivcs.svg)
 
 ---
 
@@ -72,7 +72,7 @@ Each Product Mindset principle has a direct role in OSM:
 | Hypothesis-driven thinking | Strategies are living hypotheses — each value priority records the assumptions it rests on and the evidence that would refute them, and Governance & Measurement tests them as execution generates signal |
 | Cross-functional ownership | Execution & Deployment is organized by Value Stream, not by department or function — ownership cuts across organizational boundaries |
 
-![OSM Diagram](diagrams/osm.png)
+![OSM Diagram](diagrams/osm.svg)
 
 ---
 
@@ -82,7 +82,7 @@ Each Product Mindset principle has a direct role in OSM:
 
 How organizations create value through the interplay of strategy, product operating model enablers, product management activities, and product mindset — enabled by AI to drive outcomes. PTS defines four POM Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) that empower persistent cross-functional product teams to work through continuous, overlapping phases: Discover, Define, Develop, Deliver, Launch, and Support — underpinned by a continuous feedback and learning loop.
 
-![PTS Diagram](diagrams/pts-detailed.png)
+![PTS Diagram](diagrams/pts-detailed.svg)
 
 PTS is where OSM's strategic intent, value priorities, and value streams are:
 
@@ -128,7 +128,7 @@ Each Product Mindset principle has a direct home in CVDM:
 | Hypothesis-driven thinking | Each Value Stage in CVDM is a testable assumption about how value is delivered |
 | Cross-functional ownership | CVDM's Capability and Process require teams to own end-to-end delivery, not hand-offs |
 
-![CVDM Diagram](diagrams/cvdm-layered.png)
+![CVDM Diagram](diagrams/cvdm-layered.svg)
 
 ---
 
@@ -155,7 +155,7 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 
 3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. AER — Adoption, Engagement, Retention — is the behavioral signal layer, measuring how customers respond to value delivery and how organizational teams respond to the operating model across two parallel tracks, neither sufficient without the other. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md), [Insheights AER Behavioral Measurement Model](aer.md), and [Insheights 8 Organizational Values Measurement Model](8-values.md).
 
-![Measurement Architecture](diagrams/measurement-architecture.png)
+![Measurement Architecture](diagrams/measurement-architecture.svg)
 
 ---
 

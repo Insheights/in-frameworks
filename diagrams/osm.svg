@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1010" viewBox="0 0 1000 1010" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <title>Organization Strategy Model (OSM)</title>
+  <!--
+    Layout
+    - Boxes are 192px wide. Columns at x=60, 336, 612 (84px gutters); a full row spans 60..804 = 744px.
+    - Strategic Value Creation (SVC, x=336..528, y=350..556) is the centre column, the same height as the side rows.
+    - Vertical gaps are equal: Values row -> side rows = 140px; side rows -> G&M row = 140px.
+    - Everything is shifted right 20px; the Values -> G&M line runs at x=24 (36px clear of the boxes).
+        top    (3): x = 384 Values | 432 Mission | 480 Vision
+        left   (2): y = 418.7 Internal | 487.3 External
+        right  (2): y = 418.7 Leadership | 487.3 Stakeholders
+        bottom (4): x = 374.4 SVC->G&M | 412.8 G&M->SVC | 451.2 ERM->SVC | 489.6 SVC->ERM
+    - Side rows: Internal / Leadership y=350..434; External / Stakeholders y=446..556.
+    - Governance & Measurement (G&M) x=60..528 (468px); Enterprise Risk Mgmt (ERM) x=612..804, same row y=696..786.
+      G&M right / ERM left pair at y=726, 756. ERM top and bottom pairs at x=676, 740.
+    - Execution & Deployment (E&D) spans the row (744px) at y=866..956.
+
+    Edge labels follow the IIVCS / CVDM convention:
+    - Work flow (grey): a verb, upright.
+    - Feedback flow (blue): the IIVCS feedback name, italic, numbered as the feedback sequence
+      ("N. name"), as CVDM numbers its loops 1-5.
+      1 value-stream outcomes  E&D -> G&M   (G&M reads whether value-stream outcomes are produced)
+      2 value-stream risk      E&D -> ERM   (risks identified at the value-stream level in execution)
+      3 risk exposure          G&M -> ERM   (decisions that change risk exposure go to the risk owner)
+      4 strategic reassessment G&M -> SVC   (assumptions confirmed, retuned or refuted)
+      5 strategic risks        SVC -> ERM   (the risk carried by strategic choices; outside appetite goes to the risk owner)
+    Vocabulary sources: README (OSM), glossary.md, feedback.md, integration.md (ERM), guides/osm-practitioners-guide.md.
+  -->
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#DCE2E8"/>
+    </pattern>
+    <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7A8591"/>
+    </marker>
+    <marker id="ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3A87D9"/>
+    </marker>
+    <style>
+      .work  { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ag); }
+      .fb    { fill: none; stroke: #3A87D9; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ab); }
+      .lbl   { font-size: 13px; fill: #3B4652; }
+      .lblf  { font-size: 13px; fill: #3B4652; font-style: italic; }
+      .h     { font-size: 13px; font-weight: 700; }
+      .t     { font-size: 13px; }
+      .d     { font-size: 12px; }
+      .dark  { fill: #2E3A46; }
+      .wht   { fill: #FFFFFF; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1000" height="1010" fill="#F1F4F7"/>
+  <rect width="1000" height="1010" fill="url(#dots)"/>
+  <g transform="translate(20,0)">
+
+  <!-- title -->
+  <text x="60" y="40" font-size="20" font-weight="700" fill="#2E3A46">Organization Strategy Model (OSM)</text>
+  <text x="60" y="66" font-size="15" fill="#3B4652">Strategic Value Creation | Value Priorities | Value Streams</text>
+  <text x="60" y="88" font-size="12.5" fill="#3B4652">How organizations translate strategic intent into value creation outcomes with systematic governance ensuring</text>
+  <text x="60" y="106" font-size="12.5" fill="#3B4652">investment flows to execution and results continuously refine strategic value priorities</text>
+
+  <!-- legend: top-right, same spot and layout in osm.svg, cvdm-layered.svg, pts-detailed.svg -->
+  <text x="840" y="34" font-size="12" fill="#3B4652">work flow</text>
+  <path class="work" d="M840,44 H940"/>
+  <text x="840" y="70" font-size="12" fill="#3B4652" font-style="italic">feedback flow</text>
+  <path class="fb" d="M840,80 H940"/>
+  <text x="840" y="106" font-size="12" fill="#3B4652" font-style="italic">1–5 feedback sequence</text>
+
+  <!-- ===================== WORK FLOW (verbs) ===================== -->
+
+  <!-- Values / Mission / Vision -> SVC (labels right of each line, share y=254) -->
+  <path class="work" d="M156,210 V290 H384 V346"/>
+  <path class="work" d="M432,210 V346"/>
+  <path class="work" d="M708,210 V290 H480 V346"/>
+  <text class="lbl" x="164" y="254">guides</text>
+  <text class="lbl" x="440" y="254">gives purpose</text>
+  <text class="lbl" x="716" y="254">directs</text>
+
+  <!-- Values -> G&M: outcomes are read against Values (Value-conduct signal) -->
+  <path class="work" d="M60,170 H24 V741 H56"/>
+  <text class="lbl" transform="translate(17,460) rotate(-90)" text-anchor="middle">governs conduct</text>
+
+  <!-- Internal / External Context -> SVC: SVC is "informed by" context -->
+  <path class="work" d="M252,418.7 H332"/>
+  <text class="lbl" x="292" y="412" text-anchor="middle">informs</text>
+  <path class="work" d="M252,487.3 H332"/>
+  <text class="lbl" x="292" y="481" text-anchor="middle">informs</text>
+
+  <!-- Leadership -> SVC: leadership owns direction and decision; Stakeholders -> SVC: customer needs shape priorities -->
+  <path class="work" d="M612,418.7 H532"/>
+  <text class="lbl" x="574" y="412" text-anchor="middle">decides</text>
+  <path class="work" d="M612,487.3 H532"/>
+  <text class="lbl" x="574" y="481" text-anchor="middle">shapes</text>
+
+  <!-- SVC -> G&M: ranked value priorities (with assumptions) are handed to governance -->
+  <path class="work" d="M374.4,556 V692"/>
+  <text class="lbl" x="366" y="675" text-anchor="end">sets value priorities</text>
+
+  <!-- ERM -> SVC: risk appetite constrains value priority setting -->
+  <path class="work" d="M676,696 V630 H451.2 V560"/>
+  <text class="lbl" x="600" y="624" text-anchor="middle">constrains</text>
+
+  <!-- ERM -> G&M: risk signal into the feedback loop -->
+  <path class="work" d="M612,726 H532"/>
+  <text class="lbl" x="575" y="720" text-anchor="middle">flags risk</text>
+
+  <!-- G&M -> E&D: sets the value-stream outcomes execution must produce -->
+  <path class="work" d="M216,786 V862"/>
+  <text class="lbl" x="208" y="830" text-anchor="end">sets value-stream outcomes</text>
+
+  <!-- ERM -> E&D: value-stream risk informs risk-adjusted execution -->
+  <path class="work" d="M676,786 V862"/>
+  <text class="lbl" x="668" y="830" text-anchor="end">flags risk</text>
+
+  <!-- ===================== FEEDBACK FLOW (numbered sequence) ===================== -->
+
+  <!-- 1. E&D -> G&M -->
+  <path class="fb" d="M372,866 V790"/>
+  <text class="lblf" x="380" y="830">1. value-stream outcomes</text>
+
+  <!-- 2. E&D -> ERM -->
+  <path class="fb" d="M740,866 V790"/>
+  <text class="lblf" x="748" y="830">2. value-stream risk</text>
+
+  <!-- 3. G&M -> ERM (two-line label below the line, as CVDM) -->
+  <path class="fb" d="M528,756 H608"/>
+  <text class="lblf" x="566" y="772" text-anchor="middle">3. risk</text>
+  <text class="lblf" x="566" y="788" text-anchor="middle">exposure</text>
+
+  <!-- 4. G&M -> SVC -->
+  <path class="fb" d="M412.8,696 V560"/>
+  <text class="lblf" x="421" y="675">4. strategic reassessment</text>
+
+  <!-- 5. SVC -> ERM -->
+  <path class="fb" d="M489.6,556 V600 H740 V692"/>
+  <text class="lblf" x="560" y="594">5. strategic risks</text>
+
+  <!-- ===================== BOXES (headers top-left) ===================== -->
+
+  <rect x="60" y="130" width="192" height="80" rx="3" fill="#F2C200"/>
+  <text class="h dark" x="70" y="152">Values</text>
+  <text class="d dark" x="70" y="174">What we stand for: principles</text>
+  <text class="d dark" x="70" y="191">that guide conduct and choices</text>
+
+  <rect x="336" y="130" width="192" height="80" rx="3" fill="#3F87DE"/>
+  <text class="h wht" x="346" y="152">Mission</text>
+  <text class="d wht" x="346" y="174">Why we exist: the purpose</text>
+  <text class="d wht" x="346" y="191">we serve today</text>
+
+  <rect x="612" y="130" width="192" height="80" rx="3" fill="#2E7867"/>
+  <text class="h wht" x="622" y="152">Vision</text>
+  <text class="d wht" x="622" y="174">Where we are going: the</text>
+  <text class="d wht" x="622" y="191">future we aim to create</text>
+
+  <rect x="60" y="350" width="192" height="84" rx="3" fill="#C5D0DA"/>
+  <text class="h dark" x="70" y="370">Internal Context</text>
+  <text class="t dark" x="70" y="389">Strength</text>
+  <text class="t dark" x="70" y="407">Weakness</text>
+  <text class="t dark" x="70" y="425">Product Mindset</text>
+
+  <rect x="60" y="446" width="192" height="110" rx="3" fill="#C5D0DA"/>
+  <text class="h dark" x="70" y="468">External Context</text>
+  <text class="t dark" x="70" y="488">Market Opportunities &amp;</text>
+  <text class="t dark" x="70" y="506">Threats</text>
+  <text class="t dark" x="70" y="524">Competitive Dynamics</text>
+
+  <rect x="336" y="350" width="192" height="206" rx="3" fill="#3FAF9C"/>
+  <text class="h wht" x="346" y="372">Strategic Value Creation</text>
+  <text class="t wht" x="346" y="402">Strategic Objectives,</text>
+  <text class="t wht" x="346" y="420">Outcomes and Value</text>
+  <text class="t wht" x="346" y="438">Priorities</text>
+
+  <rect x="612" y="350" width="192" height="84" rx="3" fill="#C5D0DA"/>
+  <text class="h dark" x="622" y="370">Leadership Direction</text>
+  <text class="t dark" x="622" y="389">Executives</text>
+  <text class="t dark" x="622" y="407">Board</text>
+
+  <rect x="612" y="446" width="192" height="110" rx="3" fill="#C5D0DA"/>
+  <text class="h dark" x="622" y="468">Stakeholder &amp; Customer</text>
+  <text class="h dark" x="622" y="485">Expectations</text>
+  <text class="t dark" x="622" y="505">Customers/Users</text>
+  <text class="t dark" x="622" y="523">Employees</text>
+  <text class="t dark" x="622" y="541">Regulators/Partners</text>
+
+  <rect x="60" y="696" width="468" height="90" rx="3" fill="#CC4458"/>
+  <text class="h wht" x="70" y="718">Governance &amp; Measurement</text>
+  <text class="t wht" x="70" y="738">Tracks: OKRs, Scorecards, KPIs by Value Stream</text>
+
+  <rect x="612" y="696" width="192" height="90" rx="3" fill="#CC4458"/>
+  <text class="h wht" x="622" y="718">Enterprise Risk Mgmt</text>
+  <text class="t wht" x="622" y="738">Risk appetite · Risk register</text>
+
+  <rect x="60" y="866" width="744" height="90" rx="3" fill="#E57E2C"/>
+  <text class="h wht" x="70" y="888">Execution &amp; Deployment</text>
+  <text class="t wht" x="70" y="908">Objectives, Outcomes &amp; Priorities by Value Stream</text>
+
+  <text x="432" y="988" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
+  </g>
+</svg>
