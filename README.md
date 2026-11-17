@@ -72,7 +72,7 @@ Each Product Mindset principle has a direct role in OSM:
 | Hypothesis-driven thinking | Strategies are living hypotheses — each value priority records the assumptions it rests on and the evidence that would refute them, and Governance & Measurement tests them as execution generates signal |
 | Cross-functional ownership | Execution & Deployment is organized by Value Stream, not by department or function — ownership cuts across organizational boundaries |
 
-![OSM Diagram](diagrams/osm.png)
+![OSM Diagram](diagrams/osm.svg)
 
 ---
 
