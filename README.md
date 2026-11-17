@@ -20,7 +20,7 @@ The Insheights Integrated Value Creation System (IIVCS) is how organizations def
 | Hypothesis-driven thinking | Every initiative is treated as a testable assumption — teams define what they expect, deliver, and learn from the result |
 | Cross-functional ownership | Teams own the full value delivery chain end-to-end — not individual functions or hand-offs |
 
-![IIVCS Diagram](diagrams/iivcs.png)
+![IIVCS Diagram](diagrams/iivcs.svg)
 
 ---
 
@@ -155,7 +155,7 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 
 3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. AER — Adoption, Engagement, Retention — is the behavioral signal layer, measuring how customers respond to value delivery and how organizational teams respond to the operating model across two parallel tracks, neither sufficient without the other. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md), [Insheights AER Behavioral Measurement Model](aer.md), and [Insheights 8 Organizational Values Measurement Model](8-values.md).
 
-![Measurement Architecture](diagrams/measurement-architecture.png)
+![Measurement Architecture](diagrams/measurement-architecture.svg)
 
 ---
 

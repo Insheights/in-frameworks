@@ -10,7 +10,7 @@ The Insheights 8 Organizational Values Measurement Model defines how the Insheig
 - **Behavioral** — AER operates across two parallel tracks: Customer AER measuring how customers respond to value delivery, and Organizational AER measuring how the delivering organization responds to its own operating model
 - **Compounding** — Values do not operate independently; they reinforce and amplify each other over time
 
-![8-values Diagram](diagrams/8-values.png)
+![8-values Diagram](diagrams/8-values.svg)
 
 The 8 Values bridge directly to the International Integrated Reporting Council (IIRC) 6 Capitals framework — translating IIVCS operational value generation into the stock of capitals reported to investors and stakeholders.
 
