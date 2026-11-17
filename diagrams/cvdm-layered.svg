@@ -135,7 +135,7 @@
   <text class="c dark" x="540" y="185">Customer/User</text>
 
   <rect x="444" y="266" width="192" height="48" rx="3" fill="#F0C350"/>
-  <text class="ct dark" x="540" y="295">Journey Step A</text>
+  <text class="c dark" x="540" y="295">Journey Step A</text>
   <circle cx="750" cy="290" r="24" fill="#F0C350"/><text class="ct dark" x="750" y="295">B</text>
   <circle cx="805" cy="290" r="24" fill="#F0C350"/><text class="ct dark" x="805" y="295">C</text>
   <circle cx="860" cy="290" r="24" fill="#F0C350"/><text class="ct dark" x="860" y="295">…</text>
