@@ -44,7 +44,7 @@
 
 - Have the element's value promise written down in advance — if the room cannot agree on what the element is supposed to deliver, 3E measurement cannot begin
 - Gather any existing signal data (usage analytics, support tickets, NPS/CSAT, completion rates, outcome metrics) before the session
-- Know which CVDM feedback loop this element feeds: Experience feedback, Journey insights, Delivery learning, Strategic evolution, or Performance optimization
+- Know which CVDM feedback loop this element feeds: Experience feedback, Journey insights, Delivery learning, Performance optimization, or Strategic signals
 
 ---
 
@@ -175,7 +175,7 @@ Effectiveness underperforming?
 | **Experience feedback** | Experience signals from all elements | Continuous / weekly |
 | **Journey insights** | Efficiency signals revealing friction across the journey | Sprint / bi-weekly |
 | **Delivery learning** | Effectiveness signals from Value Stages and Products/Services | Monthly / quarterly |
-| **Strategic evolution** | Effectiveness signals from Value Streams | Quarterly / annually |
+| **Strategic signals** | Effectiveness signals from Value Streams | Quarterly / annually |
 | **Performance optimization** | Efficiency signals from Capabilities and Processes | Sprint / monthly |
 
 ---
@@ -310,7 +310,7 @@ Actions: Reduce steps-to-redemption from 5 to 2 (Efficiency fix). Extend persona
 - Efficiency signals reviewed quarterly and after any platform change → feeds Performance optimization loop
 - Effectiveness reviewed semi-annually — retention and spend differentials require 6-month cohort windows
 - Out-of-cycle trigger: quarterly redemption rate drops below 30%, or loyalty NPS drops 5+ points → immediate experience investigation
-- Return path: Effectiveness signals → CVDM Strategic evolution loop → OSM strategic reassessment for loyalty investment decision
+- Return path: Effectiveness signals → CVDM Strategic signals loop → OSM strategic reassessment for loyalty investment decision
 - Owner: loyalty program manager owns Efficiency and Experience signals; commercial director owns Effectiveness signal
 
 ---

@@ -8,7 +8,7 @@ The IIVCS feedback system is how the organization continuously refines where and
 
 ## The Two Levels
 
-**Operational feedback** surfaces at the journey and value stream level — CVDM's five continuous feedback loops capture signals from customer experience, journey insights, delivery learning, strategic evolution, and performance optimization. These loops feed PTS and OSM with signals about how value is being delivered and received.
+**Operational feedback** surfaces at the journey and value stream level — CVDM's five continuous feedback loops capture signals from customer experience, journey insights, delivery learning, performance optimization, and strategic signals. These loops feed PTS and OSM with signals about how value is being delivered and received.
 
 **Organizational feedback** surfaces at the organizational level — the 8 Values metrics aggregate the outcomes of strategy, transformation, and delivery into organizational dimensions that feed back into OSM's Governance & Measurement and strategic reassessment.
 
@@ -27,10 +27,10 @@ CVDM's five continuous feedback loops are the operational feedback mechanism of 
 | Experience feedback | How the customer felt at each journey step — the first and most immediate signal |
 | Journey insights | Where friction, gaps, and misalignments exist across the journey |
 | Delivery learning | Whether value stages are delivering intended customer outcomes |
-| Strategic evolution | Whether strategic priorities remain valid given delivery outcomes |
 | Performance optimization | Whether capabilities and processes are performing at the required maturity |
+| Strategic signals | Whether strategic priorities remain valid given delivery outcomes |
 
-Experience feedback surfaces first — the most immediate signal from the customer journey. Strategic evolution surfaces last — whether strategic priorities remain valid given delivery outcomes, the signal that feeds strategic reassessment.
+The loops form a diagnostic sequence, each narrowing the cause one layer further. Experience feedback surfaces first — the most immediate signal from the customer journey. Journey insights locate where in the journey the problem sits. Delivery learning and performance optimization work as a pair: delivery learning finds the value stage that is not delivering its outcome, and performance optimization fixes the capability or process behind it. Strategic signals surface last — whether strategic priorities remain valid given delivery outcomes. The product team consolidates its learnings, including these signals, and returns them to OSM, which decides through strategic reassessment.
 
 ---
 
@@ -58,7 +58,7 @@ People Value and Operational Value feed PTS — signaling whether the operating 
 The IIVCS feedback system runs upstream in two layers — operational signals rising first, organizational signals confirming last.
 
 ```
-CVDM      Experience → Journey insights → Performance optimization → Delivery learning → Strategic evolution
+CVDM      Experience → Journey insights → Delivery learning → Performance optimization → Strategic signals
                 ↓
 AER       Adoption → Engagement → Retention            (two tracks: Customer AER and Organizational AER)
                 ↓
@@ -74,7 +74,7 @@ The path forks at the 8 Values: People and Operational Value feed PTS to signal 
 
 [3E](3e.md) provides the measurement language at every point in the return journey — grounding both operational and organizational feedback in Efficiency, Experience, and Effectiveness.
 
-The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value.
+The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic signals, continuously refining where the organization creates value.
 
 ---
 

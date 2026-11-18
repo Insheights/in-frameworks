@@ -20,7 +20,7 @@
 
 > **Not a product organization?** "Customer" → "patient / citizen / client"; "product/service" → "program / pathway / engagement"; "journey" → "patient pathway / case lifecycle." The realization logic is unchanged — only the vocabulary shifts. See [Translation Notes](#translation-notes).
 
-> **Where this fits:** CVDM is the delivery and realization layer of the IIVCS — where value is **realized** as a customer outcome. It is **enabled** by the teams and capabilities PTS supplies, **realizes** the value-stream outcomes OSM defined, and returns operational feedback to PTS and strategic-evolution signal to OSM. It is the home of **Customer AER** and where **3E** is primarily surfaced. See [Framework Positioning](../positioning.md).
+> **Where this fits:** CVDM is the delivery and realization layer of the IIVCS — where value is **realized** as a customer outcome. It is **enabled** by the teams and capabilities PTS supplies, **realizes** the value-stream outcomes OSM defined, and returns operational feedback to PTS and strategic signals to OSM. It is the home of **Customer AER** and where **3E** is primarily surfaced. See [Framework Positioning](../positioning.md).
 
 ---
 
@@ -127,7 +127,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ### Step 5 — Activate the five feedback loops
 
-**What you do:** Stand up CVDM's five continuous feedback loops — **Experience feedback, Journey insights, Delivery learning, Strategic evolution, Performance optimization** — each with a cadence, owner, and return path. These are the operational feedback mechanism of the IIVCS, returning signal to PTS and OSM.
+**What you do:** Stand up CVDM's five continuous feedback loops — **Experience feedback, Journey insights, Delivery learning, Performance optimization, Strategic signals** — each with a cadence, owner, and return path. These are the operational feedback mechanism of the IIVCS, returning signal to PTS and OSM.
 
 **Key question this step answers:** *How does customer signal surface continuously and return upstream to improve delivery and refine strategy?*
 
@@ -135,10 +135,10 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Output:** Five active feedback loops — each with cadence, owner, and upstream return path
 
 **Guidance:**
-- The loops surface in sequence: **Experience feedback** first (the most immediate customer signal), **Strategic evolution** last (whether strategic priorities still hold). Do not collapse them into one review — each surfaces a different signal at a different cadence.
-- Each loop has a return destination. Experience, Journey insights, and Performance optimization mostly improve delivery (return to the team and PTS); Delivery learning confirms value-stage outcomes; Strategic evolution returns customer reality to OSM for strategic reassessment.
+- The loops form a diagnostic sequence, each narrowing the cause one layer further: **Experience feedback** first (the most immediate customer signal), then **Journey insights** (where in the journey), **Delivery learning** (which value stage is not delivering its outcome), **Performance optimization** (which capability or process to fix), and **Strategic signals** last (whether strategic priorities still hold). Delivery learning and performance optimization work as a pair. The sequence is the order of diagnosis, not of cadence — performance optimization can run more often than delivery learning. Do not collapse them into one review — each surfaces a different signal at a different cadence.
+- Each loop has a return destination. Experience, Journey insights, and Performance optimization mostly improve delivery (return to the team and PTS); Delivery learning confirms value-stage outcomes; Strategic signals return customer reality to OSM for strategic reassessment — the product team consolidates its learnings, including these signals, and OSM decides.
 - Name an owner who acts, not just receives. A loop that surfaces signal no one acts on is not a feedback loop.
-- Set minimum cadences and out-of-cycle triggers. An experience-signal drop should trigger an immediate journey review; a retention drop should trigger a delivery-learning and strategic-evolution review.
+- Set minimum cadences and out-of-cycle triggers. An experience-signal drop should trigger an immediate journey review; a retention drop should trigger a delivery-learning and strategic-signals review.
 
 **The five feedback loops:**
 
@@ -146,9 +146,9 @@ Each step below is an action. Complete them in order — later steps depend on e
 |---|---|---|---|
 | **Experience feedback** | How the customer felt at each journey step — the first, most immediate signal | Team / CVDM | Continuous / weekly |
 | **Journey insights** | Where friction, gaps, and misalignments exist across the journey | Team / PTS | Sprint / bi-weekly |
-| **Performance optimization** | Whether capabilities and processes are performing at the required maturity | PTS | Sprint / monthly |
 | **Delivery learning** | Whether value stages are delivering their intended customer outcomes | PTS | Monthly / quarterly |
-| **Strategic evolution** | Whether strategic priorities remain valid given delivery outcomes | OSM | Quarterly / annually |
+| **Performance optimization** | Whether capabilities and processes are performing at the required maturity | PTS | Sprint / monthly |
+| **Strategic signals** | Whether strategic priorities remain valid given delivery outcomes | OSM | Quarterly / annually |
 
 ---
 
@@ -178,9 +178,9 @@ At the Habit-formation stage: **Efficiency (Use)** — % of members who can log 
 Diagnostic (Use → Feel → Achieve): Efficiency holds, but Experience is weak — members do not feel the plan fits, so Engagement falls before the habit forms, and Retention fails. The break is at Feel, not Use. Action: use the workout-completion information flow to actually adapt the plan (the capability existed but the information flow was not wired to it).
 
 **Step 5 — Activate the five loops**
-Experience feedback (weekly, team) caught the sentiment drop first; Journey insights (bi-weekly) located it at the Habit-formation stage; Performance optimization (monthly, → PTS) confirmed the personalization capability was under-performing; Delivery learning (quarterly, → PTS) tracked whether the fix moved week-4 retention; Strategic evolution (quarterly, → OSM) fed back that retention — not acquisition — was the real strategic constraint.
+Experience feedback (weekly, team) caught the sentiment drop first; Journey insights (bi-weekly) located it at the Habit-formation stage; Delivery learning (quarterly, → PTS) confirmed the stage was not delivering its outcome (29% sustaining to week 4) and tracks whether the fix moves it; Performance optimization (monthly, → PTS) traced that to the under-performing personalization capability; Strategic signals (quarterly, → OSM) fed back that retention — not acquisition — was the real strategic constraint.
 
-> **What it produced:** A journey mapped to value stages with a precise diagnosis (Experience break at Habit-formation), a wired-up information flow that made the personalization capability real, and five loops returning signal — including strategic-evolution feedback that reframed the company's growth priority from acquisition to retention.
+> **What it produced:** A journey mapped to value stages with a precise diagnosis (Experience break at Habit-formation), a wired-up information flow that made the personalization capability real, and five loops returning signal — including strategic signals that reframed the company's growth priority from acquisition to retention.
 
 ---
 
@@ -205,9 +205,9 @@ At Underwriting: **Efficiency (Use)** — average document re-request rate (high
 Diagnostic (Use → Feel → Achieve): the Efficiency gap (duplicate document requests) drives the Experience collapse during the wait, which drives abandonment before Decision. The information flow from verification to the status portal was not built — the capability ran blind to the applicant. Action: wire verification status into the portal and eliminate duplicate requests.
 
 **Step 5 — Activate the five loops**
-Experience feedback (weekly) flagged the Underwriting anxiety; Journey insights (bi-weekly) located abandonment at the wait; Performance optimization (monthly → PTS) targeted the verification process and duplicate-request defect; Delivery learning (quarterly → PTS) tracked completion-rate recovery; Strategic evolution (quarterly → OSM) returned that mortgage experience — not pricing — was the competitive gap.
+Experience feedback (weekly) flagged the Underwriting anxiety; Journey insights (bi-weekly) located abandonment at the wait; Delivery learning (quarterly → PTS) showed Underwriting missing its outcome (68% decided within the promised window) and tracks completion-rate recovery; Performance optimization (monthly → PTS) targeted the verification process and duplicate-request defect; Strategic signals (quarterly → OSM) returned that mortgage experience — not pricing — was the competitive gap.
 
-> **What it produced:** A value stream mapped to value stages, a 3E diagnosis tracing abandonment to a missing information flow at Underwriting, and five loops feeding both delivery fixes (to PTS) and a strategic-evolution signal (to OSM) that customer experience, not rate, was where the bank was losing applicants.
+> **What it produced:** A value stream mapped to value stages, a 3E diagnosis tracing abandonment to a missing information flow at Underwriting, and five loops feeding both delivery fixes (to PTS) and a strategic signal (to OSM) that customer experience, not rate, was where the bank was losing applicants.
 
 ---
 
@@ -239,7 +239,7 @@ All 8 Values are touched across the full IIVCS — the table above shows which V
 
 ### AER Connection
 
-CVDM is the home of **Customer AER** — the customer half of the IIVCS dual-track behavioral measurement (PTS holds the organizational half). The 3E output drives each AER stage on the customer track: **Efficiency → Adoption** (frictionless access lowers the barrier — customers adopt what they can reach), **Experience → Engagement** (positive feeling sustains active use — customers engage with what they trust), **Effectiveness → Retention** (outcomes achieved earn continued commitment — customers return to what works). CVDM surfaces Customer AER and 3E and returns them upstream: operational feedback (delivery learning, performance optimization) to PTS, and strategic-evolution signal to OSM, where Customer AER converges with PTS's Organizational AER to validate whether strategic priorities are generating value. The two tracks run in parallel because either alone produces nothing.
+CVDM is the home of **Customer AER** — the customer half of the IIVCS dual-track behavioral measurement (PTS holds the organizational half). The 3E output drives each AER stage on the customer track: **Efficiency → Adoption** (frictionless access lowers the barrier — customers adopt what they can reach), **Experience → Engagement** (positive feeling sustains active use — customers engage with what they trust), **Effectiveness → Retention** (outcomes achieved earn continued commitment — customers return to what works). CVDM surfaces Customer AER and 3E and returns them upstream: operational feedback (delivery learning, performance optimization) to PTS, and strategic signals to OSM, where Customer AER converges with PTS's Organizational AER to validate whether strategic priorities are generating value. The two tracks run in parallel because either alone produces nothing.
 
 ---
 
@@ -295,7 +295,7 @@ CVDM applies to any organization that realizes value for someone through a journ
 - 3E is read in sequence (Use → Feel → Achieve), with gaps traced upstream
 - All five loops run at their cadence with owners who act
 
-**The five feedback loops:** Experience feedback (weekly) · Journey insights (bi-weekly) · Performance optimization (monthly) · Delivery learning (quarterly) · Strategic evolution (quarterly→OSM) — surfacing in sequence, Experience first, Strategic evolution last.
+**The five feedback loops:** Experience feedback (weekly) · Journey insights (bi-weekly) · Delivery learning (quarterly) · Performance optimization (monthly) · Strategic signals (quarterly→OSM) — a diagnostic sequence, Experience first, Strategic signals last.
 
 **Primary 3E signal:** Experience — CVDM is the customer-facing layer where feeling surfaces first; read it in sequence, with Effectiveness as the proof the value proposition landed.
 

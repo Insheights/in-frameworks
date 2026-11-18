@@ -108,7 +108,7 @@ Each Product Mindset principle has a direct role in PTS:
 
 **Customer Journey | Value Stream | Value Delivery**
 
-CVDM ensures every Customer/User journey step triggers the right Value Stream stage — defining the Products/Services, Capabilities, Processes, and Information flows required to deliver the Value Proposition as a realized customer outcome — with five continuous feedback loops covering experience feedback, journey insights, delivery learning, strategic evolution, and performance optimization.
+CVDM ensures every Customer/User journey step triggers the right Value Stream stage — defining the Products/Services, Capabilities, Processes, and Information flows required to deliver the Value Proposition as a realized customer outcome — with five continuous feedback loops covering experience feedback, journey insights, delivery learning, performance optimization, and strategic signals.
 
 Product Mindset, carried into CVDM by empowered teams from PTS, is where it moves from philosophy to practice.
 
@@ -151,7 +151,7 @@ of the Insheights Integrated Value Creation System.
 
 OSM **governs** the value streams, PTS **operationalizes** them, and CVDM **realizes** value through them. What each framework owns, how they align up and down the system, and where behavioral signal is measured are set out in [Framework Positioning](positioning.md) — the canonical reference for how the three relate.
 
-The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic evolution, continuously refining where the organization creates value. See [Feedback](feedback.md).
+The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic signals, continuously refining where the organization creates value. See [Feedback](feedback.md).
 
 3E — Efficiency, Experience, Effectiveness — is the measurement language of the IIVCS, sequenced as Use → Feel → Achieve, providing consistent measurement across every architecture element. AER — Adoption, Engagement, Retention — is the behavioral signal layer, measuring how customers respond to value delivery and how organizational teams respond to the operating model across two parallel tracks, neither sufficient without the other. The 8 Values define what the organization generates through value creation — across Customer, Financial, People, Operational, Market, Strategic, Innovation, and Impact dimensions. See [Insheights 3E Operational Values Measurement Model](3e.md), [Insheights AER Behavioral Measurement Model](aer.md), and [Insheights 8 Organizational Values Measurement Model](8-values.md).
 

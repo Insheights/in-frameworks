@@ -23,7 +23,7 @@ OSM is where the system's behavioral and value signals **become strategic decisi
 | Relation | OSM's role | Down | Up |
 |---|---|---|---|
 | **OSM ↔ PTS** | Governs | Sets value-stream outcomes and priorities | Receives executability + organizational readiness (Org AER, People/Operational Value) |
-| **OSM ↔ CVDM** | Governs | Sets the customer value priorities the journey must serve | Receives strategic-evolution feedback — customer reality refining strategy |
+| **OSM ↔ CVDM** | Governs | Sets the customer value priorities the journey must serve | Receives strategic signals — customer reality refining strategy |
 
 ---
 
@@ -55,7 +55,7 @@ CVDM is the delivery and realization layer of the IIVCS — the model through wh
 
 CVDM is the bottom of the execution stack, and its accountability runs in two directions:
 
-- **It aligns up to PTS.** CVDM is activated by the persistent cross-functional teams and capabilities PTS builds; it is where those capabilities meet the customer journey. It returns operational feedback — delivery learning and performance optimization — telling PTS whether the operating model performs at the delivery layer, and customer reality upward to OSM as strategic-evolution signal.
+- **It aligns up to PTS.** CVDM is activated by the persistent cross-functional teams and capabilities PTS builds; it is where those capabilities meet the customer journey. It returns operational feedback — delivery learning and performance optimization — telling PTS whether the operating model performs at the delivery layer, and customer reality upward to OSM as strategic signals.
 - **It faces the customer.** CVDM's "down" is the customer and the market themselves — the point where value either lands as a realized outcome or fails to, and where that result is captured as signal.
 
 CVDM owns the **realization model and its measurement** — the journey-to-value mapping and the feedback loops through which customer value is produced and proven. The persistent cross-functional **product teams operating within CVDM own the customer outcomes**; CVDM is the discipline and the measurement through which they realize them. Those customer outcomes evidence the value-stream outcomes PTS owns and OSM defined.
