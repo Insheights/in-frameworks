@@ -77,6 +77,7 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 - **Feedback flow** (blue arrow, italic label): the name of what flows back. OSM and CVDM number their feedback loops 1–5 as a sequence.
 - **System hand-offs** (IIVCS diagram): the noun handed between frameworks — *value priorities* and *product teams* down, *value-stream outcomes*, *strategic signals* and *customer outcome* back up.
 - Words inside a box or band that state a relationship use the same vocabulary (listed under *Relationship words* below).
+- **8-Values diagram:** a one-way relationship is an arrow carrying a verb (source → target); a two-way relationship has a head at each end and names what passes both ways. All its arrows are grey: they are compounding relationships between Values, not work or feedback flows. Each label summarises a row of the *Compounding Relationships* tables in [8 Values](8-values.md).
 
 ### Work-flow verbs
 
@@ -85,11 +86,13 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 | **constrains** | Sets limits the target must stay within | OSM: Enterprise Risk Mgmt → Strategic Value Creation (risk appetite) |
 | **decides** | Makes the choice | OSM: Leadership Direction → Strategic Value Creation |
 | **delivers** | Produces and hands over the value that was promised | CVDM: Value Stream → Value Proposition; Product/Service → Value |
+| **drives** | Causes the target to move; here, 3E performance produces the AER response, and AER behaviour produces the 8 Values | Measurement Architecture: 3E → AER; AER → 8 Values |
 | **directs** | Sets the direction the target moves toward | OSM: Vision → Strategic Value Creation |
 | **empower** | Equips and authorizes people to own and act | PTS: POM Enablers → product team |
 | **enables** | Supplies the ability the target needs to function | CVDM: Capability → Value Stage. Also the PTS → CVDM relation in [Positioning](positioning.md) |
 | **experienced through** | The product or service by which the customer meets the target | CVDM: Value Stage → Product/Service |
 | **experiences** | Encounters directly | CVDM: Customer/User → Value Proposition |
+| **feed** | Supply the behavioural signal the target measures | Measurement Architecture: Customer Journey Steps → AER (customer track); Product Team & Product Operating Model → AER (organization track) |
 | **flags risk** | Raises a risk signal for the target to act on | OSM: Enterprise Risk Mgmt → Governance & Measurement; → Execution & Deployment |
 | **fulfills** | Meets a promise | CVDM: Value Stage → Value |
 | **funds** | Commits budget and capacity | OSM: Governance & Measurement → Execution & Deployment. PTS: Objectives by value stream → product team |
@@ -97,6 +100,7 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 | **governs conduct** | Sets how the target must behave | OSM: Values → Governance & Measurement (outcomes are read against Values) |
 | **guides** | Supplies the principles the target follows | OSM: Values → Strategic Value Creation |
 | **informs** | Supplies evidence the target uses | OSM: Internal Context, External Context → Strategic Value Creation |
+| **measured by** | Is measured by the target | Measurement Architecture: Outcomes → 3E Effectiveness (lagging); Architecture Elements → 3E (all three dimensions) |
 | **operationalizes** | Makes repeatable in practice | CVDM: Process → Capability |
 | **participates in** | Takes part in | CVDM: Stakeholder → Value Stage |
 | **produces** | Brings about as a result | PTS: product team → Business / Customer Outcomes |

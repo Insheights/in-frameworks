@@ -225,6 +225,8 @@ The 8 Values do not operate as a linear chain — they form a network in which m
 **Arrow encoding:**
 - **Solid arrows** — direct, continuous relationship: active, ongoing, and traceable
 - **Dashed arrows** — indirect, episodic relationship: real but mediated or periodic rather than immediate
+- **Arrowheads** — one head for a one-way relationship, a head at each end for a two-way relationship
+- **Labels** — a one-way arrow carries a verb, read from source to target (*Customer Value **builds reputation** for Market Value*); a two-way arrow names what passes both ways (*capital allocation* between Strategic and Financial Value). Each label summarises a row in the tables below
 
 ### Bidirectional Relationships — Solid
 
