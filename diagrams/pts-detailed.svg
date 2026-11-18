@@ -59,9 +59,9 @@
   <text class="h dark" x="124" y="259" text-anchor="end">Model</text>
   <text class="h dark" x="124" y="276" text-anchor="end">(POM)</text>
   <text class="h dark" x="124" y="293" text-anchor="end">Enablers</text>
-  <text class="lbl" x="124" y="315" text-anchor="end">empower</text>
-  <!-- POM Enablers empower the product team (team box is y=524..850 after the -18 shift) -->
-  <path class="work" d="M104,324 V680 H156"/>
+  <!-- POM Enablers empower the product team (team box is y=524..850 after the -18 shift); label beside the line, as OSM governs conduct -->
+  <path class="work" d="M104,304 V680 H156"/>
+  <text class="lbl" transform="translate(97,492) rotate(-90)" text-anchor="middle">empower</text>
 
   <rect x="160" y="130" width="780" height="34" rx="3" fill="#C5D0DA"/>
   <text class="s dark" x="170" y="152"><tspan font-weight="700">Leadership</tspan> - Strategic Context, Strategy, Vision, Outcomes &amp; Priorities, Decision Making, Empowerment, Coaching</text>
