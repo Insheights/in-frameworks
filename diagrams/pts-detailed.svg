@@ -85,9 +85,9 @@
   <!-- ===================== OBJECTIVES BY VALUE STREAM ===================== -->
 
   <rect x="160" y="416" width="780" height="70" rx="3" fill="#CC4458"/>
-  <text class="h wht" x="550" y="440" text-anchor="middle">Objectives, Outcomes &amp; Priorities by Value Stream</text>
-  <text class="h wht" x="550" y="459" text-anchor="middle">(Leaders - set Outcomes/OKRs, Fund Teams, Allocate to Outcomes,</text>
-  <text class="h wht" x="550" y="478" text-anchor="middle">Review Progress, Re-prioritize/Re-allocate)</text>
+  <text class="h wht" x="550" y="446" text-anchor="middle">Objectives, Outcomes &amp; Priorities by Value Stream</text>
+  <!-- re-prioritize / re-allocate is the response to results & learnings: it is on the arrow, not in the box -->
+  <text class="h wht" x="550" y="468" text-anchor="middle">(Leaders - set Outcomes/OKRs, Fund Teams, Allocate to Outcomes, Review Progress)</text>
 
   <!-- two-way link: objectives <-> product team -->
   <!-- work: leaders set outcomes for the team (down); feedback: results & learnings drive re-prioritization (up) -->

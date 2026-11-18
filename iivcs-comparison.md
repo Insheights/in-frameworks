@@ -175,7 +175,7 @@ Most frameworks organize from the inside out: from capabilities, functions, team
 
 ### Feedback Architecture Connecting Delivery to Strategy
 
-Established frameworks document or optimize individual layers without building a feedback system that returns delivery signal upstream to strategy. IIVCS closes the loop in both directions: CVDM's five feedback loops return customer experience signal to delivery teams and strategic signals to OSM. The feedback runs continuously, not as a point-in-time review cycle.
+Established frameworks document or optimize individual layers without building a feedback system that returns delivery signal upstream to strategy. IIVCS closes the loop in both directions: CVDM's five feedback loops return customer experience signal to delivery teams and strategic signals to OSM, consolidated by the product team. The feedback runs continuously, not as a point-in-time review cycle.
 
 ### Consistent Measurement from Process to Organization
 
