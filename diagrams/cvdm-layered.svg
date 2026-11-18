@@ -48,7 +48,7 @@
   <text x="120" y="66" font-size="15" fill="#3B4652">Customer Journey | Value Stream | Value Delivery</text>
   <text x="120" y="88" font-size="12.5" fill="#3B4652">How organizations map customer journeys to value streams, ensuring customer needs trigger appropriate capabilities and</text>
   <text x="120" y="106" font-size="12.5" fill="#3B4652">processes that create and deliver value, with continuous feedback loops enabling journey insights, delivery learning,</text>
-  <text x="120" y="124" font-size="12.5" fill="#3B4652">and value optimization.</text>
+  <text x="120" y="124" font-size="12.5" fill="#3B4652">and performance optimization.</text>
 
   <!-- ===================== LAYER BANDS (drawn first) ===================== -->
 
@@ -118,7 +118,7 @@
   <text class="lblf" x="790" y="166" text-anchor="middle">1. experience feedback</text>
 
   <!-- 5. Value Proposition -> Product/Service instances: strategic signals (consolidated by the product team for OSM to decide) -->
-  <path class="fb" d="M900,433.3 H960 V548 H888"/>
+  <path class="fb" d="M900,433.3 H960 V690 H904"/>
   <text class="lblf" x="968" y="486">5. strategic</text>
   <text class="lblf" x="968" y="502">signals</text>
 

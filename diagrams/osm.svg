@@ -107,7 +107,8 @@
 
   <!-- G&M -> E&D: sets the value-stream outcomes execution must produce -->
   <path class="work" d="M216,786 V862"/>
-  <text class="lbl" x="208" y="830" text-anchor="end">sets value-stream outcomes</text>
+  <text class="lbl" x="208" y="822" text-anchor="end">sets value-stream outcomes,</text>
+  <text class="lbl" x="208" y="838" text-anchor="end">funds</text>
 
   <!-- ERM -> E&D: value-stream risk informs risk-adjusted execution -->
   <path class="work" d="M676,786 V862"/>
@@ -169,7 +170,8 @@
   <text class="h wht" x="346" y="372">Strategic Value Creation</text>
   <text class="t wht" x="346" y="402">Strategic Objectives,</text>
   <text class="t wht" x="346" y="420">Outcomes and Value</text>
-  <text class="t wht" x="346" y="438">Priorities</text>
+  <text class="t wht" x="346" y="438">Priorities &amp;</text>
+  <text class="t wht" x="346" y="456">Assumptions</text>
 
   <rect x="612" y="350" width="192" height="84" rx="3" fill="#C5D0DA"/>
   <text class="h dark" x="622" y="370">Leadership Direction</text>

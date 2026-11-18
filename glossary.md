@@ -75,7 +75,7 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 **Conventions**
 - **Work flow** (grey arrow): a verb, read from the arrow's source to its target — *Vision **directs** Strategic Value Creation*.
 - **Feedback flow** (blue arrow, italic label): the name of what flows back. OSM and CVDM number their feedback loops 1–5 as a sequence.
-- **System hand-offs** (IIVCS diagram): the noun handed between frameworks — *value priorities* and *product teams* down, *value stream outcome* and *customer outcome* back up.
+- **System hand-offs** (IIVCS diagram): the noun handed between frameworks — *value priorities* and *product teams* down, *value-stream outcomes*, *strategic signals* and *customer outcome* back up.
 - Words inside a box or band that state a relationship use the same vocabulary (listed under *Relationship words* below).
 
 ### Work-flow verbs
@@ -92,7 +92,7 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 | **experiences** | Encounters directly | CVDM: Customer/User → Value Proposition |
 | **flags risk** | Raises a risk signal for the target to act on | OSM: Enterprise Risk Mgmt → Governance & Measurement; → Execution & Deployment |
 | **fulfills** | Meets a promise | CVDM: Value Stage → Value |
-| **funds** | Commits budget and capacity | PTS: Objectives by value stream → product team |
+| **funds** | Commits budget and capacity | OSM: Governance & Measurement → Execution & Deployment. PTS: Objectives by value stream → product team |
 | **gives purpose** | Supplies the reason the target exists | OSM: Mission → Strategic Value Creation |
 | **governs conduct** | Sets how the target must behave | OSM: Values → Governance & Measurement (outcomes are read against Values) |
 | **guides** | Supplies the principles the target follows | OSM: Values → Strategic Value Creation |
@@ -115,14 +115,15 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 | OSM | 2 | **value-stream risk** | Risks identified at the value-stream level during execution (Execution & Deployment → Enterprise Risk Mgmt) |
 | OSM | 3 | **risk exposure** | Decisions that change risk exposure, for the risk owner to accept (Governance & Measurement → Enterprise Risk Mgmt) |
 | OSM | 4 | **strategic reassessment** | Assumptions confirmed, retuned, or refuted (Governance & Measurement → Strategic Value Creation) |
-| OSM | 5 | **strategic risks** | The risk carried by strategic choices (Strategic Value Creation → Enterprise Risk Mgmt) |
+| OSM | 5 | **strategic risks** | The risk carried by strategic choices (Strategic Value Creation → Enterprise Risk Mgmt). It counts as feedback, not work: it returns to the risk owner what the chosen priorities expose, for acceptance against the risk appetite that *constrains* them |
 | CVDM | 1 | **experience feedback** | How the customer felt at a journey step (Customer/User → Value Proposition) |
 | CVDM | 2 | **journey insights** | Where friction, gaps, and misalignments sit in the journey (provided by the Customer Journey layer) |
 | CVDM | 3 | **delivery learning** | Which value stage is not delivering its outcome (Value → Value Stage) |
 | CVDM | 4 | **performance optimization** | Which capability or process to fix (Value Stage → Capability) |
-| CVDM | 5 | **strategic signals** | Whether strategic priorities still hold — consolidated by the product team for OSM to decide (Value Proposition → Products/Services) |
+| CVDM | 5 | **strategic signals** | Whether strategic priorities still hold for the value stream — consolidated by the product team for OSM to decide (Value Proposition → Value Stream) |
 | PTS | — | **results & learnings** | What the product team achieved and learned (product team → Objectives by value stream) |
-| IIVCS | — | **value stream outcome** | Evidence that value-stream outcomes are being produced (PTS → OSM) |
+| IIVCS | — | **value-stream outcomes** | Evidence that value-stream outcomes are being produced (PTS → OSM) |
+| IIVCS | — | **strategic signals** | CVDM loop 5, consolidated by the product team, for OSM's strategic reassessment (PTS → OSM) |
 | IIVCS | — | **customer outcome** | Realized customer outcomes (CVDM → PTS) |
 
 ### Relationship words in boxes and bands
@@ -132,7 +133,8 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 | **consists of** | CVDM: Customer Journey *consists of* Journey Steps; Value Stream *consists of* Value Stages |
 | **promises** | CVDM: Value Proposition *promises* Values |
 | **provides** | CVDM: Customer Journey *provides* journey insights (feedback loop 2) |
-| **underpins** | PTS: Product Mindset *underpins* every phase — a foundation, not a flow |
+| **runs on** | IIVCS: each framework *runs on* the Value Streams common spine (dashed red lines) |
+| **underpins** | PTS: Product Mindset *underpins* every phase — a foundation, not a flow. IIVCS: Product Mindset *underpins* each framework (dashed grey lines) |
 | **learn (measure) / decide (prioritize)** | PTS: each phase's up and down arrows to and from the Continuous Feedback band |
 
 ### Distinctions
