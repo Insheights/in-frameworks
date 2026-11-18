@@ -68,6 +68,83 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 
 ---
 
+## Diagram Arrow Vocabulary
+
+Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a word means the same thing in every diagram it appears in.
+
+**Conventions**
+- **Work flow** (grey arrow): a verb, read from the arrow's source to its target — *Vision **directs** Strategic Value Creation*.
+- **Feedback flow** (blue arrow, italic label): the name of what flows back. OSM and CVDM number their feedback loops 1–5 as a sequence.
+- **System hand-offs** (IIVCS diagram): the noun handed between frameworks — *value priorities* and *product teams* down, *value stream outcome* and *customer outcome* back up.
+- Words inside a box or band that state a relationship use the same vocabulary (listed under *Relationship words* below).
+
+### Work-flow verbs
+
+| Verb | Meaning | Where it appears (source → target) |
+|---|---|---|
+| **constrains** | Sets limits the target must stay within | OSM: Enterprise Risk Mgmt → Strategic Value Creation (risk appetite) |
+| **decides** | Makes the choice | OSM: Leadership Direction → Strategic Value Creation |
+| **delivers** | Produces and hands over the value that was promised | CVDM: Value Stream → Value Proposition; Product/Service → Value |
+| **directs** | Sets the direction the target moves toward | OSM: Vision → Strategic Value Creation |
+| **empower** | Equips and authorizes people to own and act | PTS: POM Enablers → product team |
+| **enables** | Supplies the ability the target needs to function | CVDM: Capability → Value Stage. Also the PTS → CVDM relation in [Positioning](positioning.md) |
+| **experienced through** | The product or service by which the customer meets the target | CVDM: Value Stage → Product/Service |
+| **experiences** | Encounters directly | CVDM: Customer/User → Value Proposition |
+| **flags risk** | Raises a risk signal for the target to act on | OSM: Enterprise Risk Mgmt → Governance & Measurement; → Execution & Deployment |
+| **fulfills** | Meets a promise | CVDM: Value Stage → Value |
+| **funds** | Commits budget and capacity | PTS: Objectives by value stream → product team |
+| **gives purpose** | Supplies the reason the target exists | OSM: Mission → Strategic Value Creation |
+| **governs conduct** | Sets how the target must behave | OSM: Values → Governance & Measurement (outcomes are read against Values) |
+| **guides** | Supplies the principles the target follows | OSM: Values → Strategic Value Creation |
+| **informs** | Supplies evidence the target uses | OSM: Internal Context, External Context → Strategic Value Creation |
+| **operationalizes** | Makes repeatable in practice | CVDM: Process → Capability |
+| **participates in** | Takes part in | CVDM: Stakeholder → Value Stage |
+| **produces** | Brings about as a result | PTS: product team → Business / Customer Outcomes |
+| **reaches** | Arrives at the customer, where the value is realized as an outcome | CVDM: Value → Customer/User |
+| **re-prioritizes, re-allocates** | Changes the rank order, and moves resources, in response to results | PTS: Objectives by value stream → product team |
+| **sets** | Defines what the target must achieve | OSM: Strategic Value Creation → Governance & Measurement (*value priorities*); Governance & Measurement → Execution & Deployment (*value-stream outcomes*). PTS: Objectives by value stream → product team (*value-stream outcomes*) |
+| **shapes** | Influences the form of | OSM: Stakeholder & Customer Expectations → Strategic Value Creation |
+| **triggers** | Starts | CVDM: Journey Step → Value Stage |
+| **undergoes** | Goes through | CVDM: Customer/User → Customer Journey |
+
+### Feedback names
+
+| Diagram | # | Name | What flows back (source → target) |
+|---|---|---|---|
+| OSM | 1 | **value-stream outcomes** | Evidence that value-stream outcomes are being produced (Execution & Deployment → Governance & Measurement) |
+| OSM | 2 | **value-stream risk** | Risks identified at the value-stream level during execution (Execution & Deployment → Enterprise Risk Mgmt) |
+| OSM | 3 | **risk exposure** | Decisions that change risk exposure, for the risk owner to accept (Governance & Measurement → Enterprise Risk Mgmt) |
+| OSM | 4 | **strategic reassessment** | Assumptions confirmed, retuned, or refuted (Governance & Measurement → Strategic Value Creation) |
+| OSM | 5 | **strategic risks** | The risk carried by strategic choices (Strategic Value Creation → Enterprise Risk Mgmt) |
+| CVDM | 1 | **experience feedback** | How the customer felt at a journey step (Customer/User → Value Proposition) |
+| CVDM | 2 | **journey insights** | Where friction, gaps, and misalignments sit in the journey (provided by the Customer Journey layer) |
+| CVDM | 3 | **delivery learning** | Which value stage is not delivering its outcome (Value → Value Stage) |
+| CVDM | 4 | **performance optimization** | Which capability or process to fix (Value Stage → Capability) |
+| CVDM | 5 | **strategic signals** | Whether strategic priorities still hold — consolidated by the product team for OSM to decide (Value Proposition → Products/Services) |
+| PTS | — | **results & learnings** | What the product team achieved and learned (product team → Objectives by value stream) |
+| IIVCS | — | **value stream outcome** | Evidence that value-stream outcomes are being produced (PTS → OSM) |
+| IIVCS | — | **customer outcome** | Realized customer outcomes (CVDM → PTS) |
+
+### Relationship words in boxes and bands
+
+| Word | Where it appears |
+|---|---|
+| **consists of** | CVDM: Customer Journey *consists of* Journey Steps; Value Stream *consists of* Value Stages |
+| **promises** | CVDM: Value Proposition *promises* Values |
+| **provides** | CVDM: Customer Journey *provides* journey insights (feedback loop 2) |
+| **underpins** | PTS: Product Mindset *underpins* every phase — a foundation, not a flow |
+| **learn (measure) / decide (prioritize)** | PTS: each phase's up and down arrows to and from the Continuous Feedback band |
+
+### Distinctions
+
+- **delivers vs reaches** — a value stream *delivers* its value proposition, and a product or service *delivers* a value: the organization produces and hands over what it promised. Value then *reaches* the customer, where it is realized as an outcome. *Delivers* is the organization's act; *reaches* is the value's arrival.
+- **empower vs enables** — *empower* is about people (the POM Enablers give teams the authority and means to own outcomes); *enables* is about ability (a capability makes a value stage possible; PTS supplies CVDM with teams and capabilities).
+- **decides vs sets** — *decides* is making the choice (leadership); *sets* is fixing the target others then work to (value priorities, value-stream outcomes).
+- **constrains vs flags risk** — *constrains* is a standing limit (risk appetite); *flags risk* is a signal raised when something needs attention.
+- **value priorities vs value-stream outcomes** — value priorities are OSM's ranked, outcome-stated objectives; value-stream outcomes are the business intent each value stream must produce. Both flow down; evidence of value-stream outcomes flows back up.
+
+---
+
 ## External Frameworks Referenced
 
 Frameworks the IIVCS comparison, integration, and guide documents reference. Listed for reference; see those documents for detail.
