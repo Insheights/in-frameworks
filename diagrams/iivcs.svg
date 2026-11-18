@@ -103,6 +103,5 @@
   <text class="bt" x="844" y="446">Practiced, Tested,</text>
   <text class="bt" x="844" y="464">Reinforced</text>
 
-  <text x="500" y="614" font-size="12" fill="#3B4652" font-style="italic" text-anchor="middle">Measurement path (3E → AER → 8 Values): see the Measurement Architecture diagram; feedback.md routes the 8 Values on to OSM and PTS.</text>
-  <text x="500" y="640" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
+  <text x="500" y="636" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
 </svg>
