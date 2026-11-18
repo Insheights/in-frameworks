@@ -110,7 +110,7 @@ Each Product Mindset principle has a direct role in PTS:
 
 **Customer Journey | Value Stream | Value Delivery**
 
-CVDM ensures every Customer/User journey step triggers the right Value Stream stage — defining the Products/Services, Capabilities, Processes, and Information flows required to deliver the Value Proposition as a realized customer outcome — with five continuous feedback loops covering experience feedback, journey insights, delivery learning, performance optimization, and strategic signals.
+CVDM ensures every Customer/User journey step triggers the right Value Stream stage — defining the Products/Services, Capabilities, Processes, and Information concepts (and their flows) required to deliver the Value Proposition as a realized customer outcome — with five continuous feedback loops covering experience feedback, journey insights, delivery learning, performance optimization, and strategic signals.
 
 Product Mindset, carried into CVDM by empowered teams from PTS, is where it moves from philosophy to practice.
 
