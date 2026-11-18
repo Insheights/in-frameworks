@@ -1,12 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="690" viewBox="0 0 1080 690" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="820" viewBox="0 0 1120 820" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
   <title>Insheights Measurement Architecture</title>
   <!--
     Layout
-    - Side boxes are 192 wide: inputs on the left (x=40) and right (x=848).
-    - Centre column x=300..780: 3E (leading indicators), the AER bridge, 8 Values (lagging indicators).
-    - Inside the bridge: Customer AER x=330..522 and Organization AER x=558..750 (192 wide each).
+    - Side boxes are 192 wide: inputs on the left (x=40) and right (x=888).
+    - Centre column x=340..820: 3E (leading indicators), the AER bridge, 8 Values (lagging indicators).
+    - Inside the bridge: Customer AER x=370..562 and Organization AER x=598..790 (192 wide each).
     - 3E forks into both AER tracks; both tracks merge into the 8 Values.
-    - All arrows are work flow (grey); no legend needed.
+    - The path forks again at the 8 Values (feedback.md): People + Operational Value feed PTS;
+      the other six feed OSM Governance & Measurement.
+    - Grey = work flow (verb), blue = feedback flow (what flows back), as in the other diagrams.
   -->
   <defs>
     <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
@@ -15,22 +17,36 @@
     <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#7A8591"/>
     </marker>
+    <marker id="ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3A87D9"/>
+    </marker>
     <style>
       .work { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ag); }
+      .fb   { fill: none; stroke: #3A87D9; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ab); }
       .line { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-linejoin: round; }
+      .lbl  { font-size: 13px; fill: #3B4652; }
+      .lblf { font-size: 13px; fill: #2F6FB5; font-style: italic; }
       .box  { fill: #FFFFFF; }
       .h    { font-size: 14px; font-weight: 700; fill: #2E3A46; text-anchor: middle; }
       .t    { font-size: 13px; fill: #2E3A46; text-anchor: middle; }
+      .bh   { font-size: 14px; font-weight: 700; fill: #FFFFFF; text-anchor: middle; }
+      .bt   { font-size: 12.5px; font-weight: 700; fill: #FFFFFF; text-anchor: middle; }
       .cap  { font-size: 12px; fill: #3B4652; }
     </style>
   </defs>
 
   <!-- background -->
-  <rect width="1080" height="690" fill="#F1F4F7"/>
-  <rect width="1080" height="690" fill="url(#dots)"/>
+  <rect width="1120" height="820" fill="#F1F4F7"/>
+  <rect width="1120" height="820" fill="url(#dots)"/>
 
   <!-- title -->
   <text x="40" y="40" font-size="20" font-weight="700" fill="#2E3A46">Insheights Measurement Architecture</text>
+
+  <!-- legend: top-right, same layout as the other diagrams -->
+  <text x="980" y="34" font-size="12" fill="#3B4652">work flow</text>
+  <path class="work" d="M980,44 H1080"/>
+  <text x="980" y="70" font-size="12" fill="#2F6FB5" font-style="italic">feedback flow</text>
+  <path class="fb" d="M980,80 H1080"/>
 
   <!-- ===================== ROW 1: architecture elements -> 3E ===================== -->
 
@@ -40,60 +56,79 @@
   <text class="t" x="136" y="192">Value Stage | Value Stream |</text>
   <text class="t" x="136" y="212">Product/Service</text>
 
-  <path class="work" d="M232,188 H296"/>
+  <path class="work" d="M232,188 H336"/>
+  <text class="lbl" x="280" y="180" text-anchor="middle">measured by</text>
 
-  <text class="cap" x="780" y="130" text-anchor="end">Leading Indicators</text>
-  <rect class="box" x="300" y="140" width="480" height="96" rx="3"/>
-  <text class="h" x="540" y="172">3E</text>
-  <text class="t" x="540" y="194">Efficiency | Experience | Effectiveness</text>
-  <text class="t" x="540" y="214">measures how value is delivered at every architecture element</text>
-
+  <text class="cap" x="820" y="130" text-anchor="end">Leading Indicators</text>
+  <rect class="box" x="340" y="140" width="480" height="96" rx="3"/>
+  <text class="h" x="580" y="172">3E</text>
+  <text class="t" x="580" y="194">Efficiency | Experience | Effectiveness</text>
+  <text class="t" x="580" y="214">measures how value is delivered at every architecture element</text>
 
   <!-- ===================== ROW 2: the AER bridge ===================== -->
 
-  <text class="cap" x="780" y="284" text-anchor="end">Bridge</text>
-  <rect x="300" y="292" width="480" height="162" rx="3" fill="#F5C125"/>
+  <text class="cap" x="820" y="284" text-anchor="end">Bridge</text>
+  <rect x="340" y="292" width="480" height="162" rx="3" fill="#F5C125"/>
 
-  <rect class="box" x="330" y="318" width="192" height="104" rx="3"/>
-  <text class="h" x="426" y="344">Customer AER</text>
-  <text class="t" x="426" y="366">Adoption</text>
-  <text class="t" x="426" y="386">Engagement</text>
-  <text class="t" x="426" y="406">Retention</text>
+  <rect class="box" x="370" y="318" width="192" height="104" rx="3"/>
+  <text class="h" x="466" y="344">Customer AER</text>
+  <text class="t" x="466" y="366">Adoption</text>
+  <text class="t" x="466" y="386">Engagement</text>
+  <text class="t" x="466" y="406">Retention</text>
 
-  <rect class="box" x="558" y="318" width="192" height="104" rx="3"/>
-  <text class="h" x="654" y="344">Organization AER</text>
-  <text class="t" x="654" y="366">Adoption</text>
-  <text class="t" x="654" y="386">Engagement</text>
-  <text class="t" x="654" y="406">Retention</text>
+  <rect class="box" x="598" y="318" width="192" height="104" rx="3"/>
+  <text class="h" x="694" y="344">Organization AER</text>
+  <text class="t" x="694" y="366">Adoption</text>
+  <text class="t" x="694" y="386">Engagement</text>
+  <text class="t" x="694" y="406">Retention</text>
 
-  <!-- 3E forks into both AER tracks -->
-  <path class="line" d="M540,236 V264"/>
-  <path class="work" d="M540,264 H426 V314"/>
-  <path class="work" d="M540,264 H654 V314"/>
+  <!-- 3E forks into both AER tracks: Efficiency enables Adoption, Experience deepens Engagement, Effectiveness earns Retention -->
+  <path class="line" d="M580,236 V264"/>
+  <path class="work" d="M580,264 H466 V314"/>
+  <path class="work" d="M580,264 H694 V314"/>
+  <text class="lbl" x="588" y="256">drives</text>
 
-  <!-- side inputs -->
+  <!-- side inputs: the behavioural signal each AER track measures -->
   <rect class="box" x="40" y="322" width="192" height="96" rx="3"/>
   <text class="t" x="136" y="364">Customer Journey</text>
   <text class="t" x="136" y="384">Steps</text>
-  <path class="work" d="M232,370 H326"/>
+  <path class="work" d="M232,370 H366"/>
+  <text class="lbl" x="299" y="362" text-anchor="middle">feed</text>
 
-  <rect class="box" x="848" y="322" width="192" height="96" rx="3"/>
-  <text class="t" x="944" y="354">Product Team &amp;</text>
-  <text class="t" x="944" y="374">Product Operating</text>
-  <text class="t" x="944" y="394">Model</text>
-  <path class="work" d="M848,370 H754"/>
+  <rect class="box" x="888" y="322" width="192" height="96" rx="3"/>
+  <text class="t" x="984" y="354">Product Team &amp;</text>
+  <text class="t" x="984" y="374">Product Operating</text>
+  <text class="t" x="984" y="394">Model</text>
+  <path class="work" d="M888,370 H794"/>
+  <text class="lbl" x="841" y="362" text-anchor="middle">feed</text>
 
   <!-- both AER tracks merge into the 8 Values -->
-  <path class="line" d="M426,422 V476 H654 V422"/>
-  <path class="work" d="M540,476 V516"/>
+  <path class="line" d="M466,422 V476 H694 V422"/>
+  <path class="work" d="M580,476 V516"/>
+  <text class="lbl" x="590" y="494">drive</text>
 
   <!-- ===================== ROW 3: 8 Values ===================== -->
 
-  <text class="cap" x="780" y="510" text-anchor="end">Lagging Indicators</text>
-  <rect class="box" x="300" y="520" width="480" height="96" rx="3"/>
-  <text class="h" x="540" y="552">8 Values</text>
-  <text class="t" x="540" y="574">Strategic | Financial | Market | Innovation</text>
-  <text class="t" x="540" y="594">People | Operational | Customer | Impact</text>
+  <text class="cap" x="820" y="510" text-anchor="end">Lagging Indicators</text>
+  <rect class="box" x="340" y="520" width="480" height="96" rx="3"/>
+  <text class="h" x="580" y="552">8 Values</text>
+  <text class="t" x="580" y="574">Strategic | Financial | Market | Innovation</text>
+  <text class="t" x="580" y="594">People | Operational | Customer | Impact</text>
 
-  <text x="540" y="664" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
+  <!-- ===================== ROW 4: the path forks back into the IIVCS (feedback.md) ===================== -->
+
+  <path class="fb" d="M466,616 V676"/>
+  <text class="lblf" x="458" y="652" text-anchor="end">People &amp; Operational Value</text>
+  <path class="fb" d="M694,616 V676"/>
+  <text class="lblf" x="702" y="652">the other six Values</text>
+
+  <rect x="370" y="680" width="192" height="60" rx="3" fill="#E57E2C"/>
+  <text class="bh" x="466" y="705">PTS</text>
+  <text class="bt" x="466" y="724">operating model adjustment</text>
+
+  <rect x="598" y="680" width="192" height="60" rx="3" fill="#3FAF9C"/>
+  <text class="bh" x="694" y="705">OSM</text>
+  <text class="bt" x="694" y="724">Governance &amp; Measurement</text>
+
+  <text x="580" y="794" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
 </svg>

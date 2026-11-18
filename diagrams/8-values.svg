@@ -8,7 +8,9 @@
     - Rows: y=150 (Strategic), 260 (Innovation, Financial), 370 (row 3), 480 (Impact).
     - Connection points are evenly spaced per edge.
     - Relationships follow 8-values.md "Compounding Relationships":
-      solid = direct, continuous; dashed = indirect, episodic; two heads = bidirectional.
+      solid = direct, continuous; dashed = indirect, episodic; two heads = bidirectional;
+      blue = one-way relationships typed Feedback (Operational -> Strategic, Customer -> Strategic).
+    - Each arrow carries a number keyed to the # column of the Compounding Relationships tables.
   -->
   <defs>
     <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
@@ -17,10 +19,16 @@
     <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#7A8591"/>
     </marker>
+    <marker id="ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3A87D9"/>
+    </marker>
     <style>
       .one  { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ag); }
       .two  { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-linejoin: round; marker-start: url(#ag); marker-end: url(#ag); }
+      .fb   { fill: none; stroke: #3A87D9; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ab); }
       .dash { stroke-dasharray: 9 6; }
+      .num  { font-size: 13px; font-weight: 700; fill: #3B4652; text-anchor: middle; }
+      .numf { font-size: 13px; font-weight: 700; fill: #2F6FB5; text-anchor: middle; }
       .box  { fill: #FFFFFF; }
       .bt   { font-size: 13px; fill: #2E3A46; text-anchor: middle; }
     </style>
@@ -38,6 +46,9 @@
   <path class="one" d="M860,44 H960"/>
   <text x="860" y="70" font-size="12" fill="#3B4652">episodic compounding effect</text>
   <path class="one dash" d="M860,80 H960"/>
+  <text x="860" y="106" font-size="12" fill="#2F6FB5" font-style="italic">feedback effect</text>
+  <path class="fb" d="M860,116 H960"/>
+  <text x="860" y="140" font-size="12" fill="#3B4652">1–16: see Compounding Relationships</text>
 
   <!-- ===================== RELATIONSHIPS ===================== -->
 
@@ -59,13 +70,13 @@
   <path class="one" d="M772,394 H836"/>
 
   <!-- Operational -> Strategic (Operational top 384 -> Strategic bottom 498) -->
-  <path class="one" d="M384,370 V229 H498 V202"/>
+  <path class="fb" d="M384,370 V229 H498 V202"/>
   <!-- Operational <-> Financial (Operational top 448 -> Financial bottom 514) -->
   <path class="two" d="M448,366 V339 H514 V312"/>
   <!-- Customer -> Financial (Customer top 644 -> Financial bottom 578) -->
   <path class="one" d="M644,370 V339 H578 V312"/>
   <!-- Customer -> Strategic (Customer top 708 -> Strategic bottom 594) -->
-  <path class="one" d="M708,370 V229 H594 V202"/>
+  <path class="fb" d="M708,370 V229 H594 V202"/>
 
   <!-- Operational -> Impact (Operational bottom 416 -> Impact top 514) -->
   <path class="one" d="M416,418 V449 H514 V476"/>
@@ -75,6 +86,24 @@
   <path class="two" d="M156,422 V504 H446"/>
   <!-- Market <-> Impact -->
   <path class="two" d="M936,422 V504 H646"/>
+
+  <!-- relationship numbers, keyed to the # column in 8-values.md Compounding Relationships -->
+  <text class="num" x="300" y="168">1</text>
+  <text class="num" x="790" y="168">2</text>
+  <text class="num" x="556" y="234" style="text-anchor:start">3</text>
+  <text class="num" x="470" y="333">4</text>
+  <text class="num" x="546" y="388">5</text>
+  <text class="num" x="300" y="498">6</text>
+  <text class="num" x="627" y="443">7</text>
+  <text class="num" x="790" y="498">8</text>
+  <text class="num" x="320" y="278">9</text>
+  <text class="num" x="284" y="388">10</text>
+  <text class="num" x="166" y="346" style="text-anchor:start">11</text>
+  <text class="num" x="465" y="443">12</text>
+  <text class="numf" x="441" y="223">13</text>
+  <text class="num" x="611" y="333">14</text>
+  <text class="num" x="804" y="388">15</text>
+  <text class="numf" x="651" y="223">16</text>
 
   <!-- ===================== VALUES (192 x 48) ===================== -->
 
