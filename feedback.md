@@ -2,13 +2,13 @@
 
 **Operational Feedback | Organizational Feedback | Strategic Reassessment**
 
-The IIVCS feedback system is how the organization continuously refines where and how it creates value — surfacing signals from the customer journey, translating them into organizational outcomes, and returning them upstream to drive strategic reassessment. Feedback operates at two levels: operational, through CVDM's five feedback loops; and organizational, through the 8 Values metrics that surface outcomes back to OSM.
+The [Integrated Value Creation System (IIVCS)](README.md) feedback system is how the organization continuously refines where and how it creates value — surfacing signals from the customer journey, translating them into organizational outcomes, and returning them upstream to drive strategic reassessment. Feedback operates at two levels: operational, through [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model)'s five feedback loops; and organizational, through the 8 Values metrics that surface outcomes back to [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model).
 
 ---
 
 ## The Two Levels
 
-**Operational feedback** surfaces at the journey and value stream level — CVDM's five continuous feedback loops capture signals from customer experience, journey insights, delivery learning, performance optimization, and strategic signals. These loops feed PTS and OSM with signals about how value is being delivered and received.
+**Operational feedback** surfaces at the journey and value stream level — CVDM's five continuous feedback loops capture signals from customer experience, journey insights, delivery learning, performance optimization, and strategic signals. These loops feed [Product Transformation System (PTS)](README.md#pts--product-transformation-system) and OSM with signals about how value is being delivered and received.
 
 **Organizational feedback** surfaces at the organizational level — the 8 Values metrics aggregate the outcomes of strategy, transformation, and delivery into organizational dimensions that feed back into OSM's Governance & Measurement and strategic reassessment.
 

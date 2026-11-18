@@ -4,9 +4,9 @@
 
 The organizational value measurement model of the Insheights Integrated Value Creation System, developed by Insheights LLC.
 
-The Insheights 8 Organizational Values Measurement Model defines how the Insheights Integrated Value Creation System generates Organization Value — translating the outcomes of strategy, transformation, and delivery into eight dimensions of value that compound over time into sustained organizational impact. Each Value is operationally grounded in the IIVCS, behaviorally measured through AER, and delivery-measured through 3E.
+The Insheights 8 Organizational Values Measurement Model defines how the Insheights Integrated Value Creation System generates Organization Value — translating the outcomes of strategy, transformation, and delivery into eight dimensions of value that compound over time into sustained organizational impact. Each Value is operationally grounded in the IIVCS, behaviorally measured through [Adoption, Engagement, Retention (AER)](aer.md), and delivery-measured through [Efficiency, Experience, Effectiveness (3E)](3e.md).
 
-- **Operational** — each Value is generated through OSM, PTS, and CVDM, not observed from outside
+- **Operational** — each Value is generated through [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model), [Product Transformation System (PTS)](README.md#pts--product-transformation-system), and [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model), not observed from outside
 - **Behavioral** — AER operates across two parallel tracks: Customer AER measuring how customers respond to value delivery, and Organizational AER measuring how the delivering organization responds to its own operating model
 - **Compounding** — Values do not operate independently; they reinforce and amplify each other over time
 
@@ -96,7 +96,7 @@ People Value has two connected layers:
 - **Internal** — employee capability, engagement, culture strength, leadership depth, and organizational learning. The people inside the organization who execute strategy, build product, and deliver value
 - **Extended** — partner capability, contractor quality, ecosystem participant engagement. The people outside the organization who extend its reach and amplify its capacity
 
-People Value is most directly shaped by PTS — where POM Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) determine whether the human system is empowered to deliver.
+People Value is most directly shaped by PTS — where [Product Operating Model (POM)](glossary.md#core-system-and-frameworks) Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) determine whether the human system is empowered to deliver.
 
 | IIVCS Connection | How People Value Is Generated |
 |---|---|

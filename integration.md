@@ -1,6 +1,6 @@
 # IIVCS Integration with Existing Practices
 
-**SAFe | Scrum | OKRs | ITIL | ERM | Design Thinking | Value Stream Mapping | Jobs To Be Done**
+**SAFe | Scrum | [Objectives and Key Results (OKRs)](glossary.md#external-frameworks-referenced) | ITIL | ERM | Design Thinking | Value Stream Mapping | Jobs To Be Done**
 
 How the Insheights Integrated Value Creation System connects to and integrates with existing organizational practices, methods, and frameworks — rather than replacing them.
 
@@ -20,7 +20,7 @@ The test: an organization running SAFe, OKRs, and ITIL has delivery teams, strat
 
 | Capability | IIVCS Provides | Existing Practice Handles |
 |---|---|---|
-| Strategy-to-delivery spine | OSM → PTS → CVDM: single connected system from strategic intent to customer outcome | — |
+| Strategy-to-delivery spine | [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model) → [Product Transformation System (PTS)](README.md#pts--product-transformation-system) → [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model): single connected system from strategic intent to customer outcome | — |
 | Customer journey as organizing principle | CVDM anchors all internal elements to customer journey steps | Service Blueprint, Customer Journey Mapping tools |
 | Consistent cross-architectural measurement | 3E (Efficiency → Experience → Effectiveness) from Process to Value Stream | Domain-specific measurement instruments (see below) |
 | Behavioral signal layer | AER: Customer and Organizational Adoption, Engagement, Retention | — |
@@ -47,7 +47,7 @@ SAFe provides the delivery execution structure — Agile Release Trains, PI Plan
 **Where SAFe connects into IIVCS:**
 
 - **Portfolio → OSM:** SAFe's Portfolio layer (Strategic Themes, Lean Portfolio Management) maps to OSM's strategic value priorities and value stream allocation. OSM sets the value priorities that SAFe's portfolio layer executes against. Strategic themes become the bridge between OSM's Strategic Objectives and SAFe's portfolio investment decisions.
-- **ART structure → PTS:** SAFe's Agile Release Trains are the team structures PTS's operating model organizes around. PTS's four POM Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) are the conditions that make SAFe ARTs effective — or identify why they are not.
+- **ART structure → PTS:** SAFe's Agile Release Trains are the team structures PTS's operating model organizes around. PTS's four [Product Operating Model (POM)](glossary.md#core-system-and-frameworks) Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) are the conditions that make SAFe ARTs effective — or identify why they are not.
 - **PI Objectives → CVDM:** SAFe's Program Increment Objectives become the delivery commitments that CVDM's value stream stages and capabilities must deliver against. CVDM's 3E measurement makes visible whether PI execution is producing customer outcomes, not just shipped features.
 - **Flow metrics → 3E Efficiency:** SAFe's flow metrics (Flow Velocity, Flow Time, Flow Efficiency, Flow Load) are Efficiency signals in 3E terms. They measure whether value can be accessed without friction at the delivery level. 3E connects these signals forward to Experience and Effectiveness — dimensions SAFe's native metrics do not capture.
 

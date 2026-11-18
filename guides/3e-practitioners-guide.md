@@ -1,6 +1,6 @@
 # Insheights 3E Operational Values Measurement Model — Practitioners Guide
 
-**How to apply Efficiency, Experience, and Effectiveness measurement across any architecture element in the IIVCS.**
+**How to apply Efficiency, Experience, and Effectiveness measurement across any architecture element in the [Integrated Value Creation System (IIVCS)](../README.md).**
 
 ---
 
@@ -14,9 +14,9 @@
 | **Who must be in the room** | Customer-facing team members (for Experience signals); delivery team members (for Efficiency signals); outcome owners (for Effectiveness signals) |
 | **Key inputs** | A defined architecture element; a stated value promise for that element; access to customer and delivery signals |
 | **Key outputs** | A 3E profile for the element; a diagnostic reading (which dimension is underperforming and why); a measurement cadence |
-| **Typical timeframe** | Initial profile: one working session. Ongoing measurement: aligned to CVDM feedback loop cadence |
+| **Typical timeframe** | Initial profile: one working session. Ongoing measurement: aligned to [Customer Value Delivery Model (CVDM)](../README.md#cvdm--customer-value-delivery-model) feedback loop cadence |
 
-> **New to the IIVCS?** This guide uses system terms — architecture elements (value stream, value stage, capability, process), AER, the 8 Values, OSM, PTS, CVDM — defined in the [Glossary](../glossary.md). The model itself is set out in [3E](../3e.md); read it first if you are starting here.
+> **New to the IIVCS?** This guide uses system terms — architecture elements (value stream, value stage, capability, process), [Adoption, Engagement, Retention (AER)](../aer.md), the 8 Values, [Organization Strategy Model (OSM)](../README.md#osm--organization-strategy-model), [Product Transformation System (PTS)](../README.md#pts--product-transformation-system), CVDM — defined in the [Glossary](../glossary.md). The model itself is set out in [3E](../3e.md); read it first if you are starting here.
 
 > **Not a product organization?** "Product/Service" → "program/service"; "customer" → "patient/client/citizen/beneficiary"; "team" → "delivery unit."
 

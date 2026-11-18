@@ -1,6 +1,6 @@
 # Measurement Framework — Metrics and Indicators
 
-**The practitioner-facing layer of the 3E and 8 Values measurement models: concrete metrics, indicators, and thresholds for each dimension across OSM, PTS, and CVDM — and the leading and lagging signals that show the system is working at each architecture level.**
+**The practitioner-facing layer of the [Efficiency, Experience, Effectiveness (3E)](3e.md) and 8 Values measurement models: concrete metrics, indicators, and thresholds for each dimension across [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model), [Product Transformation System (PTS)](README.md#pts--product-transformation-system), and [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model) — and the leading and lagging signals that show the system is working at each architecture level.**
 
 ---
 
@@ -8,7 +8,7 @@ This guide turns the measurement *models* into measurable *signals*. Where [3E](
 
 It is paired with the practitioner guides — [3E](guides/3e-practitioners-guide.md) for *how* to apply 3E to an element, [8 Values](guides/8-values-practitioners-guide.md) for *how* to read organizational value. This guide is the *reference layer* underneath them: the candidate metric set and the bands to read it against.
 
-> **Read thresholds honestly.** The IIVCS has **no validated external benchmarks** (3e.md, 8-values.md both state this). Every threshold here is either **baseline-relative** (compare an element to its own prior reading and its stated target) or a **conservative starting band to calibrate**, never a universal industry truth. Peer/sector benchmark ranges are a separate, later deliverable (*3E Benchmarking* on the [Roadmap](ROADMAP.md)); field-calibration of these bands comes from the first real assessment runs. Until then: set targets from your own baseline, and treat absolute numbers below as starting points, not pass/fail lines.
+> **Read thresholds honestly.** The [Integrated Value Creation System (IIVCS)](README.md) has **no validated external benchmarks** (3e.md, 8-values.md both state this). Every threshold here is either **baseline-relative** (compare an element to its own prior reading and its stated target) or a **conservative starting band to calibrate**, never a universal industry truth. Peer/sector benchmark ranges are a separate, later deliverable (*3E Benchmarking* on the [Roadmap](ROADMAP.md)); field-calibration of these bands comes from the first real assessment runs. Until then: set targets from your own baseline, and treat absolute numbers below as starting points, not pass/fail lines.
 
 ---
 
@@ -26,7 +26,7 @@ It is paired with the practitioner guides — [3E](guides/3e-practitioners-guide
 | **Watch** | Below target, or flat where you expected movement — a leading-signal early warning |
 | **At risk** | Declining vs. baseline, or below the floor you set — act, don't wait for the lagging confirmation |
 
-**Framework emphasis.** Each framework leans on the dimensions it owns (per 3e.md): **OSM** is read mainly on Effectiveness (strategic outcomes) and Experience (stakeholder confidence); **PTS** treats Efficiency as the table stake and is proven on Effectiveness and Experience (incl. Organizational AER); **CVDM** is where all three 3E dimensions are primarily surfaced, customer-side.
+**Framework emphasis.** Each framework leans on the dimensions it owns (per 3e.md): **OSM** is read mainly on Effectiveness (strategic outcomes) and Experience (stakeholder confidence); **PTS** treats Efficiency as the table stake and is proven on Effectiveness and Experience (incl. Organizational [Adoption, Engagement, Retention (AER)](aer.md)); **CVDM** is where all three 3E dimensions are primarily surfaced, customer-side.
 
 ---
 
@@ -132,7 +132,7 @@ The Detailed Assessment marks seven criteria **†** — they depend on a thresh
 | **4.M1** — 3E applied consistently | A 3E profile exists at ≥3 of the 5 architecture levels, including value stream **and** value stage | 3E profiles | Quarterly |
 | **5.D1** — one AER track measured | Adoption, engagement, **and** retention each tracked on the value stream's primary journey(s) | Journey analytics | Monthly |
 | **6.D1** — value beyond financial/operational | ≥3 of the 8 value dimensions tracked | 8 Values reading | Quarterly |
-| **8.M1** — outcomes over output, consistently | Outcome-based measures are the *primary* success measure for the majority (≥ half) of the value stream's teams/initiatives | Team goal/OKR review | Quarterly |
+| **8.M1** — outcomes over output, consistently | Outcome-based measures are the *primary* success measure for the majority (≥ half) of the value stream's teams/initiatives | Team goal/[Objectives and Key Results (OKR)](glossary.md#external-frameworks-referenced) review | Quarterly |
 
 > **What "v1" does and does not mean.** v1 means the thresholds are now *defined* (no longer open judgment), so the assessment can report Mature against them. It does **not** mean they are field-validated or peer-benchmarked — that remains pending the first real assessment runs (*Detailed Assessment — Dry Run & Calibration*, client-gated) and external benchmarking (*3E Benchmarking*). Re-confirm v1 thresholds against real-run data when it exists.
 

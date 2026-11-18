@@ -8,7 +8,7 @@ Definitions for the terms, acronyms, and external frameworks referenced across t
 
 | Term | Definition |
 |---|---|
-| **IIVCS** | **Insheights Integrated Value Creation System** — the integrated system of organizational and product frameworks (OSM, PTS, CVDM) and measurement models (3E, AER, 8 Values) through which an organization defines, builds, and delivers value. |
+| **IIVCS** | **Insheights Integrated Value Creation System** — the integrated system of organizational and product frameworks ([Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model), [Product Transformation System (PTS)](README.md#pts--product-transformation-system), [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model)) and measurement models ([Efficiency, Experience, Effectiveness (3E)](3e.md), [Adoption, Engagement, Retention (AER)](aer.md), 8 Values) through which an organization defines, builds, and delivers value. |
 | **OSM** | **Organization Strategy Model** — how organizations translate strategic intent into prioritized value creation outcomes, connecting Values, Mission, and Vision through Strategic Value Creation to execution by value stream. |
 | **PTS** | **Product Transformation System** — how organizations create value through the interplay of strategy, the product operating model, product management activities, and Product Mindset, enabled by AI. |
 | **CVDM** | **Customer Value Delivery Model** — how every customer/user journey step triggers the right value stream stage to deliver the value proposition as a realized customer outcome, with five continuous feedback loops. |
@@ -137,7 +137,7 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 | **consists of** | CVDM: Customer Journey *consists of* Journey Steps; Value Stream *consists of* Value Stages |
 | **promises** | CVDM: Value Proposition *promises* Values |
 | **runs on** | IIVCS: each framework *runs on* the Value Streams common spine (dashed red lines) |
-| **underpins** | PTS: Product Mindset *underpins* every phase — a foundation, not a flow. IIVCS: Product Mindset *underpins* each framework (dashed grey lines) |
+| **underpins** | PTS: Product Mindset *underpins* every phase — a foundation, not a flow. IIVCS: Product Mindset *underpins* each framework (dashed brown lines) |
 | **learn (measure) / decide (prioritize)** | PTS: each phase's up and down arrows to and from the Continuous Feedback band |
 
 ### Distinctions

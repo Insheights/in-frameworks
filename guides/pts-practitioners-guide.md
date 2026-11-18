@@ -8,15 +8,15 @@
 
 | | |
 |---|---|
-| **What it does** | Structures the value-stream operating model and empowers the persistent cross-functional teams that turn OSM's strategic priorities into delivered value through CVDM |
+| **What it does** | Structures the value-stream operating model and empowers the persistent cross-functional teams that turn [Organization Strategy Model (OSM)](../README.md#osm--organization-strategy-model)'s strategic priorities into delivered value through [Customer Value Delivery Model (CVDM)](../README.md#cvdm--customer-value-delivery-model) |
 | **When to use it** | Operationalizing strategy; moving from project-to-product; when teams deliver output but not outcomes; when handoffs, not value streams, organize the work |
 | **Who runs it** | Transformation/product leadership; value-stream owners; the leaders accountable for the operating model |
 | **Who must be in the room** | Executive sponsor (mandate), value-stream owners, cross-functional team leads (product, engineering, design, ops), HR/org-design (team topology), change & comms lead (Launch) |
 | **Key inputs** | OSM's governed value-stream outcomes and priorities; value-stream inventory; current org/team structure; Product Mindset maturity |
-| **Key outputs** | An activated Product Operating Model (4 POM Enablers); cross-functional teams structured around value streams; a running product lifecycle; Organizational AER measurement |
+| **Key outputs** | An activated Product Operating Model (4 POM Enablers); cross-functional teams structured around value streams; a running product lifecycle; Organizational [Adoption, Engagement, Retention (AER)](../aer.md) measurement |
 | **Typical timeframe** | Initial stand-up: a transformation increment (one to two quarters). Lifecycle: continuous and overlapping thereafter |
 
-> **New to the IIVCS?** This guide uses system terms — POM and the POM Enablers, value stream, value-stream outcome, 3E, AER, the 8 Values, OSM, CVDM, Product Mindset — defined in the [Glossary](../glossary.md). [Framework Positioning](../positioning.md) explains how PTS relates to the other frameworks in a few minutes; read it first if you are starting here.
+> **New to the [Integrated Value Creation System (IIVCS)](../README.md)?** This guide uses system terms — POM and the POM Enablers, value stream, value-stream outcome, [Efficiency, Experience, Effectiveness (3E)](../3e.md), AER, the 8 Values, OSM, CVDM, Product Mindset — defined in the [Glossary](../glossary.md). [Framework Positioning](../positioning.md) explains how PTS relates to the other frameworks in a few minutes; read it first if you are starting here.
 
 > **Not a product organization?** "Product team" → "delivery unit / care team / service team"; "customer" → "patient / citizen / client"; "product lifecycle" → "service delivery lifecycle." The operating-model logic is unchanged — only the vocabulary shifts. See [Translation Notes](#translation-notes).
 
@@ -92,7 +92,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 | POM Enabler | What activating it means | Signal it is active |
 |---|---|---|
-| **Leadership** | Leaders set outcomes/OKRs, not feature lists; protect team autonomy and persistence | Teams are measured on value delivered, not tasks shipped |
+| **Leadership** | Leaders set outcomes/[Objectives and Key Results (OKRs)](../glossary.md#external-frameworks-referenced), not feature lists; protect team autonomy and persistence | Teams are measured on value delivered, not tasks shipped |
 | **Practices & Behaviors** | Continuous discovery, hypothesis-driven delivery, end-to-end ownership are the norm | Teams test assumptions before building; phases overlap continuously |
 | **Organizational Architecture** | Persistent cross-functional teams aligned to value streams; minimized handoffs | Team boundaries match value streams, not functions |
 | **Culture & Relationships** | Trust, psychological safety, and cross-functional collaboration are rewarded | Teams own problems together; failure surfaces as learning, not blame |

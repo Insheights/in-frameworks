@@ -4,7 +4,7 @@
 
 The behavioral measurement bridge of the Insheights Integrated Value Creation System, developed by Insheights LLC.
 
-AER measures behavioral response to value delivery — the actions customers and organizational teams take when the system is working. Where 3E measures how value is delivered (Use → Feel → Achieve), AER measures what that delivery produces in behavior. The two models are connected: 3E drives AER, and AER translates directly into the 8 Values.
+AER measures behavioral response to value delivery — the actions customers and organizational teams take when the system is working. Where [Efficiency, Experience, Effectiveness (3E)](3e.md) measures how value is delivered (Use → Feel → Achieve), AER measures what that delivery produces in behavior. The two models are connected: 3E drives AER, and AER translates directly into the 8 Values.
 
 AER operates across two parallel tracks — Customer AER measuring how customers respond to value delivery, and Organizational AER measuring how the delivering organization responds to its own operating model.
 
