@@ -51,7 +51,9 @@ OSM both formulates and governs strategy. Strategic Value Creation **diagnoses**
 
 The organization approaches Strategic Value Creation with a Product Mindset — strategies are living hypotheses, continuously tested and refined as execution generates signal. Strategy inputs are never static: market shifts, stakeholder expectations, and delivery outcomes continuously feed back into strategic reassessment. Product Mindset maturity — the organization's readiness to operate this way — is an internal context factor that shapes which strategies are realistic and executable.
 
-Value Streams — the pre-existing business workflows and capabilities through which value is created and delivered — are the organizing unit of execution across OSM, PTS, and CVDM. 
+Value Streams — the pre-existing business workflows and capabilities through which value is created and delivered — are the organizing unit of execution across OSM, PTS, and CVDM.
+
+Values, Mission, and Vision are enduring: no feedback loop revisits them. The loops refine the value priorities and how they are executed, not the organization's purpose.
 
 OSM scales vertically across the organization (Organization > Enterprise/Functions > Portfolio)
 

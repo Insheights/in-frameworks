@@ -28,7 +28,7 @@
       .fb    { fill: none; stroke: #3A87D9; stroke-width: 2.5; marker-end: url(#ab); }
       .lblf  { font-size: 13px; fill: #2F6FB5; font-style: italic; }
       .wa    { fill: none; stroke: #FFFFFF; stroke-width: 4; marker-end: url(#aw); }
-      .brace { fill: none; stroke: #3A87D9; stroke-width: 2; }
+      .brace { fill: none; stroke: #7A8591; stroke-width: 2; }
       .lbl   { font-size: 13px; fill: #3B4652; }
       .h     { font-size: 13px; font-weight: 700; }
       .t     { font-size: 13px; }
@@ -60,6 +60,8 @@
   <text class="h dark" x="124" y="276" text-anchor="end">(POM)</text>
   <text class="h dark" x="124" y="293" text-anchor="end">Enablers</text>
   <text class="lbl" x="124" y="315" text-anchor="end">empower</text>
+  <!-- POM Enablers empower the product team (team box is y=524..850 after the -18 shift) -->
+  <path class="work" d="M104,324 V680 H156"/>
 
   <rect x="160" y="130" width="780" height="34" rx="3" fill="#C5D0DA"/>
   <text class="s dark" x="170" y="152"><tspan font-weight="700">Leadership</tspan> - Strategic Context, Strategy, Vision, Outcomes &amp; Priorities, Decision Making, Empowerment, Coaching</text>
@@ -187,11 +189,10 @@
   <text x="550" y="974" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
   </g>
 <!-- legend entry for the phase arrows (P5): up = learn (measure), down = decide (prioritize) -->
-  <rect x="820" y="30" width="28" height="22" rx="3" fill="#E57E2C"/>
-  <g fill="#FFFFFF">
-    <polygon points="829,32 834,39 831,39 831,50 827,50 827,39 824,39"/>
-    <polygon points="837,32 841,32 841,43 844,43 839,50 834,43 837,43"/>
-  </g>
-  <text x="854" y="39" font-size="11" fill="#3B4652">learn (measure)</text>
-  <text x="854" y="52" font-size="11" fill="#3B4652">decide (prioritize)</text>
+  <rect x="826" y="25" width="20" height="16" rx="3" fill="#E57E2C"/>
+  <polygon points="836,27 841,33 838,33 838,39 834,39 834,33 831,33" fill="#FFFFFF"/>
+  <text x="854" y="37" font-size="11" fill="#3B4652">learn (measure)</text>
+  <rect x="826" y="45" width="20" height="16" rx="3" fill="#E57E2C"/>
+  <polygon points="834,47 838,47 838,53 841,53 836,59 831,53 834,53" fill="#FFFFFF"/>
+  <text x="854" y="57" font-size="11" fill="#3B4652">decide (prioritize)</text>
 </svg>
