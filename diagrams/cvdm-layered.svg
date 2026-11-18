@@ -108,8 +108,8 @@
   <text class="lbl" x="580" y="768">enables</text>
 
   <!-- Process -> Capability: operationalizes -->
-  <path class="work" d="M572,880 V842"/>
-  <text class="lbl" x="580" y="866">operationalizes</text>
+  <path class="work" d="M540,880 V842"/>
+  <text class="lbl" x="556" y="866">operationalizes</text>
 
   <!-- ===================== FEEDBACK FLOW (numbered sequence) ===================== -->
 
