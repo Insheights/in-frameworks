@@ -4,9 +4,9 @@
 
 ---
 
-This model answers the two questions every organization asks before adopting the IIVCS:
+This model answers the two questions every organization asks before adopting the [Integrated Value Creation System (IIVCS)](README.md):
 
-1. **Where do we start** — OSM, PTS, or CVDM — and in what sequence?
+1. **Where do we start** — [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model), [Product Transformation System (PTS)](README.md#pts--product-transformation-system), or [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model) — and in what sequence?
 2. **How mature are we** — what does early, developing, and mature adoption look like, and what would it take to advance?
 
 It is a self-orientation tool. For a directional reading use the [IIVCS Quick Self-Assessment](quick-assessment.md); for a structured, scored evaluation use the IIVCS Detailed Assessment. This model is the map that makes either result actionable: it tells you where you are and what to do next.
@@ -24,7 +24,7 @@ Adoption maturity is defined at three levels across the suite. The levels descri
 | Level | What it looks like across the suite |
 |---|---|
 | **Early** | One or two components operate in isolation. Measurement is activity- or output-based. There is no upstream feedback loop — signals die at the team. Frameworks, if present, are not connected to each other. |
-| **Developing** | Multiple components are connected on at least one value stream. 3E is applied in places; one AER track (usually customer) is measured. Some feedback loops run and reach PTS. Strategy, operating model, and delivery are partially linked but not yet a closed system. |
+| **Developing** | Multiple components are connected on at least one value stream. [Efficiency, Experience, Effectiveness (3E)](3e.md) is applied in places; one [Adoption, Engagement, Retention (AER)](aer.md) track (usually customer) is measured. Some feedback loops run and reach PTS. Strategy, operating model, and delivery are partially linked but not yet a closed system. |
 | **Mature** | All three frameworks operate as one connected system across value streams. Dual-track AER (Customer + Organizational) is measured in parallel; the 8 Values aggregate from their operational source; the full upstream feedback loop (CVDM → PTS → OSM) revises strategy on signal. The system is self-correcting. |
 
 ---
@@ -36,7 +36,7 @@ Read each row and find the column that best describes you today. Your **system m
 | Component | Early | Developing | Mature |
 |---|---|---|---|
 | **OSM** — Strategy & Governance | Strategy is a deck; priorities are activities, not outcomes; no stated diagnosis or choices; no value-stream governance | Value priorities stated as outcomes and mapped to some value streams; diagnosis, choices, and assumptions are partly implicit; governance cadence exists but rarely revises priorities | Priorities rest on an explicit diagnosis and choices (where to play and not play, how to win), carry written assumptions, are funded in rank order, and are governed by value stream; Governance & Measurement reconciles dual-track AER + 8 Values, tests the assumptions, and revises strategy on signal |
-| **PTS** — Operating Model | Project-based delivery; functional silos and handoffs; teams disband per initiative | Some persistent cross-functional teams on key value streams; partial POM Enabler activation | Persistent value-stream teams; all four POM Enablers active; continuous lifecycle; Organizational AER measured |
+| **PTS** — Operating Model | Project-based delivery; functional silos and handoffs; teams disband per initiative | Some persistent cross-functional teams on key value streams; partial [Product Operating Model (POM)](glossary.md#core-system-and-frameworks) Enabler activation | Persistent value-stream teams; all four POM Enablers active; continuous lifecycle; Organizational AER measured |
 | **CVDM** — Delivery & Realization | Delivery organized by internal process, not the customer journey; no journey-to-value-stream map | Journey mapped to value stream on key journeys; some value stages defined; a few feedback loops running | Full journey-to-value-stream mapping; value stages defined as outcomes; all five loops active; Customer AER measured |
 | **3E** — Operational Measurement | Metrics are activity/output; no consistent measurement language | 3E applied at some elements; Use → Feel → Achieve read in places | 3E applied consistently across architecture levels and read in sequence diagnostically |
 | **AER** — Behavioral Measurement | No behavioral measurement; satisfaction surveys at best | One track measured (usually Customer AER) on some journeys | Dual-track AER (Customer + Organizational) measured in parallel and reconciled at OSM |

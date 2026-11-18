@@ -8,7 +8,7 @@ A comparison of the Insheights AER Behavioral Measurement Model against establis
 
 ## Positioning
 
-AER (Adoption | Engagement | Retention) measures behavioral response to value delivery across two parallel tracks — Customer AER and Organizational AER. It occupies the behavioral signal layer between 3E (how value is delivered) and the 8 Values (what the organization generates as a result).
+AER (Adoption | Engagement | Retention) measures behavioral response to value delivery across two parallel tracks — Customer AER and Organizational AER. It occupies the behavioral signal layer between [Efficiency, Experience, Effectiveness (3E)](3e.md) (how value is delivered) and the 8 Values (what the organization generates as a result).
 
 Each of the frameworks below captures part of what AER measures. What distinguishes AER among them is covering both behavioral tracks — customer and organizational — in one model and embedding them within a connected value delivery architecture (3E → AER → 8 Values). The Service-Profit Chain is the closest precedent for the dual-track idea (see [iivcs-comparison.md](iivcs-comparison.md#related-prior-work)).
 

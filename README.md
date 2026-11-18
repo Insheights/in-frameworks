@@ -28,7 +28,7 @@ The Insheights Integrated Value Creation System (IIVCS) is how organizations def
 
 Two things set IIVCS apart.
 
-**It is a coherent system, not a single-layer tool.** OSM, PTS, and CVDM integrate strategy, operating model, and customer delivery into one connected system — with value streams as a shared spine and a single measurement language (3E → AER → 8 Values) running through all of them. Most frameworks address one layer; IIVCS connects them, and is designed to integrate existing practices rather than replace them.
+**It is a coherent system, not a single-layer tool.** OSM, PTS, and CVDM integrate strategy, operating model, and customer delivery into one connected system — with value streams as a shared spine and a single measurement language ([Efficiency, Experience, Effectiveness (3E)](3e.md) → [Adoption, Engagement, Retention (AER)](aer.md) → 8 Values) running through all of them. Most frameworks address one layer; IIVCS connects them, and is designed to integrate existing practices rather than replace them.
 
 **Within that system, it measures value on two parallel behavioral tracks.** Most frameworks measure one side of value creation — either how the organization delivers (operating-model and flow metrics) or how customers respond (satisfaction, loyalty, NPS). IIVCS measures both, and treats neither as sufficient alone:
 
@@ -99,7 +99,7 @@ Each Product Mindset principle has a direct role in PTS:
 | Product Mindset Principle | How It Shows Up in PTS |
 |---|---|
 | Customer obsession | Teams are organized around value streams that serve customer needs — POM Enablers orient the operating model toward customer outcomes, not deliverables |
-| Outcome over output | Leadership sets Outcomes/OKRs, not feature lists — teams are measured on value delivered, not tasks completed |
+| Outcome over output | Leadership sets Outcomes/[Objectives and Key Results (OKRs)](glossary.md#external-frameworks-referenced), not feature lists — teams are measured on value delivered, not tasks completed |
 | Continuous discovery | Discover is continuous and overlapping — teams never stop learning from customers, data, and market signals across all phases |
 | Hypothesis-driven thinking | Each phase from Discover through Support is a testable assumption — the feedback and learning loop validates or corrects direction |
 | Cross-functional ownership | Persistent cross-functional teams own the full value delivery chain end-to-end — from Discover through Support — without hand-offs |

@@ -1,6 +1,6 @@
 # IIVCS Quick Self-Assessment
 
-**A directional reading of your IIVCS adoption maturity in a few minutes — one question per element.**
+**A directional reading of your [Integrated Value Creation System (IIVCS)](README.md) adoption maturity in a few minutes — one question per element.**
 
 ---
 
@@ -16,22 +16,22 @@ For each IIVCS element, pick the **highest statement that is *fully* true** toda
 
 ## The Questions
 
-**1. OSM — Strategy & Governance.** How are your strategic priorities expressed and governed?
+**1. [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model) — Strategy & Governance.** How are your strategic priorities expressed and governed?
 - **a)** As initiatives or activities in a plan; not governed by value stream
 - **b)** As outcomes mapped to some value streams; reviewed but rarely revised
-- **c)** As value-stream-governed outcomes grounded in explicit choices (where to play, how to win) and written assumptions, revised on dual-track AER + 8 Values signal
+- **c)** As value-stream-governed outcomes grounded in explicit choices (where to play, how to win) and written assumptions, revised on dual-track [Adoption, Engagement, Retention (AER)](aer.md) + 8 Values signal
 
-**2. PTS — Operating Model.** How are delivery teams organized?
+**2. [Product Transformation System (PTS)](README.md#pts--product-transformation-system) — Operating Model.** How are delivery teams organized?
 - **a)** Project teams by function, assembled and disbanded per initiative, with handoffs
 - **b)** Some persistent cross-functional teams on key value streams; partial enabler activation
-- **c)** Persistent value-stream teams; all four POM Enablers active; Organizational AER measured
+- **c)** Persistent value-stream teams; all four [Product Operating Model (POM)](glossary.md#core-system-and-frameworks) Enablers active; Organizational AER measured
 
-**3. CVDM — Delivery & Realization.** How is delivery organized relative to the customer journey?
+**3. [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model) — Delivery & Realization.** How is delivery organized relative to the customer journey?
 - **a)** By internal process; there is no journey-to-value-stream map
 - **b)** Key journeys mapped to value streams; some value stages defined; a few loops running
 - **c)** Full journey mapping; value stages defined as outcomes; five loops active; Customer AER measured
 
-**4. 3E — Operational Measurement.** How do you measure whether value is delivered at a given element?
+**4. [Efficiency, Experience, Effectiveness (3E)](3e.md) — Operational Measurement.** How do you measure whether value is delivered at a given element?
 - **a)** Activity or output metrics; no consistent measurement language
 - **b)** 3E applied at some elements; Use → Feel → Achieve read in places
 - **c)** 3E applied consistently across levels and read in sequence diagnostically

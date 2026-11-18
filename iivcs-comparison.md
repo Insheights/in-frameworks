@@ -8,7 +8,7 @@ A comparison of the Insheights Integrated Value Creation System against establis
 
 ## Positioning
 
-The IIVCS (OSM | PTS | CVDM) is a system of three interdependent frameworks designed to span the full arc from strategic intent to realized customer outcome — integrated with a shared measurement language (3E, AER, 8 Values) and a feedback architecture that returns customer signal upstream to strategy.
+The IIVCS ([Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model) | [Product Transformation System (PTS)](README.md#pts--product-transformation-system) | [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model)) is a system of three interdependent frameworks designed to span the full arc from strategic intent to realized customer outcome — integrated with a shared measurement language ([Efficiency, Experience, Effectiveness (3E)](3e.md), [Adoption, Engagement, Retention (AER)](aer.md), 8 Values) and a feedback architecture that returns customer signal upstream to strategy.
 
 The frameworks below were each built for a different primary purpose — architecture description, delivery scaling, service design, demand insight. Each addresses part of this arc; what distinguishes IIVCS is how tightly it integrates them within one system, anchored outside-in on the customer journey. The comparison is *integrative reach*, not a claim that any single capability below is novel — several have decades of prior art (see [Related Prior Work](#related-prior-work)).
 
@@ -89,7 +89,7 @@ SAFe is the leading enterprise framework for scaling agile practices across larg
 
 SAFe's customer orientation is an embedded practice (Design Thinking, CALMR) rather than the structural anchor of the whole system. In IIVCS, the customer journey is the organizing unit at the delivery layer (CVDM) — every capability, process, and value stream step is defined by what it does for a customer journey step. In SAFe, customer centricity is practiced within delivery without being the structural basis for how delivery is organized.
 
-SAFe has no equivalent to 3E — a consistent measurement language applied from team-level process to portfolio-level value stream. SAFe metrics (flow metrics, OKR attainment, team performance) are valuable but heterogeneous; they do not compose into a single measurement model that runs from process to organizational outcome.
+SAFe has no equivalent to 3E — a consistent measurement language applied from team-level process to portfolio-level value stream. SAFe metrics (flow metrics, [Objectives and Key Results (OKR)](glossary.md#external-frameworks-referenced) attainment, team performance) are valuable but heterogeneous; they do not compose into a single measurement model that runs from process to organizational outcome.
 
 SAFe has no equivalent to AER — a behavioral signal layer that measures whether teams and customers are adopting and retaining value from the operating model. SAFe's metrics capture delivery flow, not behavioral response to value delivery.
 

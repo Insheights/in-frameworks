@@ -1,8 +1,8 @@
 # IIVCS Framework Positioning
 
-Positioning statements for the three IIVCS frameworks. Each states what the framework is, how it relates to the others up and down the system, what it owns, and its half of the dual-track behavioral measurement that distinguishes the IIVCS.
+Positioning statements for the three [Integrated Value Creation System (IIVCS)](README.md) frameworks. Each states what the framework is, how it relates to the others up and down the system, what it owns, and its half of the dual-track behavioral measurement that distinguishes the IIVCS.
 
-The three are deliberately symmetric: **OSM governs, PTS operationalizes, CVDM realizes** — and feedback runs upstream, CVDM → PTS → OSM. Outcome definition flows down (OSM defines value-stream outcomes, PTS owns their delivery, product teams own the customer outcomes that evidence them); outcome evidence flows up.
+The three are deliberately symmetric: **[Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model) governs, [Product Transformation System (PTS)](README.md#pts--product-transformation-system) operationalizes, [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model) realizes** — and feedback runs upstream, CVDM → PTS → OSM. Outcome definition flows down (OSM defines value-stream outcomes, PTS owns their delivery, product teams own the customer outcomes that evidence them); outcome evidence flows up.
 
 ---
 
@@ -14,7 +14,7 @@ OSM is the strategy and governance layer of the IIVCS — the control plane thro
 OSM is the top of the system, and its accountability runs in two directions:
 
 - **It governs down to execution.** OSM sets the value-stream outcomes and priorities that PTS builds the operating model to deliver and that CVDM realizes at the customer journey. It governs *what* the organization creates value on and *where* — it does not operate the model or deliver to the customer.
-- **It reconciles the return path.** OSM is where feedback resolves into strategic reassessment — PTS's executability signal, CVDM's customer reality, the dual-track AER, and the 8 Values organizational outcomes converge in Governance & Measurement to confirm, refute, or retune strategic hypotheses.
+- **It reconciles the return path.** OSM is where feedback resolves into strategic reassessment — PTS's executability signal, CVDM's customer reality, the dual-track [Adoption, Engagement, Retention (AER)](aer.md), and the 8 Values organizational outcomes converge in Governance & Measurement to confirm, refute, or retune strategic hypotheses.
 
 OSM owns **the strategic choices, the strategic value priorities, and the definition of value-stream outcomes**. The choices are the diagnosis of the critical challenge, where the organization will and will not play, how it expects to win (or its theory of change), and the assumptions each priority rests on. The value-stream outcomes are the business intent each value stream exists to produce. OSM formulates the choices and governs the rest. Value-stream outcomes are defined here and delivered downstream: OSM defines them, PTS owns their delivery, and customer outcomes evidence them.
 

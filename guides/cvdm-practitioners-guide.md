@@ -10,13 +10,13 @@
 |---|---|
 | **What it does** | Maps each customer journey step to the value-stream stage that serves it, defines the capabilities, processes, products/services, and information concepts (and their flows) that deliver the value proposition as a realized customer outcome, and surfaces signal through five continuous feedback loops |
 | **When to use it** | Designing or fixing how value reaches the customer; when delivery produces activity but not outcomes; when the journey and the value stream are not connected; when customer signal is not feeding back upstream |
-| **Who runs it** | The persistent cross-functional product team (built in PTS); the value-stream / journey owner |
+| **Who runs it** | The persistent cross-functional product team (built in [Product Transformation System (PTS)](../README.md#pts--product-transformation-system)); the value-stream / journey owner |
 | **Who must be in the room** | Customer-facing team members, delivery/operations members, the value-stream owner, and someone who owns each capability the journey depends on |
-| **Key inputs** | The teams and capabilities supplied by PTS; the value-stream outcome from OSM; customer journey knowledge; the value proposition |
-| **Key outputs** | A journey-to-value-stream map; defined value stages with value propositions; operationalized capabilities/processes; 3E + Customer AER instrumentation; five active feedback loops |
+| **Key inputs** | The teams and capabilities supplied by PTS; the value-stream outcome from [Organization Strategy Model (OSM)](../README.md#osm--organization-strategy-model); customer journey knowledge; the value proposition |
+| **Key outputs** | A journey-to-value-stream map; defined value stages with value propositions; operationalized capabilities/processes; [Efficiency, Experience, Effectiveness (3E)](../3e.md) + Customer [Adoption, Engagement, Retention (AER)](../aer.md) instrumentation; five active feedback loops |
 | **Typical timeframe** | Initial map and instrumentation: one to two working sessions per value stream. Feedback loops: continuous thereafter |
 
-> **New to the IIVCS?** This guide uses system terms — value stream, value stage, capability, value proposition, 3E, AER, the 8 Values, OSM, PTS, Product Mindset — defined in the [Glossary](../glossary.md). [Framework Positioning](../positioning.md) explains how CVDM relates to the other frameworks in a few minutes; read it first if you are starting here.
+> **New to the [Integrated Value Creation System (IIVCS)](../README.md)?** This guide uses system terms — value stream, value stage, capability, value proposition, 3E, AER, the 8 Values, OSM, PTS, Product Mindset — defined in the [Glossary](../glossary.md). [Framework Positioning](../positioning.md) explains how CVDM relates to the other frameworks in a few minutes; read it first if you are starting here.
 
 > **Not a product organization?** "Customer" → "patient / citizen / client"; "product/service" → "program / pathway / engagement"; "journey" → "patient pathway / case lifecycle." The realization logic is unchanged — only the vocabulary shifts. See [Translation Notes](#translation-notes).
 

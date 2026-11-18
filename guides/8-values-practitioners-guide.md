@@ -1,6 +1,6 @@
 # Insheights 8 Organizational Values Measurement Model — Practitioners Guide
 
-**How to read, diagnose, and act on organizational value generation across all eight dimensions of the IIVCS.**
+**How to read, diagnose, and act on organizational value generation across all eight dimensions of the [Integrated Value Creation System (IIVCS)](../README.md).**
 
 ---
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| **What it does** | Synthesizes 3E and AER signals into an organizational value profile — revealing what the organization is generating, where value is leaking, and which gaps create compounding drag across other dimensions |
-| **When to use it** | At each OSM governance cadence; when value generation patterns need diagnosis; when board or investor reporting requires an IR 6 Capitals translation; when strategic hypotheses need validation against organizational outcomes |
+| **What it does** | Synthesizes [Efficiency, Experience, Effectiveness (3E)](../3e.md) and [Adoption, Engagement, Retention (AER)](../aer.md) signals into an organizational value profile — revealing what the organization is generating, where value is leaking, and which gaps create compounding drag across other dimensions |
+| **When to use it** | At each [Organization Strategy Model (OSM)](../README.md#osm--organization-strategy-model) governance cadence; when value generation patterns need diagnosis; when board or investor reporting requires an [Integrated Reporting (IR)](../glossary.md#external-frameworks-referenced) 6 Capitals translation; when strategic hypotheses need validation against organizational outcomes |
 | **Who runs it** | The person accountable for OSM governance — typically a Chief of Staff, Strategy Lead, or Value Creation Lead |
-| **Who must be in the room** | OSM governance lead; PTS / delivery lead; CVDM / customer experience lead; finance lead (Financial Value signals); people lead (People Value signals) |
+| **Who must be in the room** | OSM governance lead; [Product Transformation System (PTS)](../README.md#pts--product-transformation-system) / delivery lead; [Customer Value Delivery Model (CVDM)](../README.md#cvdm--customer-value-delivery-model) / customer experience lead; finance lead (Financial Value signals); people lead (People Value signals) |
 | **Key inputs** | 3E signal maps from instrumented architecture elements; AER data across Customer and Organizational tracks; OSM strategic hypotheses; governance and reporting requirements |
 | **Key outputs** | An 8 Values profile; a compounding diagnosis; a prioritized action list; an IR 6 Capitals translation for external reporting |
 | **Typical timeframe** | Initial profile: one to two working sessions. Ongoing review: aligned to OSM governance cadence — typically quarterly, with out-of-cycle triggers defined in Step 5 |

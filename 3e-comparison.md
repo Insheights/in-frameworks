@@ -8,7 +8,7 @@ A comparison of the Insheights 3E Operational Values Measurement Model against e
 
 ## Positioning
 
-3E (Efficiency | Experience | Effectiveness) measures value delivery in sequence — from whether value can be accessed (Use), through whether it is felt positively (Feel), to whether it achieves intended outcomes (Achieve). It is applied consistently across every architecture element in the IIVCS: Value Streams, Value Stages, Capabilities, Processes, and Products/Services.
+3E (Efficiency | Experience | Effectiveness) measures value delivery in sequence — from whether value can be accessed (Use), through whether it is felt positively (Feel), to whether it achieves intended outcomes (Achieve). It is applied consistently across every architecture element in the [Integrated Value Creation System (IIVCS)](README.md): Value Streams, Value Stages, Capabilities, Processes, and Products/Services.
 
 The frameworks below each capture a portion of what 3E measures. None sequences its dimensions as a causal chain, and none applies a single measurement language consistently from individual process level to full value stream level while grounding every dimension in customer value elements.
 
@@ -25,7 +25,7 @@ The frameworks below each capture a portion of what 3E measures. None sequences 
 | **Google HEART** | No — five independent dimensions | No | No | No — product analytics only | No | Mature |
 | **NPS / CSAT / CES** | No — single-dimension instruments | Partially (CES is leading) | No | No | No | Mature |
 | **AARRR** | Partially — funnel sequence | Partially | No — company-centric | No | No | Established |
-| **Insheights 3E** | Yes — Use → Feel → Achieve | Yes — Efficiency + Experience leading, Effectiveness lagging | Yes — 70 B2B/B2C Elements of Value | Yes — Value Stream to Process level | Yes — 3E → AER → 8 Values | Conceptual |
+| **Insheights 3E** | Yes — Use → Feel → Achieve | Yes — Efficiency + Experience leading, Effectiveness lagging | Yes — 70 B2B/B2C Elements of Value | Yes — Value Stream to Process level | Yes — 3E → [Adoption, Engagement, Retention (AER)](aer.md) → 8 Values | Conceptual |
 
 ---
 
