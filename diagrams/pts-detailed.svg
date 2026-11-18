@@ -59,6 +59,7 @@
   <text class="h dark" x="124" y="259" text-anchor="end">Model</text>
   <text class="h dark" x="124" y="276" text-anchor="end">POM</text>
   <text class="h dark" x="124" y="293" text-anchor="end">Enablers</text>
+  <text class="lbl" x="124" y="315" text-anchor="end">empower</text>
 
   <rect x="160" y="130" width="780" height="34" rx="3" fill="#C5D0DA"/>
   <text class="s dark" x="170" y="152"><tspan font-weight="700">Leadership</tspan> - Strategic Context, Strategy, Vision, Outcomes &amp; Priorities, Decision Making, Empowerment, Coaching</text>
@@ -89,9 +90,10 @@
   <!-- two-way link: objectives <-> product team -->
   <!-- work: leaders set outcomes for the team (down); feedback: results & learnings drive re-prioritization (up) -->
   <path class="work" d="M520,486 V538"/>
-  <text class="lbl" x="512" y="519" text-anchor="end">sets outcomes</text>
+  <text class="lbl" x="512" y="508" text-anchor="end">sets value-stream outcomes, funds teams,</text>
+  <text class="lbl" x="512" y="524" text-anchor="end">re-prioritizes, re-allocates</text>
   <path class="fb" d="M580,542 V490"/>
-  <text class="lblf" x="590" y="519">results &amp; learnings drive priority changes &amp; reallocation</text>
+  <text class="lblf" x="590" y="519">results &amp; learnings</text>
 
   <!-- ===================== PRODUCT TEAM ===================== -->
 
@@ -146,7 +148,11 @@
 
   <!-- product mindset -->
   <rect x="176" y="836" width="748" height="32" rx="3" fill="#8A7B58"/>
-  <text class="h wht" x="550" y="857" text-anchor="middle">Product Mindset</text>
+  <text class="h wht" x="550" y="857" text-anchor="middle">Product Mindset — underpins every phase</text>
+
+  <!-- team produces outcomes (P6): right-angle arrow from the top of the team box (above the gap between Launch and Support, x=806) into the side of the outcomes arrow -->
+  <path class="work" d="M806,542 V514 H956"/>
+  <text class="lbl" x="881" y="508" text-anchor="middle">produces</text>
 
   <!-- ===================== PRODUCT MANAGEMENT ===================== -->
 
@@ -180,4 +186,12 @@
 
   <text x="550" y="974" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
   </g>
+<!-- legend entry for the phase arrows (P5): up = learn (measure), down = decide (prioritize) -->
+  <rect x="820" y="30" width="28" height="22" rx="3" fill="#E57E2C"/>
+  <g fill="#FFFFFF">
+    <polygon points="829,32 834,39 831,39 831,50 827,50 827,39 824,39"/>
+    <polygon points="837,32 841,32 841,43 844,43 839,50 834,43 837,43"/>
+  </g>
+  <text x="854" y="39" font-size="11" fill="#3B4652">learn (measure)</text>
+  <text x="854" y="52" font-size="11" fill="#3B4652">decide (prioritize)</text>
 </svg>
