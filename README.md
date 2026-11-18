@@ -22,6 +22,8 @@ The Insheights Integrated Value Creation System (IIVCS) is how organizations def
 
 ![IIVCS Diagram](diagrams/iivcs.svg)
 
+Measurement runs alongside this system — see the [Measurement Architecture](#summary) in the Summary below.
+
 ---
 
 ## What Makes IIVCS Distinctive
