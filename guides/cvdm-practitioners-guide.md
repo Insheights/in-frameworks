@@ -93,7 +93,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ### Step 3 — Operationalize capabilities, processes, products/services, and information flows
 
-**What you do:** For each value stage, define what is required to deliver it: the Products/Services the customer interacts with, the Capabilities the team must hold, the Processes that execute, and the Information flows that connect them. This is where the value stage becomes operational.
+**What you do:** For each value stage, define what is required to deliver it: the Products/Services the customer interacts with, the Capabilities the team must hold, the Processes that execute, and the Information concepts, and the flows that feed them to capabilities. This is where the value stage becomes operational.
 
 **Key question this step answers:** *What must exist and execute for each value stage to deliver its outcome?*
 
@@ -101,7 +101,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Output:** An operational definition per value stage — products/services, capabilities, processes, and information flows
 
 **Guidance:**
-- Work down the architecture: Value Stage → Capability → Process → Product/Service, with Information flows connecting them. Each value stage is delivered by capabilities, which run processes, which the customer meets as products/services.
+- Work down the architecture: Value Stage → Capability → Process → Product/Service, with Information concepts feeding the capabilities. Each value stage is delivered by capabilities, which run processes, which the customer meets as products/services.
 - Information flows are not an afterthought. A value stage fails most often not because a capability is missing, but because information does not flow between capabilities at the moment the customer needs it.
 - Cross-functional ownership applies here: the team owns the full chain for the value stage, not a single process with handoffs to other teams. If delivering a value stage requires a handoff outside the team, revisit the PTS team topology.
 - You are done when each value stage has its capabilities, processes, products/services, and information flows named and owned.

@@ -5,7 +5,7 @@
     - Element boxes are 192 x 48. Instance circles (B, C, ...) are 48 across (r=24) at x=750, 805, 860.
     - Layer bands (Customer Journey, Value Proposition, Value Stream) span x=120..900, 80 high.
     - Element column x=444..636 (centre 540): Customer/User, Journey Step A, Value A, Product/Service A, Value Stage A.
-      Capability and Process are aligned with Value Stage A (x=444..636). Enables and operationalizes run straight
+      Capability and Process are aligned with Value Stage A (x=444..636); Information Concept sits beside Process (x=700..892). Enables and operationalizes run straight
       at x=572, Value Stage A's right bottom point (bottom thirds: 508 participates in, 572 enables). Stakeholder under x=290.
     - Connection points are evenly spaced per edge (thirds of the edge where two arrows share it).
     - Left-margin lines: x=50 (experiences, delivers) and x=80 (undergoes). Right: x=700 (reaches, 4, 5), x=960 (1, 3).
@@ -127,7 +127,7 @@
   <text class="lblf" x="708" y="625">3. delivery learning</text>
 
   <!-- 4. Value Stage A -> Capability: performance optimization -->
-  <path class="fb" d="M636,698 H700 V814 H640"/>
+  <path class="fb" d="M636,698 H700 V804 H640"/>
   <text class="lblf" x="708" y="768">4. performance optimization</text>
 
   <!-- ===================== ELEMENTS (192 x 48) ===================== -->
@@ -167,6 +167,14 @@
 
   <rect x="444" y="880" width="192" height="48" rx="3" fill="#6A5AE8"/>
   <text class="c wht" x="540" y="909">Process</text>
+
+  <!-- Information Concept (README, CVDM guide Step 3): named business information (the terms of PTS Business Domain Language);
+       the arrow is its flow, feeding a capability at the moment the customer needs it.
+       Sits on the Process row; its arrow enters Capability's right edge below loop 4 (loop 4 at y=804, feeds at y=828), clear of the x=700 line. -->
+  <path class="work" d="M760,880 V828 H640"/>
+  <text class="lbl" x="768" y="862">feeds</text>
+  <rect x="700" y="880" width="192" height="48" rx="3" fill="#6A5AE8"/>
+  <text class="c wht" x="796" y="909">Information Concept</text>
 
   <!-- legend: top-right, same spot and layout in osm.svg, cvdm-layered.svg, pts-detailed.svg -->
   <text x="940" y="34" font-size="12" fill="#3B4652">work flow</text>

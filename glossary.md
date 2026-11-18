@@ -92,7 +92,7 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 | **enables** | Supplies the ability the target needs to function | CVDM: Capability → Value Stage. Also the PTS → CVDM relation in [Positioning](positioning.md) |
 | **experienced through** | The product or service by which the customer meets the target | CVDM: Value Stage → Product/Service |
 | **experiences** | Encounters directly | CVDM: Customer/User → Value Proposition |
-| **feed** | Supply the behavioural signal the target measures | Measurement Architecture: Customer Journey Steps → AER (customer track); Product Team & Product Operating Model → AER (organization track) |
+| **feed / feeds** | Supplies what the target needs, when it needs it: the signal a measure reads, or the information a capability acts on | CVDM: Information Concept → Capability. Measurement Architecture: Customer Journey Steps → AER (customer track); Product Team & Product Operating Model → AER (organization track) |
 | **flags risk** | Raises a risk signal for the target to act on | OSM: Enterprise Risk Mgmt → Governance & Measurement; → Execution & Deployment |
 | **fulfills** | Meets a promise | CVDM: Value Stage → Value |
 | **funds** | Commits budget and capacity | OSM: Governance & Measurement → Execution & Deployment. PTS: Objectives by value stream → product team |
