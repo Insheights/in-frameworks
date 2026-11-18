@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="820" viewBox="0 0 1120 820" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="690" viewBox="0 0 1160 690" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
   <title>Insheights Measurement Architecture</title>
   <!--
     Layout
-    - Side boxes are 192 wide: inputs on the left (x=40) and right (x=888).
-    - Centre column x=340..820: 3E (leading indicators), the AER bridge, 8 Values (lagging indicators).
-    - Inside the bridge: Customer AER x=370..562 and Organization AER x=598..790 (192 wide each).
-    - 3E forks into both AER tracks; both tracks merge into the 8 Values.
-    - The path forks again at the 8 Values (feedback.md): People + Operational Value feed PTS;
-      the other six feed OSM Governance & Measurement.
-    - Grey = work flow (verb), blue = feedback flow (what flows back), as in the other diagrams.
+    - Side boxes are 192 wide: customer side on the left (x=40), organization / architecture side on the right (x=928).
+    - Centre column x=340..820: 3E, the AER bridge, 8 Values (lagging indicators).
+    - 3E is split as in 3e.md: Lagging = Effectiveness (x=370..562, beside Outcomes, which it measures);
+      Leading = Efficiency, Experience (x=598..790).
+    - AER (the bridge) is split the same way into its two tracks: Customer x=370..562, Organization x=598..790.
+    - Every arrow meets the outer 3E / AER / 8 Values box, not an inner box.
+    - Grey = work flow (verb), as in the other diagrams; this diagram has no feedback flows.
   -->
   <defs>
     <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
@@ -36,76 +36,89 @@
   </defs>
 
   <!-- background -->
-  <rect width="1120" height="820" fill="#F1F4F7"/>
-  <rect width="1120" height="820" fill="url(#dots)"/>
+  <rect width="1160" height="690" fill="#F1F4F7"/>
+  <rect width="1160" height="690" fill="url(#dots)"/>
 
   <!-- title -->
   <text x="40" y="40" font-size="20" font-weight="700" fill="#2E3A46">Insheights Measurement Architecture</text>
 
   <!-- legend: top-right, same layout as the other diagrams -->
-  <text x="980" y="34" font-size="12" fill="#3B4652">work flow</text>
-  <path class="work" d="M980,44 H1080"/>
-  <text x="980" y="70" font-size="12" fill="#2F6FB5" font-style="italic">feedback flow</text>
-  <path class="fb" d="M980,80 H1080"/>
+  <text x="1020" y="34" font-size="12" fill="#3B4652">work flow</text>
+  <path class="work" d="M1020,44 H1120"/>
 
-  <!-- ===================== ROW 1: architecture elements -> 3E ===================== -->
+  <!-- ===================== ROW 1: 3E (raised 16px to give the 3E -> AER arrow room for its label) ===================== -->
+  <g transform="translate(0,-16)">
 
-  <text class="cap" x="40" y="130">Architecture Elements</text>
-  <rect class="box" x="40" y="140" width="192" height="96" rx="3"/>
-  <text class="t" x="136" y="172">Process | Capability |</text>
-  <text class="t" x="136" y="192">Value Stage | Value Stream |</text>
-  <text class="t" x="136" y="212">Product/Service</text>
+  <text class="cap" x="820" y="110" text-anchor="end">Delivery</text>
+  <rect x="340" y="118" width="480" height="138" rx="3" fill="#C5D0DA"/>
+  <text class="h" x="580" y="140">3E</text>
 
-  <path class="work" d="M232,188 H336"/>
-  <text class="lbl" x="280" y="180" text-anchor="middle">measured by</text>
+  <rect class="box" x="370" y="150" width="192" height="86" rx="3"/>
+  <text class="h" x="466" y="184">Lagging</text>
+  <text class="t" x="466" y="206">Effectiveness (achieve)</text>
 
-  <text class="cap" x="820" y="130" text-anchor="end">Leading Indicators</text>
-  <rect class="box" x="340" y="140" width="480" height="96" rx="3"/>
-  <text class="h" x="580" y="172">3E</text>
-  <text class="t" x="580" y="194">Efficiency | Experience | Effectiveness</text>
-  <text class="t" x="580" y="214">measures how value is delivered at every architecture element</text>
+  <rect class="box" x="598" y="150" width="192" height="86" rx="3"/>
+  <text class="h" x="694" y="174">Leading</text>
+  <text class="t" x="694" y="196">Efficiency (use)</text>
+  <text class="t" x="694" y="216">Experience (feel)</text>
+
+  <!-- left: outcomes (customer, organization, value stream), measured by Effectiveness -->
+  <rect class="box" x="40" y="145" width="192" height="96" rx="3"/>
+  <text class="t" x="136" y="198">Outcomes</text>
+  <path class="work" d="M232,193 H336"/>
+  <text class="lbl" x="280" y="185" text-anchor="middle">measured by</text>
+
+  <!-- right: the architecture elements, measured by all of 3E -->
+  <text class="cap" x="1120" y="135" text-anchor="end">Architecture Elements</text>
+  <rect class="box" x="928" y="145" width="192" height="96" rx="3"/>
+  <text class="t" x="1024" y="177">Process | Capability |</text>
+  <text class="t" x="1024" y="197">Value Stage | Value Stream |</text>
+  <text class="t" x="1024" y="217">Product/Service</text>
+  <path class="work" d="M928,193 H824"/>
+  <text class="lbl" x="880" y="185" text-anchor="middle">measured by</text>
+
+  </g>
 
   <!-- ===================== ROW 2: the AER bridge ===================== -->
 
   <text class="cap" x="820" y="284" text-anchor="end">Bridge</text>
   <rect x="340" y="292" width="480" height="162" rx="3" fill="#F5C125"/>
 
-  <rect class="box" x="370" y="318" width="192" height="104" rx="3"/>
-  <text class="h" x="466" y="344">Customer AER</text>
-  <text class="t" x="466" y="366">Adoption</text>
-  <text class="t" x="466" y="386">Engagement</text>
-  <text class="t" x="466" y="406">Retention</text>
+  <text class="h" x="580" y="314">AER</text>
 
-  <rect class="box" x="598" y="318" width="192" height="104" rx="3"/>
-  <text class="h" x="694" y="344">Organization AER</text>
-  <text class="t" x="694" y="366">Adoption</text>
-  <text class="t" x="694" y="386">Engagement</text>
-  <text class="t" x="694" y="406">Retention</text>
+  <rect class="box" x="370" y="326" width="192" height="104" rx="3"/>
+  <text class="h" x="466" y="352">Customer</text>
+  <text class="t" x="466" y="374">Adoption</text>
+  <text class="t" x="466" y="394">Engagement</text>
+  <text class="t" x="466" y="414">Retention</text>
 
-  <!-- 3E forks into both AER tracks: Efficiency enables Adoption, Experience deepens Engagement, Effectiveness earns Retention -->
-  <path class="line" d="M580,236 V264"/>
-  <path class="work" d="M580,264 H466 V314"/>
-  <path class="work" d="M580,264 H694 V314"/>
-  <text class="lbl" x="588" y="256">drives</text>
+  <rect class="box" x="598" y="326" width="192" height="104" rx="3"/>
+  <text class="h" x="694" y="352">Organization</text>
+  <text class="t" x="694" y="374">Adoption</text>
+  <text class="t" x="694" y="394">Engagement</text>
+  <text class="t" x="694" y="414">Retention</text>
+
+  <!-- 3E drives AER (both tracks): Efficiency enables Adoption, Experience deepens Engagement, Effectiveness earns Retention -->
+  <path class="work" d="M580,240 V288"/>
+  <text class="lbl" x="588" y="266">drives</text>
 
   <!-- side inputs: the behavioural signal each AER track measures -->
   <rect class="box" x="40" y="322" width="192" height="96" rx="3"/>
   <text class="t" x="136" y="364">Customer Journey</text>
   <text class="t" x="136" y="384">Steps</text>
-  <path class="work" d="M232,370 H366"/>
-  <text class="lbl" x="299" y="362" text-anchor="middle">feed</text>
+  <path class="work" d="M232,370 H336"/>
+  <text class="lbl" x="284" y="362" text-anchor="middle">feed</text>
 
-  <rect class="box" x="888" y="322" width="192" height="96" rx="3"/>
-  <text class="t" x="984" y="354">Product Team &amp;</text>
-  <text class="t" x="984" y="374">Product Operating</text>
-  <text class="t" x="984" y="394">Model</text>
-  <path class="work" d="M888,370 H794"/>
-  <text class="lbl" x="841" y="362" text-anchor="middle">feed</text>
+  <rect class="box" x="928" y="322" width="192" height="96" rx="3"/>
+  <text class="t" x="1024" y="354">Product Team &amp;</text>
+  <text class="t" x="1024" y="374">Product Operating</text>
+  <text class="t" x="1024" y="394">Model</text>
+  <path class="work" d="M928,370 H824"/>
+  <text class="lbl" x="878" y="362" text-anchor="middle">feed</text>
 
-  <!-- both AER tracks merge into the 8 Values -->
-  <path class="line" d="M466,422 V476 H694 V422"/>
-  <path class="work" d="M580,476 V516"/>
-  <text class="lbl" x="590" y="494">drive</text>
+  <!-- AER drives the 8 Values -->
+  <path class="work" d="M580,454 V516"/>
+  <text class="lbl" x="588" y="490">drives</text>
 
   <!-- ===================== ROW 3: 8 Values ===================== -->
 
@@ -115,20 +128,5 @@
   <text class="t" x="580" y="574">Strategic | Financial | Market | Innovation</text>
   <text class="t" x="580" y="594">People | Operational | Customer | Impact</text>
 
-  <!-- ===================== ROW 4: the path forks back into the IIVCS (feedback.md) ===================== -->
-
-  <path class="fb" d="M466,616 V676"/>
-  <text class="lblf" x="458" y="652" text-anchor="end">People &amp; Operational Value</text>
-  <path class="fb" d="M694,616 V676"/>
-  <text class="lblf" x="702" y="652">the other six Values</text>
-
-  <rect x="370" y="680" width="192" height="60" rx="3" fill="#E57E2C"/>
-  <text class="bh" x="466" y="705">PTS</text>
-  <text class="bt" x="466" y="724">operating model adjustment</text>
-
-  <rect x="598" y="680" width="192" height="60" rx="3" fill="#3FAF9C"/>
-  <text class="bh" x="694" y="705">OSM</text>
-  <text class="bt" x="694" y="724">Governance &amp; Measurement</text>
-
-  <text x="580" y="794" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
+  <text x="580" y="666" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
 </svg>

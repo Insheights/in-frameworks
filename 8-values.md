@@ -225,41 +225,41 @@ The 8 Values do not operate as a linear chain — they form a network in which m
 **Arrow encoding:**
 - **Solid arrows** — direct, continuous relationship: active, ongoing, and traceable
 - **Dashed arrows** — indirect, episodic relationship: real but mediated or periodic rather than immediate
-- **Blue arrows** — the one-way relationships typed *Feedback* (Operational → Strategic, Customer → Strategic)
-- **Numbers** — each arrow's number is its row in the # column of the tables below
+- **Arrowheads** — one head for a one-way relationship, a head at each end for a two-way relationship
+- **Labels** — a one-way arrow carries a verb, read from source to target (*Customer Value **builds reputation** for Market Value*); a two-way arrow names what passes both ways (*capital allocation* between Strategic and Financial Value). Each label summarises a row in the tables below
 
 ### Bidirectional Relationships — Solid
 
-| # | Relationship | Direction A | Direction B |
-|---|---|---|---|
-| 1 | **Strategic ↔ Innovation** | Strategic direction sets where innovation investment is focused | Disruptive innovation reshapes strategic direction |
-| 2 | **Strategic ↔ Market** | Strategic choices shape market positioning and competitive strategy | Market signals inform strategic reassessment |
-| 3 | **Strategic ↔ Financial** | Strategic direction determines capital allocation and resource deployment | Financial performance informs strategic capacity and priority |
-| 4 | **Financial ↔ Operational** | Financial returns fund operational investment and capability improvement | Operational efficiency and throughput generate financial returns |
-| 5 | **Operational ↔ Customer** | Operational capability enables consistent customer value delivery | Customer signal and demand drive operational improvement and redesign |
-| 6 | **People ↔ Impact** | People capability and culture generate societal and ecosystem impact | Purpose and impact attract, engage, and retain people |
-| 7 | **Customer ↔ Impact** | Delivering genuine customer value creates direct societal benefit | Impact purpose deepens customer loyalty and advocacy |
-| 8 | **Market ↔ Impact** | Market reach and reputation amplify societal and ecosystem impact | Strong impact builds market reputation and trust |
+| Relationship | Direction A | Direction B |
+|---|---|---|
+| **Strategic ↔ Innovation** | Strategic direction sets where innovation investment is focused | Disruptive innovation reshapes strategic direction |
+| **Strategic ↔ Market** | Strategic choices shape market positioning and competitive strategy | Market signals inform strategic reassessment |
+| **Strategic ↔ Financial** | Strategic direction determines capital allocation and resource deployment | Financial performance informs strategic capacity and priority |
+| **Financial ↔ Operational** | Financial returns fund operational investment and capability improvement | Operational efficiency and throughput generate financial returns |
+| **Operational ↔ Customer** | Operational capability enables consistent customer value delivery | Customer signal and demand drive operational improvement and redesign |
+| **People ↔ Impact** | People capability and culture generate societal and ecosystem impact | Purpose and impact attract, engage, and retain people |
+| **Customer ↔ Impact** | Delivering genuine customer value creates direct societal benefit | Impact purpose deepens customer loyalty and advocacy |
+| **Market ↔ Impact** | Market reach and reputation amplify societal and ecosystem impact | Strong impact builds market reputation and trust |
 
 ### Bidirectional Relationship — Dashed
 
-| # | Relationship | Direction A | Direction B |
-|---|---|---|---|
-| 9 | **Innovation ↔ Financial** | Innovation generates financial return through new products, IP, and market expansion — over time and through the operational chain | Financial strength funds R&D, experimentation, and innovation infrastructure |
+| Relationship | Direction A | Direction B |
+|---|---|---|
+| **Innovation ↔ Financial** | Innovation generates financial return through new products, IP, and market expansion — over time and through the operational chain | Financial strength funds R&D, experimentation, and innovation infrastructure |
 
 The Innovation ↔ Financial relationship is indirect and episodic: financial return from innovation routes through operations and customer delivery rather than immediately, and financial investment in innovation produces returns on a cycle rather than continuously.
 
 ### One-Way Relationships
 
-| # | Relationship | Type | Mechanism |
-|---|---|---|---|
-| 10 | **People → Operational** | Foundational | People capability is the prerequisite for operational performance |
-| 11 | **People → Innovation** | Foundational | People capability and engagement drive innovation capacity |
-| 12 | **Operational → Impact** | Generative | How the organisation operates directly creates or undermines societal and ecosystem impact |
-| 13 | **Operational → Strategic** | Feedback | Operational capability and capacity inform strategic feasibility — what the organisation can actually execute |
-| 14 | **Customer → Financial** | Generative | Customer value delivery generates revenue, margin, and financial sustainability |
-| 15 | **Customer → Market** | Generative | Consistent customer outcomes build market reputation and position |
-| 16 | **Customer → Strategic** | Feedback | Customer outcomes are direct evidence for whether strategic hypotheses are being validated |
+| Relationship | Type | Mechanism |
+|---|---|---|
+| **People → Operational** | Foundational | People capability is the prerequisite for operational performance |
+| **People → Innovation** | Foundational | People capability and engagement drive innovation capacity |
+| **Operational → Impact** | Generative | How the organisation operates directly creates or undermines societal and ecosystem impact |
+| **Operational → Strategic** | Feedback | Operational capability and capacity inform strategic feasibility — what the organisation can actually execute |
+| **Customer → Financial** | Generative | Customer value delivery generates revenue, margin, and financial sustainability |
+| **Customer → Market** | Generative | Consistent customer outcomes build market reputation and position |
+| **Customer → Strategic** | Feedback | Customer outcomes are direct evidence for whether strategic hypotheses are being validated |
 
 ### Convergence Nodes
 
