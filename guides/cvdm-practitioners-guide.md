@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **What it does** | Maps each customer journey step to the value-stream stage that serves it, defines the capabilities, processes, products/services, and information flows that deliver the value proposition as a realized customer outcome, and surfaces signal through five continuous feedback loops |
+| **What it does** | Maps each customer journey step to the value-stream stage that serves it, defines the capabilities, processes, products/services, and information concepts (and their flows) that deliver the value proposition as a realized customer outcome, and surfaces signal through five continuous feedback loops |
 | **When to use it** | Designing or fixing how value reaches the customer; when delivery produces activity but not outcomes; when the journey and the value stream are not connected; when customer signal is not feeding back upstream |
 | **Who runs it** | The persistent cross-functional product team (built in PTS); the value-stream / journey owner |
 | **Who must be in the room** | Customer-facing team members, delivery/operations members, the value-stream owner, and someone who owns each capability the journey depends on |
@@ -91,20 +91,20 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ---
 
-### Step 3 — Operationalize capabilities, processes, products/services, and information flows
+### Step 3 — Operationalize capabilities, processes, products/services, and information concepts
 
 **What you do:** For each value stage, define what is required to deliver it: the Products/Services the customer interacts with, the Capabilities the team must hold, the Processes that execute, and the Information concepts, and the flows that feed them to capabilities. This is where the value stage becomes operational.
 
 **Key question this step answers:** *What must exist and execute for each value stage to deliver its outcome?*
 
 **Inputs:** Defined value stages (Step 2); capabilities supplied by PTS
-**Output:** An operational definition per value stage — products/services, capabilities, processes, and information flows
+**Output:** An operational definition per value stage — products/services, capabilities, processes, and information concepts with their flows
 
 **Guidance:**
 - Work down the architecture: Value Stage → Capability → Process → Product/Service, with Information concepts feeding the capabilities. Each value stage is delivered by capabilities, which run processes, which the customer meets as products/services.
 - Information flows are not an afterthought. A value stage fails most often not because a capability is missing, but because information does not flow between capabilities at the moment the customer needs it.
 - Cross-functional ownership applies here: the team owns the full chain for the value stage, not a single process with handoffs to other teams. If delivering a value stage requires a handoff outside the team, revisit the PTS team topology.
-- You are done when each value stage has its capabilities, processes, products/services, and information flows named and owned.
+- You are done when each value stage has its capabilities, processes, products/services, and information concepts and their flows named and owned.
 
 ---
 
@@ -170,7 +170,7 @@ Journey steps → value stages: *discovers the app* → Acquisition stage; *sign
 - Outcome-realization: *the member sees progress* (realized outcome: a measurable result they attribute to the app).
 
 **Step 3 — Operationalize capabilities and processes**
-Habit-formation value stage: Product/Service = streak tracking + adaptive reminders; Capability = personalization engine; Process = weekly plan adjustment; Information flow = workout-completion data feeding the personalization engine to adapt next week's plan.
+Habit-formation value stage: Product/Service = streak tracking + adaptive reminders; Capability = personalization engine; Process = weekly plan adjustment; Information concept = workout completion, feeding the personalization engine to adapt next week's plan.
 
 **Step 4 — Instrument 3E + Customer AER (full Use → Feel → Achieve)**
 At the Habit-formation stage: **Efficiency (Use)** — % of members who can log a workout in under 10 seconds (88%, healthy); **Experience (Feel)** — does the member feel the plan fits them? In-app sentiment 3.1/5 (weak); **Effectiveness (Achieve)** — % sustaining 3+ sessions/week to week 4 (29%, underperforming). Customer AER at value-stream level: Adoption high, Engagement falling at week 2, Retention at 90 days low.
@@ -197,7 +197,7 @@ Journey → value stages: *explores affordability* → Pre-qualification stage; 
 - Decision: *the applicant gets a clear, timely answer* (realized outcome: a decision within the promised window, clearly explained).
 
 **Step 3 — Operationalize capabilities and processes**
-Underwriting value stage: Product/Service = application status portal; Capability = document verification + risk assessment; Process = underwriting review; Information flow = verification status flowing to the portal so the applicant sees progress in real time.
+Underwriting value stage: Product/Service = application status portal; Capability = document verification + risk assessment; Process = underwriting review; Information concept = verification status, flowing to the portal so the applicant sees progress in real time.
 
 **Step 4 — Instrument 3E + Customer AER (value stage and value stream)**
 At Underwriting: **Efficiency (Use)** — average document re-request rate (high — 40% of applicants asked for documents twice); **Experience (Feel)** — applicant confidence during wait (low — 2.6/5, "no idea what's happening"); **Effectiveness (Achieve)** — % decided within promised window (68%). Value-stream Customer AER: Adoption strong, Engagement collapses at Underwriting (the wait), Retention (completion + would-recommend) weak.
@@ -283,7 +283,7 @@ CVDM applies to any organization that realizes value for someone through a journ
 
 1. Map the customer journey to the value stream — *Which value stage serves each journey step?*
 2. Define value stages and value propositions — *What outcome does each stage deliver and prove?*
-3. Operationalize capabilities, processes, products/services, information flows — *What delivers each stage?*
+3. Operationalize capabilities, processes, products/services, information concepts — *What delivers each stage?*
 4. Instrument 3E + Customer AER — *Is value used, felt, achieved — and adopted, engaged, retained?*
 5. Activate the five feedback loops — *How does signal surface and return upstream?*
 

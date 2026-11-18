@@ -3,7 +3,7 @@
   <!--
     Layout
     - Side boxes are 192 wide: customer side on the left (x=40), organization / architecture side on the right (x=928).
-    - Centre column x=340..820: 3E, the AER bridge, 8 Values (lagging indicators).
+    - Centre column x=340..820: 3E, the AER bridge, 8 Values (captioned Value Generated, so "Lagging" means only 3E Effectiveness).
     - 3E is split as in 3e.md: Lagging = Effectiveness (x=370..562, beside Outcomes, which it measures);
       Leading = Efficiency, Experience (x=598..790).
     - AER (the bridge) is split the same way into its two tracks: Customer x=370..562, Organization x=598..790.
@@ -122,7 +122,7 @@
 
   <!-- ===================== ROW 3: 8 Values ===================== -->
 
-  <text class="cap" x="820" y="510" text-anchor="end">Lagging Indicators</text>
+  <text class="cap" x="820" y="510" text-anchor="end">Value Generated</text>
   <rect class="box" x="340" y="520" width="480" height="96" rx="3"/>
   <text class="h" x="580" y="552">8 Values</text>
   <text class="t" x="580" y="574">Strategic | Financial | Market | Innovation</text>

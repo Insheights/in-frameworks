@@ -151,34 +151,34 @@ The 8 Values form a network, not a linear chain. Most values are convergence nod
 
 *Bidirectional — solid (direct, continuous):*
 
-| Relationship | What A generates in B | What B generates in A |
-|---|---|---|
-| Strategic ↔ Innovation | Direction sets where innovation is focused | Disruptive innovation reshapes strategic direction |
-| Strategic ↔ Market | Strategic choices shape market positioning | Market signals inform strategic reassessment |
-| Strategic ↔ Financial | Strategy determines capital allocation | Financial performance informs strategic capacity |
-| Financial ↔ Operational | Financial returns fund capability investment | Operational efficiency generates financial returns |
-| Operational ↔ Customer | Capability enables consistent value delivery | Customer signal drives operational improvement |
-| People ↔ Impact | Capability and culture generate societal impact | Purpose and impact attract and retain people |
-| Customer ↔ Impact | Genuine customer value creates societal benefit | Impact purpose deepens loyalty and advocacy |
-| Market ↔ Impact | Market reach amplifies societal impact | Strong impact builds market reputation and trust |
+| Relationship | What A generates in B | What B generates in A | Diagram label |
+|---|---|---|---|
+| Strategic ↔ Innovation | Direction sets where innovation is focused | Disruptive innovation reshapes strategic direction | strategic options |
+| Strategic ↔ Market | Strategic choices shape market positioning | Market signals inform strategic reassessment | positioning |
+| Strategic ↔ Financial | Strategy determines capital allocation | Financial performance informs strategic capacity | capital allocation |
+| Financial ↔ Operational | Financial returns fund capability investment | Operational efficiency generates financial returns | investment |
+| Operational ↔ Customer | Capability enables consistent value delivery | Customer signal drives operational improvement | delivery & demand |
+| People ↔ Impact | Capability and culture generate societal impact | Purpose and impact attract and retain people | purpose |
+| Customer ↔ Impact | Genuine customer value creates societal benefit | Impact purpose deepens loyalty and advocacy | benefit & loyalty |
+| Market ↔ Impact | Market reach amplifies societal impact | Strong impact builds market reputation and trust | reputation & reach |
 
 *Bidirectional — dashed (indirect, episodic):*
 
-| Relationship | Note |
-|---|---|
-| Innovation ↔ Financial | Financial return from innovation routes through operations and customer delivery, not immediately; financial investment in innovation produces returns on a cycle |
+| Relationship | Note | Diagram label |
+|---|---|---|
+| Innovation ↔ Financial | Financial return from innovation routes through operations and customer delivery, not immediately; financial investment in innovation produces returns on a cycle | investment |
 
 *One-way:*
 
-| Relationship | Mechanism |
-|---|---|
-| People → Operational | People capability is the prerequisite for operational performance |
-| People → Innovation | People capability and engagement drive innovation capacity |
-| Operational → Strategic | Operational capacity informs strategic feasibility |
-| Operational → Impact | How the organisation operates creates or undermines societal impact |
-| Customer → Financial | Customer value delivery generates revenue and financial sustainability |
-| Customer → Market | Consistent customer outcomes build market reputation |
-| Customer → Strategic | Customer outcomes validate or refute strategic hypotheses |
+| Relationship | Mechanism | Diagram label |
+|---|---|---|
+| People → Operational | People capability is the prerequisite for operational performance | enables |
+| People → Innovation | People capability and engagement drive innovation capacity | enables |
+| Operational → Strategic | Operational capacity informs strategic feasibility | informs feasibility |
+| Operational → Impact | How the organisation operates creates or undermines societal impact | creates |
+| Customer → Financial | Customer value delivery generates revenue and financial sustainability | generates revenue |
+| Customer → Market | Consistent customer outcomes build market reputation | builds reputation |
+| Customer → Strategic | Customer outcomes validate or refute strategic hypotheses | validates |
 
 Read the network for root cause: a gap in People Value creates drag on Operational Value and Innovation Value; a weak Operational Value degrades Customer Value delivery and limits Strategic Value execution; Customer Value gaps flow to Financial Value, Market Value, and Strategic Value feedback. The convergence structure means a single upstream gap can create drag in multiple directions simultaneously — trace which convergence node is receiving a degraded input before concluding on cause.
 
@@ -248,7 +248,7 @@ Read the network for root cause: a gap in People Value creates drag on Operation
 | Return path | What feeds it | Cadence | Owner |
 |---|---|---|---|
 | **OSM Governance & Measurement** | Full 8 Values profile — confirmed and refuted strategic hypotheses | Quarterly | OSM governance lead |
-| **OSM Strategic signals loop** | Strategic Value and Financial Value effectiveness signals | Quarterly / annually | OSM governance lead |
+| **CVDM Strategic signals loop → OSM** | Strategic Value and Financial Value effectiveness signals | Quarterly / annually | OSM governance lead |
 | **PTS operating model review** | Operational Value and People Value gaps and root causes | Quarterly | PTS / delivery lead |
 | **CVDM performance optimization** | Customer Value and Market Value delivery signals | Monthly / quarterly | CVDM / customer experience lead |
 | **IR 6 Capitals board reporting** | Full 8 Values profile translated to capital stock | Annually / per board cycle | Finance lead + governance lead |

@@ -93,9 +93,9 @@ Org AER         Adoption → Engagement → Retention
 8 Values    →   Organization Value → Impact
 ```
 
-3E measures how value is delivered. AER measures how delivery is received. The 8 Values measure what the organization generates as a result.
+3E measures how value is delivered and what it achieves — Efficiency and Experience as leading signals, Effectiveness as the lagging outcome signal. AER measures how delivery is received. The 8 Values measure what the organization generates as a result.
 
-The sequence matters. 3E signals surface first — operational, at the journey and delivery level. AER signals surface next — behavioral, as cumulative patterns of customer and team response. 8 Values signals surface last — organizational, as the compound outcome of sustained behavioral commitment over time.
+The sequence matters. 3E's leading signals (Efficiency, Experience) surface first — operational, at the journey and delivery level. AER signals surface next — behavioral, as cumulative patterns of customer and team response. 8 Values signals surface last — organizational, as the compound outcome of sustained behavioral commitment over time.
 
 This sequencing makes AER the leading indicator of 8 Values performance. A decline in Adoption or Engagement is an early warning for Customer, Financial, or People Value — visible before the organizational impact registers in value metrics. Teams and leaders who monitor AER can act before value erosion becomes value loss.
 

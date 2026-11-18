@@ -4,7 +4,7 @@
     Layout
     - Product Mindset band (top) and Value Streams band (bottom) span x=60..940.
     - Framework boxes are 192 wide: OSM x=60 (upper row, y=240..340), PTS x=404 and CVDM x=748 (y=400..480).
-    - Dashed lines: Product Mindset (grey) above each framework; Value Streams (red) below each framework.
+    - Dashed lines: Product Mindset (brown, as in pts-detailed.svg) above each framework; Value Streams (red) below each framework.
     - OSM bottom points (quarters): 108 Value Streams, 156 value-stream outcomes & strategic signals (in), 204 value priorities (out).
       PTS / CVDM side pairs at y=426.7 (work) and 453.3 (feedback).
     - Grey = work flow, blue = feedback flow; labels above work lines and below feedback lines.
@@ -22,7 +22,7 @@
     <style>
       .work  { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ag); }
       .fb    { fill: none; stroke: #3A87D9; stroke-width: 2.5; stroke-linejoin: round; marker-end: url(#ab); }
-      .dg    { fill: none; stroke: #7A8591; stroke-width: 2.5; stroke-dasharray: 8 6; }
+      .dg    { fill: none; stroke: #8A7B58; stroke-width: 2.5; stroke-dasharray: 8 6; }
       .dr    { fill: none; stroke: #D9465A; stroke-width: 2.5; stroke-dasharray: 8 6; }
       .lbl   { font-size: 13px; fill: #3B4652; text-anchor: middle; }
       .lblf  { font-size: 13px; fill: #2F6FB5; font-style: italic; text-anchor: middle; }
@@ -53,7 +53,7 @@
 
   <!-- ===================== BANDS ===================== -->
 
-  <rect x="60" y="150" width="880" height="36" rx="3" fill="#7A8591"/>
+  <rect x="60" y="150" width="880" height="36" rx="3" fill="#8A7B58"/>
   <text class="bt" x="500" y="173">Product Mindset - operating philosophy</text>
 
   <rect x="60" y="540" width="880" height="54" rx="3" fill="#D9465A"/>
@@ -81,9 +81,9 @@
   <!-- PTS -> CVDM: product teams -->
   <path class="work" d="M596,426.7 H744"/>
   <text class="lbl" x="672" y="420">product teams</text>
-  <!-- CVDM -> PTS: customer outcome -->
+  <!-- CVDM -> PTS: customer outcomes -->
   <path class="fb" d="M748,453.3 H600"/>
-  <text class="lblf" x="672" y="471">customer outcome</text>
+  <text class="lblf" x="672" y="471">customer outcomes</text>
 
   <!-- ===================== FRAMEWORKS ===================== -->
 
@@ -103,6 +103,6 @@
   <text class="bt" x="844" y="446">Practiced, Tested,</text>
   <text class="bt" x="844" y="464">Reinforced</text>
 
-  <text x="500" y="614" font-size="12" fill="#3B4652" font-style="italic" text-anchor="middle">Measurement path (CVDM loops → AER → 8 Values → OSM / PTS): see the Measurement Architecture diagram.</text>
+  <text x="500" y="614" font-size="12" fill="#3B4652" font-style="italic" text-anchor="middle">Measurement path (3E → AER → 8 Values): see the Measurement Architecture diagram; feedback.md routes the 8 Values on to OSM and PTS.</text>
   <text x="500" y="640" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
 </svg>

@@ -11,7 +11,7 @@
     - Left-margin lines: x=50 (experiences, delivers) and x=80 (undergoes). Right: x=700 (reaches, 4, 5), x=960 (1, 3).
     - Grey = work flow (verb, upright). Blue = feedback flow (italic), numbered 1-5 as a diagnostic sequence: experience feedback,
       journey insights, delivery learning, performance optimization, strategic signals (feedback.md).
-      Loop 2 (journey insights) is provided by the Customer Journey layer itself (blue text in the band, no arrow).
+      Loop 2 (journey insights) runs Customer Journey band -> Value Proposition band at x=300, left of the triggers line (x=360).
     - Edge labels have no background: they sit above horizontal lines and beside vertical lines.
   -->
   <defs>
@@ -55,7 +55,6 @@
   <rect x="120" y="250" width="780" height="80" rx="3" fill="#FCF3DC" stroke="#F0C350" stroke-width="2"/>
   <text class="h dark" x="130" y="272">Customer Journey</text>
   <text class="t dark" x="130" y="292">consists of Journey Steps</text>
-  <text class="ti" x="130" y="312" fill="#2F6FB5">2. provides journey insights</text>
 
   <rect x="120" y="380" width="780" height="80" rx="3" fill="#FAE6DA" stroke="#E8873C" stroke-width="2"/>
   <text class="h dark" x="130" y="402">Value Proposition</text>
@@ -110,6 +109,10 @@
   <!-- Process -> Capability: operationalizes -->
   <path class="work" d="M540,880 V842"/>
   <text class="lbl" x="556" y="866">operationalizes</text>
+
+  <!-- 2. Customer Journey -> Value Proposition: where in the journey the promised value breaks -->
+  <path class="fb" d="M300,330 V376"/>
+  <text class="lblf" x="292" y="358" text-anchor="end">2. journey insights</text>
 
   <!-- ===================== FEEDBACK FLOW (numbered sequence) ===================== -->
 

@@ -18,7 +18,7 @@ The 8 Values bridge directly to the International Integrated Reporting Council (
 
 ## The Measurement Architecture
 
-The 8 Values sit within a connected measurement architecture. 3E measures how value is delivered. AER measures behavioral response to that delivery — across two parallel tracks. The 8 Values measure what the organization generates as a result — across every dimension of organizational life.
+The 8 Values sit within a connected measurement architecture. 3E measures how value is delivered and what it achieves — Efficiency and Experience as leading signals, Effectiveness as the lagging outcome signal. AER measures behavioral response to that delivery — across two parallel tracks. The 8 Values measure what the organization generates as a result — across every dimension of organizational life.
 
 ```
 3E              Efficiency → Experience → Effectiveness
@@ -268,7 +268,7 @@ Every value except People receives inputs from multiple sources — making it a 
 | Node | Receives from |
 |---|---|
 | **Strategic** | Innovation, Market, Financial *(bidirectional)* + Operational, Customer *(one-way)* |
-| **Financial** | Operational, Customer *(one-way)* + Strategic, Operational *(bidirectional)* + Innovation *(dashed)* |
+| **Financial** | Customer *(one-way)* + Strategic, Operational *(bidirectional)* + Innovation *(dashed)* |
 | **Operational** | People *(one-way)* + Customer, Financial *(bidirectional)* |
 | **Customer** | Operational *(bidirectional)* + Impact *(bidirectional)* |
 | **Market** | Customer *(one-way)* + Strategic, Impact *(bidirectional)* |

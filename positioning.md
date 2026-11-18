@@ -23,7 +23,7 @@ OSM is where the system's behavioral and value signals **become strategic decisi
 | Relation | OSM's role | Down | Up |
 |---|---|---|---|
 | **OSM ↔ PTS** | Governs | Sets value-stream outcomes and priorities | Receives executability + organizational readiness (Org AER, People/Operational Value) |
-| **OSM ↔ CVDM** | Governs | Sets the customer value priorities the journey must serve | Receives strategic signals — customer reality refining strategy |
+| **OSM ↔ CVDM** | Governs | Sets the customer value priorities the journey must serve | Receives strategic signals, consolidated by the product team — customer reality refining strategy |
 
 ---
 
@@ -51,7 +51,7 @@ PTS is where **organizational behavioral change is driven and measured**. As the
 ## CVDM — Customer Value Delivery Model
 *Positioning*
 
-CVDM is the delivery and realization layer of the IIVCS — the model through which value is realized as a customer outcome. It maps each customer journey step to the value-stream stage that serves it, defining the Products/Services, Capabilities, Processes, and Information flows required to deliver the value proposition, and surfaces signal through five continuous feedback loops.
+CVDM is the delivery and realization layer of the IIVCS — the model through which value is realized as a customer outcome. It maps each customer journey step to the value-stream stage that serves it, defining the Products/Services, Capabilities, Processes, and Information concepts (and their flows) required to deliver the value proposition, and surfaces signal through five continuous feedback loops.
 
 CVDM is the bottom of the execution stack, and its accountability runs in two directions:
 
