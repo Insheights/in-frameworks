@@ -57,7 +57,7 @@
   <text class="h dark" x="124" y="225" text-anchor="end">Product</text>
   <text class="h dark" x="124" y="242" text-anchor="end">Operating</text>
   <text class="h dark" x="124" y="259" text-anchor="end">Model</text>
-  <text class="h dark" x="124" y="276" text-anchor="end">POM</text>
+  <text class="h dark" x="124" y="276" text-anchor="end">(POM)</text>
   <text class="h dark" x="124" y="293" text-anchor="end">Enablers</text>
   <text class="lbl" x="124" y="315" text-anchor="end">empower</text>
 
