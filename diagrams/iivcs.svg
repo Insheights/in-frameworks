@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="660" viewBox="0 0 1000 660" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
-  <title>Integrated Value Creation System</title>
+  <title>Insheights Integrated Value Creation System</title>
   <!--
     Layout
     - Product Mindset band (top) and Value Streams band (bottom) span x=60..940.
@@ -36,7 +36,7 @@
   <rect width="1000" height="660" fill="url(#dots)"/>
 
   <!-- title -->
-  <text x="60" y="40" font-size="20" font-weight="700" fill="#2E3A46">Integrated Value Creation System</text>
+  <text x="60" y="40" font-size="20" font-weight="700" fill="#2E3A46">Insheights Integrated Value Creation System</text>
   <text x="60" y="66" font-size="15" fill="#3B4652">OSM | PTS | CVDM</text>
   <text x="60" y="88" font-size="12.5" fill="#3B4652">The Insheights Integrated Value Creation System is how organizations define, build, and deliver value — from</text>
   <text x="60" y="106" font-size="12.5" fill="#3B4652">strategic intent to value — integrating existing practices into a coherent system.</text>
