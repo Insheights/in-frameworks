@@ -31,7 +31,7 @@ Adoption maturity is defined at three levels across the suite. The levels descri
 
 ## Maturity Across the Suite
 
-Read each row and find the column that best describes you today. Your **system maturity is closest to your weakest connected row** — a chain is only as strong as its links, and the IIVCS is a chain.
+Read each row and find the column that best describes you today. Four rows form the chain strategy → operating model → delivery → feedback: **OSM, PTS, CVDM and the Feedback System**. Your **system level is the lowest of those four rows**, not their average: the IIVCS is a chain, and a chain is only as strong as its weakest link. The other four rows, **3E, AER, 8 Values and Product Mindset**, are **enablers**: the measurement and the working culture the three frameworks depend on. They are read alongside the chain rather than counted as links. An enabler below your system level is a finding: it shows a framework being run without the measurement or ways of working it needs, and it limits how far that framework can climb. Where the chain breaks tells you where to start (see [From an assessment result](#from-an-assessment-result)).
 
 | Component | Early | Developing | Mature |
 |---|---|---|---|
@@ -44,7 +44,7 @@ Read each row and find the column that best describes you today. Your **system m
 | **Feedback System** — Upstream Loops | No upstream feedback; signals die at the team | Operational loops run and reach PTS; signal informs delivery | Full upstream path CVDM → PTS → OSM; operational + organizational feedback drives strategic reassessment |
 | **Product Mindset** — Foundation | Output-focused, project culture; assumptions go untested | Outcome language adopted; discovery practiced in places | Customer obsession, outcome-over-output, continuous discovery, hypothesis-driven thinking, and cross-functional ownership are the norm |
 
-> **How to read your result:** Note the column for each row. A row sits at a level only when it has *fully* reached it — the scored Detailed Assessment makes this explicit by *gating* (you earn a level by meeting all its criteria, not by averaging close to it). Scattered results (some Mature, some Early) are the most common and the most useful finding — they show exactly which connection is missing. The component holding you back is your next adoption priority.
+> **How to read your result:** Note the column for each row. A row sits at a level only when it has *fully* reached it — the scored Detailed Assessment makes this explicit by *gating* (you earn a level by meeting all its criteria, not by averaging close to it). Scattered results (some Mature, some Early) are the most common and the most useful finding — they show exactly which connection is missing. Your break, the weakest link on the chain, is your next adoption priority.
 
 ---
 
@@ -55,7 +55,7 @@ Two assessment artifacts place you on this model. Use whichever fits the moment:
 - **[IIVCS Quick Self-Assessment](quick-assessment.md)** — a directional reading in a few minutes: one question per IIVCS element, each answer mapping to Early / Developing / Mature. Start here.
 - **IIVCS Detailed Assessment** — the rigorous, scored evaluation: evidence-anchored criteria across all eight components, gated into a full maturity profile with strengths, constraint, and adoption priority. Maintained privately; available through an Insheights engagement.
 
-Both ask the same thing the grid above does — *where is each element, and where is the weakest connected link?* — and both point back here for what to do next.
+Both ask the same thing the grid above does — *where is each element, and where does the chain break?* — and both point back here for what to do next.
 
 > **Assess one value stream at a time.** IIVCS maturity is about how the frameworks connect to deliver value — and they connect *on a value stream*. Assess a single, named value stream end-to-end, not the whole organization at once.
 
@@ -64,7 +64,7 @@ Both ask the same thing the grid above does — *where is each element, and wher
 Maturity is a moving state, not a milestone. Assess on a recurring **cadence** — re-run the assessment against the same value stream at the rhythm of your strategic governance review (typically quarterly), so movement is visible and the result keeps driving action. A one-time score tells you where you were; a repeated one tells you whether the system is actually becoming more connected.
 
 - **Same value stream, same questions, regular interval** — so each reading is comparable to the last.
-- **Watch the *system maturity* band move, not the average** — a rising band means the frameworks are connecting; a flat band with a rising average means components are improving in isolation.
+- **Watch your *system level* move, not the average** — a rising level means the frameworks are connecting; a flat level with a rising average means components are improving in isolation.
 - **Re-run out of cycle** after any significant change — a strategy reset, an operating-model change, or a major delivery shift can move maturity up or down, and the assessment should confirm which.
 - **When one value stream reaches Mature, assess the next** — maturity spreads value stream by value stream, not in a single organization-wide leap.
 
@@ -98,6 +98,21 @@ The IIVCS is designed so **OSM governs, PTS operationalizes, CVDM realizes**, wi
 | Strategy clear, delivery broken (projects, handoffs) | **PTS** | CVDM → formalize OSM |
 | Acute customer / journey / retention problem | **CVDM** | PTS → OSM |
 
+### From an assessment result
+
+Your **break** is the lowest of the four chain rows: OSM, PTS, CVDM and the Feedback System. If two are equally low, take the one furthest upstream. The break gives your default entry point:
+
+| Break at | Default entry point |
+|---|---|
+| OSM | **Entry point 1** — strategy-led (OSM) |
+| PTS | **Entry point 2** — operating-model-led (PTS) |
+| CVDM | **Entry point 3** — delivery-led (CVDM) |
+| The Feedback System | Whichever of OSM, PTS and CVDM is lowest (the furthest upstream on a tie): feedback is repaired at the framework that feeds it |
+
+This is a default, not a rule: start where your pain is. If your situation, in the table above, points to another entry point, start there and note why.
+
+**No break.** If all four chain rows are Mature, the chain has no break. An enabler below Mature is then your next priority, the lowest first; with none, keep re-assessing on your cadence.
+
 ---
 
 ## Sequencing Principles
@@ -130,7 +145,7 @@ The pieces work together:
 - The three levels — **Early, Developing, Mature** — describe the system: from isolated components, to partial connection on a value stream, to a self-correcting system with a closed upstream feedback loop.
 - There are **three valid entry points** — strategy-led (OSM), operating-model-led (PTS), or delivery-led (CVDM) — chosen by where the break is, then backfilled toward a connected system.
 - Adopt **one value stream end-to-end first**, let measurement follow function, and treat the full upstream feedback loop as the signature of maturity.
-- **Assess on a cadence, not once.** Re-run the assessment against the same value stream at your governance rhythm — maturity is a moving state, and the point is to watch the system maturity band move over time.
+- **Assess on a cadence, not once.** Re-run the assessment against the same value stream at your governance rhythm — maturity is a moving state, and the point is to watch your system level move over time.
 
 See [Framework Positioning](positioning.md) for how the three frameworks relate, and the [Feedback System](feedback.md) for the upstream loop that defines mature adoption.
 
