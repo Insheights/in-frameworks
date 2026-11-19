@@ -23,6 +23,7 @@ If `../in-scope` is not present, keep to edits the owner asked for in that sessi
 
 - **Canonical naming.** Use each term exactly as in `glossary.md`. IIVCS is a *system* of frameworks, not a single framework.
 - **One fact, one home.** Link to a definition; do not restate it.
+- **Acronyms and arrows.** Spell out every acronym at its first use on each page. Diagram arrows follow the glossary's [Diagram Arrow Vocabulary](glossary.md#diagram-arrow-vocabulary).
 - **Drafts stay marked.** A document listed in `ROADMAP.md` as "needs review" keeps that label until it is reviewed.
 - **Keep the system coherent.** A change to one framework or measurement model is checked against the others it hands off to, and against `README.md` and `glossary.md`.
 - **The Quick Self-Assessment's connected-link scoring** mirrors the connected components of the detailed instrument. A change to it needs the owner's sign-off.
