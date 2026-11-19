@@ -1,6 +1,6 @@
 # IIVCS Integration with Existing Practices
 
-**SAFe | Scrum | [Objectives and Key Results (OKRs)](glossary.md#external-frameworks-referenced) | ITIL | ERM | Design Thinking | Value Stream Mapping | Jobs To Be Done**
+**SAFe | Scrum | Team Topologies | [Objectives and Key Results (OKRs)](glossary.md#external-frameworks-referenced) | ITIL | ERM | Design Thinking | Value Stream Mapping | Jobs To Be Done**
 
 How the Insheights Integrated Value Creation System connects to and integrates with existing organizational practices, methods, and frameworks — rather than replacing them.
 
@@ -48,7 +48,7 @@ SAFe provides the delivery execution structure — Agile Release Trains, PI Plan
 
 - **Portfolio → OSM:** SAFe's Portfolio layer (Strategic Themes, Lean Portfolio Management) maps to OSM's strategic value priorities and value stream allocation. OSM sets the value priorities that SAFe's portfolio layer executes against. Strategic themes become the bridge between OSM's Strategic Objectives and SAFe's portfolio investment decisions.
 - **ART structure → PTS:** SAFe's Agile Release Trains are the team structures PTS's operating model organizes around. PTS's four [Product Operating Model (POM)](glossary.md#core-system-and-frameworks) Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) are the conditions that make SAFe ARTs effective — or identify why they are not.
-- **PI Objectives → CVDM:** SAFe's Program Increment Objectives become the delivery commitments that CVDM's value stream stages and capabilities must deliver against. CVDM's 3E measurement makes visible whether PI execution is producing customer outcomes, not just shipped features.
+- **PI Objectives → CVDM:** SAFe's Program Increment Objectives become the delivery commitments that CVDM's value stages and capabilities must deliver against. CVDM's 3E measurement makes visible whether PI execution is producing customer outcomes, not just shipped features.
 - **Flow metrics → 3E Efficiency:** SAFe's flow metrics (Flow Velocity, Flow Time, Flow Efficiency, Flow Load) are Efficiency signals in 3E terms. They measure whether value can be accessed without friction at the delivery level. 3E connects these signals forward to Experience and Effectiveness — dimensions SAFe's native metrics do not capture.
 
 **What IIVCS adds that SAFe does not provide:** A customer journey anchor that is structural (not just practiced). A measurement architecture that connects flow performance to customer outcomes and organizational value. A feedback architecture that returns PI-level delivery signal to strategic reassessment in OSM.
@@ -70,6 +70,27 @@ Scrum provides the team-level delivery ceremonies and practices — Sprint Plann
 
 ---
 
+### Team Topologies
+
+Team Topologies, by Matthew Skelton and Manuel Pais, is prior art for how PTS organizes teams. It defines four fundamental team types — stream-aligned, platform, enabling, and complicated-subsystem — and modes by which teams interact, including one team providing a capability "as a service" that another consumes.
+
+**Where Team Topologies connects into IIVCS:**
+
+PTS uses its own team vocabulary — Core, Shared, and Platform-Enabled teams, all aligned to value streams ([Glossary](glossary.md#key-concepts)) — and maps to Team Topologies as follows:
+
+| PTS team | Closest Team Topologies type | Difference |
+|---|---|---|
+| **Core** | Stream-aligned | A Team Topologies stream-aligned team follows a flow of work; a PTS Core team is aligned to one IIVCS value stream and accountable for its outcome |
+| **Shared** | No exact equivalent | Owns a business capability several value streams draw on, served to their Core teams on agreed terms |
+| **Platform-Enabled** | Platform | Owns a technology capability offered as a self-service internal product |
+| — | Enabling, complicated-subsystem | PTS defines no separate type for these; where an organization runs them, they sit alongside the three PTS types |
+
+- **Consuming as a service → owned / consumed capabilities:** Team Topologies' provide-and-consume interaction is how PTS reads a consumed capability: the consuming team draws on it without a hand-off, and one owning team stays accountable for it.
+
+**What IIVCS adds:** Teams anchored to value streams that OSM governs and CVDM realizes, an organization-wide capability map on which every capability has one owning team, and measurement (Organizational AER) of whether the team model is adopted and sustained.
+
+---
+
 ### OKRs (Objectives and Key Results)
 
 OKRs are the strategic execution practice through which OSM's Strategic Objectives are expressed, tracked, and evaluated.
@@ -87,11 +108,11 @@ OKRs are the strategic execution practice through which OSM's Strategic Objectiv
 
 ### ITIL (IT Infrastructure Library)
 
-ITIL's service management processes — Incident Management, Problem Management, Change Management, Service Continuity, and the rest — operate within CVDM's Support phase as Capability and Process elements.
+ITIL's service management practices — Incident Management, Problem Management, Change Management, Service Continuity, and the rest — operate within CVDM's Support phase as the Processes that carry out CVDM Capabilities.
 
 **Where ITIL connects into IIVCS:**
 
-- **Service Management → CVDM Capabilities:** ITIL capabilities (Service Desk, Incident Management, Change Management) are CVDM Capabilities at the Support stage of the customer journey. CVDM defines why these capabilities exist (to deliver a value stage in the customer journey); ITIL defines how they operate.
+- **Service Management → CVDM Capabilities and Processes:** ITIL practices (Service Desk, Incident Management, Change Management) are the Processes that carry out CVDM Capabilities at the Support stage of the customer journey — the capability is what the organization can do (restore service, for example); the ITIL practice is how it is done. CVDM defines why these capabilities exist (to deliver a value stage in the customer journey); ITIL defines how they operate.
 - **Incident and Problem Management → 3E Efficiency:** Incidents and problems are Efficiency failures — they interrupt the customer's ability to use value. ITIL's resolution metrics (MTTR, first-contact resolution) are Efficiency signals in 3E terms.
 - **Service Level Agreements → 3E thresholds:** SLA targets define the acceptable Efficiency floor for service delivery. Breaches are CVDM feedback loop triggers — signals that a capability is not meeting the value delivery threshold.
 - **Continual Service Improvement → CVDM Performance Optimization loop:** ITIL's Continual Service Improvement cycle is the execution mechanism for CVDM's fourth feedback loop (Performance Optimization). CSI provides the improvement methodology; CVDM's feedback loop defines what signal triggers it and where the output goes.
@@ -131,6 +152,8 @@ Design Thinking practices — Empathize, Define, Ideate, Prototype, Test — are
 ### Value Stream Mapping
 
 Value Stream Mapping is a diagnostic tool used within PTS and CVDM to analyze flow efficiency and identify waste in specific value streams.
+
+A note on terms: in Lean, a "value stream" is the process flow — every step needed to produce a product or service — and VSM maps that flow. In IIVCS, a [value stream](glossary.md#architecture-elements) is the chain of value stages that delivers an outcome to a stakeholder; the process flow VSM analyzes is the Processes that carry out a value stage's capabilities.
 
 **Where VSM connects into IIVCS:**
 
@@ -177,6 +200,7 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 |---|---|---|
 | SAFe | ART structure and PI Planning | Team structures, delivery ceremonies, and portfolio management practices |
 | Scrum / Kanban | Team delivery practices | Sprint ceremonies, flow management, and team-level velocity |
+| Team Topologies | Team types and team interactions | Prior art for PTS's Core, Shared, and Platform-Enabled teams and for consuming a capability as a service |
 | Design Thinking | Discover phase | Customer empathy research and iterative prototyping methods |
 | Jobs To Be Done | Discover phase | Outcome research that keeps teams grounded in what customers are trying to achieve across all delivery phases |
 | Value Stream Mapping | Operating model analysis | Point-in-time Efficiency diagnostics for value stream improvement |

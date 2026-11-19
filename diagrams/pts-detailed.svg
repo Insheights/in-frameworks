@@ -5,7 +5,7 @@
     - Main column x=160..940 (780 wide). POM Enablers brace on the left; Business / Customer Outcomes chevron on the right (x=960..1090).
     - POM Enablers: Leadership, Practices and Behaviors, Organizational Architecture, Culture and Relationships (y=130..404).
     - Objectives, Outcomes & Priorities by Value Stream (y=416..486), linked two-way to the Product Team.
-    - Persistent Cross Functional Product Team (y=542..882): six phase columns, 108 wide with 20 gaps (x=176..924),
+    - Persistent Cross-Functional Product Teams (y=542..882): six phase columns, 108 wide with 20 gaps (x=176..924),
       a Continuous Feedback band across them and Product Mindset beneath.
     - Product Management brace under the phases.
     - Same visual language as osm.svg and cvdm-layered.svg (fonts, arrowheads, label beside its line, no background).
@@ -100,8 +100,8 @@
   <!-- ===================== PRODUCT TEAM ===================== -->
 
   <rect x="160" y="542" width="780" height="326" rx="3" fill="#D5DDE4"/>
-  <text class="h dark" x="550" y="564" text-anchor="middle">Persistent Cross Functional Product Team</text>
-  <text class="h dark" x="550" y="582" text-anchor="middle">(Value Stream-Aligned | Core + Shared + Platform-Enabled)</text>
+  <text class="h dark" x="550" y="564" text-anchor="middle">Persistent Cross-Functional Product Teams</text>
+  <text class="h dark" x="550" y="582" text-anchor="middle">(Value Stream-Aligned: Core · Shared · Platform-Enabled)</text>
 
   <!-- phase columns (108 wide, 20 gaps) -->
   <rect x="176" y="600" width="108" height="236" rx="3" fill="#2E7867"/>
