@@ -99,7 +99,7 @@ Among the industry-standard frameworks compared here, none measures customer and
 
 ### Leading Indicator Architecture
 
-AER occupies the middle layer of a three-layer measurement sequence: 3E signals surface first (operational), AER signals surface next (behavioral), 8 Values signals surface last (organizational impact). This sequencing makes AER Adoption and Engagement leading indicators of value performance — a decline in either is visible before it registers as Customer, Financial, or People Value degradation. Established frameworks either measure stated intent (NPS), lagging outcomes (financial metrics), or structural conditions (7-S, ADKAR). AER is positioned to act as an early warning system within a connected architecture.
+AER occupies the middle layer of a three-layer measurement sequence: 3E signals surface first (operational), AER signals surface next (behavioral), 8 Values signals surface last (organizational impact). This sequencing makes AER Adoption and Engagement leading indicators of value performance — a decline in either is visible before it registers as Customer, Financial, or People Value degradation. Established frameworks measure stated intent (NPS) or lagging outcomes (financial metrics), or diagnose structural conditions (7-S, ADKAR). AER is positioned to act as an early warning system within a connected architecture.
 
 ### Behavioral, Not Attitudinal
 

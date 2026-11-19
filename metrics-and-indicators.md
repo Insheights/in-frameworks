@@ -33,7 +33,7 @@ It is paired with the practitioner guides — [3E](guides/3e-practitioners-guide
 | **Watch** | At or above target but with a counted decline (trend wins over level) or flat where you expected movement; or below target but above the floor, with no counted decline — a leading-signal early warning |
 | **At risk** | At or below the floor you set; or below target with a counted decline — act, don't wait for the lagging confirmation |
 
-Each reading lands in exactly one band. A metric with no reading yet is **unmeasured**, not in a band.
+The floor is set below the target. Each reading lands in exactly one band. A metric with no reading yet is **unmeasured**, not in a band.
 
 **Framework emphasis.** Each framework leans on the dimensions it owns (per [3E — Application Across the IIVCS](3e.md#application-across-the-iivcs)): **OSM** is read mainly on Effectiveness (strategic outcomes) and Experience (stakeholder confidence); **PTS** treats Efficiency as the table stake and is proven on Effectiveness and Experience (incl. Organizational AER); **CVDM** is where all three 3E dimensions are primarily surfaced, customer-side.
 
