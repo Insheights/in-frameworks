@@ -4,7 +4,7 @@
 
 ---
 
-This model answers the two questions every organization asks before adopting the [Integrated Value Creation System (IIVCS)](README.md):
+This model answers the two questions every organization asks before adopting the [Insheights Integrated Value Creation System (IIVCS)](README.md):
 
 1. **Where do we start** — [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model), [Product Transformation System (PTS)](README.md#pts--product-transformation-system), or [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model) — and in what sequence?
 2. **How mature are we** — what does early, developing, and mature adoption look like, and what would it take to advance?

@@ -16,7 +16,7 @@
 | **Key outputs** | An activated Product Operating Model (4 POM Enablers); cross-functional teams structured around value streams; a running product lifecycle; Organizational [Adoption, Engagement, Retention (AER)](../aer.md) measurement |
 | **Typical timeframe** | Initial stand-up: a transformation increment (one to two quarters). Lifecycle: continuous and overlapping thereafter |
 
-> **New to the [Integrated Value Creation System (IIVCS)](../README.md)?** This guide uses system terms — POM and the POM Enablers, value stream, value-stream outcome, [Efficiency, Experience, Effectiveness (3E)](../3e.md), AER, the 8 Values, OSM, CVDM, Product Mindset — defined in the [Glossary](../glossary.md). [Framework Positioning](../positioning.md) explains how PTS relates to the other frameworks in a few minutes; read it first if you are starting here.
+> **New to the [Insheights Integrated Value Creation System (IIVCS)](../README.md)?** This guide uses system terms — POM and the POM Enablers, value stream, value-stream outcome, [Efficiency, Experience, Effectiveness (3E)](../3e.md), AER, the 8 Values, OSM, CVDM, Product Mindset — defined in the [Glossary](../glossary.md). [Framework Positioning](../positioning.md) explains how PTS relates to the other frameworks in a few minutes; read it first if you are starting here.
 
 > **Not a product organization?** "Product team" → "delivery unit / care team / service team"; "customer" → "patient / citizen / client"; "product lifecycle" → "service delivery lifecycle." The operating-model logic is unchanged — only the vocabulary shifts. See [Translation Notes](#translation-notes).
 

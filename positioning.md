@@ -1,6 +1,6 @@
 # IIVCS Framework Positioning
 
-Positioning statements for the three [Integrated Value Creation System (IIVCS)](README.md) frameworks. Each states what the framework is, how it relates to the others up and down the system, what it owns, and its half of the dual-track behavioral measurement that distinguishes the IIVCS.
+Positioning statements for the three [Insheights Integrated Value Creation System (IIVCS)](README.md) frameworks. Each states what the framework is, how it relates to the others up and down the system, what it owns, and its half of the dual-track behavioral measurement that distinguishes the IIVCS.
 
 The three are deliberately symmetric: **[Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model) governs, [Product Transformation System (PTS)](README.md#pts--product-transformation-system) operationalizes, [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model) realizes** — and feedback runs upstream, CVDM → PTS → OSM. Outcome definition flows down (OSM defines value-stream outcomes, PTS owns their delivery, product teams own the customer outcomes that evidence them); outcome evidence flows up.
 

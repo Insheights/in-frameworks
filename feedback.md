@@ -2,7 +2,7 @@
 
 **Operational Feedback | Organizational Feedback | Strategic Reassessment**
 
-The [Integrated Value Creation System (IIVCS)](README.md) feedback system is how the organization continuously refines where and how it creates value — surfacing signals from the customer journey, translating them into organizational outcomes, and returning them upstream to drive strategic reassessment. Feedback operates at two levels: operational, through [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model)'s five feedback loops; and organizational, through the 8 Values metrics that surface outcomes back to [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model).
+The [Insheights Integrated Value Creation System (IIVCS)](README.md) feedback system is how the organization continuously refines where and how it creates value — surfacing signals from the customer journey, translating them into organizational outcomes, and returning them upstream to drive strategic reassessment. Feedback operates at two levels: operational, through [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model)'s five feedback loops; and organizational, through the 8 Values metrics that surface outcomes back to [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model).
 
 ---
 
