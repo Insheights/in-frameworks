@@ -10,7 +10,7 @@ For each IIVCS element, pick the **highest statement that is *fully* true** toda
 
 > **Assess one value stream at a time.** IIVCS maturity is about how the frameworks connect to deliver value — and they connect *on a value stream*. Answer for a single, named value stream, not the whole organization at once.
 
-> **Who answers it.** A single leader can run this quick check for a directional read — but having a few people (strategy, operating model, delivery, measurement) **answer independently and then compare** gives a truer answer: each role sees only its own layer, and where their answers diverge is itself a finding. For the rigorous version of this — independent scoring, evidence, and gated levels with defined roles — use the Detailed Assessment.
+> **Who answers it.** A single leader can run this quick check for a directional read — but having a few people (strategy, operating model, delivery, measurement) **answer independently and then compare** gives a truer answer: each role sees only its own layer, and where their answers diverge is itself a finding (see [When several people answer](#when-several-people-answer)). For the rigorous version of this — independent scoring, evidence, and gated levels with defined roles — use the Detailed Assessment.
 
 ---
 
@@ -60,9 +60,18 @@ For each IIVCS element, pick the **highest statement that is *fully* true** toda
 
 ## Read Your Result
 
-1. **Count your a / b / c answers.** Mostly **a** → an *Early* system; mostly **b** → *Developing*; mostly **c** → *Mature*. Mixed answers are the most common — and the most useful.
-2. **Find your weakest *connected* link.** Not the weakest element in isolation, but the weakest point in the chain strategy → operating model → delivery → feedback (questions 1 → 2 → 3 → 7). That break is where value leaks out of the system, and it is your adoption priority.
-3. **Read your starting point** from [Adoption Sequencing](adoption-maturity.md#adoption-sequencing--where-to-start) in the Maturity Model, based on where the break is.
+1. **Your system level comes from the chain.** Questions 1, 2, 3 and 7 are the chain strategy → operating model → delivery → feedback. Your lowest answer among them is your level: **a** → *Early*, **b** → *Developing*, **c** → *Mature*, as in the [Maturity Model](adoption-maturity.md#maturity-across-the-suite). It is not an average: high answers elsewhere do not raise it.
+2. **Read questions 4, 5, 6 and 8 as enablers.** They cover the measurement and the working culture the frameworks depend on. An enabler answered below your level is a finding: it limits how far the frameworks it supports can climb.
+3. **Keep your eight answers as your profile**: the four chain answers, then the four enablers (for example: chain b a b a; enablers b b a b). Mixed answers are the most common result, and the most useful: the spread shows which connections are missing.
+4. **Find your break and your starting point.** Your break is your lowest chain answer: the point where value leaks out of the system, and your adoption priority. The Maturity Model's [From an assessment result](adoption-maturity.md#from-an-assessment-result) gives the tie rule, the entry point the break points to, and what to do when there is no break.
+
+### When several people answer
+
+1. **Answer privately first.** Each person answers all eight questions alone, for the same value stream, before anyone compares.
+2. **Line the answers up**, question by question.
+3. **Treat every difference as a finding**, and note which roles gave which answer. People who run the stream day to day and people who govern it often see it differently, and that gap is worth knowing.
+4. **Take the lower answer**, unless someone shows the group something it can all check, such as a document, a dashboard or a decision on record. Agreement reached by discussion alone does not count.
+5. **Read your result** as above, from the answers that stand.
 
 > **Want the full picture?** This quick check is directional only — a one-question read per element, no evidence test. The IIVCS Detailed Assessment applies evidence-anchored, gated criteria across all eight components and produces a maturity profile with strengths, constraint, and adoption priority. Use this to orient; use the detailed assessment to decide.
 
