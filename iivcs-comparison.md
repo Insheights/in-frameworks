@@ -133,7 +133,7 @@ VSM has no customer journey anchor (it maps work flow, not customer experience),
 
 Jobs To Be Done is a demand theory framework — most commonly associated with the work of Clayton Christensen and Tony Ulwick — that frames customer needs as "jobs" customers are hiring products and services to do. It is used primarily in product strategy, innovation, and market segmentation.
 
-**Alignment:** JTBD's customer outcome orientation — what customers are trying to achieve — maps to the Effectiveness dimension of 3E and the Value Proposition construct in CVDM. JTBD's insight that customers evaluate products on functional, emotional, and social dimensions aligns with 3E's grounding in Bain's Elements of Value, which spans similar dimensions.
+**Alignment:** JTBD's customer outcome orientation — what customers are trying to achieve — maps to the Effectiveness dimension of 3E and the Value Proposition construct in CVDM. JTBD's insight that customers evaluate products on functional, emotional, and social dimensions aligns with 3E's mapping to Bain's Elements of Value, which spans similar dimensions.
 
 **Key difference:** JTBD is a demand research and product strategy theory. It explains what customers want and why they choose products. IIVCS is an operating system that delivers, measures, and continuously improves the outcomes customers want. JTBD informs the front end of strategic and product decisions; IIVCS operationalizes them.
 

@@ -28,7 +28,7 @@
 
 - [ ] A named architecture element (Value Stream, Value Stage, Capability, Process, or Product/Service) — you must know what you are measuring before you can apply 3E
 - [ ] A stated value promise — what this element is supposed to deliver, to whom, and under what conditions
-- [ ] Access to at least one signal source per dimension: friction/effort data for Efficiency, sentiment/behavioral data for Experience, outcome data for Effectiveness
+- [ ] Access to at least one signal source per dimension: friction/effort data for Efficiency, sentiment/survey data for Experience, outcome data for Effectiveness
 - [ ] The CVDM customer journey map for the relevant value stream (for Efficiency and Experience signal sourcing)
 
 **People required**
@@ -108,8 +108,8 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Guidance:**
 - Each dimension needs at minimum one leading signal (Efficiency, Experience) or one lagging signal (Effectiveness). More signals give richer diagnosis; fewer signals give faster feedback.
 - Efficiency signals are typically operational: completion rates, error rates, time-to-value, support ticket volume, drop-off points, cost-per-activation.
-- Experience signals are behavioral and attitudinal: CSAT at step level, day-two return rate, churn before outcomes can be confirmed, qualitative sentiment from customer-facing teams.
-- Effectiveness signals are outcome-based: goal attainment rates, retention curves, revenue impact, outcome validation interviews, NPS timed after sufficient time for outcomes to materialize.
+- Experience signals are attitudinal: CSAT at step level, NPS, qualitative sentiment from customer-facing teams. Read them with the behavioral signals that follow in [AER](../aer.md) — day-two return rate, churn before outcomes can be confirmed.
+- Effectiveness signals are outcome-based: goal attainment rates, revenue impact, outcome validation interviews. Retention curves are read from AER Retention.
 - Do not wait for perfect signal data. One Efficiency signal, one Experience signal, and one Effectiveness signal is enough to begin the diagnostic.
 
 **Signal source reference:**
@@ -117,8 +117,8 @@ Each step below is an action. Complete them in order — later steps depend on e
 | Dimension | Typical Signal Sources |
 |---|---|
 | **Efficiency** | Usage analytics, completion rates, support ticket category analysis, time-to-activation, error logs, cost-per-unit |
-| **Experience** | Post-step CSAT, NPS (timed to feel, not outcome), qualitative interviews, team-reported friction observations, churn before outcomes are realized |
-| **Effectiveness** | Outcome interviews, retention after sufficient time, goal attainment metrics, revenue per customer, repeat engagement rate |
+| **Experience** | Post-step CSAT, NPS, qualitative interviews, team-reported friction observations — read with AER's day-two return and churn before outcomes are realized |
+| **Effectiveness** | Outcome interviews, goal attainment metrics, revenue per customer — read with AER's retention and repeat engagement |
 
 ---
 

@@ -48,7 +48,7 @@ The complete measure of value realized by customers — combining behavioral res
 Customer Value has two connected layers:
 
 - **Behavioral** — what customers do: whether they adopt the value offered, engage actively with it, and return over time. Measured through AER — Adoption, Engagement, and Retention — which translates directly to Growth and Revenue
-- **Perception** — what customers feel: their satisfaction, confidence, and trust in the value delivered. Measured through experience feedback, satisfaction signals, and Net Promoter indicators
+- **Perception** — what customers feel: their satisfaction, confidence, and trust in the value delivered. Measured through 3E Experience — satisfaction, confidence, and Net Promoter (NPS) signals, which record stated feeling and intent
 
 Neither layer is sufficient alone. Behavioral adoption without positive perception is fragile — customers who use but do not trust are at risk. Positive perception without behavioral engagement is hollow — customers who feel good but do not act generate no value.
 
@@ -103,7 +103,7 @@ People Value is most directly shaped by PTS — where [Product Operating Model (
 | **OSM** | Strategy that is understood and believed in by people drives engagement and ownership |
 | **PTS** | POM Enablers — Leadership, Culture & Relationships, Organizational Architecture — directly build People Value |
 | **CVDM** | Cross-functional ownership of the full value delivery chain builds capability depth and engagement |
-| **3E** | Experience dimension captures whether people feel the culture, growth, and confidence that define People Value |
+| **3E** | Experience dimension captures whether people feel the culture, growth, and confidence that define People Value (read through eNPS); whether they stay is read from Organizational AER Retention |
 
 ---
 
@@ -148,7 +148,7 @@ Market Value amplifies all other Values — strong market position makes Custome
 | **OSM** | Vision and mission, consistently executed, build the brand narrative that generates Market Value |
 | **PTS** | Consistent delivery of quality through the product operating model builds reputational credibility |
 | **CVDM** | Customer experience and satisfaction signals aggregate into brand perception and market reputation |
-| **3E → AER** | Retention and advocacy from satisfied customers is the most powerful generator of Market Value |
+| **3E → AER** | Retention and referral (Customer AER Recommendation) from satisfied customers are the most powerful generator of Market Value |
 
 ---
 

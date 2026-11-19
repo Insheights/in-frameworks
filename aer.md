@@ -8,7 +8,7 @@ AER measures behavioral response to value delivery — the actions customers and
 
 AER operates across two parallel tracks — Customer AER measuring how customers respond to value delivery, and Organizational AER measuring how the delivering organization responds to its own operating model.
 
-> **Behavioral, not satisfaction** — AER measures what customers and teams *do*, not how they *feel*. Satisfaction is a condition; behavior is the signal. A customer can report high satisfaction and still churn. A team can score well on a satisfaction survey and still fail to adopt new practices. AER, like NPS and Employee Engagement Surveys, captures behavioral response because behavior is observable, actionable, and predictive in a way that satisfaction scores alone are not.
+> **Behavioral, not satisfaction** — AER measures what customers and teams *do*, not how they *feel*. Satisfaction is a condition; behavior is the signal. A customer can report high satisfaction and still churn. A team can score well on a satisfaction survey and still fail to adopt new practices. AER captures behavioral response because behavior is observable, actionable, and predictive in a way that satisfaction scores alone are not. Stated intent — NPS, eNPS, engagement surveys — is attitudinal and belongs to [3E Experience](3e.md); AER records what people then do, such as an actual referral (Recommendation).
 
 ---
 
@@ -27,6 +27,8 @@ AER operates across two parallel tracks — Customer AER measuring how customers
 - **Adoption** — teams adopt the operating model, practices, and ways of working
 - **Engagement** — teams engage with purpose, culture, and the work — active participation, not compliance
 - **Retention** — talent, institutional knowledge, and organizational stability are sustained
+
+AER is the home of these behavioral signals — return, active use, retention, renewal, referral, and teams' adoption and retention. 3E and the 8 Values read them from here rather than counting them again; candidate metrics are in [Metrics and Indicators](metrics-and-indicators.md#part-2--aer-metrics-and-indicators).
 
 The two tracks are parallel — both run simultaneously, and both are necessary. A delivery system that succeeds with customers but loses organizational capability is not sustainable. A delivery system with strong organizational engagement that fails to generate customer adoption is not creating value.
 
@@ -97,7 +99,7 @@ Org AER         Adoption → Engagement → Retention
 
 The sequence matters. 3E's leading signals (Efficiency, Experience) surface first — operational, at the journey and delivery level. AER signals surface next — behavioral, as cumulative patterns of customer and team response. 8 Values signals surface last — organizational, as the compound outcome of sustained behavioral commitment over time.
 
-This sequencing makes AER the leading indicator of 8 Values performance. A decline in Adoption or Engagement is an early warning for Customer, Financial, or People Value — visible before the organizational impact registers in value metrics. Teams and leaders who monitor AER can act before value erosion becomes value loss.
+This sequencing makes AER Adoption and Engagement the leading indicators of 8 Values performance. A decline in Adoption or Engagement is an early warning for Customer, Financial, or People Value — visible before the organizational impact registers in value metrics. Teams and leaders who monitor AER can act before value erosion becomes value loss.
 
 ---
 

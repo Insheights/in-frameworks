@@ -214,7 +214,7 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 | ITIL | Support phase, capability layer | Service management processes for the support stage of the customer journey |
 | Design Thinking | Value proposition definition | Customer research and prototype testing methods |
 | Service Blueprint | Journey-to-capability mapping | Current-state documentation of customer journey and backstage processes |
-| NPS / CSAT / CES | 3E signal instruments | Survey instruments that produce Efficiency (CES), Experience (CSAT), and Effectiveness (NPS) signals |
+| NPS / CSAT / CES | 3E signal instruments | Survey instruments that produce attitudinal signals for Efficiency (CES) and Experience (CSAT, NPS) |
 | JTBD | Value proposition and journey step definition | Demand research defining what outcomes each journey stage must achieve |
 
 ---

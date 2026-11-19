@@ -23,7 +23,7 @@ Definitions for the terms, acronyms, and external frameworks referenced across t
 |---|---|
 | **3E** | **Efficiency, Experience, Effectiveness** — the operational value measurement model, sequenced Use → Feel → Achieve, applied consistently across every architecture element. |
 | **Efficiency (Use)** | Whether value is accessible without unnecessary friction, effort, cost, or complexity. The table stake; a leading, operational signal. |
-| **Experience (Feel)** | Whether value is felt positively — trust, confidence, reduced anxiety. The bridge between Use and Achieve; the earliest leading behavioral signal. |
+| **Experience (Feel)** | Whether value is felt positively — trust, confidence, reduced anxiety. The bridge between Use and Achieve; the earliest leading signal, and attitudinal: what people report they feel or intend. What they then do is AER. |
 | **Effectiveness (Achieve)** | Whether intended outcomes are achieved for customer and organization. The proof of value; a lagging, outcome signal. |
 | **AER** | **Adoption, Engagement, Retention** — the behavioral measurement model that sits between 3E and the 8 Values, measuring behavioral response to value delivery across two tracks. |
 | **Customer AER** | Behavioral response from the customer side — adoption, engagement, retention (or **Recommendation**) of the value offered. |
@@ -53,10 +53,12 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 
 | Term | Definition |
 |---|---|
-| **Leading indicator** | A signal that surfaces before outcomes materialize (Efficiency, Experience; AER Adoption, Engagement). Enables intervention before damage registers. |
+| **Leading indicator** | A signal that surfaces before the outcome it predicts (Efficiency, Experience; AER Adoption, Engagement). Leading and lagging describe timing relative to a named outcome, not what is measured. Enables intervention before damage registers. |
 | **Lagging indicator** | A signal that confirms an outcome after the fact (Effectiveness; AER Retention; most 8 Values signals). |
+| **Behavioral signal** | An observed action: what customers or teams actually do (return, use, renew, refer, stay). AER's signals are behavioral. |
+| **Attitudinal signal** | A reported feeling or intent: what people say they feel or would do (CSAT, CES, NPS, eNPS). 3E Experience's signals are attitudinal. |
 | **Compounding** | The property that value dimensions reinforce and amplify each other over time, rather than operating independently. |
-| **Elements of Value** | Bain & Company's research taxonomy — 30 B2C and 40 B2B elements of what customers value. 3E maps to all 70. |
+| **Elements of Value** | Bain & Company's research taxonomy — 30 B2C and 40 B2B elements of what customers value. Insheights maps all 70 to the 3E dimensions; the mapping is Insheights' own. |
 | **Value priority** | A strategic objective set in OSM, stated as an outcome (not an activity or deliverable), ranked against the others, and resting on written assumptions. |
 | **Value-stream outcome** | The business intent a value stream exists to produce, defined by OSM, delivered through PTS, and evidenced by customer outcomes. It is not simply the sum of what teams deliver. |
 | **Value-stream charter** | The record OSM makes when it creates or reshapes a value stream: the stakeholder, the outcome, the owner, why no existing stream delivers it, and the build capacity committed under the priority that called for it. |
@@ -189,7 +191,8 @@ Frameworks the IIVCS comparison, integration, and guide documents reference. Lis
 
 | Term | Definition |
 |---|---|
-| **NPS** | Net Promoter Score — stated likelihood to recommend; a proxy for loyalty. |
+| **NPS** | Net Promoter Score — stated likelihood to recommend; an attitudinal 3E Experience signal. The referral itself is recorded in Customer AER (Recommendation). |
+| **eNPS** | Employee Net Promoter Score — teams' stated likelihood to recommend the organization as a place to work; an attitudinal 3E Experience signal (internal), which People Value reads from. |
 | **CSAT** | Customer Satisfaction Score — satisfaction with a specific interaction. |
 | **CES** | Customer Effort Score — effort required to complete a task; a leading friction signal. |
 | **CLV / LTV** | Customer Lifetime Value — total value a customer generates over the relationship. |
