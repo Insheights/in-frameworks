@@ -29,9 +29,11 @@ It is paired with the practitioner guides — [3E](guides/3e-practitioners-guide
 
 | Band | Meaning |
 |---|---|
-| **Healthy** | At or above your stated target, with no counted decline |
-| **Watch** | At or above target but with a counted decline (trend wins over level); or below target but above the floor, with no counted decline; or flat where you expected movement — a leading-signal early warning |
-| **At risk** | Below the floor you set; or below target with a counted decline — act, don't wait for the lagging confirmation |
+| **Healthy** | At or above your stated target, with no counted decline, and not flat where you expected movement |
+| **Watch** | At or above target but with a counted decline (trend wins over level) or flat where you expected movement; or below target but above the floor, with no counted decline — a leading-signal early warning |
+| **At risk** | At or below the floor you set; or below target with a counted decline — act, don't wait for the lagging confirmation |
+
+Each reading lands in exactly one band. A metric with no reading yet is **unmeasured**, not in a band.
 
 **Framework emphasis.** Each framework leans on the dimensions it owns (per [3E — Application Across the IIVCS](3e.md#application-across-the-iivcs)): **OSM** is read mainly on Effectiveness (strategic outcomes) and Experience (stakeholder confidence); **PTS** treats Efficiency as the table stake and is proven on Effectiveness and Experience (incl. Organizational AER); **CVDM** is where all three 3E dimensions are primarily surfaced, customer-side.
 
@@ -189,9 +191,9 @@ A business-software company reads one value stage on its customer-onboarding val
 |---|---|---|---|---|---|
 | Time to first invoice | 3E Efficiency | 4.8 days (4.4–5.2) | 4.7, 5.6, 4.9 | Within 5 days / 8 days | **Healthy** — 5.6 is one reading outside the range, not a change |
 | Post-step confidence score (1–5) | 3E Experience | 4.1 (3.9–4.3) | 3.8, 3.8, 3.7 | 4.0 / 3.5 | **At risk** — below target, with a counted decline |
-| Second invoice within 30 days | 3E Effectiveness | 78% (75–81%) | 73%, 72%, 72% | 70% / 60% | **Watch** — above target, but trend wins over level |
+| First invoice paid within 30 days | 3E Effectiveness | 78% (75–81%) | 73%, 72%, 72% | 70% / 60% | **Watch** — above target, but trend wins over level |
 | Day-2 return rate | Customer AER Engagement | 68% (65–71%) | 66%, 64%, 63% | 65% / 55% | **Watch** — below target; two readings outside the range, not yet a change |
-| 90-day retention | Customer AER Retention | — | Not yet readable: the first cohort is 60 days old | — | **Unmeasured** |
+| 90-day retention | Customer AER Retention | — | Not yet readable: the first cohort is 60 days old | — | **Unmeasured** — no reading to place in a band yet |
 
 **Reading it.** Effectiveness is still above target, so on level alone the stage looks fine. The change rule says otherwise: it has held below its normal range for three readings. Read upstream, in sequence. Efficiency is Healthy — customers get through quickly. Experience is At risk — they feel less sure once they have. The break is at Experience, not speed, so the response is to look at how the step lands (what the customer sees once the invoice is sent), not to make it faster. Day-2 return is drifting the same way and will confirm or clear the reading next month.
 
