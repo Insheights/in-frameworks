@@ -8,7 +8,12 @@ This guide turns the measurement *models* into measurable *signals*. Where [3E](
 
 It is paired with the practitioner guides — [3E](guides/3e-practitioners-guide.md) for *how* to apply 3E to an element, [8 Values](guides/8-values-practitioners-guide.md) for *how* to read organizational value. This guide is the *reference layer* underneath them: the candidate metric set and the bands to read it against.
 
-> **Read thresholds honestly.** The [Integrated Value Creation System (IIVCS)](README.md) has **no validated external benchmarks** (3e.md, 8-values.md both state this). Every threshold here is either **baseline-relative** (compare an element to its own prior reading and its stated target) or a **conservative starting band to calibrate**, never a universal industry truth. Peer/sector benchmark ranges are a separate, later deliverable (*3E Benchmarking* on the [Roadmap](ROADMAP.md)); field-calibration of these bands comes from the first real assessment runs. Until then: set targets from your own baseline, and treat absolute numbers below as starting points, not pass/fail lines.
+> **Read thresholds honestly.** The [Insheights Integrated Value Creation System (IIVCS)](README.md) has **no validated external benchmarks** (3e.md, 8-values.md both state this). This guide uses two kinds of number:
+>
+> - **Indicator thresholds** — how good a reading is. Every one is either **baseline-relative** (compare an element to its own prior reading and its stated target) or a **conservative starting band to calibrate**, never a universal industry truth. Set targets from your own baseline, and treat these absolute numbers as starting points, not pass/fail lines.
+> - **[Reference bars](#reference-bars-for-system-maturity)** — the exception. They are stated lines for whether a practice exists, is current, and is used, so that two readers of the same evidence agree. They are not benchmarks of good performance, and they are provisional until real assessment runs confirm them.
+>
+> Peer/sector benchmark ranges are a separate, later deliverable (*3E Benchmarking* on the [Roadmap](ROADMAP.md)); field calibration comes from the first real assessment runs.
 
 ---
 
@@ -122,19 +127,21 @@ For an organization without full 3E and AER instrumentation, this is the **singl
 
 ### Reference bars for system maturity
 
-Judging how mature a practice is needs a stated bar rather than room judgment. The reference bars below (v1) state where that line sits for each practice, so that two people reading the same evidence reach the same answer. The Detailed Assessment uses them.
+Judging how mature a practice is needs a stated bar rather than room judgment. The reference bars below (v2) state where that line sits for each practice, so that two people reading the same evidence reach the same answer. The Detailed Assessment uses them.
 
-| What is measured | Reference bar (v1) | Signal / source | Review cadence |
+Each bar asks three things of a practice: that it **exists**, that it is **current** (a baseline and repeated, dated readings), and that it **changed something** (at least one recorded decision or action). A practice that exists on paper but has never been read, or never acted on, does not meet its bar.
+
+| What is measured | Reference bar (v2) | Signal / source | Review cadence |
 |---|---|---|---|
-| **Governance responsiveness** | ≥1 priority changed, retired, or re-resourced in the last 2 governance cycles as a direct result of signal | Governance minutes | Per governance cycle |
-| **Organizational AER coverage** | All three Org AER stages — adoption, engagement, sustainment — each instrumented with ≥1 signal and reviewed on a cadence | Org AER instrumentation | Monthly |
-| **Feedback loops and Customer AER coverage** | All 5 feedback loops have a named owner and cadence, **and** Customer AER (adoption, engagement, retention) each instrumented across the journey | CVDM loop registry + analytics | Per loop cadence |
-| **3E across architecture levels** | A 3E profile exists at ≥3 of the 5 architecture levels, including value stream **and** value stage | 3E profiles | Quarterly |
-| **AER on primary journeys** | Adoption, engagement, **and** retention each tracked on the value stream's primary journey(s) | Journey analytics | Monthly |
-| **Breadth of value measured** | ≥3 of the 8 value dimensions tracked | 8 Values reading | Quarterly |
-| **Outcome-based success measures** | Outcome-based measures are the *primary* success measure for the majority (≥ half) of the value stream's teams/initiatives | Team goal/[Objectives and Key Results (OKR)](glossary.md#external-frameworks-referenced) review | Quarterly |
+| **Governance responsiveness** | In the last 2 governance cycles, at least 1 value priority was changed, retired, or re-resourced because of a signal: the record names the signal and its reading from before the decision, and a later record (budget, staffing, or roadmap) shows the change happened. A change already planned before the signal does not count. | Governance minutes and the Priority Register | Per governance cycle |
+| **Organizational AER coverage** | Adoption, engagement, **and** retention of the way of working each have at least 1 named signal with a baseline, read at 2 or more consecutive reviews, and at least 1 reading led to a recorded change in the way of working within 2 quarters | Org AER instrumentation and review records | Monthly |
+| **Feedback loops and Customer AER coverage** | Each of the 5 feedback loops has a named owner and cadence and ran in its last cadence period, and at least 1 loop's output led to a recorded change in a priority or the backlog. Customer adoption, engagement, **and** retention each have a distinct signal with a baseline across the journey. | CVDM loop records + analytics | Per loop cadence |
+| **3E across architecture levels** | A 3E profile exists at 3 or more of the 5 architecture levels, including value stream **and** value stage; each has a baseline and a reading within its review cadence, and at least 1 is cited in a recorded decision | 3E profiles and decision records | Quarterly |
+| **AER on primary journeys** | Adoption, engagement, **and** retention each have a definition, a baseline, and a target on every primary journey — named as primary before measurement began — read at 2 or more consecutive reviews | Journey analytics | Monthly |
+| **Breadth of value measured** | At least 3 of the 8 value dimensions each have a named indicator, a baseline, and a current reading, and at least 1 was read where a decision was taken | 8 Values reading | Quarterly |
+| **Outcome-based success measures** | For half or more of the value stream's product teams, the primary success measure is an outcome with a baseline and a target, and the team's last goal review judged progress against it | Team goal/[Objectives and Key Results (OKR)](glossary.md#external-frameworks-referenced) review | Quarterly |
 
-> **What "v1" does and does not mean.** v1 means each bar is *stated* — no longer open judgment. It does **not** mean the bars are field-validated or peer-benchmarked — that remains pending the first real assessment runs (*Detailed Assessment — Dry Run & Calibration*, client-gated) and external benchmarking (*3E Benchmarking*). The bars are also due a review that tightens them against being met by a token action. Re-confirm them against real-run data when it exists.
+> **What "v2" does and does not mean.** v2 tightens the v1 bars so that a token action does not meet them. It does **not** mean the bars are field-validated or peer-benchmarked: that remains pending the first real assessment runs (*Detailed Assessment — Dry Run & Calibration*, client-gated) and external benchmarking (*3E Benchmarking*). Re-confirm them against real-run data when it exists.
 
 ---
 
@@ -159,7 +166,7 @@ If a level's leading signals are healthy but its lagging signals fail, the value
 Consistent with [3e.md](3e.md) and [8-values.md](8-values.md):
 
 - **No external benchmarks yet.** Every band here is baseline-relative or a starting default to calibrate — not a validated industry range. Peer comparison is the separate *3E Benchmarking* deliverable.
-- **Thresholds are reference defaults, not field-validated.** The v1 reference bars rest on reasoned judgment until real assessment runs calibrate them.
+- **Thresholds are reference defaults, not field-validated.** The v2 reference bars rest on reasoned judgment until real assessment runs calibrate them.
 - **Instrumentation-dependent.** A metric you cannot observe is not a metric — the Minimum Viable Signal Set exists precisely because most organizations start under-instrumented.
 - **Metrics are signals, not the value.** A metric proxies a dimension; it does not *equal* it. Read several together and in sequence, and treat a single number as a prompt to look, not a verdict.
 
