@@ -290,9 +290,9 @@ The bridge is directional — 8 Values measure the flow of value generation; IR 
 |---|---|---|
 | **Customer Value** | Social & Relationship Capital | Customer behavioral response and perception builds the relationship capital stock |
 | **Financial Value** | Financial Capital | Current and forward-looking financial performance builds the financial capital stock |
-| **People Value** | Human Capital | Workforce capability and engagement across employees, partners, and ecosystem is the human capital stock |
+| **People Value** | Human Capital | Workforce capability and engagement across employees, partners, and ecosystem builds the human capital stock |
 | **Operational Value** | Manufactured + Intellectual Capital | Capability stock, systems, and institutional knowledge maps to both manufactured and intellectual capital |
-| **Market Value** | Social & Relationship Capital | Brand, reputation, and ecosystem relationships are the externally perceived relationship capital stock |
+| **Market Value** | Social & Relationship Capital | Brand, reputation, and ecosystem relationships build the externally perceived relationship capital stock |
 | **Strategic Value** | Intellectual Capital | Strategy formulation quality and execution effectiveness builds intellectual and organizational capital |
 | **Innovation Value** | Intellectual Capital | IP, R&D, and future value streams are the intellectual capital pipeline |
 | **Impact Value** | Natural + Social Capital | Mission, ESG, and societal contribution maps to natural and social capital |

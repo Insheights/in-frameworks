@@ -132,7 +132,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Output:** 3E baseline profile — current state per dimension; diagnostic conclusion; prioritized action
 
 **Guidance:**
-- Read the sequence, not the dimensions in isolation. An Effectiveness gap preceded by a strong Experience signal points to a delivery or product failure. An Effectiveness gap preceded by a weak Experience signal points upstream — check Efficiency too, and fix the earliest failure in the chain.
+- Read the sequence, not the dimensions in isolation. An Effectiveness gap preceded by strong Experience and Efficiency signals points to the value proposition itself, not its delivery. An Effectiveness gap preceded by a weak Experience signal points upstream — check Efficiency too, and fix the earliest failure in the chain.
 - Efficiency is the table stake. If Efficiency is failing, Experience and Effectiveness cannot be meaningfully measured until friction is resolved. Prioritize Efficiency before analyzing the other two dimensions.
 - A baseline is not a judgment. The first measurement establishes where you are — not whether the element is good or bad. The value of the baseline is comparison over time.
 - The diagnostic output must be a specific action, not a general observation. "Efficiency is low because onboarding requires IT involvement — action: remove the IT dependency from step 2" is complete. "Efficiency needs improvement" is not.
@@ -250,13 +250,13 @@ Element: **cardiac discharge process** (Process level). Value promise: *The disc
 | **Efficiency** | Average discharge time from physician sign-off to patient departure | EHR / operations data | Leading |
 | **Efficiency** | % of discharge packets completed without requiring a second clinical review | EHR audit | Leading |
 | **Experience** | Post-discharge confidence score (1–5): "How confident do you feel about your recovery plan?" | Discharge survey | Leading |
-| **AER** *(read with Experience)* | % of patients calling the discharge helpline within 48 hours with questions already covered in discharge instructions | Call center data | Leading |
+| **AER Engagement** *(read with Experience)* | % of patients calling the discharge helpline within 48 hours with questions already covered in discharge instructions | Call center data | Leading |
 | **Effectiveness** | 30-day unplanned readmission rate | EHR / quality reporting | Lagging |
 | **Effectiveness** | % of patients completing first follow-up appointment within 7 days | Scheduling system | Lagging |
 
 **Step 4 — Baseline and diagnose**
 
-Baseline: Average discharge time: 4.2 hours from sign-off against a target of 2 hours (Efficiency: high friction). Post-discharge confidence score: 3.8/5 (Experience: moderate). 48-hour helpline call rate for covered questions: 28% (AER: weak, confirming the Experience reading — patients are not retaining instructions). 30-day readmission rate: 18% against a target of 12% (Effectiveness: underperforming).
+Baseline: Average discharge time: 4.2 hours from sign-off against a target of 2 hours (Efficiency: high friction). Post-discharge confidence score: 3.8/5 (Experience: moderate). 48-hour helpline call rate for covered questions: 28% (AER Engagement: weak, confirming the Experience reading — patients are not retaining instructions). 30-day readmission rate: 18% against a target of 12% (Effectiveness: underperforming).
 
 Diagnostic: Effectiveness is underperforming. Experience is moderate-to-weak. Trace to Efficiency: the 4.2-hour discharge time is driven by a pharmacy, nursing, and administrative sign-off sequence running serially. The delay creates patient anxiety (undermining Experience) and rush at end of discharge (undermining instruction quality and Effectiveness downstream).
 
@@ -264,7 +264,7 @@ Actions: Redesign the sign-off sequence to run pharmacy and administrative steps
 
 **Step 5 — Activate the feedback loop**
 
-- Experience signals (confidence scores, helpline call rate) reviewed weekly by care operations → feeds Experience feedback loop
+- Experience signals (confidence scores) reviewed weekly by care operations, with the helpline call rate (AER) read alongside → feeds Experience feedback loop
 - Efficiency signals reviewed at each monthly operations review → feeds Performance optimization loop
 - Effectiveness reviewed quarterly — 30-day readmission window requires 90+ days of data to confirm trends
 - Out-of-cycle trigger: helpline call rate for covered questions exceeds 35% → immediate discharge instruction review
@@ -300,7 +300,7 @@ Element: **loyalty value stream** (Value Stream level). Value promise: *The loya
 
 **Step 4 — Baseline and diagnose**
 
-Baseline: Quarterly benefit redemption rate: 34% (Efficiency: weak — two-thirds of members are not actively using the program). Loyalty NPS: 42 (Experience: moderate). Personalized communication open rate: 31% vs. 12% for generic (AER Engagement: strong where personalization exists, but most communications are still generic). 12-month member retention: 61% vs. 48% non-member (AER Retention: moderate). Annual spend differential: +22% against a program investment threshold of +35% (Effectiveness: underperforming at program scale).
+Baseline: Quarterly benefit redemption rate: 34% (Efficiency: weak — two-thirds of members do not redeem a benefit without help). Loyalty NPS: 42 (Experience: moderate). Personalized communication open rate: 31% vs. 12% for generic (AER Engagement: strong where personalization exists, but most communications are still generic). 12-month member retention: 61% vs. 48% non-member (AER Retention: moderate). Annual spend differential: +22% against a program investment threshold of +35% (Effectiveness: underperforming at program scale).
 
 Diagnostic: Effectiveness is below the investment threshold. Experience is moderate but the personalization signal shows customers respond strongly when they feel recognized — the opportunity exists. Trace to Efficiency: 66% of members are not redeeming any benefit per quarter. Redemption is the Efficiency gate for this value stream. Customers who cannot easily activate the value will not form the Experience or produce the Effectiveness outcomes the program requires.
 

@@ -36,7 +36,7 @@ The two tracks are parallel — both run simultaneously, and both are necessary.
 
 ## How 3E Drives AER
 
-3E and AER are connected across both tracks. The three 3E dimensions map directly to the three AER stages:
+3E and AER are connected across both tracks. The model expects each 3E dimension to drive one AER stage (a reasoned hypothesis, to be confirmed with evidence):
 
 | 3E Dimension | AER Stage | Why |
 |---|---|---|

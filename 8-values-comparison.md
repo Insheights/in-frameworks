@@ -115,7 +115,7 @@ This means a gap in any dimension has a diagnosis: trace upstream in the compoun
 
 ### Leading Indicator Architecture
 
-The 8 Values is the third layer of a three-layer measurement sequence: 3E signals surface first (operational delivery), AER signals surface next (behavioral response), 8 Values signals surface last (organizational value generation). This sequence makes the 8 Values a *lagging* measurement of what *leading* signals predicted. An Efficiency gap in a critical capability (3E) predicts an Adoption decline in Organizational AER, which predicts an Operational Value degradation in the 8 Values — before the organizational outcome registers.
+The 8 Values is the third layer of a three-layer measurement sequence: 3E signals surface first (operational delivery), AER signals surface next (behavioral response), 8 Values signals surface last (organizational value generation). This sequence makes the 8 Values a *lagging* measurement of what the *leading* signals point to. An Efficiency gap in a critical capability (3E) is expected to show as an Adoption decline in Organizational AER, and that as an Operational Value degradation in the 8 Values — before the organizational outcome registers. These links are the model's reasoned hypothesis, to be confirmed with evidence.
 
 Established frameworks are predominantly lagging. The Balanced Scorecard attempts to introduce leading indicators through strategy maps but does not connect them to a delivery architecture that generates behavioral signals in sequence. The 8 Values leading indicator architecture is structural, not inferred.
 

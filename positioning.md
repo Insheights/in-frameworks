@@ -2,7 +2,7 @@
 
 Positioning statements for the three [Insheights Integrated Value Creation System (IIVCS)](README.md) frameworks. Each states what the framework is, how it relates to the others up and down the system, what it owns, and its half of the dual-track behavioral measurement that distinguishes the IIVCS.
 
-The three are deliberately symmetric: **[Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model) governs, [Product Transformation System (PTS)](README.md#pts--product-transformation-system) operationalizes, [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model) realizes** — and feedback runs upstream, CVDM → PTS → OSM, with CVDM's strategic signals and enterprise-risk triggers also reaching OSM directly. Outcome definition flows down (OSM defines value-stream outcomes, PTS owns their delivery, product teams own the customer outcomes that evidence them); outcome evidence flows up.
+The three are deliberately symmetric: **[Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model) governs, [Product Transformation System (PTS)](README.md#pts--product-transformation-system) operationalizes, [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model) realizes** — and feedback runs upstream, CVDM → PTS → OSM, with CVDM's strategic signals reaching OSM through the product team, and risk triggers coming to OSM from enterprise risk management. Outcome definition flows down (OSM defines value-stream outcomes, PTS owns their delivery, product teams own the customer outcomes that evidence them); outcome evidence flows up.
 
 ---
 
