@@ -10,7 +10,7 @@ Definitions for the terms, acronyms, and external frameworks referenced across t
 |---|---|
 | **IIVCS** | **Insheights Integrated Value Creation System** — the integrated system of organizational and product frameworks ([Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model), [Product Transformation System (PTS)](README.md#pts--product-transformation-system), [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model)) and measurement models ([Efficiency, Experience, Effectiveness (3E)](3e.md), [Adoption, Engagement, Retention (AER)](aer.md), 8 Values) through which an organization defines, builds, and delivers value. |
 | **OSM** | **Organization Strategy Model** — how organizations translate strategic intent into prioritized value creation outcomes, connecting Values, Mission, and Vision through Strategic Value Creation to execution by value stream. |
-| **PTS** | **Product Transformation System** — how organizations create value through the interplay of strategy, the product operating model, product management activities, and Product Mindset, enabled by AI. |
+| **PTS** | **Product Transformation System** — how organizations create value through the interplay of strategy, the product operating model, product management activities, and Product Mindset. |
 | **CVDM** | **Customer Value Delivery Model** — how every customer/user journey step triggers the right value stage to deliver the value proposition as a realized customer outcome, with five continuous feedback loops. |
 | **POM** | **Product Operating Model** — the operating model PTS stands up: four POM Enablers (Leadership; Practices & Behaviors; Organizational Architecture; Culture & Relationships) that empower persistent cross-functional teams. |
 | **Product Mindset** | The operating philosophy of the IIVCS — five principles: customer obsession, outcome over output, continuous discovery, hypothesis-driven thinking, cross-functional ownership. |
@@ -23,7 +23,7 @@ Definitions for the terms, acronyms, and external frameworks referenced across t
 |---|---|
 | **3E** | **Efficiency, Experience, Effectiveness** — the operational value measurement model, sequenced Use → Feel → Achieve, applied consistently across every architecture element. |
 | **Efficiency (Use)** | Whether value is accessible without unnecessary friction, effort, cost, or complexity. The table stake; a leading, operational signal. |
-| **Experience (Feel)** | Whether value is felt positively — trust, confidence, reduced anxiety. The bridge between Use and Achieve; the earliest leading signal, and attitudinal: what people report they feel or intend. What they then do is AER. |
+| **Experience (Feel)** | Whether value is felt positively — trust, confidence, reduced anxiety. The bridge between Use and Achieve; the earliest signal of value being realized (Efficiency surfaces first, as friction in use), and attitudinal: what people report they feel or intend. What they then do is AER. |
 | **Effectiveness (Achieve)** | Whether intended outcomes are achieved for customer and organization. The proof of value; a lagging, outcome signal. |
 | **AER** | **Adoption, Engagement, Retention** — the behavioral measurement model that sits between 3E and the 8 Values, measuring behavioral response to value delivery across two tracks. |
 | **Customer AER** | Behavioral response from the customer side — adoption, engagement, retention (or **Recommendation**) of the value offered. |
@@ -44,6 +44,7 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 | **Capability** | Something the organization can do, named for what it achieves, not who does it or how. Named once on the organization-wide capability map, it can enable value stages in any value stream. |
 | **Capability Map** | The single, organization-wide list of the organization's capabilities. OSM holds it alongside the value-stream inventory, adopting an existing business-architecture map where the organization has one; PTS records which team owns each capability and which teams consume it; CVDM selects from it for each value stage. Capabilities sourced from a partner are on the map too, marked as partner-sourced. |
 | **Process** | The repeatable sequence of activities that carries out a capability's work within a value stage. |
+| **Information Concept** | A named piece of business information a value stage needs or produces, such as an application or a verification status, in the terms the business uses for it. It is defined once, has an owner, and feeds the capabilities that act on it. |
 | **Product / Service** | The delivered offering through which customers access and use value. |
 | **Value Proposition** | What a value stream promises to deliver to its stakeholder, realized as that stakeholder's outcome. |
 
@@ -164,7 +165,7 @@ Frameworks the IIVCS comparison, integration, and guide documents reference. Lis
 
 | Term | Definition |
 |---|---|
-| **IR / IIRC 6 Capitals** | International Integrated Reporting Council framework defining six capitals — Financial, Manufactured, Intellectual, Human, Social & Relationship, Natural. The 8 Values bridges to it for external reporting. |
+| **IR / IIRC 6 Capitals** | The Integrated Reporting framework, first issued by the International Integrated Reporting Council and now maintained by the IFRS Foundation, defining six capitals — Financial, Manufactured, Intellectual, Human, Social & Relationship, Natural. The 8 Values bridges to it for external reporting. |
 | **Balanced Scorecard (BSC)** | Kaplan & Norton's four-perspective strategic measurement framework (Financial, Customer, Internal Process, Learning & Growth). |
 | **ESG / GRI / SASB / TCFD / ISSB** | Environmental, Social, Governance disclosure standards and the bodies that set them (Global Reporting Initiative; Sustainability Accounting Standards Board; Task Force on Climate-related Financial Disclosures; International Sustainability Standards Board). |
 | **OKRs** | Objectives & Key Results — a goal-alignment and progress-tracking system. |

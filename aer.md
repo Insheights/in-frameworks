@@ -36,7 +36,7 @@ The two tracks are parallel — both run simultaneously, and both are necessary.
 
 ## How 3E Drives AER
 
-3E and AER are connected across both tracks. The three 3E dimensions map directly to the three AER stages:
+3E and AER are connected across both tracks. The model expects each 3E dimension to drive one AER stage (a reasoned hypothesis, to be confirmed with evidence):
 
 | 3E Dimension | AER Stage | Why |
 |---|---|---|
@@ -44,7 +44,7 @@ The two tracks are parallel — both run simultaneously, and both are necessary.
 | **Experience** | Engagement | Value that is felt positively sustains active participation — customers and teams engage with what they trust and enjoy |
 | **Effectiveness** | Retention | Value that delivers outcomes earns continued commitment — customers and teams persist with what works |
 
-This mapping holds across both tracks. Efficiency enables teams to adopt new ways of working just as it enables customers to adopt new value. Effectiveness earns organizational commitment just as it earns customer retention.
+The model expects this to hold across both tracks: Efficiency to enable teams to adopt new ways of working just as it enables customers to adopt new value, and Effectiveness to earn organizational commitment just as it earns customer retention.
 
 ```
 3E              Efficiency  →  Experience  →  Effectiveness
@@ -53,7 +53,7 @@ Customer AER    Adoption    →  Engagement  →  Retention
 Org AER         Adoption    →  Engagement  →  Retention
 ```
 
-A 3E gap at any stage predicts an AER gap at the corresponding stage. Friction in Efficiency predicts adoption failure. Poor Experience predicts disengagement. Weak Effectiveness predicts churn — in customers and in teams.
+A 3E gap at any stage is expected to show as an AER gap at the corresponding stage: friction in Efficiency as adoption failure, poor Experience as disengagement, weak Effectiveness as churn — in customers and in teams. These links are the model's reasoned hypothesis, to be confirmed with evidence (see [Limitations](#limitations)).
 
 ---
 

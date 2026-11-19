@@ -47,7 +47,7 @@ The BSC does pair leading and lagging indicators — performance drivers ahead o
 
 ### IIRC 6 Capitals (International Integrated Reporting Council)
 
-The IIRC 6 Capitals framework defines six forms of capital that organizations depend on and affect: Financial, Manufactured, Intellectual, Human, Social & Relationship, and Natural. It is the foundation of Integrated Reporting — the most significant evolution in corporate reporting since the introduction of the income statement — and is used by boards and investors to understand how organizations create, preserve, and erode value across all capital forms.
+The Integrated Reporting framework was issued by the IIRC and is now maintained by the IFRS Foundation. Its 6 Capitals framework defines six forms of capital that organizations depend on and affect: Financial, Manufactured, Intellectual, Human, Social & Relationship, and Natural. It is the foundation of Integrated Reporting — the most significant evolution in corporate reporting since the introduction of the income statement — and is used by boards and investors to understand how organizations create, preserve, and erode value across all capital forms.
 
 **Alignment:** The 8 Values model is designed to bridge directly to IR 6 Capitals. The 8 Values measure the *flow* of value generation; IR 6 Capitals measures the *stock* of capital held. Every value dimension maps to one or more capitals: Customer Value and Market Value → Social & Relationship Capital; Financial Value → Financial Capital; People Value → Human Capital; Operational Value → Manufactured and Intellectual Capital; Strategic Value and Innovation Value → Intellectual Capital; Impact Value → Natural and Social Capital. The bridge is documented within the 8 Values model, enabling organizations using the IIVCS to report in IR-compatible terms without building a separate measurement system.
 
@@ -115,7 +115,7 @@ This means a gap in any dimension has a diagnosis: trace upstream in the compoun
 
 ### Leading Indicator Architecture
 
-The 8 Values is the third layer of a three-layer measurement sequence: 3E signals surface first (operational delivery), AER signals surface next (behavioral response), 8 Values signals surface last (organizational value generation). This sequence makes the 8 Values a *lagging* measurement of what *leading* signals predicted. An Efficiency gap in a critical capability (3E) predicts an Adoption decline in Organizational AER, which predicts an Operational Value degradation in the 8 Values — before the organizational outcome registers.
+The 8 Values is the third layer of a three-layer measurement sequence: 3E signals surface first (operational delivery), AER signals surface next (behavioral response), 8 Values signals surface last (organizational value generation). This sequence makes the 8 Values a *lagging* measurement of what the *leading* signals point to. An Efficiency gap in a critical capability (3E) is expected to show as an Adoption decline in Organizational AER, and that as an Operational Value degradation in the 8 Values — before the organizational outcome registers. These links are the model's reasoned hypothesis, to be confirmed with evidence.
 
 Established frameworks are predominantly lagging. The Balanced Scorecard attempts to introduce leading indicators through strategy maps but does not connect them to a delivery architecture that generates behavioral signals in sequence. The 8 Values leading indicator architecture is structural, not inferred.
 

@@ -84,7 +84,7 @@ Each Product Mindset principle has a direct role in OSM:
 
 **Product Operating Model (POM) | Cross Functional Team | Value Stream Outcome Delivery**
 
-How organizations create value through the interplay of strategy, product operating model enablers, product management activities, and product mindset — enabled by AI to drive outcomes. PTS defines four POM Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) that empower persistent cross-functional product teams to work through continuous, overlapping phases: Discover, Define, Develop, Deliver, Launch, and Support — underpinned by a continuous feedback and learning loop.
+How organizations create value through the interplay of strategy, product operating model enablers, product management activities, and product mindset to drive outcomes. PTS defines four POM Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) that empower persistent cross-functional product teams to work through continuous, overlapping phases: Discover, Define, Develop, Deliver, Launch, and Support — underpinned by a continuous feedback and learning loop.
 
 ![PTS Diagram](diagrams/pts-detailed.svg)
 

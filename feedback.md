@@ -6,9 +6,9 @@ The [Insheights Integrated Value Creation System (IIVCS)](README.md) feedback sy
 
 ---
 
-## The Two Levels
+## Two Levels, and the Bridge Between Them
 
-**Operational feedback** surfaces at the journey and value stream level — CVDM's five continuous feedback loops capture signals from customer experience, journey insights, delivery learning, performance optimization, and strategic signals. These loops feed [Product Transformation System (PTS)](README.md#pts--product-transformation-system) and OSM with signals about how value is being delivered and received.
+**Operational feedback** surfaces at the journey and value stream level — CVDM's five continuous feedback loops capture signals from customer experience, journey insights, delivery learning, performance optimization, and strategic signals. These loops return signal to the product team and [Product Transformation System (PTS)](README.md#pts--product-transformation-system) about how value is being delivered and received, and strategic signals to OSM.
 
 **Organizational feedback** surfaces at the organizational level — the 8 Values metrics aggregate the outcomes of strategy, transformation, and delivery into organizational dimensions that feed back into OSM's Governance & Measurement and strategic reassessment.
 
@@ -22,13 +22,15 @@ Together, the levels form the complete upstream feedback path. Viewed through th
 
 CVDM's five continuous feedback loops are the operational feedback mechanism of the IIVCS — surfacing signals across Efficiency, Experience, and Effectiveness at the journey and value stage level.
 
-| Feedback Loop | What It Surfaces |
-|---|---|
-| Experience feedback | How the customer felt at each journey step — the first and most immediate signal |
-| Journey insights | Where friction, gaps, and misalignments exist across the journey |
-| Delivery learning | Whether value stages are delivering intended customer outcomes |
-| Performance optimization | Whether capabilities and processes are performing at the required maturity |
-| Strategic signals | Whether strategic priorities remain valid given delivery outcomes |
+This is the one table of the five loops; the [CVDM Practitioners Guide](guides/cvdm-practitioners-guide.md) links here.
+
+| Feedback Loop | What It Surfaces | Returns to | Typical cadence |
+|---|---|---|---|
+| Experience feedback | How the customer felt at each journey step — the first and most immediate signal | Team / PTS | Continuous / weekly |
+| Journey insights | Where friction, gaps, and misalignments exist across the journey | Team / PTS | Sprint / bi-weekly |
+| Delivery learning | Whether value stages are delivering intended customer outcomes | PTS | Monthly / quarterly |
+| Performance optimization | Whether capabilities and processes are performing at the required maturity | PTS | Sprint / monthly |
+| Strategic signals | Whether strategic priorities remain valid given delivery outcomes | OSM | Quarterly / annually |
 
 The loops form a diagnostic sequence, each narrowing the cause one layer further. Experience feedback surfaces first — the most immediate signal from the customer journey. Journey insights locate where in the journey the problem sits. Delivery learning and performance optimization work as a pair: delivery learning finds the value stage that is not delivering its outcome, and performance optimization fixes the capability or process behind it. Strategic signals surface last — whether strategic priorities remain valid given delivery outcomes. The product team consolidates its learnings, including these signals, and returns them to OSM, which decides through strategic reassessment.
 
