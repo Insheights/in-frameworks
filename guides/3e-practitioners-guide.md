@@ -205,13 +205,13 @@ Element: **onboarding product** (Product/Service level). Value promise: *The onb
 | **Efficiency** | % of trial users who complete configuration without opening a support ticket | Support system + product analytics | Leading |
 | **Efficiency** | Average steps-to-first-run (actual vs. designed) | Product analytics | Leading |
 | **Experience** | Post-onboarding CSAT (1–5) | In-product survey at day 3 | Leading |
-| **Experience** | % of users who return to the product on day 2 without prompting | Product analytics (session data) | Leading |
+| **AER Engagement** *(read with Experience)* | % of users who return to the product on day 2 without prompting | Product analytics (session data) | Leading |
 | **Effectiveness** | % of trials converting to paid within 14 days | CRM / billing system | Lagging |
 | **Effectiveness** | % of paid accounts running at least one workflow in first 30 days | Product analytics | Lagging |
 
 **Step 4 — Baseline and diagnose**
 
-Baseline: 62% of users complete configuration without raising a ticket (Efficiency: moderate). Post-onboarding CSAT: 3.2/5 (Experience: weak). Day-2 return rate: 44% (Experience: weak). Trial-to-paid conversion: 60% against a target of 75% (Effectiveness: underperforming).
+Baseline: 62% of users complete configuration without raising a ticket (Efficiency: moderate). Post-onboarding CSAT: 3.2/5 (Experience: weak). Day-2 return rate: 44% (AER Engagement: weak, confirming the Experience reading). Trial-to-paid conversion: 60% against a target of 75% (Effectiveness: underperforming).
 
 Diagnostic: Effectiveness is underperforming. Experience is weak — this points upstream. Trace to Efficiency: 38% of users hit a friction point severe enough to raise a ticket. The Experience weakness is downstream of an Efficiency gap.
 
@@ -282,7 +282,7 @@ Element: **loyalty value stream** (Value Stream level). Value promise: *The loya
 
 - **Efficiency:** Does the loyalty value stream activate and deliver value without unnecessary friction — is earning, redeeming, and experiencing benefits effortless for the customer?
 - **Experience:** Do loyalty members feel recognized, valued, and personally served — not like recipients of generic promotions?
-- **Effectiveness:** Is the loyalty value stream generating the customer retention, spend growth, and advocacy that justify its strategic investment?
+- **Effectiveness:** Is the loyalty value stream generating the spend growth that justifies its strategic investment? (Whether members stay and refer others is read from AER.)
 
 **Step 3 — Define signals**
 
@@ -291,14 +291,14 @@ Element: **loyalty value stream** (Value Stream level). Value promise: *The loya
 | **Efficiency** | % of members who redeem at least one benefit per quarter without contacting support | Loyalty platform + CRM | Leading |
 | **Efficiency** | Average steps to redeem a benefit (actual vs. designed) | Loyalty platform analytics | Leading |
 | **Experience** | Loyalty NPS (measured 2 weeks after first reward redemption) | CRM survey | Leading |
-| **Experience** | % of members opening personalized communications vs. generic | Email/push analytics | Leading |
-| **Effectiveness** | Loyalty member 12-month retention rate vs. non-member (cohort comparison) | CRM | Lagging |
+| **AER Engagement** *(read with Experience)* | % of members opening personalized communications vs. generic | Email/push analytics | Leading |
+| **AER Retention** | Loyalty member 12-month retention rate vs. non-member (cohort comparison) | CRM | Lagging |
 | **Effectiveness** | Average annual spend per loyalty member vs. non-member | Sales data | Lagging |
-| **Effectiveness** | % of new customers acquired via member referral | Attribution data | Lagging |
+| **AER Recommendation** | % of new customers acquired via member referral | Attribution data | Lagging |
 
 **Step 4 — Baseline and diagnose**
 
-Baseline: Quarterly benefit redemption rate: 34% (Efficiency: weak — two-thirds of members are not actively using the program). Loyalty NPS: 42 (Experience: moderate). Personalized communication open rate: 31% vs. 12% for generic (Experience: strong signal where personalization exists, but most communications are still generic). 12-month member retention: 61% vs. 48% non-member (Effectiveness: moderate). Annual spend differential: +22% against a program investment threshold of +35% (Effectiveness: underperforming at program scale).
+Baseline: Quarterly benefit redemption rate: 34% (Efficiency: weak — two-thirds of members are not actively using the program). Loyalty NPS: 42 (Experience: moderate). Personalized communication open rate: 31% vs. 12% for generic (AER Engagement: strong where personalization exists, but most communications are still generic). 12-month member retention: 61% vs. 48% non-member (AER Retention: moderate). Annual spend differential: +22% against a program investment threshold of +35% (Effectiveness: underperforming at program scale).
 
 Diagnostic: Effectiveness is below the investment threshold. Experience is moderate but the personalization signal shows customers respond strongly when they feel recognized — the opportunity exists. Trace to Efficiency: 66% of members are not redeeming any benefit per quarter. Redemption is the Efficiency gate for this value stream. Customers who cannot easily activate the value will not form the Experience or produce the Effectiveness outcomes the program requires.
 
@@ -308,7 +308,7 @@ Actions: Reduce steps-to-redemption from 5 to 2 (Efficiency fix). Extend persona
 
 - Experience signals reviewed monthly by the loyalty program team → feeds Experience feedback loop
 - Efficiency signals reviewed quarterly and after any platform change → feeds Performance optimization loop
-- Effectiveness reviewed semi-annually — retention and spend differentials require 6-month cohort windows
+- Effectiveness and AER Retention reviewed semi-annually — spend and retention differentials require 6-month cohort windows
 - Out-of-cycle trigger: quarterly redemption rate drops below 30%, or loyalty NPS drops 5+ points → immediate experience investigation
 - Return path: Effectiveness signals → CVDM Strategic signals loop → OSM strategic reassessment for loyalty investment decision
 - Owner: loyalty program manager owns Efficiency and Experience signals; commercial director owns Effectiveness signal
