@@ -53,7 +53,7 @@ Customer AER    Adoption    →  Engagement  →  Retention
 Org AER         Adoption    →  Engagement  →  Retention
 ```
 
-A 3E gap at any stage predicts an AER gap at the corresponding stage. Friction in Efficiency predicts adoption failure. Poor Experience predicts disengagement. Weak Effectiveness predicts churn — in customers and in teams.
+A 3E gap at any stage is expected to show as an AER gap at the corresponding stage: friction in Efficiency as adoption failure, poor Experience as disengagement, weak Effectiveness as churn — in customers and in teams. These links are the model's reasoned hypothesis, to be confirmed with evidence (see [Limitations](#limitations)).
 
 ---
 

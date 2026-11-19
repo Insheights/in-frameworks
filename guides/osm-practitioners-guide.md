@@ -223,6 +223,8 @@ OSM runs at three levels (Organization → Enterprise/Function → Portfolio). R
 
 ## Worked Examples
 
+> **Illustrative.** These examples are composites written to show the method. They are not client cases, and their numbers are not benchmarks.
+
 ---
 
 ### Example 1 — B2B SaaS scaleup resetting strategy (Organization + Portfolio levels)
@@ -265,7 +267,7 @@ Each value-stream outcome handed to PTS with owner, resources, and the assumptio
 - Triggers: *executability* — PTS reports Onboarding cannot reach 14-day activation with current capabilities; *customer reality* — A1 pilot activation falls below its refutation line; *risk* — either top-two account signals non-renewal.
 - Owner: CEO acts on the reconciled signal; strategy lead owns the cadence and the decision log.
 
-> **What it produced:** A one-page Kernel naming the crux and what the company would not do; three coherent, ranked priorities, each measured directly and funded in rank order; and a working loop. At the first quarterly decision forum, the monthly reads showed weak Org AER — onboarding teams were still routing enterprise accounts to PS by habit — and A1 pilot activation at 31%, below path. **Decision (logged):** reinforce #1 and slow #2 for one quarter, moving Enterprise Acquisition's sales-engineering capacity to Onboarding — because selling more enterprise accounts into an onboarding that cannot yet activate them adds churn and PS load, not growth. Slowing #2 delays the dilution #3 depends on, so the risk owner reviewed it and accepted a one-quarter delay as within appetite, given both top accounts had just renewed.
+> **What it produced:** A one-page Kernel naming the crux and what the company would not do; three coherent, ranked priorities, each measured directly and funded in rank order; and a working loop. At the first quarterly decision forum, the monthly reads showed weak Org AER — onboarding teams were still routing enterprise accounts to PS by habit — and A1 pilot activation at 31%, below path. **Decision (logged):** reinforce #1 and slow #2 for one quarter, moving Enterprise Acquisition's sales-engineering capacity to Onboarding — because selling more enterprise accounts into an onboarding that cannot yet activate them adds churn and PS load, not growth. Slowing #2 delays the dilution #3 depends on, so the risk owner reviewed it and accepted a one-quarter delay as within appetite, given both top accounts had just renewed. Not every decision held. At the next forum, pilot activation had reached only 38%: the extra sales-engineering capacity had not changed the habit of routing enterprise accounts to PS, which was a team-practice problem, not a capacity one. **Decision (logged):** the reinforcement was recorded as not working, the capacity went back to #2, and the routing habit went to PTS as an executability signal for the operating model to fix.
 
 ---
 

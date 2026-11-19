@@ -121,7 +121,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 **Guidance:**
 - CVDM is where 3E is primarily surfaced. Apply it in sequence: **Efficiency (Use)** — can the customer access and use the value stage without friction; **Experience (Feel)** — does the customer feel positive, confident, supported; **Effectiveness (Achieve)** — is the value-stage outcome realized. Read the sequence, not the dimensions in isolation (see the [3E Practitioners Guide](3e-practitioners-guide.md) for the diagnostic).
-- Customer AER is CVDM's behavioral track: **Adoption** (the customer starts), **Engagement** (the customer actively uses), **Retention** (the customer returns / sustains). Efficiency enables Adoption, Experience sustains Engagement, Effectiveness earns Retention.
+- Customer AER is CVDM's behavioral track: **Adoption** (the customer starts), **Engagement** (the customer actively uses), **Retention** (the customer returns / sustains). The model expects Efficiency to enable Adoption, Experience to sustain Engagement, and Effectiveness to earn Retention — a reasoned hypothesis, confirmed with evidence.
 - Measure at two levels: value stage (where the customer experiences each step) and value stream (whether the whole journey realizes the value proposition). A value stream can show strong stage-level signal yet fail to retain — measure both.
 - You are done when each value stage has a 3E reading and the value stream has a Customer AER reading you can act on.
 
@@ -142,19 +142,13 @@ Each step below is an action. Complete them in order — later steps depend on e
 - Name an owner who acts, not just receives. A loop that surfaces signal no one acts on is not a feedback loop.
 - Set minimum cadences and out-of-cycle triggers. An experience-signal drop should trigger an immediate journey review; a retention drop should trigger a delivery-learning and strategic-signals review.
 
-**The five feedback loops:**
-
-| Feedback Loop | What it surfaces | Returns to | Typical cadence |
-|---|---|---|---|
-| **Experience feedback** | How the customer felt at each journey step — the first, most immediate signal | Team / CVDM | Continuous / weekly |
-| **Journey insights** | Where friction, gaps, and misalignments exist across the journey | Team / PTS | Sprint / bi-weekly |
-| **Delivery learning** | Whether value stages are delivering their intended customer outcomes | PTS | Monthly / quarterly |
-| **Performance optimization** | Whether capabilities and processes are performing at the required maturity | PTS | Sprint / monthly |
-| **Strategic signals** | Whether strategic priorities remain valid given delivery outcomes | OSM | Quarterly / annually |
+**The five feedback loops** — what each surfaces, where it returns, and its typical cadence — are set out once in the [IIVCS Feedback System](../feedback.md#operational-feedback--cvdm).
 
 ---
 
 ## Worked Examples
+
+> **Illustrative.** These examples are composites written to show the method. They are not client cases, and their numbers are not benchmarks.
 
 ---
 
@@ -241,7 +235,7 @@ All 8 Values are touched across the full IIVCS — the table above shows which V
 
 ### AER Connection
 
-CVDM is the home of **Customer AER** — the customer half of the IIVCS dual-track behavioral measurement (PTS holds the organizational half). The 3E output drives each AER stage on the customer track: **Efficiency → Adoption** (frictionless access lowers the barrier — customers adopt what they can reach), **Experience → Engagement** (positive feeling sustains active use — customers engage with what they trust), **Effectiveness → Retention** (outcomes achieved earn continued commitment — customers return to what works). CVDM surfaces Customer AER and 3E and returns them upstream: operational feedback (delivery learning, performance optimization) to PTS, and strategic signals to OSM, where Customer AER converges with PTS's Organizational AER to validate whether strategic priorities are generating value. The two tracks run in parallel because either alone produces nothing.
+CVDM is the home of **Customer AER** — the customer half of the IIVCS dual-track behavioral measurement (PTS holds the organizational half). The 3E output is expected to drive each AER stage on the customer track: **Efficiency → Adoption** (frictionless access lowers the barrier — customers adopt what they can reach), **Experience → Engagement** (positive feeling sustains active use — customers engage with what they trust), **Effectiveness → Retention** (outcomes achieved earn continued commitment — customers return to what works). CVDM surfaces Customer AER and 3E and returns them upstream: operational feedback (delivery learning, performance optimization) to PTS, and strategic signals to OSM, where Customer AER converges with PTS's Organizational AER to validate whether strategic priorities are generating value. The two tracks run in parallel because either alone produces nothing.
 
 ---
 
@@ -297,7 +291,7 @@ CVDM applies to any organization that realizes value for someone through a journ
 - 3E is read in sequence (Use → Feel → Achieve), with gaps traced upstream
 - All five loops run at their cadence with owners who act
 
-**The five feedback loops:** Experience feedback (weekly) · Journey insights (bi-weekly) · Delivery learning (quarterly) · Performance optimization (monthly) · Strategic signals (quarterly→OSM) — a diagnostic sequence, Experience first, Strategic signals last.
+**The five feedback loops:** Experience feedback (continuous / weekly) · Journey insights (sprint / bi-weekly) · Delivery learning (monthly / quarterly) · Performance optimization (sprint / monthly) · Strategic signals (quarterly / annually → OSM) — a diagnostic sequence, Experience first, Strategic signals last.
 
 **Primary 3E signal:** Experience — CVDM is the customer-facing layer where feeling surfaces first; read it in sequence, with Effectiveness as the proof the value proposition landed.
 

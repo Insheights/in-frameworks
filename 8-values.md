@@ -12,7 +12,7 @@ The Insheights 8 Organizational Values Measurement Model defines how the Insheig
 
 ![8-values Diagram](diagrams/8-values.svg)
 
-The 8 Values bridge directly to the International Integrated Reporting Council (IIRC) 6 Capitals framework — translating IIVCS operational value generation into the stock of capitals reported to investors and stakeholders.
+The 8 Values bridge directly to the Integrated Reporting 6 Capitals framework (first issued by the International Integrated Reporting Council, IIRC, and now maintained by the IFRS Foundation) — translating IIVCS operational value generation into the stock of capitals reported to investors and stakeholders.
 
 ---
 
@@ -282,14 +282,14 @@ Every value except People receives inputs from multiple sources — making it a 
 
 ## 8 Values and IR 6 Capitals — The Bridge
 
-The Insheights 8 Values model is the operational measurement layer of the IIVCS — measuring how value is generated through strategy, transformation, and delivery. It bridges directly to the International Integrated Reporting Council (IIRC) 6 Capitals framework, translating operational value generation into the stock of capitals reported to investors and stakeholders.
+The Insheights 8 Values model is the operational measurement layer of the IIVCS — measuring how value is generated through strategy, transformation, and delivery. It bridges directly to the Integrated Reporting 6 Capitals framework (IIRC, now maintained by the IFRS Foundation), translating operational value generation into the stock of capitals reported to investors and stakeholders.
 
 The bridge is directional — 8 Values measure the flow of value generation; IR 6 Capitals measure the resulting stock of value held.
 
 | Insheights 8 Values | IR 6 Capitals | Translation |
 |---|---|---|
 | **Customer Value** | Social & Relationship Capital | Customer behavioral response and perception builds the relationship capital stock |
-| **Financial Value** | Financial Capital | Current and forward-looking financial performance is the financial capital stock |
+| **Financial Value** | Financial Capital | Current and forward-looking financial performance builds the financial capital stock |
 | **People Value** | Human Capital | Workforce capability and engagement across employees, partners, and ecosystem is the human capital stock |
 | **Operational Value** | Manufactured + Intellectual Capital | Capability stock, systems, and institutional knowledge maps to both manufactured and intellectual capital |
 | **Market Value** | Social & Relationship Capital | Brand, reputation, and ecosystem relationships are the externally perceived relationship capital stock |

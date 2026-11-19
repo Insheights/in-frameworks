@@ -110,6 +110,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Output:** A value-stream team topology — persistent teams by type, ownership boundaries, and for each team the capabilities it owns and the capabilities it consumes
 
 **Guidance:**
+- How existing team practices (SAFe, Scrum, Team Topologies) fit these team types is in [Integration with Existing Practices](../integration.md).
 - Persistent, not project. Teams form around value streams and stay; they are not assembled and disbanded per initiative. Persistence is what lets ownership, learning, and customer knowledge compound.
 - **Use three kinds of team, all aligned to value streams:**
 
@@ -136,6 +137,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Output:** A running product lifecycle per value stream, with Launch covering both external go-to-market and internal change adoption
 
 **Guidance:**
+- How existing delivery practices (Scrum, SAFe, ITIL, Design Thinking) plug into the lifecycle is in [Integration with Existing Practices](../integration.md).
 - The phases are continuous and overlapping, not a waterfall. Discover never stops — teams stay in contact with customer reality across every phase. Each phase is a testable hypothesis the feedback loop validates or corrects.
 - **Launch has two halves, and both are required.** External: go-to-market — getting the value into customers' hands and driving adoption. Internal: change communication — getting the *organization* ready to operate, support, and sustain what was launched. A launch that nails GTM but neglects internal change produces customer demand the operating model cannot sustain.
 - **Support is a continuous operating mode**, not an end-state hand-off. It feeds delivery learning and discovery back into the loop — the value stream keeps running, it does not "finish."
@@ -172,6 +174,8 @@ Each step below is an action. Complete them in order — later steps depend on e
 ---
 
 ## Worked Examples
+
+> **Illustrative.** These examples are composites written to show the method. They are not client cases, and their numbers are not benchmarks.
 
 ---
 

@@ -132,7 +132,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Output:** 3E baseline profile — current state per dimension; diagnostic conclusion; prioritized action
 
 **Guidance:**
-- Read the sequence, not the dimensions in isolation. An Effectiveness gap preceded by a strong Experience signal points to a delivery or product failure. An Effectiveness gap preceded by a weak Experience signal points upstream — fix Experience first.
+- Read the sequence, not the dimensions in isolation. An Effectiveness gap preceded by a strong Experience signal points to a delivery or product failure. An Effectiveness gap preceded by a weak Experience signal points upstream — check Efficiency too, and fix the earliest failure in the chain.
 - Efficiency is the table stake. If Efficiency is failing, Experience and Effectiveness cannot be meaningfully measured until friction is resolved. Prioritize Efficiency before analyzing the other two dimensions.
 - A baseline is not a judgment. The first measurement establishes where you are — not whether the element is good or bad. The value of the baseline is comparison over time.
 - The diagnostic output must be a specific action, not a general observation. "Efficiency is low because onboarding requires IT involvement — action: remove the IT dependency from step 2" is complete. "Efficiency needs improvement" is not.
@@ -141,14 +141,14 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ```
 Effectiveness underperforming?
-    → Check Experience (the bridge):
-        → Weak: fix Experience first — Effectiveness may follow
-        → Strong: continue ↓
-    → Check Efficiency (the table stake):
-        → Weak: fix Efficiency first — Experience and Effectiveness cannot be reached
-        → Strong: Efficiency and Experience both hold, yet outcomes fail — the value
-          was used and felt but did not achieve. The problem is the value proposition
-          itself, not its delivery. Return to discovery / value-proposition validation.
+    → Check Experience (the bridge), then Efficiency (the table stake)
+    → Fix the earliest failure in the chain:
+        → Efficiency weak: fix Efficiency first — Experience and Effectiveness
+          cannot be reached until friction is resolved
+        → Efficiency holds, Experience weak: fix Experience — Effectiveness may follow
+        → Both hold, yet outcomes fail — the value was used and felt but did not
+          achieve. The problem is the value proposition itself, not its delivery.
+          Return to discovery / value-proposition validation.
 ```
 
 ---
@@ -181,6 +181,8 @@ Effectiveness underperforming?
 ---
 
 ## Worked Examples
+
+> **Illustrative.** These examples are composites written to show the method. They are not client cases, and their numbers are not benchmarks.
 
 ---
 
@@ -248,13 +250,13 @@ Element: **cardiac discharge process** (Process level). Value promise: *The disc
 | **Efficiency** | Average discharge time from physician sign-off to patient departure | EHR / operations data | Leading |
 | **Efficiency** | % of discharge packets completed without requiring a second clinical review | EHR audit | Leading |
 | **Experience** | Post-discharge confidence score (1–5): "How confident do you feel about your recovery plan?" | Discharge survey | Leading |
-| **Experience** | % of patients calling the discharge helpline within 48 hours with questions already covered in discharge instructions | Call center data | Leading |
+| **AER** *(read with Experience)* | % of patients calling the discharge helpline within 48 hours with questions already covered in discharge instructions | Call center data | Leading |
 | **Effectiveness** | 30-day unplanned readmission rate | EHR / quality reporting | Lagging |
 | **Effectiveness** | % of patients completing first follow-up appointment within 7 days | Scheduling system | Lagging |
 
 **Step 4 — Baseline and diagnose**
 
-Baseline: Average discharge time: 4.2 hours from sign-off against a target of 2 hours (Efficiency: high friction). Post-discharge confidence score: 3.8/5 (Experience: moderate). 48-hour helpline call rate for covered questions: 28% (Experience: weak — patients are not retaining instructions). 30-day readmission rate: 18% against a target of 12% (Effectiveness: underperforming).
+Baseline: Average discharge time: 4.2 hours from sign-off against a target of 2 hours (Efficiency: high friction). Post-discharge confidence score: 3.8/5 (Experience: moderate). 48-hour helpline call rate for covered questions: 28% (AER: weak, confirming the Experience reading — patients are not retaining instructions). 30-day readmission rate: 18% against a target of 12% (Effectiveness: underperforming).
 
 Diagnostic: Effectiveness is underperforming. Experience is moderate-to-weak. Trace to Efficiency: the 4.2-hour discharge time is driven by a pharmacy, nursing, and administrative sign-off sequence running serially. The delay creates patient anxiety (undermining Experience) and rush at end of discharge (undermining instruction quality and Effectiveness downstream).
 
@@ -329,7 +331,7 @@ Each 3E dimension drives the corresponding AER stage across both Customer AER an
 | **Experience** | Engagement | Positive feeling sustains active participation — customers and teams engage with what they trust |
 | **Effectiveness** | Retention | Outcomes achieved earn continued commitment — customers and teams persist with what works |
 
-A 3E gap predicts an AER gap. A diagnosed Efficiency failure predicts an Adoption problem in AER before behavioral data confirms it — enabling earlier intervention.
+A 3E gap is expected to show up as an AER gap. A diagnosed Efficiency failure is expected to show as an Adoption problem in AER before behavioral data confirms it — enabling earlier intervention. The links are the model's reasoned hypothesis, to be confirmed with evidence.
 
 ### 8 Values most directly influenced by 3E
 
