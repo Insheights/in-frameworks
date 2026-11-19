@@ -53,7 +53,7 @@ TOGAF also has no behavioral measurement layer and no model for how architectura
 
 The BIZBOK Guide defines business architecture as the blueprint of an enterprise — mapping strategy, capabilities, value streams, information, and organizational structures. The Business Architecture Guild's framework is the primary standard for the business architecture discipline.
 
-**Alignment:** BIZBOK and IIVCS share the most structural overlap of any framework pair in this comparison. BIZBOK defines a value stream as the end-to-end activities that produce a result for a customer, whether an outside customer or an internal user — directly aligned with how IIVCS uses value streams as the organizing spine. BIZBOK's capability mapping (what the organization can do) connects to CVDM's Capability layer. BIZBOK's strategy mapping connects to OSM's strategic intent layer.
+**Alignment:** BIZBOK and IIVCS share the most structural overlap of any framework pair in this comparison. Value streams are central to how BIZBOK models a business, and IIVCS uses them as its organizing spine. BIZBOK's capability mapping (what the organization can do) connects to CVDM's Capability layer. BIZBOK's strategy mapping connects to OSM's strategic intent layer.
 
 **Key difference:** BIZBOK is a business architecture discipline: it models the enterprise's current and target state and is used to plan from strategy to initiatives, but it is not a delivery operating model. BIZBOK describes and plans the business; IIVCS is a system an organization runs to create value continuously.
 
