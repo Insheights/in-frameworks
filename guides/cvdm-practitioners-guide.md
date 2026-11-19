@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **What it does** | Maps each customer journey step to the value-stream stage that serves it, defines the capabilities, processes, products/services, and information concepts (and their flows) that deliver the value proposition as a realized customer outcome, and surfaces signal through five continuous feedback loops |
+| **What it does** | Maps each customer journey step to the value stage that serves it, defines the capabilities, processes, products/services, and information concepts (and their flows) that deliver the value proposition as a realized customer outcome, and surfaces signal through five continuous feedback loops |
 | **When to use it** | Designing or fixing how value reaches the customer; when delivery produces activity but not outcomes; when the journey and the value stream are not connected; when customer signal is not feeding back upstream |
 | **Who runs it** | The persistent cross-functional product team (built in [Product Transformation System (PTS)](../README.md#pts--product-transformation-system)); the value-stream / journey owner |
 | **Who must be in the room** | Customer-facing team members, delivery/operations members, the value-stream owner, and someone who owns each capability the journey depends on |
@@ -60,17 +60,18 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ### Step 1 — Map the customer journey to the value stream
 
-**What you do:** Lay out the customer journey step by step, from the customer's perspective. For each journey step, identify the value-stream stage that serves it. Every journey step must trigger the right value stage — that mapping is the spine of CVDM.
+**What you do:** Lay out the customer journey step by step, from the customer's perspective. For each journey step, identify the value stage that serves it. Every journey step must trigger the right value stage — that mapping is the spine of CVDM.
 
-**Key question this step answers:** *What does the customer actually do, and which value-stream stage serves each step?*
+**Key question this step answers:** *What does the customer actually do, and which value stage serves each step?*
 
 **Inputs:** The customer journey; the value stream and its outcome
 **Output:** A journey-to-value-stream map — each journey step paired with the value stage that serves it
 
 **Guidance:**
 - Map the journey as the customer experiences it, not as the organization processes it. "Decides whether to trust us with their data" is a journey step; "completes KYC workflow" is the internal process that serves it.
-- Every journey step must map to a value stage. A journey step with no value stage serving it is a gap where the customer is on their own — flag it. A value stage serving no journey step is internal activity creating no customer value — question it.
-- You are done when every customer journey step is paired with the value stage that serves it, with no orphaned steps or stages.
+- Every journey step must map to a value stage. A journey step with no value stage serving it is a gap where the customer is on their own — flag it.
+- One value stage may serve several journey steps. A value stage that serves no customer journey step is not automatically waste: it may be work behind the scenes that a later customer-facing stage depends on, or part of a value stream whose stakeholder is an internal user rather than a customer. Question it only if it serves neither.
+- You are done when every customer journey step is paired with the value stage that serves it, and every value stage either serves a journey step or is justified as behind-the-scenes or internal-stakeholder work.
 
 ---
 
@@ -93,17 +94,18 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ### Step 3 — Operationalize capabilities, processes, products/services, and information concepts
 
-**What you do:** For each value stage, define what is required to deliver it: the Products/Services the customer interacts with, the Capabilities the team must hold, the Processes that execute, and the Information concepts, and the flows that feed them to capabilities. This is where the value stage becomes operational.
+**What you do:** For each value stage, define what is required to deliver it: the Products/Services the customer interacts with, the Capabilities it draws on from the organization's capability map, the Processes that execute, and the Information concepts, and the flows that feed them to capabilities. This is where the value stage becomes operational.
 
 **Key question this step answers:** *What must exist and execute for each value stage to deliver its outcome?*
 
-**Inputs:** Defined value stages (Step 2); capabilities supplied by PTS
+**Inputs:** Defined value stages (Step 2); capabilities from the organization's capability map, with owning and consuming teams recorded by PTS
 **Output:** An operational definition per value stage — products/services, capabilities, processes, and information concepts with their flows
 
 **Guidance:**
 - Work down the architecture: Value Stage → Capability → Process → Product/Service, with Information concepts feeding the capabilities. Each value stage is delivered by capabilities, which run processes, which the customer meets as products/services.
 - Information flows are not an afterthought. A value stage fails most often not because a capability is missing, but because information does not flow between capabilities at the moment the customer needs it.
-- Cross-functional ownership applies here: the team owns the full chain for the value stage, not a single process with handoffs to other teams. If delivering a value stage requires a handoff outside the team, revisit the PTS team topology.
+- **Select capabilities from the map; do not invent them locally.** If a value stage needs a capability the map does not have, propose it to OSM, which decides it; PTS then gives it an owning team. A capability sourced from a partner is selected like any other, and its accountable internal team is named here.
+- Cross-functional ownership applies here: the team owns the full chain for the value stage, not a single process with handoffs to other teams. Consuming a capability owned by a Shared or Platform-Enabled team, on agreed terms or as self-service, is not a handoff. If delivering a value stage needs an ad-hoc handoff outside the team, revisit the PTS team topology.
 - You are done when each value stage has its capabilities, processes, products/services, and information concepts and their flows named and owned.
 
 ---

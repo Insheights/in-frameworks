@@ -11,7 +11,7 @@ Definitions for the terms, acronyms, and external frameworks referenced across t
 | **IIVCS** | **Insheights Integrated Value Creation System** — the integrated system of organizational and product frameworks ([Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model), [Product Transformation System (PTS)](README.md#pts--product-transformation-system), [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model)) and measurement models ([Efficiency, Experience, Effectiveness (3E)](3e.md), [Adoption, Engagement, Retention (AER)](aer.md), 8 Values) through which an organization defines, builds, and delivers value. |
 | **OSM** | **Organization Strategy Model** — how organizations translate strategic intent into prioritized value creation outcomes, connecting Values, Mission, and Vision through Strategic Value Creation to execution by value stream. |
 | **PTS** | **Product Transformation System** — how organizations create value through the interplay of strategy, the product operating model, product management activities, and Product Mindset, enabled by AI. |
-| **CVDM** | **Customer Value Delivery Model** — how every customer/user journey step triggers the right value stream stage to deliver the value proposition as a realized customer outcome, with five continuous feedback loops. |
+| **CVDM** | **Customer Value Delivery Model** — how every customer/user journey step triggers the right value stage to deliver the value proposition as a realized customer outcome, with five continuous feedback loops. |
 | **POM** | **Product Operating Model** — the operating model PTS stands up: four POM Enablers (Leadership; Practices & Behaviors; Organizational Architecture; Culture & Relationships) that empower persistent cross-functional teams. |
 | **Product Mindset** | The operating philosophy of the IIVCS — five principles: customer obsession, outcome over output, continuous discovery, hypothesis-driven thinking, cross-functional ownership. |
 
@@ -39,12 +39,13 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 
 | Term | Definition |
 |---|---|
-| **Value Stream** | The pre-existing business workflows and capabilities through which value is created and delivered — the common organizing spine across OSM, PTS, and CVDM. |
-| **Value Stage** | A stage within a value stream, triggered by a customer journey step, that contributes to the customer outcome. |
-| **Capability** | An organizational ability that activates within a value stage to contribute to its outcome. |
-| **Process** | The repeatable execution that produces a consistent outcome within a capability or stage. |
+| **Value Stream** | The chain of value stages through which the organization delivers an outcome its stakeholder values: usually a customer, sometimes an internal user. It starts when that stakeholder asks for or needs the outcome, and ends when they have it. Value streams are the common organizing spine across OSM, PTS, and CVDM. Most already exist; when a strategy needs an outcome none of them delivers, OSM may create or reshape one, and PTS builds it. |
+| **Value Stage** | A step in a value stream, with a clear start and finish, that leaves its stakeholder measurably closer to the stream's outcome. When the stakeholder is a customer, each stage serves one or more customer-journey steps. |
+| **Capability** | Something the organization can do, named for what it achieves, not who does it or how. Named once on the organization-wide capability map, it can enable value stages in any value stream. |
+| **Capability Map** | The single, organization-wide list of the organization's capabilities. OSM holds it alongside the value-stream inventory, adopting an existing business-architecture map where the organization has one; PTS records which team owns each capability and which teams consume it; CVDM selects from it for each value stage. Capabilities sourced from a partner are on the map too, marked as partner-sourced. |
+| **Process** | The repeatable sequence of activities that carries out a capability's work within a value stage. |
 | **Product / Service** | The delivered offering through which customers access and use value. |
-| **Value Proposition** | What a value stream promises to deliver to the customer, realized as a customer outcome. |
+| **Value Proposition** | What a value stream promises to deliver to its stakeholder, realized as that stakeholder's outcome. |
 
 ---
 
@@ -58,6 +59,11 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 | **Elements of Value** | Bain & Company's research taxonomy — 30 B2C and 40 B2B elements of what customers value. 3E maps to all 70. |
 | **Value priority** | A strategic objective set in OSM, stated as an outcome (not an activity or deliverable), ranked against the others, and resting on written assumptions. |
 | **Value-stream outcome** | The business intent a value stream exists to produce, defined by OSM, delivered through PTS, and evidenced by customer outcomes. It is not simply the sum of what teams deliver. |
+| **Value-stream charter** | The record OSM makes when it creates or reshapes a value stream: the stakeholder, the outcome, the owner, why no existing stream delivers it, and the build capacity committed under the priority that called for it. |
+| **Core team** | A persistent cross-functional team aligned to one value stream. It owns the capabilities only that stream's stages use, consumes the rest, and is accountable for the stream's outcome end to end. |
+| **Shared team** | A persistent team that owns a capability value stages in several value streams draw on. It serves those streams' Core teams on agreed terms and is judged on their outcomes. |
+| **Platform-Enabled team** | A persistent team that owns a technology capability, such as a platform, data and AI, integration or developer tooling, and offers it as a self-service internal product, so other teams consume it without hand-offs. |
+| **Owned / consumed capability** | Each capability on the capability map has one owning team; every other team that draws on it consumes it. A partner-sourced capability is always consumed, with one internal team accountable for the partner: the team that would own it if it were built in-house. |
 | **Diagnosis (crux)** | The one or two critical challenges a strategy must overcome, and why they are hard. A diagnosis names the obstacle; a context description only describes the situation. |
 | **Strategic choices** | The explicit OSM decisions about where to play, where not to play, and how to win. |
 | **How to win / theory of change** | Why the chosen customers will choose the organization over the alternatives, and the hard-to-copy advantage that makes this deliverable. In non-competitive contexts, the theory of change: why this approach will produce the outcome when past efforts did not. |

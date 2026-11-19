@@ -29,7 +29,7 @@
 **Inputs required**
 
 - [ ] **Governed value-stream outcomes from OSM** — the business intent each value stream exists to produce, with owners. PTS builds the operating model to deliver these; without them, you are restructuring teams with no outcome to anchor on.
-- [ ] **Value-stream inventory** — the pre-existing workflows and capabilities through which value is created. Teams are organized around these, not around functions.
+- [ ] **Value-stream inventory and capability map from OSM** — the value streams teams are organized around (not functions), any new or reshaped stream OSM has chartered for PTS to build, and the organization-wide [capability map](../glossary.md#architecture-elements) PTS records ownership on.
 - [ ] **Current org and team structure** — how people, reporting lines, and capabilities are arranged today, so you can see the gap to a value-stream topology.
 - [ ] **Product Mindset maturity reading** — the organization's readiness to operate with customer obsession, outcome focus, continuous discovery, hypothesis-driven thinking, and cross-functional ownership.
 - [ ] **A change & communication capacity** — PTS changes how people work; the Launch phase and adoption depend on a real change function, not an announcement.
@@ -64,10 +64,11 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 **Key question this step answers:** *Which value-stream outcomes must this operating model deliver, and can we realistically carry them?*
 
-**Inputs:** OSM governed value-stream outcomes; value-stream inventory
-**Output:** Confirmed value-stream-to-outcome map with owners; an initial executability signal to OSM
+**Inputs:** OSM governed value-stream outcomes; value-stream inventory and capability map; value-stream charters for new or reshaped streams
+**Output:** Confirmed value-stream-to-outcome map with owners; a build plan for each chartered new or reshaped stream; an initial executability signal to OSM
 
 **Guidance:**
+- **Build what OSM charters.** When OSM creates or reshapes a value stream, its charter names the stakeholder, the outcome, the owner, and the build capacity committed under the priority that called for it. PTS plans and builds the stream's stages and teams within that capacity; once built, it runs as a standing value stream with persistent teams like any other. A build that cannot be carried within its committed capacity is an executability signal to OSM.
 - PTS owns the *delivery* of the value-stream outcome; it does not redefine it. Customer outcomes (owned by product teams via CVDM) *evidence* the value-stream outcome — they do not constitute it. Hold that line.
 - Surface executability honestly and early. A value-stream outcome OSM can articulate but PTS cannot carry is a measurable failure — and OSM needs that signal now, not after a year of trying.
 - You are done when every priority maps to a value stream with a named owner and a restated outcome, and OSM has received the executability read.
@@ -105,14 +106,23 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 **Key question this step answers:** *Who owns each value stream end-to-end, and do they have what they need to deliver without handoffs?*
 
-**Inputs:** Activated POM (Step 2); value-stream-to-outcome map
-**Output:** A value-stream team topology — persistent teams, ownership boundaries, capability composition
+**Inputs:** Activated POM (Step 2); value-stream-to-outcome map; capability map (from OSM)
+**Output:** A value-stream team topology — persistent teams by type, ownership boundaries, and for each team the capabilities it owns and the capabilities it consumes
 
 **Guidance:**
 - Persistent, not project. Teams form around value streams and stay; they are not assembled and disbanded per initiative. Persistence is what lets ownership, learning, and customer knowledge compound.
-- Each team must hold the capabilities to deliver end-to-end. If delivering an outcome requires a handoff to another team, either the team is missing a capability or the value-stream boundary is wrong — fix the topology, don't add a handoff.
+- **Use three kinds of team, all aligned to value streams:**
+
+  | Team | What it is | Aligned to |
+  |---|---|---|
+  | **Core** | A persistent cross-functional team aligned to one value stream. It owns the capabilities only that stream's stages use, consumes the rest, and is accountable for the stream's outcome end to end. | One value stream |
+  | **Shared** | A persistent team that owns a capability value stages in several value streams draw on. It serves those streams' Core teams on agreed terms and is judged on their outcomes. | The value streams that draw on its capability |
+  | **Platform-Enabled** | A persistent team that owns a technology capability, such as a platform, data and AI, integration or developer tooling, and offers it as a self-service internal product, so other teams consume it without hand-offs. | Every value stream that consumes it |
+
+- **Record owned and consumed capabilities on the capability map.** Every capability has exactly one owning team; every other team that draws on it consumes it. A capability sourced from a partner is always consumed, with one internal team accountable for the partner, the integration, and the service level: the team that would own it if it were built in-house. A capability the map is missing, or a duplicate, goes back to OSM to decide; PTS does not add it locally.
+- Each Core team must own or consume the capabilities to deliver end-to-end. Consuming a capability from a Shared or Platform-Enabled team, on agreed terms or as self-service, is not a handoff. If delivering an outcome needs an ad-hoc handoff to another team, either a capability is missing or the value-stream boundary is wrong — fix the topology, don't add a handoff.
 - The team owns the **customer outcomes** that evidence the value-stream outcome; the value-stream owner owns the value-stream outcome itself. Make both explicit so accountability does not blur.
-- You are done when every value stream has a persistent team with clear ownership and the capability composition to deliver without depending on hand-offs.
+- You are done when every value stream has a persistent Core team with clear ownership, every capability on the map has one owning team, each team's owned and consumed capabilities are recorded, and no value stage depends on an ad-hoc hand-off.
 
 ---
 

@@ -53,7 +53,7 @@ OSM both formulates and governs strategy. Strategic Value Creation **diagnoses**
 
 The organization approaches Strategic Value Creation with a Product Mindset — strategies are living hypotheses, continuously tested and refined as execution generates signal. Strategy inputs are never static: market shifts, stakeholder expectations, and delivery outcomes continuously feed back into strategic reassessment. Product Mindset maturity — the organization's readiness to operate this way — is an internal context factor that shapes which strategies are realistic and executable.
 
-Value Streams — the pre-existing business workflows and capabilities through which value is created and delivered — are the organizing unit of execution across OSM, PTS, and CVDM.
+Value Streams — the chains of value stages through which the organization delivers an outcome its stakeholder values — are the common organizing spine across OSM, PTS, and CVDM. Most already exist; when a strategy needs an outcome none of them delivers, OSM may create or reshape one. See the [Glossary](glossary.md#architecture-elements) for value stream, value stage, capability, and process.
 
 Values, Mission, and Vision are enduring: no feedback loop revisits them. The loops refine the value priorities and how they are executed, not the organization's purpose.
 
@@ -112,7 +112,7 @@ Each Product Mindset principle has a direct role in PTS:
 
 **Customer Journey | Value Stream | Value Delivery**
 
-CVDM ensures every Customer/User journey step triggers the right Value Stream stage — defining the Products/Services, Capabilities, Processes, and Information concepts (and their flows) required to deliver the Value Proposition as a realized customer outcome — with five continuous feedback loops covering experience feedback, journey insights, delivery learning, performance optimization, and strategic signals.
+CVDM ensures every Customer/User journey step triggers the right Value Stage — defining the Products/Services, Capabilities, Processes, and Information concepts (and their flows) required to deliver the Value Proposition as a realized customer outcome — with five continuous feedback loops covering experience feedback, journey insights, delivery learning, performance optimization, and strategic signals.
 
 Product Mindset, carried into CVDM by empowered teams from PTS, is where it moves from philosophy to practice.
 
@@ -149,8 +149,8 @@ What distinguishes IIVCS from established Enterprise Architecture, product, and 
 
 ## Summary
 
-Value Streams — the pre-existing business workflows and capabilities 
-through which value is created and delivered — are the common spine 
+Value Streams — the chains of value stages through which the organization 
+delivers an outcome its stakeholder values — are the common spine 
 of the Insheights Integrated Value Creation System.
 
 OSM **governs** the value streams, PTS **operationalizes** them, and CVDM **realizes** value through them. What each framework owns, how they align up and down the system, and where behavioral signal is measured are set out in [Framework Positioning](positioning.md) — the canonical reference for how the three relate.
