@@ -57,7 +57,7 @@ The BIZBOK Guide defines business architecture as the blueprint of an enterprise
 
 **Key difference:** BIZBOK is a business architecture discipline: it models the enterprise's current and target state and is used to plan from strategy to initiatives, but it is not a delivery operating model. BIZBOK describes and plans the business; IIVCS is a system an organization runs to create value continuously.
 
-BIZBOK maps customer journeys, but it does not anchor the full system to the customer's experience. In BIZBOK, the customer journey is a domain to be documented; in CVDM, the customer journey is the reason every internal element exists.
+BIZBOK maps customer journeys, but it does not anchor the full system to the customer's experience. In BIZBOK, the customer journey is something to be mapped; in CVDM, the customer journey is the reason every internal element exists.
 
 BIZBOK has no operating model for delivery teams (the equivalent of PTS), no behavioral measurement layer, and no model for how business architecture connects to organizational value generation or customer behavioral response.
 

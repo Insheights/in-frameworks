@@ -269,7 +269,7 @@ These signals confirm PTS is working — not just being followed. Review them at
 | End-to-end ownership | Teams hold the capability to deliver without handoffs | Delivering an outcome still requires handing off to another team |
 | All four POM Enablers active | Leadership, Practices, Architecture, and Culture are all operating | Only structure changed; leadership still sets feature lists or culture rewards heroics |
 | Lifecycle continuity | Discover and Support run continuously; phases overlap | Discover happens once at the start; Support is a separate downstream team |
-| Organizational AER read | Team adoption, engagement, and retention of the model are measured and acted on | Only output/velocity is tracked; no read on whether the model is sustained |
+| Organizational AER read | Team adoption, engagement, and retention of the model are measured and acted on | Only output/velocity is tracked; no read on whether the model is retained |
 
 **If two or more signals are At Risk:** Stop and return to Step 2. The operating model has reverted toward a project-and-handoff model — re-activate the POM Enablers and re-establish persistent end-to-end ownership before continuing to run the lifecycle.
 
