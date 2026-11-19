@@ -111,7 +111,7 @@ For an organization without full 3E and AER instrumentation, this is the **singl
 
 ---
 
-## Part 4 — Thresholds and the Assessment's † Criteria
+## Part 4 — Thresholds and Reference Bars
 
 ### Setting healthy / watch / at-risk bands
 
@@ -120,21 +120,21 @@ For an organization without full 3E and AER instrumentation, this is the **singl
 3. **Compare to your own baseline.** Movement vs. your prior reading is more trustworthy than any absolute number, until external benchmarks exist (*3E Benchmarking*).
 4. **Set an at-risk floor and act on it** — don't wait for the lagging confirmation to arrive.
 
-### Reference thresholds for the Detailed Assessment's † criteria
+### Reference bars for system maturity
 
-The Detailed Assessment marks seven criteria **†** — they depend on a threshold this guide defines. The table below promotes the assessment's provisional v0 defaults to the **reference thresholds (v1)**. Publishing these is what the assessment refers to as lifting its *Mature-pending* cap: the Developing→Mature boundary now rests on a stated bar, not open room judgment.
+Judging how mature a practice is needs a stated bar rather than room judgment. The reference bars below (v1) state where that line sits for each practice, so that two people reading the same evidence reach the same answer. The Detailed Assessment uses them.
 
-| † Criterion | Reference threshold (v1) | Signal / source | Review cadence |
+| What is measured | Reference bar (v1) | Signal / source | Review cadence |
 |---|---|---|---|
-| **1.M1** — governance revises on signal | ≥1 priority changed, retired, or re-resourced in the last 2 governance cycles as a direct result of signal | Governance minutes | Per governance cycle |
-| **2.M3** — Organizational AER measured | All three Org AER stages — adoption, engagement, sustainment — each instrumented with ≥1 signal and reviewed on a cadence | Org AER instrumentation | Monthly |
-| **3.M3** — five loops + Customer AER | All 5 feedback loops have a named owner and cadence, **and** Customer AER (adoption, engagement, retention) each instrumented across the journey | CVDM loop registry + analytics | Per loop cadence |
-| **4.M1** — 3E applied consistently | A 3E profile exists at ≥3 of the 5 architecture levels, including value stream **and** value stage | 3E profiles | Quarterly |
-| **5.D1** — one AER track measured | Adoption, engagement, **and** retention each tracked on the value stream's primary journey(s) | Journey analytics | Monthly |
-| **6.D1** — value beyond financial/operational | ≥3 of the 8 value dimensions tracked | 8 Values reading | Quarterly |
-| **8.M1** — outcomes over output, consistently | Outcome-based measures are the *primary* success measure for the majority (≥ half) of the value stream's teams/initiatives | Team goal/[Objectives and Key Results (OKR)](glossary.md#external-frameworks-referenced) review | Quarterly |
+| **Governance responsiveness** | ≥1 priority changed, retired, or re-resourced in the last 2 governance cycles as a direct result of signal | Governance minutes | Per governance cycle |
+| **Organizational AER coverage** | All three Org AER stages — adoption, engagement, sustainment — each instrumented with ≥1 signal and reviewed on a cadence | Org AER instrumentation | Monthly |
+| **Feedback loops and Customer AER coverage** | All 5 feedback loops have a named owner and cadence, **and** Customer AER (adoption, engagement, retention) each instrumented across the journey | CVDM loop registry + analytics | Per loop cadence |
+| **3E across architecture levels** | A 3E profile exists at ≥3 of the 5 architecture levels, including value stream **and** value stage | 3E profiles | Quarterly |
+| **AER on primary journeys** | Adoption, engagement, **and** retention each tracked on the value stream's primary journey(s) | Journey analytics | Monthly |
+| **Breadth of value measured** | ≥3 of the 8 value dimensions tracked | 8 Values reading | Quarterly |
+| **Outcome-based success measures** | Outcome-based measures are the *primary* success measure for the majority (≥ half) of the value stream's teams/initiatives | Team goal/[Objectives and Key Results (OKR)](glossary.md#external-frameworks-referenced) review | Quarterly |
 
-> **What "v1" does and does not mean.** v1 means the thresholds are now *defined* (no longer open judgment), so the assessment can report Mature against them. It does **not** mean they are field-validated or peer-benchmarked — that remains pending the first real assessment runs (*Detailed Assessment — Dry Run & Calibration*, client-gated) and external benchmarking (*3E Benchmarking*). Re-confirm v1 thresholds against real-run data when it exists.
+> **What "v1" does and does not mean.** v1 means each bar is *stated* — no longer open judgment. It does **not** mean the bars are field-validated or peer-benchmarked — that remains pending the first real assessment runs (*Detailed Assessment — Dry Run & Calibration*, client-gated) and external benchmarking (*3E Benchmarking*). The bars are also due a review that tightens them against being met by a token action. Re-confirm them against real-run data when it exists.
 
 ---
 
@@ -159,7 +159,7 @@ If a level's leading signals are healthy but its lagging signals fail, the value
 Consistent with [3e.md](3e.md) and [8-values.md](8-values.md):
 
 - **No external benchmarks yet.** Every band here is baseline-relative or a starting default to calibrate — not a validated industry range. Peer comparison is the separate *3E Benchmarking* deliverable.
-- **Thresholds are reference defaults, not field-validated.** The v1 † thresholds rest on reasoned judgment until real assessment runs calibrate them.
+- **Thresholds are reference defaults, not field-validated.** The v1 reference bars rest on reasoned judgment until real assessment runs calibrate them.
 - **Instrumentation-dependent.** A metric you cannot observe is not a metric — the Minimum Viable Signal Set exists precisely because most organizations start under-instrumented.
 - **Metrics are signals, not the value.** A metric proxies a dimension; it does not *equal* it. Read several together and in sequence, and treat a single number as a prompt to look, not a verdict.
 
@@ -167,7 +167,7 @@ Consistent with [3e.md](3e.md) and [8-values.md](8-values.md):
 
 ## Summary
 
-This guide makes the measurement models operable: concrete 3E metrics by dimension and level, 8 Values indicators with a minimum viable signal each, and threshold bands read against your own baseline. It defines the reference thresholds the Detailed Assessment's † criteria depend on — while keeping honest that external benchmarks and field calibration are still ahead.
+This guide makes the measurement models operable: concrete 3E metrics by dimension and level, 8 Values indicators with a minimum viable signal each, and threshold bands read against your own baseline. It states reference bars for system maturity — while keeping honest that external benchmarks and field calibration are still ahead.
 
 Measure leading signals early and often, confirm with lagging ones, read the Use → Feel → Achieve sequence rather than isolated cells, and calibrate every band to your own baseline until benchmarks exist.
 
