@@ -10,7 +10,7 @@ A comparison of the Insheights 3E Operational Values Measurement Model against e
 
 3E (Efficiency | Experience | Effectiveness) measures value delivery in sequence — from whether value can be accessed (Use), through whether it is felt positively (Feel), to whether it achieves intended outcomes (Achieve). It is applied consistently across every architecture element in the [Insheights Integrated Value Creation System (IIVCS)](README.md): Value Streams, Value Stages, Capabilities, Processes, and Products/Services.
 
-The frameworks below each capture a portion of what 3E measures. None sequences its dimensions as a causal chain, and none applies a single measurement language consistently from individual process level to full value stream level while grounding every dimension in customer value elements.
+The frameworks below each capture a portion of what 3E measures. None sequences its dimensions as a causal chain, and none applies a single measurement language consistently from individual process level to full value stream level while mapping every dimension to customer value elements.
 
 ---
 
@@ -18,7 +18,7 @@ The frameworks below each capture a portion of what 3E measures. None sequences 
 
 **Reading the table.** Ratings reflect how directly each framework is *designed* to address each dimension — coverage by design, not validated outcomes. These are the dimensions 3E is built around, so the table maps where established frameworks also address each; it is not a neutral ranking. The final column states maturity, where 3E is Conceptual and the others are proven in practice.
 
-| Framework | Sequenced Causal Model | Leading/Lagging Classification | Grounded in Customer Value Elements | Cross-Architectural Consistency | Connected to Behavioral and Org Outcomes | Maturity |
+| Framework | Sequenced Causal Model | Leading/Lagging Classification | Mapped to Customer Value Elements | Cross-Architectural Consistency | Connected to Behavioral and Org Outcomes | Maturity |
 |---|---|---|---|---|---|---|
 | **ISO 9241-11** | No — three independent lenses | No | No — ergonomics research | No — product-interaction only | No | Mature |
 | **Balanced Scorecard** | No — four parallel perspectives | Partially | No | No — strategic level only | No | Mature |
@@ -59,7 +59,7 @@ The Balanced Scorecard organizes measurement into four perspectives — Financia
 
 The Balanced Scorecard is designed for strategic management of the whole organization; 3E is a value measurement model that applies at every architecture level from Value Stream to Process. A BSC practitioner watches four perspectives at the organizational level; a 3E practitioner applies three questions to any named element in the delivery system.
 
-**3E gap filled:** The Balanced Scorecard has no grounding in customer value elements — its Customer perspective captures perception and satisfaction broadly but does not map to a taxonomy of what customers and organizations actually value. Its leading/lagging logic — performance drivers ahead of outcomes — is real but is constructed per strategy map and left to the practitioner to define; it is not a structural property of the model the way 3E classifies Efficiency and Experience as leading and Effectiveness as lagging at every architecture element.
+**3E gap filled:** The Balanced Scorecard has no mapping to customer value elements — its Customer perspective captures perception and satisfaction broadly but does not map to a taxonomy of what customers and organizations actually value. Its leading/lagging logic — performance drivers ahead of outcomes — is real but is constructed per strategy map and left to the practitioner to define; it is not a structural property of the model the way 3E classifies Efficiency and Experience as leading and Effectiveness as lagging at every architecture element.
 
 ---
 
@@ -83,15 +83,15 @@ Net Promoter Score (NPS), Customer Satisfaction Score (CSAT), and Customer Effor
 
 - **CES** measures the effort required to accomplish a specific task — "How easy was it to [complete action]?" It is a leading signal of friction at the point of use.
 - **CSAT** measures satisfaction with a specific interaction or experience — "How satisfied were you with [interaction]?" It is a point-in-time Experience signal.
-- **NPS** measures stated advocacy likelihood — "How likely are you to recommend?" It is used as a proxy for Effectiveness and loyalty.
+- **NPS** measures stated advocacy likelihood — "How likely are you to recommend?" It is attitudinal: a stated intent, not the referral itself.
 
-**Alignment:** Each instrument maps to one dimension of 3E. CES maps to Efficiency — it measures the friction that 3E's Efficiency dimension captures. CSAT maps to Experience — it captures the feeling dimension at a specific interaction. NPS maps partially to Effectiveness — it measures stated advocacy as a proxy for value realization.
+**Alignment:** Each instrument maps to one dimension of 3E. CES maps to Efficiency — it measures the friction that 3E's Efficiency dimension captures. CSAT maps to Experience — it captures the feeling dimension at a specific interaction. NPS maps to Experience — it measures stated intent to recommend; the referral itself is a behavioral signal, recorded in AER (Recommendation).
 
-**Key difference:** NPS, CSAT, and CES are single-dimension instruments deployed independently — they capture one dimension of value delivery at one moment in time. 3E is a complete measurement model that applies all three dimensions together, in sequence, across any element in the delivery architecture. Standard practice deploys these instruments independently, producing fragmented signals with no causal model connecting them. 3E is the architecture that makes them coherent: CES is an Efficiency instrument, CSAT is an Experience instrument, and NPS is a partial Effectiveness instrument — together, they are the signal layer for the 3E model.
+**Key difference:** NPS, CSAT, and CES are single-dimension instruments deployed independently — they capture one dimension of value delivery at one moment in time. 3E is a complete measurement model that applies all three dimensions together, in sequence, across any element in the delivery architecture. Standard practice deploys these instruments independently, producing fragmented signals with no causal model connecting them. 3E is the architecture that makes them coherent: CES is an Efficiency instrument, CSAT is an Experience instrument, and NPS is an attitudinal Experience instrument — together, they are the signal layer for the 3E model.
 
 The most significant limitation of all three is the absence of a causal model. A team that sees a declining NPS does not know from that signal whether the cause is an Efficiency failure (friction preventing use), an Experience failure (poor feeling undermining confidence), or a genuine Effectiveness failure (outcomes not materializing). 3E provides the diagnostic logic that single-instrument approaches cannot.
 
-**3E gap filled:** No causal sequence, no cross-architectural application, no grounding in customer value elements, no connection to behavioral response or organizational outcomes. Each instrument captures one valid signal; 3E connects them into a complete measurement model.
+**3E gap filled:** No causal sequence, no cross-architectural application, no mapping to customer value elements, no connection to behavioral response or organizational outcomes. Each instrument captures one valid signal; 3E connects them into a complete measurement model.
 
 ---
 
@@ -105,7 +105,7 @@ AARRR (Acquisition → Activation → Retention → Referral → Revenue) is a g
 
 AARRR also applies only to the customer acquisition and growth funnel, not to the full delivery architecture. A capability gap or process failure that undermines value delivery does not appear in AARRR until Retention or Revenue degrades — there is no upstream diagnostic layer.
 
-**3E gap filled:** No Experience dimension between Activation and Retention, no causal diagnostic model, no cross-architectural application, no grounding in customer value elements, no connection to organizational outcomes.
+**3E gap filled:** No Experience dimension between Activation and Retention, no causal diagnostic model, no cross-architectural application, no mapping to customer value elements, no connection to organizational outcomes.
 
 ---
 
@@ -117,11 +117,11 @@ No established measurement framework treats its dimensions as a causal sequence 
 
 ### Leading and Lagging Signal Classification
 
-3E explicitly classifies its dimensions by signal timing: Efficiency and Experience are leading (operational and behavioral signals that surface before outcomes materialize), and Effectiveness is lagging (outcome validation that surfaces last). This classification is unusual in measurement frameworks — most mix leading and lagging metrics without naming the distinction. The consequence is operational: teams monitoring leading signals can identify value failures before they register as outcome degradation. The NPS decline, the Retention drop, the revenue shortfall — by the time these Effectiveness signals appear, the upstream failure has usually been present for weeks or months. 3E's leading signal structure is designed to surface intervention opportunities before lagging indicators confirm the damage.
+3E explicitly classifies its dimensions by signal timing: Efficiency and Experience are leading (operational and attitudinal signals that surface before outcomes materialize), and Effectiveness is lagging (outcome validation that surfaces last). This classification is unusual in measurement frameworks — most mix leading and lagging metrics without naming the distinction. The consequence is operational: teams monitoring leading signals can identify value failures before they register as outcome degradation. The Retention drop, the revenue shortfall — by the time these lagging signals appear, the upstream failure has usually been present for weeks or months. 3E's leading signal structure is designed to surface intervention opportunities before lagging indicators confirm the damage.
 
 ### Broad Coverage via Elements of Value
 
-3E is grounded in Bain & Company's Elements of Value research — 30 B2C elements and 40 B2B elements spanning functional, emotional, relational, career, and inspirational dimensions. The three 3E dimensions map across all 70 elements, spanning functional, emotional, and strategic value. This grounding means 3E is not an arbitrary three-category framework — each dimension covers a defined set of customer value drivers, and together they provide broad coverage of what customers and organizations value. Among the frameworks compared here, 3E is distinctive in grounding its dimensions in an external, researched taxonomy of customer value rather than in author-defined categories.
+3E draws on Bain & Company's Elements of Value research — 30 B2C elements and 40 B2B elements — and Insheights maps each of the 70 to one of the three 3E dimensions. The mapping is Insheights' own, not Bain's. Each dimension covers a defined set of customer value drivers, and together they provide broad coverage of what customers and organizations value. Among the frameworks compared here, 3E is distinctive in mapping its dimensions to an external, researched taxonomy of customer value rather than relying only on author-defined categories.
 
 ### Cross-Architectural Consistency
 

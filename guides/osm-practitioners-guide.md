@@ -331,7 +331,7 @@ OSM is measured at the strategic level. **Effectiveness is OSM's proof** — whe
 3. Name one thing we have decided *not* to do.
 4. *(1–5)* I believe this strategy can succeed.
 
-Score the share whose answers to 1–3 are consistent with the Kernel, and the average belief rating. Read it against your own baseline: rising clarity with flat belief means the strategy is understood but not trusted; falling clarity means communication or coherence has failed. As a v1 reference, treat fewer than two in three consistent answers as **At risk** (see [Metrics and Indicators](../metrics-and-indicators.md)).
+Score the share whose answers to 1–3 are consistent with the Kernel, and the average belief rating. Read it against your own baseline: rising clarity with flat belief means the strategy is understood but not trusted; falling clarity means communication or coherence has failed. As a starting band to calibrate, treat fewer than two in three consistent answers as **At risk** (see [Metrics and Indicators](../metrics-and-indicators.md)).
 
 **Primary 3E signal for this framework:** Effectiveness — OSM exists to make strategic bets that achieve outcomes. But because Effectiveness is slow to confirm at the strategic level, watch Experience as the leading signal: a strategy teams do not understand or believe will fail in execution long before the outcome data confirms it.
 

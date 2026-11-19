@@ -108,17 +108,17 @@ Each step below is an action. Complete them in order — later steps depend on e
 | Signal Source | Signal | Most Directly Surfaces | Type |
 |---|---|---|---|
 | **3E Efficiency** | Friction, completion rates, cost-per-activation | Operational Value | Leading |
-| **3E Experience** | Customer sentiment, day-2 return, CSAT at step | Customer Value | Leading |
-| **3E Effectiveness** | Outcome attainment, goal achievement, retention after outcomes | Strategic Value | Lagging |
+| **3E Experience** | Customer sentiment, CSAT at step, NPS (stated intent to recommend) | Customer Value | Leading |
+| **3E Effectiveness** | Outcome attainment, goal achievement | Strategic Value | Lagging |
 | **Customer AER — Adoption** | Trial-to-activation, feature uptake, onboarding completion | Customer Value, Financial Value | Leading |
-| **Customer AER — Engagement** | Active usage depth, session frequency, feature breadth | Customer Value, Market Value | Leading |
+| **Customer AER — Engagement** | Day-2 return, active usage depth, session frequency, feature breadth | Customer Value, Market Value | Leading |
 | **Customer AER — Retention** | 12-month retention, repeat purchase, churn rate | Financial Value, Market Value | Lagging |
 | **Customer AER — Recommendation** | Referral rate, organic acquisition, advocacy behavior | Market Value, Financial Value | Lagging |
 | **Org AER — Adoption** | New practice uptake, capability activation rate, tool usage | People Value, Operational Value | Leading |
 | **Org AER — Engagement** | Cross-functional participation, initiative engagement depth | People Value, Operational Value | Leading |
 | **Org AER — Retention** | Retention by capability area, internal mobility, team continuity | People Value, Strategic Value | Lagging |
 | **Financial signals** | Revenue, margin, unit economics, pipeline, CLV | Financial Value | Lagging |
-| **Market signals** | Brand perception, NPS (market-level), competitive win/loss | Market Value | Lagging |
+| **Market signals** | Brand perception, competitive win/loss; NPS only as a stand-in where referral (Customer AER Recommendation) is not observed | Market Value | Lagging |
 | **IP and R&D signals** | Pipeline of new value streams, discovery velocity, hypothesis-to-delivery rate | Innovation Value | Leading/Lagging |
 | **ESG / mission signals** | Mission advancement indicators, environmental footprint, community contribution | Impact Value | Lagging |
 
@@ -274,7 +274,7 @@ Result: Customer Value, Financial Value — measured, strong. People Value — p
 
 **Step 2 — Value signal map**
 
-Customer AER Adoption and Retention → Customer Value (leading, lagging). Financial performance and pipeline → Financial Value (lagging). Engineering attrition rate and missed delivery dates → People Value (lagging), Operational Value (leading). Delivery date miss rate → Operational Value (leading). Product initiative velocity drop → Innovation Value (leading). NPS → Market Value (lagging).
+Customer AER Adoption and Retention → Customer Value (leading, lagging). Financial performance and pipeline → Financial Value (lagging). Engineering attrition rate and missed delivery dates → People Value (lagging), Operational Value (leading). Delivery date miss rate → Operational Value (leading). Product initiative velocity drop → Innovation Value (leading). NPS, as a stand-in where no referral signal exists → Market Value (lagging).
 
 **Step 3 — Value profile and compounding diagnosis**
 

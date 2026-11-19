@@ -25,7 +25,7 @@ Each of the frameworks below captures part of what AER measures. What distinguis
 | **McKinsey 7-S** | Organizational alignment | No — structural conditions | No | No | No | Mature |
 | **Employee Engagement Surveys** | Organizational health | No — attitudinal | No — org only | Partially | No | Mature |
 | **Net Promoter Score** | Customer advocacy | Partially — stated likelihood | No — customer only | Partially | No | Mature |
-| **Insheights AER** | Behavioral response to value delivery | Yes — behavioral, not attitudinal | Yes — both tracks | Yes | Yes — 3E → AER → 8 Values | Conceptual |
+| **Insheights AER** | Behavioral response to value delivery | Yes — behavioral, not attitudinal | Yes — both tracks | Yes — Adoption, Engagement | Yes — 3E → AER → 8 Values | Conceptual |
 
 ---
 
@@ -99,11 +99,11 @@ Among the industry-standard frameworks compared here, none measures customer and
 
 ### Leading Indicator Architecture
 
-AER occupies the middle layer of a three-layer measurement sequence: 3E signals surface first (operational), AER signals surface next (behavioral), 8 Values signals surface last (organizational impact). This sequencing makes AER a leading indicator of value performance — a decline in Adoption or Engagement is visible before it registers as Customer, Financial, or People Value degradation. Established frameworks either measure lagging outcomes (NPS, financial metrics) or diagnose structural conditions (7-S, ADKAR). AER is positioned to act as an early warning system within a connected architecture.
+AER occupies the middle layer of a three-layer measurement sequence: 3E signals surface first (operational), AER signals surface next (behavioral), 8 Values signals surface last (organizational impact). This sequencing makes AER Adoption and Engagement leading indicators of value performance — a decline in either is visible before it registers as Customer, Financial, or People Value degradation. Established frameworks measure stated intent (NPS) or lagging outcomes (financial metrics), or diagnose structural conditions (7-S, ADKAR). AER is positioned to act as an early warning system within a connected architecture.
 
 ### Behavioral, Not Attitudinal
 
-AER measures what customers and teams do, not how they feel. Satisfaction is a condition; behavior is the signal. This distinction — shared with NPS and engagement surveys at the instrument level, but applied more consistently — means AER metrics are directly actionable: adoption rates, engagement depth, retention curves, and recommendation frequency are observable, trackable, and predictive in ways that sentiment scores alone are not.
+AER measures what customers and teams do, not how they feel. Satisfaction is a condition; behavior is the signal. This distinction — the line between AER and attitudinal instruments such as NPS and engagement surveys, which belong to 3E Experience — means AER metrics are directly actionable: adoption rates, engagement depth, retention curves, and recommendation frequency are observable, trackable, and predictive in ways that sentiment scores alone are not.
 
 ---
 
