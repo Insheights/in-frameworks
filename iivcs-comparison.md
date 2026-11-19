@@ -53,11 +53,11 @@ TOGAF also has no behavioral measurement layer and no model for how architectura
 
 The BIZBOK Guide defines business architecture as the blueprint of an enterprise — mapping strategy, capabilities, value streams, information, and organizational structures. The Business Architecture Guild's framework is the primary standard for the business architecture discipline.
 
-**Alignment:** BIZBOK and IIVCS share the most structural overlap of any framework pair in this comparison. BIZBOK's value streams are defined as end-to-end sequences of activities that create value for stakeholders — directly aligned with how IIVCS uses value streams as the organizing spine. BIZBOK's capability mapping (what the organization can do) connects to CVDM's Capability layer. BIZBOK's strategy mapping connects to OSM's strategic intent layer.
+**Alignment:** BIZBOK and IIVCS share the most structural overlap of any framework pair in this comparison. BIZBOK defines a value stream as the end-to-end activities that produce a result for a customer, whether an outside customer or an internal user — directly aligned with how IIVCS uses value streams as the organizing spine. BIZBOK's capability mapping (what the organization can do) connects to CVDM's Capability layer. BIZBOK's strategy mapping connects to OSM's strategic intent layer.
 
-**Key difference:** BIZBOK is a business architecture description discipline — it captures the current and target state of the enterprise as an artifact, not a delivery operating model. IIVCS is a system that organizations run to create value continuously. BIZBOK tells you what exists; IIVCS tells you how to operate.
+**Key difference:** BIZBOK is a business architecture discipline: it models the enterprise's current and target state and is used to plan from strategy to initiatives, but it is not a delivery operating model. BIZBOK describes and plans the business; IIVCS is a system an organization runs to create value continuously.
 
-BIZBOK has a partial customer journey component (customer journey is one of seven business architecture domains), but it does not anchor the full system to the customer's experience. In BIZBOK, the customer journey is a domain to be documented; in CVDM, the customer journey is the reason every internal element exists.
+BIZBOK maps customer journeys, but it does not anchor the full system to the customer's experience. In BIZBOK, the customer journey is something to be mapped; in CVDM, the customer journey is the reason every internal element exists.
 
 BIZBOK has no operating model for delivery teams (the equivalent of PTS), no behavioral measurement layer, and no model for how business architecture connects to organizational value generation or customer behavioral response.
 
@@ -101,7 +101,7 @@ SAFe has no equivalent to AER — a behavioral signal layer that measures whethe
 
 A Service Blueprint is a service design tool that maps the full service delivery system — customer journey steps (frontstage), employee actions and supporting processes (backstage), and supporting systems — to identify gaps, handoffs, and failure points.
 
-**Alignment:** The Service Blueprint is the closest industry tool to CVDM's core function: mapping customer journey steps to the internal delivery elements that serve them. CVDM's architecture — Customer Journey → Value Stream Stage → Capabilities → Processes — is the operational system that a Service Blueprint describes. A well-constructed Service Blueprint is the input document for CVDM adoption.
+**Alignment:** The Service Blueprint is the closest industry tool to CVDM's core function: mapping customer journey steps to the internal delivery elements that serve them. CVDM's architecture — Customer Journey → Value Stage → Capabilities → Processes — is the operational system that a Service Blueprint describes. A well-constructed Service Blueprint is the input document for CVDM adoption.
 
 The Service Blueprint also captures Efficiency signals in its onstage layer — the customer's friction and experience — which maps directly to the Efficiency and Experience dimensions of 3E.
 
@@ -117,7 +117,7 @@ The Service Blueprint also ends at the service layer — it has no strategic tie
 
 Value Stream Mapping (VSM) is a Lean manufacturing tool for visualizing and analyzing the flow of materials and information required to bring a product to a customer. In knowledge work contexts, it is adapted to map the flow of work from request to delivery.
 
-**Alignment:** VSM and IIVCS both use the value stream as a central organizing unit. VSM's focus on identifying waste, cycle time, and flow efficiency maps to the Efficiency dimension of 3E. VSM's end-to-end flow visibility — from customer request to delivery — aligns with CVDM's value stream stage mapping.
+**Alignment:** VSM and IIVCS both use the value stream as a central organizing unit. VSM's focus on identifying waste, cycle time, and flow efficiency maps to the Efficiency dimension of 3E. VSM's end-to-end flow visibility — from customer request to delivery — aligns with CVDM's value stage mapping.
 
 **Key difference:** VSM is an Efficiency analysis tool for a specific value stream snapshot. IIVCS is a system that continuously operates, measures, and improves value delivery across the full architecture. VSM's analysis is point-in-time and flow-focused; IIVCS's measurement is continuous and outcome-focused.
 
@@ -171,7 +171,7 @@ Most established frameworks are built for one part of the strategy-to-outcome ar
 
 ### Customer Journey as Organizing Principle
 
-Most frameworks organize from the inside out: from capabilities, functions, teams, or processes outward to customer impact. IIVCS organizes from the outside in: every internal architecture element — capability, process, team, value stream stage — is defined by what it does for a specific step in the customer's journey. This is CVDM's structural premise, not a design philosophy layered on top.
+Most frameworks organize from the inside out: from capabilities, functions, teams, or processes outward to customer impact. IIVCS organizes from the outside in: every internal architecture element — capability, process, team, value stage — is defined by what it does for a specific step in the customer's journey. This is CVDM's structural premise, not a design philosophy layered on top.
 
 ### Feedback Architecture Connecting Delivery to Strategy
 
