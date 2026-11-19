@@ -1,6 +1,6 @@
 # Insheights 3E Operational Values Measurement Model — Practitioners Guide
 
-**How to apply Efficiency, Experience, and Effectiveness measurement across any architecture element in the [Integrated Value Creation System (IIVCS)](../README.md).**
+**How to apply Efficiency, Experience, and Effectiveness measurement across any architecture element in the [Insheights Integrated Value Creation System (IIVCS)](../README.md).**
 
 ---
 

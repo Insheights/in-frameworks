@@ -8,7 +8,7 @@ A comparison of the Insheights 3E Operational Values Measurement Model against e
 
 ## Positioning
 
-3E (Efficiency | Experience | Effectiveness) measures value delivery in sequence — from whether value can be accessed (Use), through whether it is felt positively (Feel), to whether it achieves intended outcomes (Achieve). It is applied consistently across every architecture element in the [Integrated Value Creation System (IIVCS)](README.md): Value Streams, Value Stages, Capabilities, Processes, and Products/Services.
+3E (Efficiency | Experience | Effectiveness) measures value delivery in sequence — from whether value can be accessed (Use), through whether it is felt positively (Feel), to whether it achieves intended outcomes (Achieve). It is applied consistently across every architecture element in the [Insheights Integrated Value Creation System (IIVCS)](README.md): Value Streams, Value Stages, Capabilities, Processes, and Products/Services.
 
 The frameworks below each capture a portion of what 3E measures. None sequences its dimensions as a causal chain, and none applies a single measurement language consistently from individual process level to full value stream level while grounding every dimension in customer value elements.
 

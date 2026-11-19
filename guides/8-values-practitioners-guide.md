@@ -1,6 +1,6 @@
 # Insheights 8 Organizational Values Measurement Model — Practitioners Guide
 
-**How to read, diagnose, and act on organizational value generation across all eight dimensions of the [Integrated Value Creation System (IIVCS)](../README.md).**
+**How to read, diagnose, and act on organizational value generation across all eight dimensions of the [Insheights Integrated Value Creation System (IIVCS)](../README.md).**
 
 ---
 

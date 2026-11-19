@@ -6,7 +6,7 @@
 
 This is the fast self-orientation tool for the [Adoption Sequencing & Maturity Model](adoption-maturity.md). For a rigorous, scored evaluation that produces a full maturity profile, use the IIVCS Detailed Assessment.
 
-For each question, pick the **highest statement that is *fully* true** today. **a = Early, b = Developing, c = Mature.** If a statement is only partly true, you have not reached that level: pick the one below. (This mirrors the gated scoring in the Detailed Assessment: you earn a level by clearing it, not by getting close.)
+For each question, pick the **highest statement that is *fully* true** today. **a = Early, b = Developing, c = Mature.** Each statement includes everything in the one before it. If a statement is only partly true, you have not reached that level: pick the one below. (This mirrors the gated scoring in the Detailed Assessment: you earn a level by clearing it, not by getting close.)
 
 > **Answer for one value stream.** A **value stream** is the end-to-end chain of work through which you deliver one outcome to the people it serves: usually customers, sometimes your own staff. It starts when they ask for or need the outcome, and ends when they have it, for example getting a new customer up and running, or settling a claim. Strategy, teams and delivery connect on a value stream, so answer for one named value stream, not for the whole organization at once.
 
@@ -23,7 +23,7 @@ For each question, pick the **highest statement that is *fully* true** today. **
 
 **2. How teams are organized.** How are delivery teams set up?
 - **a)** Project teams, formed by department and disbanded at the end, handing work off.
-- **b)** Some long-lived, mixed-skill teams on key value streams, with only part of the support they need.
+- **b)** Some long-lived, mixed-skill teams on key value streams that deliver without routine handoffs, with partial support.
 - **c)** Long-lived, mixed-skill teams on each value stream, with full support (leadership, ways of working, structure and culture). Discovery, building and support run side by side, not one after another. You measure whether staff take up, use and keep using these ways of working.
 
 **3. Delivery and the customer.** How is delivery organized around what customers go through?
@@ -48,7 +48,7 @@ For each question, pick the **highest statement that is *fully* true** today. **
 
 **7. What happens to what you learn.** What happens to what you learn from customers and delivery?
 - **a)** It stays with the team.
-- **b)** It reaches delivery leaders and shapes the work, then stops.
+- **b)** It flows regularly to delivery leaders, each feedback routine has a named owner, and it has changed how delivery is organized, but it stops there.
 - **c)** It travels from the customer-facing work, through the people who run delivery, to the people who set strategy; together with the business's results, it leads strategy to be re-examined.
 
 **8. How people work.** What best describes how people work?

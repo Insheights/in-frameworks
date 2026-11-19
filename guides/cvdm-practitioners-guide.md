@@ -16,7 +16,7 @@
 | **Key outputs** | A journey-to-value-stream map; defined value stages with value propositions; operationalized capabilities/processes; [Efficiency, Experience, Effectiveness (3E)](../3e.md) + Customer [Adoption, Engagement, Retention (AER)](../aer.md) instrumentation; five active feedback loops |
 | **Typical timeframe** | Initial map and instrumentation: one to two working sessions per value stream. Feedback loops: continuous thereafter |
 
-> **New to the [Integrated Value Creation System (IIVCS)](../README.md)?** This guide uses system terms — value stream, value stage, capability, value proposition, 3E, AER, the 8 Values, OSM, PTS, Product Mindset — defined in the [Glossary](../glossary.md). [Framework Positioning](../positioning.md) explains how CVDM relates to the other frameworks in a few minutes; read it first if you are starting here.
+> **New to the [Insheights Integrated Value Creation System (IIVCS)](../README.md)?** This guide uses system terms — value stream, value stage, capability, value proposition, 3E, AER, the 8 Values, OSM, PTS, Product Mindset — defined in the [Glossary](../glossary.md). [Framework Positioning](../positioning.md) explains how CVDM relates to the other frameworks in a few minutes; read it first if you are starting here.
 
 > **Not a product organization?** "Customer" → "patient / citizen / client"; "product/service" → "program / pathway / engagement"; "journey" → "patient pathway / case lifecycle." The realization logic is unchanged — only the vocabulary shifts. See [Translation Notes](#translation-notes).
 
