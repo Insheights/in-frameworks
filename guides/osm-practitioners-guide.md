@@ -386,7 +386,7 @@ OSM is a formulation *and* governance model: it requires a diagnosis and explici
 | **Hoshin Kanri** | Catchball and the X-matrix map to the cascade and coherence checks (Steps 3–4); the review cycle maps to the decision forum (Step 6) |
 | **OKRs / Balanced Scorecard** | The tracking layer for the measurement frame (Step 5) — they carry the priorities; they do not supply the diagnosis or choices |
 
-The distinction matters: strategy-deployment methods (Hoshin Kanri, OKRs) assume a strategy already exists, and strategy-formulation methods (Rumelt, Playing to Win, Porter) stop before value-stream governance and a feedback loop. OSM spans both — and ties them to the dual-track measurement that tells you whether the strategy is working.
+The distinction matters: deployment methods (Hoshin Kanri, OKRs) assume a strategy already exists, and formulation methods (Rumelt, Porter, Playing to Win) concentrate on making the choices. OSM runs formulation and governance as one loop, and three things set it apart: the choices become ranked, outcome-stated value priorities resting on written assumptions; they are deployed through the value streams PTS and CVDM run on; and the loop is read through 3E → AER → 8 Values, with signal from PTS, CVDM and enterprise risk.
 
 ---
 
