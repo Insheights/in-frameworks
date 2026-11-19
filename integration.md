@@ -72,7 +72,7 @@ Scrum provides the team-level delivery ceremonies and practices — Sprint Plann
 
 ### Team Topologies
 
-Team Topologies, by Matthew Skelton and Manuel Pais, is prior art for how PTS organizes teams. It defines four fundamental team types — stream-aligned, platform, enabling, and complicated-subsystem — and modes by which teams interact, including one team providing a capability "as a service" that another consumes.
+Team Topologies, by Matthew Skelton and Manuel Pais, is prior art for how PTS organizes teams. It defines four fundamental team types — stream-aligned, platform, enabling, and complicated-subsystem — and three modes by which teams interact: collaboration, facilitating, and X-as-a-Service, in which one team provides a capability that another consumes.
 
 **Where Team Topologies connects into IIVCS:**
 
@@ -81,11 +81,11 @@ PTS uses its own team vocabulary — Core, Shared, and Platform-Enabled teams, a
 | PTS team | Closest Team Topologies type | Difference |
 |---|---|---|
 | **Core** | Stream-aligned | A Team Topologies stream-aligned team follows a flow of work; a PTS Core team is aligned to one IIVCS value stream and accountable for its outcome |
-| **Shared** | No exact equivalent | Owns a business capability several value streams draw on, served to their Core teams on agreed terms |
+| **Shared** | No exact equivalent | Owns a capability several value streams draw on, served to their Core teams on agreed terms |
 | **Platform-Enabled** | Platform | Owns a technology capability offered as a self-service internal product |
 | — | Enabling, complicated-subsystem | PTS defines no separate type for these; where an organization runs them, they sit alongside the three PTS types |
 
-- **Consuming as a service → owned / consumed capabilities:** Team Topologies' provide-and-consume interaction is how PTS reads a consumed capability: the consuming team draws on it without a hand-off, and one owning team stays accountable for it.
+- **X-as-a-Service → owned / consumed capabilities:** PTS reads a consumed capability the way Team Topologies' X-as-a-Service mode works: the consuming team draws on it without a hand-off, and one owning team stays accountable for it.
 
 **What IIVCS adds:** Teams anchored to value streams that OSM governs and CVDM realizes, an organization-wide capability map on which every capability has one owning team, and measurement (Organizational AER) of whether the team model is adopted and sustained.
 
@@ -153,7 +153,7 @@ Design Thinking practices — Empathize, Define, Ideate, Prototype, Test — are
 
 Value Stream Mapping is a diagnostic tool used within PTS and CVDM to analyze flow efficiency and identify waste in specific value streams.
 
-A note on terms: in Lean, a "value stream" is the process flow — every step needed to produce a product or service — and VSM maps that flow. In IIVCS, a [value stream](glossary.md#architecture-elements) is the chain of value stages that delivers an outcome to a stakeholder; the process flow VSM analyzes is the Processes that carry out a value stage's capabilities.
+A note on terms: Lean uses "value stream" for the path that material and information take as work moves toward the customer, and VSM charts that path with its waits and waste. In IIVCS, a [value stream](glossary.md#architecture-elements) is the chain of value stages that delivers an outcome to a stakeholder; the process flow VSM analyzes is the Processes that carry out a value stage's capabilities.
 
 **Where VSM connects into IIVCS:**
 
