@@ -44,7 +44,7 @@ The two tracks are parallel — both run simultaneously, and both are necessary.
 | **Experience** | Engagement | Value that is felt positively sustains active participation — customers and teams engage with what they trust and enjoy |
 | **Effectiveness** | Retention | Value that delivers outcomes earns continued commitment — customers and teams persist with what works |
 
-This mapping holds across both tracks. Efficiency enables teams to adopt new ways of working just as it enables customers to adopt new value. Effectiveness earns organizational commitment just as it earns customer retention.
+The model expects this to hold across both tracks: Efficiency to enable teams to adopt new ways of working just as it enables customers to adopt new value, and Effectiveness to earn organizational commitment just as it earns customer retention.
 
 ```
 3E              Efficiency  →  Experience  →  Effectiveness
