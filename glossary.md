@@ -95,7 +95,7 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 | **constrains** | Sets limits the target must stay within | OSM: Enterprise Risk Mgmt → Strategic Value Creation (risk appetite) |
 | **decides** | Makes the choice | OSM: Leadership Direction → Strategic Value Creation |
 | **delivers** | Produces and hands over the value that was promised | CVDM: Value Stream → Value Proposition; Product/Service → Value |
-| **drives** | Causes the target to move; here, 3E performance produces the AER response, and AER behaviour produces the 8 Values | Measurement Architecture: 3E → AER; AER → 8 Values |
+| **drives** | Causes the target to move; here, 3E performance produces the AER response, and AER behavior produces the 8 Values | Measurement Architecture: 3E → AER; AER → 8 Values |
 | **directs** | Sets the direction the target moves toward | OSM: Vision → Strategic Value Creation |
 | **empower** | Equips and authorizes people to own and act | PTS: POM Enablers → product team |
 | **enables** | Supplies the ability the target needs to function | CVDM: Capability → Value Stage. Also the PTS → CVDM relation in [Positioning](positioning.md) |
