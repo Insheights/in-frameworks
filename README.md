@@ -55,7 +55,7 @@ The organization approaches Strategic Value Creation with a Product Mindset — 
 
 Value Streams — the chains of value stages through which the organization delivers an outcome its stakeholder values — are the common organizing spine across OSM, PTS, and CVDM. Most already exist; when a strategy needs an outcome none of them delivers, OSM may create or reshape one. See the [Glossary](glossary.md#architecture-elements) for value stream, value stage, capability, and process.
 
-Values and Mission are enduring: no feedback loop revisits them. The Vision may be reopened at the strategic reset, and only there, when the evidence says it no longer holds; any change is logged. The loops otherwise refine the value priorities and how they are executed, not the organization's purpose.
+Values and Mission are enduring: no feedback loop revisits them. At the strategic reset, and only there, OSM may put the Vision to its owners when the evidence says it no longer holds; its owners decide, and any change is logged. The loops otherwise refine the value priorities and how they are executed, not the organization's purpose.
 
 OSM scales vertically across the organization (Organization > Enterprise/Functions > Portfolio)
 
