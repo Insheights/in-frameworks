@@ -68,7 +68,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Output:** An 8 Values signal inventory — one row per value, showing: signal exists (yes/no), signal type (leading/lagging/both), signal source, owner
 
 **Guidance:**
-- A value is measured only if there is an observable signal with a named owner who reviews it on a defined cadence. A value claimed because an initiative exists ("we run a mentorship program, so we have People Value") is an assumption, not a measurement
+- A value is measured only if it has an owned signal with a named indicator, a baseline and a current reading, reviewed by its owner on a defined cadence. A value claimed because an initiative exists ("we run a mentorship program, so we have People Value") is an assumption, not a measurement
 - Do not treat survey data as a behavioral signal. Engagement scores and satisfaction surveys are attitudinal — they tell you how people feel, not what they are doing. A People Value signal based only on survey data is a weak signal; it must be paired with behavioral indicators (team continuity by capability area, voluntary turnover, internal mobility, practice coverage) to be credible
 - Values without signals are not zero — they are unknown. The diagnostic distinction matters: a value that is measured and weak requires an intervention; a value that is unmeasured requires instrumentation first
 - The most common unmeasured values in most organizations are: Innovation Value (IP and R&D pipeline is tracked financially, but capability expansion and future value stream health are not), Impact Value (ESG reporting exists but is not connected to operational behavior), and Strategic Value (strategy exists but execution effectiveness is not measured distinctly from financial outcomes)
@@ -126,7 +126,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ### Step 3 — Build the value profile and read the compounding relationships
 
-**What you do:** Using the value signal map (Step 2), give each value dimension a status from the [bands](../metrics-and-indicators.md#how-to-read-this-guide) of its own signals, named in Step 2 before they are read. The weakest signal decides: **At risk** if any signal is At risk; **Watch** if any is Watch; **Healthy** only when every signal is Healthy. A dimension with no signal that has a reading is **unmeasured**, not zero. Like the bands, a status is a starting reading to calibrate. Then read across all eight dimensions together to identify compounding relationships: which weak dimensions are creating drag on other dimensions, and in which direction.
+**What you do:** Using the value signal map (Step 2), give each value dimension a status from the [bands](../metrics-and-indicators.md#how-to-read-this-guide) of its own signals, named in Step 2 before they are read. The weakest signal decides: **At risk** if any signal is At risk; **Watch** if any is Watch; **Healthy** only when every signal is Healthy. Signals with no reading yet are listed but do not set the status; a dimension with no signal that has a reading is **unmeasured**, not zero. Like the bands, a status is a starting reading to calibrate. Then read across all eight dimensions together to identify compounding relationships: which weak dimensions are creating drag on other dimensions, and in which direction.
 
 **Key question this step answers:** *What are we generating, what are we not, and which gaps are causing systemic drag?*
 

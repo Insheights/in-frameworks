@@ -48,9 +48,9 @@ Read each row and find the column you have fully reached today. Four rows form t
 
 **How the Product Mindset principles take hold.** They grow through the work, not through announcements.
 
-- **Early → Developing:** start with one team and two principles: frame the pilot team's goals as outcomes, and find out what customers need on one piece of work before building it. Explain why, and give the team time to learn how.
+- **Early → Developing:** start with one team and a few principles: frame the pilot team's goals as outcomes, find out what customers need on one piece of work before building it, and frame one piece of work as a hypothesis to test. Explain why, and give the team time to learn how.
 - **Developing → Mature:** make all five the team's routine: goal reviews judge progress against outcomes, every significant piece of work starts with discovery and a stated hypothesis, and decisions start from customer evidence. Leaders ask for that evidence in their own reviews.
-- **Holding Mature:** new team members learn the principles in the work itself, and leaders keep asking for the evidence. When they stop, the principles fade first.
+- **Holding Mature:** new team members learn the principles in the work itself, and leaders keep asking for the evidence. When they stop, the principles are expected to fade first.
 
 ---
 

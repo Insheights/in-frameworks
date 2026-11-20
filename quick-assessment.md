@@ -22,7 +22,8 @@ For each question, pick the **highest statement that is *fully* true** today. **
 - **c)** All of these are true:
   - [ ] Priorities rest on a clear diagnosis and clear choices: where to compete and where not, and how to win.
   - [ ] Each priority carries written hypotheses.
-  - [ ] Priorities are funded in rank order and steered by value stream.
+  - [ ] Priorities are funded in rank order.
+  - [ ] Priorities are steered by value stream.
   - [ ] Strategy reviews read customer, staff and business outcomes together.
   - [ ] Strategy reviews test the hypotheses and change strategy when the evidence says so.
 
@@ -37,11 +38,12 @@ For each question, pick the **highest statement that is *fully* true** today. **
 
 **3. Delivery and the customer.** How is delivery organized around what customers go through?
 - **a)** Around internal processes, not the customer's journey.
-- **b)** Key customer journeys are mapped to value streams; each stage of the work states the outcome it promises the customer; at least two feedback routines are active: each names who acts on it and the decision it informs, and has informed one.
+- **b)** Key customer journeys are mapped to value streams; each stage of the work states the outcome it promises the customer; at least two feedback routines are active: each names who acts on it, the decision it informs and how its signal is collected, and has informed a decision.
 - **c)** All of these are true:
   - [ ] Every journey is mapped to its value stream.
   - [ ] Each stage is defined by the outcome it gives the customer.
-  - [ ] All five feedback routines are active, from how customers felt to whether priorities still hold, and those about customers use customers' own words or behavior.
+  - [ ] All five feedback routines are active, from how customers felt to whether priorities still hold.
+  - [ ] The routines about customers use customers' own words or behavior.
   - [ ] You measure whether customers take up, use and keep using what you deliver.
 
 **4. Measuring delivery.** How do you measure whether value is delivered?
@@ -69,7 +71,7 @@ For each question, pick the **highest statement that is *fully* true** today. **
 
 **7. What happens to what you learn.** What happens to what you learn from customers and delivery?
 - **a)** It stays with the team.
-- **b)** It flows regularly to delivery leaders; each feedback routine names who acts on it and the decision it informs; it has changed how delivery is organized, but it stops there.
+- **b)** It flows regularly to delivery leaders; each feedback routine is active: it names who acts on it, the decision it informs and how its signal is collected, and has informed a decision; it has changed how delivery is organized, but it stops there.
 - **c)** All of these are true:
   - [ ] It travels from the customer-facing work, through the people who run delivery, to the people who set strategy.
   - [ ] Together with the business's outcomes, it leads strategy to be re-examined.
