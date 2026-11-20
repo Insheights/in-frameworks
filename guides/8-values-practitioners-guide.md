@@ -126,12 +126,12 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ### Step 3 — Build the value profile and read the compounding relationships
 
-**What you do:** Using the value signal map (Step 2), assign a generation status to each value dimension — generating strongly, generating with gaps, generating weakly, or unmeasured. Then read across all eight dimensions together to identify compounding relationships: which weak dimensions are creating drag on other dimensions, and in which direction.
+**What you do:** Using the value signal map (Step 2), give each value dimension a status from the [bands](../metrics-and-indicators.md#how-to-read-this-guide) of its own signals, named in Step 2 before they are read. The weakest signal decides: **At risk** if any signal is At risk; **Watch** if any is Watch; **Healthy** only when every signal is Healthy. A dimension with no signal that has a reading is **unmeasured**, not zero. Like the bands, a status is a starting reading to calibrate. Then read across all eight dimensions together to identify compounding relationships: which weak dimensions are creating drag on other dimensions, and in which direction.
 
 **Key question this step answers:** *What are we generating, what are we not, and which gaps are causing systemic drag?*
 
 **Inputs:** Value signal map (Step 2)
-**Output:** An 8 Values profile — current generation status per dimension; a compounding diagnosis — which gaps are upstream causes, which are downstream symptoms
+**Output:** An 8 Values profile — current status per dimension; a compounding diagnosis — which gaps are upstream causes, which are downstream symptoms
 
 **Guidance:**
 - Read the profile as a system, not as eight independent scores. A weak Operational Value and a weak Customer Value appearing simultaneously are almost certainly linked — trace the direction before concluding independently on each
@@ -196,10 +196,10 @@ Read the network for root cause: a gap in People Value creates drag on Operation
 **Output:** A prioritized action list — value gaps ranked by compounding leverage, with the first action specified for each
 
 **Guidance:**
-- The upstream gap is always the higher-priority intervention, even if the downstream symptom is more visible. Fixing Customer Value symptoms while People Value or Operational Value is degrading upstream produces temporary improvement and delayed recurrence
-- Use the following prioritization sequence to determine intervention order:
+- **Start from the traced evidence.** The root cause is the gap whose signal fell first, by dated readings, while the signals feeding it held. Act on it first, even if a downstream symptom is more visible. Fixing Customer Value symptoms while People Value or Operational Value is degrading produces temporary improvement and delayed recurrence
+- **Where the evidence does not separate two gaps, apply your organization's own prioritization criteria.** If you have none yet, we suggest this order as a starting point:
 
-**Priority 1 — Foundation gaps:** Operational Value and People Value. If either is weak, no other value can be consistently delivered. These are the conditions on which everything else depends.
+**Priority 1 — Foundation gaps:** People Value, then Operational Value. People Value is the network's source node. If either is weak, no other value can be consistently delivered. These are the conditions on which everything else depends.
 
 **Priority 2 — Delivery gaps:** Customer Value. If the foundation is sound but Customer Value is weak, the gap is in CVDM — the delivery layer is not connecting capability to customer outcome. This is a journey and value stage problem, not a capability problem.
 
@@ -207,7 +207,9 @@ Read the network for root cause: a gap in People Value creates drag on Operation
 
 **Priority 4 — Future gaps:** Innovation Value and Impact Value. These determine what the organization can generate beyond what it delivers today. They are important but not urgent relative to foundation and delivery gaps — an organization that cannot deliver consistently cannot compound innovation or impact reliably.
 
-**Priority 5 — Lagging confirmation:** Financial Value. Financial Value is the most visible and the most lagging. Directly intervening in Financial Value without addressing upstream gaps treats the symptom. The exception: a Financial Value crisis that threatens the organization's survival overrides the prioritization sequence — stabilize financial performance first, then address root causes.
+**Priority 5 — Lagging confirmation:** Financial Value. Financial Value is the most visible and the most lagging. Directly intervening in Financial Value without addressing upstream gaps treats the symptom. An organization's own criteria can override this order — for example, a Financial Value crisis that threatens the organization's survival: stabilize financial performance first, then address root causes, and record the choice as a governance decision.
+
+- **Record what you will not act on now** — a short Hold list, with the reason — so a deferred gap is a choice, not an oversight.
 
 - Each action in the prioritized list must be specific: "Rebuild the onboarding capability to remove IT dependency" is an action. "Improve Operational Value" is not
 - Actions must map to a framework owner: Operational Value gaps → PTS; Customer Value gaps → CVDM; Strategic Value gaps → OSM
@@ -280,7 +282,7 @@ Customer AER Adoption and Retention → Customer Value (leading, lagging). Finan
 
 **Step 3 — Value profile and compounding diagnosis**
 
-Profile: Customer Value — generating strongly. Financial Value — generating strongly. People Value — generating with gaps (attrition is a lagging signal; the leading edge has been declining for longer). Operational Value — generating weakly (delivery miss rate and slowing velocity). Innovation Value — unmeasured but declining (informally confirmed by CTO). Strategic Value — cannot assess without distinct signal. Market Value — moderate.
+Profile: Customer Value — Healthy. Financial Value — Healthy. People Value — Watch (attrition is a lagging signal; the leading edge has been declining for longer). Operational Value — At risk (delivery miss rate and slowing velocity). Innovation Value — unmeasured (the CTO reports a decline informally; name a signal before acting on it). Strategic Value — unmeasured (no distinct signal). Market Value — Watch (read through NPS alone).
 
 Compounding diagnosis: This is Pattern 4 — the extraction pattern. The organization is generating Customer Value and Financial Value from a workforce and capability base that is degrading. The People Value gap is upstream: senior engineer attrition reduces the capability stock that Operational Value depends on. Reduced Operational Value then reduces delivery quality and velocity, which is expected to produce Customer Value degradation (in this illustrative case, within about two to three quarters). The strong financial and customer signals are a lag — they reflect the value generated by a capability base that was stronger six months ago. The leading signals point to a different future.
 
@@ -320,7 +322,7 @@ OEE and on-time delivery → Operational Value (leading). Revenue decline → Fi
 
 **Step 3 — Value profile and compounding diagnosis**
 
-Profile: Operational Value — generating strongly. Financial Value — generating with gaps (margin stable, revenue declining). Market Value — generating weakly (declining share). Customer Value — unmeasured behaviorally (attitudinal only). Innovation Value — generating weakly. People Value — unmeasured behaviorally. Strategic Value — unmeasured.
+Profile: Operational Value — Healthy. Financial Value — Watch (margin stable, revenue declining). Market Value — At risk (declining share). Customer Value — unmeasured: no behavioral signal (attitudinal readings alone). Innovation Value — At risk. People Value — unmeasured: no behavioral signal. Strategic Value — unmeasured.
 
 Compounding diagnosis: This is Pattern 2 — the delivery misalignment. Strong Operational Value with weak Customer Value and Market Value signals a CVDM gap: the organization is producing efficiently against internally defined specifications, but those specifications are not aligned to what customers value. The customers choosing competitors for "better fit" are telling the story directly — the product is operationally well-made for the wrong outcome definition. Operational Value is generating; it is generating the wrong things.
 
@@ -362,7 +364,7 @@ Leadership alignment → Strategic Value formulation (leading). Revenue below pl
 
 **Step 3 — Value profile and compounding diagnosis**
 
-Profile: Strategic Value — generating with gaps (formulation strong; execution weak). People Value — generating with gaps (capability exists; behavioral engagement with the new direction is absent). Operational Value — generating with gaps (utilization strong; strategic alignment absent). Customer Value — unmeasured behaviorally; client non-renewals are a lagging warning. Financial Value — generating weakly (below plan). Market Value — unmeasured.
+Profile: Strategic Value — Watch (formulation strong; execution weak). People Value — Watch (capability exists; behavioral engagement with the new direction is absent). Operational Value — Watch (utilization strong; strategic alignment absent). Customer Value — unmeasured: no behavioral signal; client non-renewals are a lagging warning. Financial Value — At risk (below plan). Market Value — unmeasured.
 
 Compounding diagnosis: This is Pattern 3 — the formulation-execution gap. Strategic formulation is strong — leadership is aligned, the direction is clear. But PTS has not been applied: the operating model has not been rebuilt to deliver the new value proposition. Delivery teams are using the same capability activation and process patterns as before because nothing has changed at the POM level. The strategy exists at the OSM layer; it has not been operationalized through PTS into the delivery layer. Customer Value cannot change until CVDM has been rebuilt around the new value proposition — which cannot happen until PTS has stood up the capability and team structure to deliver it.
 
@@ -392,7 +394,7 @@ Out-of-cycle trigger: a second high-value client does not renew → immediate go
 
 ### How 3E feeds the 8 Values
 
-3E operates at the architecture element level — Value Streams, Value Stages, Capabilities, Processes, Products/Services. Each 3E signal produced at those levels speaks to specific value dimensions. The 8 Values profile reads across all of those element-level signals and synthesizes them into organizational-level value generation status.
+3E operates at the architecture element level — Value Streams, Value Stages, Capabilities, Processes, Products/Services. Each 3E signal produced at those levels speaks to specific value dimensions. The 8 Values profile reads across all of those element-level signals and synthesizes them into an organizational-level status for each value.
 
 | 3E Dimension | Architecture level | Most directly surfaces |
 |---|---|---|
@@ -441,10 +443,10 @@ These signals confirm the 8 Values model is being applied correctly — not just
 
 | Signal | Healthy | At Risk |
 |---|---|---|
-| **Measured vs. assumed ratio** | At least six of the eight values have an observable, owned signal (the healthy state for running the model; the reference bar for breadth of value measured in [Metrics and Indicators](../metrics-and-indicators.md#reference-bars-for-system-maturity) is a lower floor, 3 of 8, for the practice to count as existing) | More than two values are being claimed without a behavioral or operational signal behind them |
+| **Measured vs. assumed ratio** | At least six of the eight values have an owned signal with a named indicator, a baseline and a current reading (the healthy state for running the model; the reference bar for breadth of value measured in [Metrics and Indicators](../metrics-and-indicators.md#reference-bars-for-system-maturity) is a lower floor, 3 of 8, for the practice to count as existing) | More than two values are being claimed without a behavioral or operational signal behind them |
 | **Signal ownership** | Each value dimension has a named owner who reviews signals on a defined cadence | Signals are produced and reviewed in a group with no individual accountability for acting |
 | **Compounding diagnosis** | When any value dimension is weak, the upstream compounding chain is traced before action is taken | Interventions are taken directly on the symptomatic value without tracing the upstream cause |
-| **Prioritization sequencing** | Foundation gaps (Operational Value, People Value) are addressed before multiplier gaps (Market Value) or future gaps (Innovation Value) | Visible or externally reported gaps (Financial Value, Market Value) are prioritized over upstream root causes |
+| **Prioritization sequencing** | Gaps are ranked by traced evidence; ties are broken by stated criteria — the organization's own, or the [suggested order](#step-4--prioritize-by-compounding-leverage) | Visible or externally reported gaps (Financial Value, Market Value) are prioritized over the traced root cause, or ties are broken with no stated criteria |
 | **Governance return path** | The 8 Values profile is connected to OSM governance with a named cadence and is used as evidence to accept or reject specific strategic hypotheses | The profile is produced but not connected to any strategic decision or governance action |
 
 **If two or more signals are At Risk:** Stop reviewing the profile and return to Step 1. The profile being generated is not connected to the value generation system — reassess which values have credible signals, re-establish signal ownership, and reconnect the output to a named governance action before the next review cycle.
@@ -482,10 +484,10 @@ The eight value dimensions are universal. What shifts by sector is the vocabular
 
 **Health signals at a glance**
 
-- At least six of the eight values have an observable, owned signal — not assumed
+- At least six of the eight values have an owned signal with a baseline and a current reading — not assumed ([the healthy state](#system-health-check))
 - Each value dimension has a named owner accountable for acting on signal changes
 - When a value is weak, the upstream compounding chain is traced before action is taken
-- Foundation gaps (Operational, People) are addressed before multiplier or future gaps
+- Gaps are ranked by traced evidence, with ties broken by stated criteria
 - The 8 Values profile is connected to a named governance action and a defined cadence
 
 **Common compounding patterns**
@@ -495,10 +497,10 @@ The eight value dimensions are universal. What shifts by sector is the vocabular
 - **Formulation-execution gap:** Strategic Value (formulation) strong; Operational Value and Customer Value weak — strategy exists but the operating model has not been built to deliver it
 - **Engine failure:** Org AER Engagement or Retention declining while external signals still appear strong — the human and operational foundation is degrading before the downstream signals confirm it
 
-**Prioritization sequence**
+**Suggested tie-break order** (a recommendation, after the traced evidence; see Step 4)
 
 ```
-Foundation first: Operational Value → People Value
+Foundation first: People Value → Operational Value
        ↓
 Delivery next: Customer Value (CVDM gap)
        ↓

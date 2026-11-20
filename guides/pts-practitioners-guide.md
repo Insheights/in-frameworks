@@ -69,7 +69,10 @@ Stand up one value stream first. At minimum, a pilot needs:
 - the strategic objectives and value priorities it serves, set by OSM, or the organization's existing priorities where OSM is not yet in place;
 - a persistent value-stream team;
 - the value-stream outcomes it is accountable for;
-- the duration it needs to run.
+- the duration it needs to run;
+- the work the pilot team stops doing, named by the executive sponsor, so the pilot is not added on top of a full load.
+
+A pilot's first visible win is its stream's first active feedback loop: one that names who acts on it and the decision it informs, and has informed one. It shows the system working before any level moves.
 
 A pilot runs on the funding the organization has today. Before widening to the next stream, we recommend checking that the pilot's teams stayed together for its duration, its owned and consumed capabilities are on the organization-wide map, one Organizational AER read has been acted on, and one executability read has reached OSM's decision forum. The organization decides when and how to widen.
 

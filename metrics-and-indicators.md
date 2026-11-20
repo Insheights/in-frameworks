@@ -169,21 +169,21 @@ The bands depend on telling a real change from noise. Use one rule for every met
 
 ### Reference bars for system maturity
 
-Judging how mature a practice is needs a stated bar rather than room judgment. The reference bars below (v2) state where that line sits for each practice, so that two people reading the same evidence reach the same answer. The Detailed Assessment uses them.
+Judging how mature a practice is needs a stated bar rather than room judgment. The reference bars below (v3) state where that line sits for each practice, so that two people reading the same evidence reach the same answer. The Detailed Assessment uses them.
 
 Each bar asks three things of a practice: that it **exists**, that it is **current** (a baseline and repeated, dated readings), and that it **changed something** (at least one recorded decision or action). A practice that exists on paper but has never been read, or never acted on, does not meet its bar.
 
-| What is measured | Reference bar (v2) | Signal / source | Review cadence |
+| What is measured | Reference bar (v3) | Signal / source | Review cadence |
 |---|---|---|---|
 | **Governance responsiveness** | In the last 2 governance cycles, at least 1 value priority was changed, retired, or re-resourced because of a signal: the record names the signal and its reading from before the decision, and a later record (budget, staffing, or roadmap) shows the change happened. A change already planned before the signal does not count. | Governance minutes and the Priority Register | Per governance cycle |
 | **Organizational AER coverage** | Adoption, engagement, **and** retention of the way of working each have at least 1 named signal with a baseline, read at 2 or more consecutive reviews, and at least 1 reading led to a recorded change in the way of working within 2 quarters | Org AER instrumentation and review records | Monthly |
-| **Feedback loops and Customer AER coverage** | Each of the 5 feedback loops has a named owner and cadence and ran in its last cadence period, and at least 1 loop's output led to a recorded change in a priority or the backlog. Customer adoption, engagement, **and** retention each have a distinct signal with a baseline across the journey. | CVDM loop records + analytics | Per loop cadence |
+| **Feedback loops and Customer AER coverage** | Each of the 5 feedback loops is [active](feedback.md#operational-feedback--cvdm) and ran in its last cadence period, and at least 1 loop's output led to a recorded change in a priority or the backlog. The loops that read the customer rest on the customer's own words or behavior, not staff observation alone. Customer adoption, engagement, **and** retention each have a distinct signal with a baseline across the journey. | CVDM loop records + analytics | Per loop cadence |
 | **3E across architecture levels** | A 3E profile exists at 3 or more of the 5 architecture levels, including value stream **and** value stage; each has a baseline and a reading within its review cadence, and at least 1 is cited in a recorded decision | 3E profiles and decision records | Quarterly |
 | **AER on primary journeys** | Adoption, engagement, **and** retention each have a definition, a baseline, and a target on every primary journey — named as primary before measurement began — read at 2 or more consecutive reviews | Journey analytics | Monthly |
 | **Breadth of value measured** | At least 3 of the 8 value dimensions each have a named indicator, a baseline, and a current reading, and at least 1 was read where a decision was taken | 8 Values reading | Quarterly |
 | **Outcome-based success measures** | For half or more of the value stream's product teams, the primary success measure is an outcome with a baseline and a target, and the team's last goal review judged progress against it | Team goal/[Objectives and Key Results (OKR)](glossary.md#external-frameworks-referenced) review | Quarterly |
 
-> **What "v2" does and does not mean.** v2 tightens the v1 bars so that a token action does not meet them. It does **not** mean the bars are field-validated or peer-benchmarked: that remains pending the first real assessment runs (*Detailed Assessment — Dry Run & Calibration*, client-gated) and external benchmarking (*3E Benchmarking*). Re-confirm them against real-run data when it exists.
+> **What "v3" does and does not mean.** v2 tightened the v1 bars so that a token action does not meet them; v3 changes only the feedback-loops bar, to count a loop only when it is active. Neither means the bars are field-validated or peer-benchmarked: that remains pending the first real assessment runs (*Detailed Assessment — Dry Run & Calibration*, client-gated) and external benchmarking (*3E Benchmarking*). Re-confirm them against real-run data when it exists.
 
 ---
 
@@ -228,7 +228,7 @@ If a level's leading signals are healthy but its lagging signals fail, the value
 Consistent with [3e.md](3e.md) and [8-values.md](8-values.md):
 
 - **No external benchmarks yet.** Every band here is baseline-relative or a starting default to calibrate — not a validated industry range. Peer comparison is the separate *3E Benchmarking* deliverable.
-- **Thresholds are reference defaults, not field-validated.** The v2 reference bars and the change rule rest on reasoned judgment until real assessment runs calibrate them.
+- **Thresholds are reference defaults, not field-validated.** The v3 reference bars and the change rule rest on reasoned judgment until real assessment runs calibrate them.
 - **Instrumentation-dependent.** A metric you cannot observe is not a metric — the Minimum Viable Signal Set exists precisely because most organizations start under-instrumented.
 - **Metrics are signals, not the value.** A metric proxies a dimension; it does not *equal* it. Read several together and in sequence, and treat a single number as a prompt to look, not a verdict.
 
