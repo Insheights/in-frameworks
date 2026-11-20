@@ -72,7 +72,7 @@ OSM runs at three levels (Organization → Enterprise/Function → Portfolio). R
 
 | Artifact | What it holds | Produced in | Updated by |
 |---|---|---|---|
-| **One-Page Strategy** | Diagnosis (the key challenge), where we play / won't play, how we win (or theory of change) — one page | Steps 1–2 | Strategic reset; out of cycle when a core hypothesis is rejected |
+| **One-Page Strategy** | Diagnosis (the key challenge), where we play / won't play, how we win (or theory of change) | Steps 1–2 | Strategic reset; out of cycle when a core hypothesis is rejected |
 | **Priority Register** | Per ranked priority: outcome with target and date, key challenge addressed, key hypotheses, each with its experiment, rejection condition and status, horizon, value stream and owner, committed resources, measurement frame | Steps 3–5 | Every decision forum |
 | **Decision log** | Every loop decision — persist, retune, re-resource, stop — with the signal that prompted it, the rationale, and who accepted the risk; every experiment run and change of hypothesis status, with its evidence | Step 6 | Every decision and every run |
 
@@ -119,7 +119,7 @@ OSM runs at three levels (Organization → Enterprise/Function → Portfolio). R
 - "Won't play" must contain things someone in the room wanted. A won't-play list of options nobody proposed makes no trade-off. Record the rejected options and the reason for each — they are the strategy's boundary and the first thing to revisit when context shifts.
 - **Screen every choice against Values, Mission, and risk appetite.** Test each option against each stated Value and the Mission. An option that conflicts is rejected here, not rationalized — record which Value it conflicted with. An option outside risk appetite is either rejected or explicitly accepted by the risk owner, and the acceptance is recorded.
 - OSM does not prescribe the analysis method. Use whatever the organization already practices — Playing to Win, Rumelt's strategy kernel, Porter's competitive analysis, Blue Ocean, Wardley mapping. OSM requires the *outputs*, not the method. See [Using OSM with Existing Strategy Methods](#using-osm-with-existing-strategy-methods).
-- You are done when two or more options were weighed, the One-Page Strategy fits on a single page, a team lead could explain it in two minutes, and the won't-play list includes at least one option someone argued for.
+- You are done when two or more options were weighed, the One-Page Strategy really is one page, a team lead could explain it in two minutes, and the won't-play list includes at least one option someone argued for.
 
 ---
 
