@@ -54,7 +54,7 @@
 
 **What PTS asks of your existing structures**
 
-PTS uses the organization's own funding process, role titles and forums; it does not install new ones. Whatever the organization uses must satisfy three conditions:
+PTS uses the organization's own funding process, role titles and forums; it does not install new ones. Whatever the organization uses must come to satisfy three conditions as PTS runs; a pilot may start before the first is met:
 
 - **Funding** goes to persistent value-stream teams, allocated to value-stream outcomes, not projects.
 - **Each Core team has one named role accountable for its product**, whatever its title.
@@ -66,7 +66,7 @@ Moving from project to product funding is part of the shift PTS supports, not a 
 
 Stand up one value stream first. At minimum, a pilot needs:
 
-- the strategic objectives and value priorities it serves, set by OSM;
+- the strategic objectives and value priorities it serves, set by OSM, or the organization's existing priorities where OSM is not yet in place;
 - a persistent value-stream team;
 - the value-stream outcomes it is accountable for;
 - the duration it needs to run.
@@ -163,7 +163,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 - How existing delivery practices (Scrum, SAFe, ITIL, Design Thinking) plug into the lifecycle is in [Integration with Existing Practices](../integration.md).
 - The phases are continuous and overlapping, not a waterfall. Discover never stops — teams stay in contact with customer reality across every phase. Each phase is a testable hypothesis the feedback loop validates or corrects.
 - **Launch has two halves, and both are required.** External: go-to-market — getting the value into customers' hands and driving adoption. Internal: change communication — getting the *organization* ready to operate, support, and sustain what was launched. A launch that nails GTM but neglects internal change produces customer demand the operating model cannot sustain.
-- **Support is a continuous operating mode**, not an end-state hand-off. It feeds delivery learning and discovery back into the loop — the value stream keeps running, it does not "finish."
+- **Support is a continuous operating mode**, not an end-state handoff. It feeds delivery learning and discovery back into the loop — the value stream keeps running, it does not "finish."
 - Watch for the lifecycle collapsing back into stage-gates with handoffs. If Discover only happens at the start and Support is a separate team, the operating model has reverted to projects.
 
 **Product lifecycle phase reference:**
@@ -207,7 +207,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 > **Scenario:** A 600-person B2B payments company delivers through quarterly projects: a PMO assigns engineers to initiatives, hands specs to a separate delivery team, and disbands the team at launch. OSM has set a value-stream outcome — *merchants onboard and process their first live payment within 24 hours* — but no persistent team owns it. PTS is run as a pilot on that one value stream, for two planning cycles, on the existing project budget.
 
 **Step 1 — Receive priorities and confirm outcomes**
-PTS confirms the **Merchant Onboarding value stream** will carry the outcome, names a value-stream owner, and restates it. Early executability read to OSM: achievable, but only if onboarding, risk/KYC, and integration stop being three departments handing work to each other.
+PTS confirms the **Merchant Onboarding value stream** will carry the outcome, names a value-stream owner, and restates it. Early executability read to OSM: achievable, but only if onboarding, risk and know-your-customer (KYC) checks, and integration stop being three departments handing work to each other.
 
 **Step 2 — Activate the four POM Enablers**
 - *Leadership:* the VP Product shifts the team's measure from "projects delivered" to the 24-hour activation outcome.
@@ -226,15 +226,15 @@ A persistent Merchant Onboarding **Core** team is formed: a product manager as i
 | Payments API and sandbox | Consumed, self-service | Payments Platform (**Platform-Enabled**) |
 | Identity-document verification | Consumed; partner-sourced | A verification partner, with Risk & Compliance accountable for it |
 
-No value stage needs an ad-hoc hand-off. The team owns the customer outcome (merchant reaches first live payment); the value-stream owner owns the value-stream outcome and decides trade-offs inside the stream within OSM's allocation.
+No value stage needs an ad-hoc handoff. The team owns the customer outcome (merchant reaches first live payment); the value-stream owner owns the value-stream outcome and decides trade-offs inside the stream within OSM's allocation.
 
 **Step 4 — Run the continuous lifecycle**
 *Discover:* merchant interviews reveal KYC document upload is the drop-off point. *Define/Develop:* the team builds auto-verification. *Deliver:* released incrementally via CVDM. *Launch:* external GTM to the merchant base **and** internal change comms training the support team and the Risk & Compliance team on the new flow. *Support:* runs continuously, feeding drop-off signals back into Discover.
 
 **Step 5 — Feedback and learning loop**
-Organizational AER tracked: did the team adopt the new operating model (it did), engage with continuous discovery (partially — discovery slipped under delivery pressure), sustain it (at risk). Executability returned to OSM's decision forum: the 24-hour outcome is achievable, but discovery capacity must be protected. CVDM operational feedback flows in on activation performance. The Health Check showed *Funding follows value-stream outcomes* At Risk, as expected on a project budget; the case for funding the stream by its outcome went to OSM's next decision forum.
+Organizational AER tracked: did the team adopt the new operating model (it did), engage with continuous discovery (partially — discovery slipped under delivery pressure), sustain it (at risk). Executability returned to OSM's decision forum: the 24-hour outcome is achievable, but discovery capacity must be protected. The value-stream owner acted on the read, reserving a fixed share of the team's time for discovery each planning cycle. CVDM operational feedback flows in on activation performance. The Health Check showed *Funding follows value-stream outcomes* At Risk, as expected on a project budget; the case for funding the stream by its outcome went to OSM's next decision forum.
 
-> **What it produced:** A persistent Core team replacing the project model, consuming KYC from a Shared team and payments from a Platform-Enabled team without hand-offs; all four POM Enablers active; a continuous lifecycle with a real two-sided Launch; and an Organizational AER signal that surfaced a discovery-capacity risk before it became an outcome miss. At the end of the pilot the recommended checks were met — the team stayed together, its capabilities were on the map, the discovery-capacity read was acted on, and an executability read had reached OSM — and the company chose to widen to Merchant Risk Monitoring next.
+> **What it produced:** A persistent Core team replacing the project model, consuming KYC from a Shared team and payments from a Platform-Enabled team without handoffs; all four POM Enablers active; a continuous lifecycle with a real two-sided Launch; and an Organizational AER signal that surfaced a discovery-capacity risk before it became an outcome miss. At the end of the pilot the recommended checks were met — the team stayed together, its capabilities were on the map, the discovery-capacity read was acted on, and an executability read had reached OSM — and the company chose to widen to Merchant Risk Monitoring next.
 
 ---
 
@@ -252,7 +252,7 @@ The **Cardiac Care Pathway value stream** is confirmed to carry the outcome — 
 - *Culture & Relationships:* psychological safety lets nurses flag discharge gaps without blame.
 
 **Step 3 — Structure the persistent team**
-A persistent Cardiac Care Pathway **Core** team, with a clinical nurse lead as its accountable role, owns the patient's pathway end-to-end — no hand-off to a separate discharge unit. Its capabilities:
+A persistent Cardiac Care Pathway **Core** team, with a clinical nurse lead as its accountable role, owns the patient's pathway end-to-end — no handoff to a separate discharge unit. Its capabilities:
 
 | Capability | Owned or consumed | From |
 |---|---|---|
@@ -260,7 +260,7 @@ A persistent Cardiac Care Pathway **Core** team, with a clinical nurse lead as i
 | 72-hour community check-in | Owned | Cardiac Care Pathway (Core) |
 | Medication reconciliation | Consumed, on agreed terms (before every discharge) | Pharmacy (**Shared**; serves every care pathway) |
 | Patient record and remote monitoring | Consumed, self-service | Clinical Systems (**Platform-Enabled**) |
-| Home nursing visits | Consumed; partner-sourced | A community nursing provider, with the Cardiac Care Pathway team accountable for it |
+| Home nursing visits | Consumed; partner-sourced | A community nursing provider, with Community Care (**Shared**; would own home nursing in-house, for every pathway) accountable for it |
 
 **Step 4 — Run the continuous lifecycle**
 *Discover:* outcome data shows readmissions cluster where patients misunderstand medication. *Define/Develop:* a teach-back discharge protocol and a 72-hour community check-in. *Deliver:* embedded into the care pathway via CVDM. *Launch:* external — patients and carers briefed on the new follow-up; internal — discharge nurses and community teams trained and rostered to sustain it. *Support:* continuous follow-up, feeding readmission signals back to Discover.
@@ -268,7 +268,7 @@ A persistent Cardiac Care Pathway **Core** team, with a clinical nurse lead as i
 **Step 5 — Feedback and learning loop**
 Organizational AER: did the care team adopt the pathway model, engage with continuous outcome learning, and sustain the follow-up rota? The network reads this alongside CVDM's patient-side signal. Executability returned to OSM with the staffing reality of sustaining community follow-up. Funding stayed departmental during the pilot, so *Funding follows value-stream outcomes* read At Risk, and went to OSM with the pilot's results.
 
-> **What it produced:** A persistent Core care team replacing four hand-off-linked functions, consuming pharmacy from a Shared team and records from a Platform-Enabled team; a care delivery lifecycle with a genuine internal-change Launch; and an organizational-readiness signal feeding strategic reassessment of community-care staffing.
+> **What it produced:** A persistent Core care team replacing four handoff-linked functions, consuming pharmacy from a Shared team and records from a Platform-Enabled team; a care delivery lifecycle with a genuine internal-change Launch; and an organizational-readiness signal feeding strategic reassessment of community-care staffing.
 
 ---
 
@@ -311,11 +311,11 @@ These signals confirm PTS is working — not just being followed. Review them at
 | Signal | Healthy | At Risk | Remedy when At Risk |
 |---|---|---|---|
 | Team persistence | Teams form around value streams and stay; ownership and learning compound | Teams are assembled and disbanded per project; ownership resets each time | Step 3: restore the team's mandate and staffing so it stays together across work, not per project |
-| End-to-end ownership | Teams own or consume the capabilities to deliver without ad-hoc hand-offs | Delivering an outcome still requires handing off to another team | Step 3: change the team topology or the terms on which teams consume capabilities; a missing capability goes to OSM's capability map |
+| End-to-end ownership | Teams own or consume the capabilities to deliver without ad-hoc handoffs | Delivering an outcome still requires handing off to another team | Step 3: change the team topology or the terms on which teams consume capabilities; a missing capability goes back to OSM to decide |
 | Accountable product role | Each Core team has one named role accountable for its product | A Core team has no such role, or several | Step 3: name one accountable role per Core team |
 | All four POM Enablers active | Leadership, Practices, Architecture, and Culture are all operating | Only structure changed; leadership still sets feature lists or culture rewards heroics | Step 2: re-activate the missing enabler |
 | Lifecycle continuity | Discover and Support run continuously; phases overlap | Discover happens once at the start; Support is a separate downstream team | Step 4: bring Discover and Support back into the team as continuous work |
-| Funding follows value-stream outcomes | Funding is allocated to persistent value-stream teams by value-stream outcome | Work is still funded by project (expected during a pilot) | Through OSM Step 4, with finance: move the stream's funding to its value-stream outcome |
+| Funding follows value-stream outcomes | Funding is allocated to persistent value-stream teams by value-stream outcome | Work is still funded by project (expected during a pilot) | OSM's decision forum (Step 6), with finance: move the stream's funding to its value-stream outcome |
 | Organizational AER read | Team adoption, engagement, and retention of the model are measured and acted on | Only output/velocity is tracked; no read on whether the model is retained | Step 5: name who reads it and which decision it informs |
 
 **When a signal is At Risk:** apply its remedy before the next operating-model review. A signal still At Risk at two reviews running goes to the executive sponsor. Where it means a value stream cannot carry its outcome, it also goes to OSM as an executability signal.
