@@ -60,7 +60,7 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 | **Attitudinal signal** | A reported feeling or intent: what people say they feel or would do (CSAT, CES, NPS, eNPS). 3E Experience's signals are attitudinal. |
 | **Compounding** | The property that value dimensions reinforce and amplify each other over time, rather than operating independently. |
 | **Elements of Value** | Bain & Company's research taxonomy — 30 B2C and 40 B2B elements of what customers value. Insheights maps all 70 to the 3E dimensions; the mapping is Insheights' own. |
-| **Value priority** | A strategic objective set in OSM, stated as an outcome (not an activity or deliverable), ranked against the others, and resting on written assumptions. |
+| **Value priority** | A strategic objective set in OSM, stated as an outcome (not an activity or deliverable), ranked against the others, and resting on written hypotheses. |
 | **Value-stream outcome** | The business intent a value stream exists to produce, defined by OSM, delivered through PTS, and evidenced by customer outcomes. It is not simply the sum of what teams deliver. |
 | **Value-stream charter** | The record OSM makes when it creates or reshapes a value stream: the stakeholder, the outcome, the owner, why no existing stream delivers it, and the build capacity committed under the priority that called for it. |
 | **Core team** | A persistent cross-functional team aligned to one value stream. It owns the capabilities only that stream's stages use, consumes the rest, and is accountable for the stream's outcome end to end. |
@@ -71,8 +71,8 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 | **Strategic choices** | The explicit OSM decisions about where to play, where not to play, and how to win. |
 | **How to win / theory of change** | Why the chosen customers will choose the organization over the alternatives, and the hard-to-copy advantage that makes this deliverable. In non-competitive contexts, the theory of change: why this approach will produce the outcome when past efforts did not. |
 | **Strategy Kernel** | The one-page OSM artifact that holds the diagnosis and the strategic choices. |
-| **Priority Register** | The living OSM artifact that holds the ranked value priorities. Each entry records the outcome, target, and date; the crux it addresses; its key assumptions and the tests that would refute them; its horizon, value stream, owner, committed resources, and measurement frame. |
-| **Strategic assumption** | A belief a value priority depends on, written with the evidence that would refute it and when that evidence will be checked. OSM's feedback loop tests it. |
+| **Priority Register** | The living OSM artifact that holds the ranked value priorities. Each entry records the outcome, target, and date; the crux it addresses; its key hypotheses, each with its experiment, rejection condition and status; its horizon, value stream, owner, committed resources, and measurement frame. |
+| **Strategic hypothesis** | A belief a value priority depends on, written with the experiment that tests it (or, where none is possible, a dated observation), the result that would reject it, and when it will be read. At each decision forum it is marked from its latest run: *accepted* (the run did not meet the rejection condition), *rejected* (it did), or *not yet run* (no run has reached its read date). An experiment may be run again under the same rejection condition; changing the condition makes a new hypothesis. |
 | **System health indicator** | A signal that confirms a framework is working — generating executable strategy / delivering against priorities / producing customer outcomes — not merely being followed. |
 
 ---
@@ -127,7 +127,7 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 | OSM | 1 | **value-stream outcomes** | Evidence that value-stream outcomes are being produced (Execution & Deployment → Governance & Measurement) |
 | OSM | 2 | **value-stream risk** | Risks identified at the value-stream level during execution (Execution & Deployment → Enterprise Risk Mgmt) |
 | OSM | 3 | **risk exposure** | Decisions that change risk exposure, for the risk owner to accept (Governance & Measurement → Enterprise Risk Mgmt) |
-| OSM | 4 | **strategic reassessment** | Assumptions confirmed, retuned, or refuted (Governance & Measurement → Strategic Value Creation) |
+| OSM | 4 | **strategic reassessment** | Hypotheses accepted or rejected, and the priorities revised on them (Governance & Measurement → Strategic Value Creation) |
 | OSM | 5 | **strategic risks** | The risk carried by strategic choices (Strategic Value Creation → Enterprise Risk Mgmt). It counts as feedback, not work: it returns to the risk owner what the chosen priorities expose, for acceptance against the risk appetite that *constrains* them |
 | CVDM | 1 | **experience feedback** | How the customer felt at a journey step (Customer/User → Value Proposition). It lands on the whole layer because it is about the proposition as a whole; the later loops narrow it to an element |
 | CVDM | 2 | **journey insights** | Where friction, gaps, and misalignments sit in the journey — where the promised value breaks (Customer Journey → Value Proposition) |

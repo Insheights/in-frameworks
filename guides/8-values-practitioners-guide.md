@@ -37,7 +37,7 @@
 
 | Role | Why they must be present |
 |---|---|
-| OSM governance lead | Owns the strategic hypotheses that the 8 Values profile validates or refutes; owns the return path to strategic reassessment |
+| OSM governance lead | Owns the strategic hypotheses that the 8 Values profile gives evidence to accept or reject; owns the return path to strategic reassessment |
 | PTS / delivery lead | Source of Operational Value and People Value signals — the product operating model is the primary generator of both |
 | CVDM / customer experience lead | Source of Customer Value and Market Value signals — the delivery layer is where customer outcomes are produced or fail to materialize |
 | Finance lead | Source of Financial Value signals — current performance and forward-looking pipeline |
@@ -178,7 +178,7 @@ The 8 Values form a network, not a linear chain. Most values are convergence nod
 | Operational → Impact | How the organisation operates creates or undermines societal impact | creates |
 | Customer → Financial | Customer value delivery generates revenue and financial sustainability | generates revenue |
 | Customer → Market | Consistent customer outcomes build market reputation | builds reputation |
-| Customer → Strategic | Customer outcomes validate or refute strategic hypotheses | validates |
+| Customer → Strategic | Customer outcomes give evidence to accept or reject strategic hypotheses | validates |
 
 Read the network for root cause: a gap in People Value creates drag on Operational Value and Innovation Value; a weak Operational Value degrades Customer Value delivery and limits Strategic Value execution; Customer Value gaps flow to Financial Value, Market Value, and Strategic Value feedback. The convergence structure means a single upstream gap can create drag in multiple directions simultaneously — trace which convergence node is receiving a degraded input before concluding on cause.
 
@@ -224,7 +224,7 @@ Read the network for root cause: a gap in People Value creates drag on Operation
 **Output:** Governance briefing (internal); IR 6 Capitals translation (external); review cadence with owners and triggers
 
 **Guidance:**
-- The internal governance briefing is not a metrics dashboard. It is a reading of which strategic hypotheses the 8 Values profile confirms, which it refutes, and which are still too early to call. The OSM Governance & Measurement layer needs to know whether execution is validating the strategic direction — not just whether individual metrics moved
+- The internal governance briefing is not a metrics dashboard. It is a reading of which strategic hypotheses the 8 Values profile gives evidence to accept, which to reject, and which have not yet reached their read date. The OSM Governance & Measurement layer needs to know whether execution is validating the strategic direction — not just whether individual metrics moved
 - The IR 6 Capitals translation uses the bridge defined in the 8 Values model. Apply it as follows:
 
 **IR 6 Capitals translation:**
@@ -240,14 +240,14 @@ Read the network for root cause: a gap in People Value creates drag on Operation
 | **Innovation Value** | Intellectual Capital | IP assets; R&D pipeline; discovery velocity; new value streams in development |
 | **Impact Value** | Natural + Social Capital | Mission advancement; ESG performance; environmental footprint; community and societal contribution |
 
-- Set distinct cadences for internal governance and external reporting — they serve different audiences and have different horizons. Internal governance is quarterly at minimum; external IR reporting is annual at minimum but the 8 Values profile that feeds it should be current at each board cycle
+- Set distinct cadences for internal governance and external reporting — they serve different audiences and have different horizons. Internal governance follows the OSM decision forum's cadence; external IR reporting is annual at minimum but the 8 Values profile that feeds it should be current at each board cycle
 - Name a single owner per value dimension for signal ownership. The governance lead owns the profile synthesis; individual value owners are accountable for the signals that feed it
 
 **Return paths and cadences:**
 
 | Return path | What feeds it | Cadence | Owner |
 |---|---|---|---|
-| **OSM Governance & Measurement** | Full 8 Values profile — confirmed and refuted strategic hypotheses | Quarterly | OSM governance lead |
+| **OSM Governance & Measurement** | Full 8 Values profile — evidence to accept or reject strategic hypotheses | Each decision forum | OSM governance lead |
 | **CVDM Strategic signals loop → OSM** | Strategic Value and Financial Value effectiveness signals | Quarterly / annually | OSM governance lead |
 | **PTS operating model review** | Operational Value and People Value gaps and root causes | Quarterly | PTS / delivery lead |
 | **CVDM performance optimization** | Customer Value and Market Value delivery signals | Monthly / quarterly | CVDM / customer experience lead |
@@ -296,7 +296,7 @@ Hold: Customer Value and Financial Value interventions. These are strong. Acting
 
 **Step 5 — Governance and reporting**
 
-Internal governance: The OSM strategic hypothesis under review is revenue growth at current unit economics. The 8 Values profile refutes the hypothesis as currently stated — growth at current rates is not sustainable if People Value and Operational Value are degrading. The governance briefing to the board must reframe: revenue performance is strong; the conditions that generated it are not. Recommended action: reset strategic priority from growth rate to capability investment, for the next two quarters.
+Internal governance: The OSM strategic hypothesis under review is revenue growth at current unit economics. The 8 Values profile is evidence to reject the hypothesis as currently stated — growth at current rates is not sustainable if People Value and Operational Value are degrading. The governance briefing to the board must reframe: revenue performance is strong; the conditions that generated it are not. Recommended action: reset strategic priority from growth rate to capability investment, for the next two quarters.
 
 IR 6 Capitals: Human Capital — report workforce capability depth and Org AER Retention as a forward-looking risk signal, not just headcount. Intellectual Capital — flag Innovation Value pipeline as underdeveloped; identify as a forward capital risk.
 
@@ -338,7 +338,7 @@ Hold: no Market Value investment (brand programs, marketing spend) until Custome
 
 **Step 5 — Governance and reporting**
 
-Internal governance: the OSM strategic hypothesis under review is that operational excellence is the primary competitive differentiator. The 8 Values profile partially refutes it: Operational Value is genuinely strong, but operational excellence is a hygiene factor in this market, not a differentiator. The strategic hypothesis must be updated — differentiation is in the customer outcome layer, not the production layer.
+Internal governance: the OSM strategic hypothesis under review is that operational excellence is the primary competitive differentiator. The 8 Values profile is evidence to reject it in part: Operational Value is genuinely strong, but operational excellence is a hygiene factor in this market, not a differentiator. The strategic hypothesis must be updated — differentiation is in the customer outcome layer, not the production layer.
 
 IR 6 Capitals: Manufactured and Intellectual Capital — strong; report operational capability stock as an asset. Social & Relationship Capital — report as a risk: market share decline and customer value gap represent relationship capital at risk, not being built.
 
@@ -380,7 +380,7 @@ Hold: Financial Value interventions (sales acceleration, pipeline investment) un
 
 **Step 5 — Governance and reporting**
 
-Internal governance: the OSM strategic hypothesis under review is that the new value proposition will generate premium revenue within 12 months. The 8 Values profile refutes the hypothesis on current trajectory — not because the strategy is wrong, but because the operating model has not been built to deliver it. Governance action: reset the 12-month revenue hypothesis; replace it with an execution milestone hypothesis for the next 6 months — POM alignment complete, Org AER Adoption above 70% for new delivery methods, first three new-model client engagements delivered with Customer AER tracked.
+Internal governance: the OSM strategic hypothesis under review is that the new value proposition will generate premium revenue within 12 months. The 8 Values profile is evidence to reject the hypothesis on current trajectory — not because the strategy is wrong, but because the operating model has not been built to deliver it. Governance action: reset the 12-month revenue hypothesis; replace it with an execution milestone hypothesis for the next 6 months — POM alignment complete, Org AER Adoption above 70% for new delivery methods, first three new-model client engagements delivered with Customer AER tracked.
 
 IR 6 Capitals: Intellectual Capital — flag the gap between strategic formulation quality and execution effectiveness as a capital risk. Human Capital — flag People Value engagement with the new direction as an investment requirement, not a performance risk.
 
@@ -445,7 +445,7 @@ These signals confirm the 8 Values model is being applied correctly — not just
 | **Signal ownership** | Each value dimension has a named owner who reviews signals on a defined cadence | Signals are produced and reviewed in a group with no individual accountability for acting |
 | **Compounding diagnosis** | When any value dimension is weak, the upstream compounding chain is traced before action is taken | Interventions are taken directly on the symptomatic value without tracing the upstream cause |
 | **Prioritization sequencing** | Foundation gaps (Operational Value, People Value) are addressed before multiplier gaps (Market Value) or future gaps (Innovation Value) | Visible or externally reported gaps (Financial Value, Market Value) are prioritized over upstream root causes |
-| **Governance return path** | The 8 Values profile is connected to OSM governance with a named cadence and is used to validate or refute specific strategic hypotheses | The profile is produced but not connected to any strategic decision or governance action |
+| **Governance return path** | The 8 Values profile is connected to OSM governance with a named cadence and is used as evidence to accept or reject specific strategic hypotheses | The profile is produced but not connected to any strategic decision or governance action |
 
 **If two or more signals are At Risk:** Stop reviewing the profile and return to Step 1. The profile being generated is not connected to the value generation system — reassess which values have credible signals, re-establish signal ownership, and reconnect the output to a named governance action before the next review cycle.
 

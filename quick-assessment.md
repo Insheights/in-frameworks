@@ -19,7 +19,7 @@ For each question, pick the **highest statement that is *fully* true** today. **
 **1. Strategy and priorities.** How are priorities set and steered?
 - **a)** Strategy is a slide deck; priorities are a list of projects.
 - **b)** Priorities are results to achieve, some tied to value streams; reviewed regularly but rarely changed.
-- **c)** Priorities rest on a clear diagnosis, clear choices (where to compete and where not, how to win) and written assumptions. They are funded in rank order and steered by value stream. Strategy reviews read customer, staff and business results together, test the assumptions, and change strategy when the evidence says so.
+- **c)** Priorities rest on a clear diagnosis, clear choices (where to compete and where not, how to win) and written hypotheses. They are funded in rank order and steered by value stream. Strategy reviews read customer, staff and business results together, test the hypotheses, and change strategy when the evidence says so.
 
 **2. How teams are organized.** How are delivery teams set up?
 - **a)** Project teams, formed by department and disbanded at the end, handing work off.

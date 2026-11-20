@@ -8,19 +8,19 @@
 
 | | |
 |---|---|
-| **What it does** | Formulates and governs strategy. Diagnoses the challenge that matters most, makes explicit choices about where to play and how to win, translates them into ranked value priorities and value-stream outcomes with committed resources — then tests the strategy's assumptions against execution signal and revises it |
+| **What it does** | Formulates and governs strategy. Diagnoses the challenge that matters most, makes explicit choices about where to play and how to win, translates them into ranked value priorities and value-stream outcomes with committed resources — then tests the strategy's hypotheses against execution signal and revises it |
 | **When to use it** | Setting or resetting strategy; when execution is drifting from intent; when value priorities are unclear, contested, or not cascading into delivery; when a strategy exists but no one can say why it should win |
 | **Who runs it** | CEO / executive team at the Organization level; Enterprise & Functional leaders and Portfolio leaders at the levels below |
 | **Who must be in the room** | Leadership (direction and decision), strategy/transformation lead (facilitation), value-stream owners (executability), customer/market insight lead (customer reality), risk owner (enterprise risk), finance (resource commitment) |
 | **Key inputs** | Values, Mission, Vision; internal & external context; competitive and customer evidence; stakeholder & customer expectations; leadership direction; enterprise risk and risk appetite; Product Mindset maturity; last cycle's Priority Register and decision log |
-| **Key outputs** | A **Strategy Kernel** (diagnosis, strategic choices, how to win); a ranked **Priority Register** (outcomes, assumptions, horizons, value streams, owners, committed resources); a Governance & Measurement frame; a strategic feedback loop with a **decision log** |
-| **Typical timeframe** | Initial run: a focused strategy cycle (3–8 weeks). Governance cadence: monthly reconciliation read, quarterly decision forum, annual reset |
+| **Key outputs** | A **Strategy Kernel** (diagnosis, strategic choices, how to win); a ranked **Priority Register** (outcomes, hypotheses, horizons, value streams, owners, committed resources); a Governance & Measurement frame; a strategic feedback loop with a **decision log** |
+| **Typical timeframe** | Initial run: a focused strategy cycle (3–8 weeks). Governance: a reconciliation read, a decision forum and a strategic reset, each at a cadence the organization already practices |
 
 > **New to the [Insheights Integrated Value Creation System (IIVCS)](../README.md)?** This guide uses system terms — value stream, [Efficiency, Experience, Effectiveness (3E)](../3e.md), [Adoption, Engagement, Retention (AER)](../aer.md), the 8 Values, [Product Transformation System (PTS)](../README.md#pts--product-transformation-system), [Customer Value Delivery Model (CVDM)](../README.md#cvdm--customer-value-delivery-model), Product Mindset — defined in the [Glossary](../glossary.md). [Framework Positioning](../positioning.md) explains how OSM relates to the other frameworks in a few minutes; read it first if you are starting here.
 
 > **Not a product organization?** "Customer" → "citizen / patient / client / beneficiary"; "product team" → "delivery unit"; "value stream" → "care pathway / service delivery stream / value chain"; "how we win" → "theory of change." The logic is unchanged — only the vocabulary shifts. See [Translation Notes](#translation-notes).
 
-> **Where this fits:** OSM is the strategy and governance layer of the IIVCS — it **formulates and governs** *what* value to create, *where*, and *why the organization expects to succeed*. PTS **operationalizes** those priorities into an operating model; CVDM **realizes** them as customer outcomes. Outcome definition flows down; outcome evidence flows back up and tests the strategy's assumptions. See [Framework Positioning](../positioning.md).
+> **Where this fits:** OSM is the strategy and governance layer of the IIVCS — it **formulates and governs** *what* value to create, *where*, and *why the organization expects to succeed*. PTS **operationalizes** those priorities into an operating model; CVDM **realizes** them as customer outcomes. Outcome definition flows down; outcome evidence flows back up and tests the strategy's hypotheses. See [Framework Positioning](../positioning.md).
 
 ---
 
@@ -28,7 +28,7 @@
 
 **Inputs required**
 
-- [ ] **Values, Mission, and Vision** — the organization's stated identity and direction. OSM does not author these; it tests strategy against them. If they are absent or stale, agree a working Vision for this cycle, flag it for proper resolution, and proceed — do not let strategy wait on a rewrite of identity.
+- [ ] **Values, Mission, and Vision** — the organization's stated identity and direction. OSM does not author these; it tests strategy against them. If they are absent or stale, agree a working Vision for this cycle, flag it for proper resolution, and proceed — do not let strategy wait on a rewrite of identity. At the strategic reset, OSM may put the Vision to its owners for review when the evidence says it no longer holds; OSM does not rewrite it.
 - [ ] **Internal & external context** — market shifts, competitive dynamics, capability and capacity reality, and Product Mindset maturity (the organization's readiness to operate strategy as a living hypothesis).
 - [ ] **Competitive and customer evidence** — why customers choose you and what they choose instead: win/loss data, churn reasons, Jobs To Be Done research, competitor moves. Without it, "how we win" becomes an opinion.
 - [ ] **Stakeholder & customer expectations** — what customers, the board, regulators, and employees expect the organization to deliver. This is the customer-obsession input to strategy.
@@ -36,7 +36,7 @@
 - [ ] **Enterprise risk and risk appetite** — the risks (ERM) that constrain which strategies are realistic, and the appetite that bounds how much exposure a strategy may carry.
 - [ ] **A current value-stream inventory and capability map** — the value streams through which the organization delivers outcomes its stakeholders value, and the single organization-wide map of its [capabilities](../glossary.md#architecture-elements). Strategy is governed *through* value streams, so you must know what they are. OSM holds both; if the organization already keeps a business-architecture capability map, adopt it rather than building a new one.
 - [ ] **In-flight commitments** — the initiatives, programs, and budget already committed. A strategy reset that ignores in-flight work leaves the old strategy running underneath the new one.
-- [ ] **Last cycle's Priority Register and decision log** (if the system is already running) — the assumptions that were being tested and what the loop concluded.
+- [ ] **Last cycle's Priority Register and decision log** (if the system is already running) — the hypotheses that were being tested, their status, and what the loop concluded.
 
 **People required**
 
@@ -57,8 +57,8 @@
 
 **Know your starting point**
 
-- **Low Product Mindset maturity.** Run the full sequence but keep it small: two or three priorities, no more than two or three assumptions each, quarterly decision forum only. A strategy the organization cannot yet govern as a hypothesis should be simple enough to govern at all.
-- **Entering from PTS or CVDM.** If the organization adopted IIVCS delivery-first (see [Adoption Sequencing](../adoption-maturity.md)), priorities already exist implicitly. Run Steps 1–3 against them to make the diagnosis, choices, and assumptions explicit, then connect the existing value streams in Step 4. You are formalizing a strategy, not starting over.
+- **Low Product Mindset maturity.** Run the full sequence but keep it small: two or three priorities, no more than two or three hypotheses each, and the decision forum only, opening with the read rather than holding it separately. A strategy the organization cannot yet govern as a hypothesis should be simple enough to govern at all.
+- **Entering from PTS or CVDM.** If the organization adopted IIVCS delivery-first (see [Adoption Sequencing](../adoption-maturity.md)), priorities already exist implicitly. Run Steps 1–3 against them to make the diagnosis, choices, and hypotheses explicit, then connect the existing value streams in Step 4. You are formalizing a strategy, not starting over.
 
 ---
 
@@ -66,15 +66,15 @@
 
 Each step below is an action. Complete them in order — later steps depend on earlier outputs. The steps map onto the [OSM model](../README.md#osm--organization-strategy-model): Steps 1–3 are the **Strategic Value Creation** process (formulation), Step 4 is **Execution & Deployment by value stream**, and Steps 5–6 are **Governance & Measurement** and the feedback loop between them. Enterprise risk runs through all six.
 
-OSM runs at three levels (Organization → Enterprise/Function → Portfolio). Run the full sequence at the Organization level first. At the levels below, the diagnosis and choices set above are *inherited, not re-made*: each level adds only the local detail it needs and runs Steps 3–6 against the intent set above it.
+OSM runs at three levels (Organization → Enterprise/Function → Portfolio). Run the full sequence at the Organization level first. Intent cascades down for alignment: at the levels below, the diagnosis and choices set above are *inherited, not re-made*, and each level adds only the local detail it needs and runs Steps 3–6 against the intent set above it. Feedback runs up through governance: each level returns what it learns on the governance cadence (Step 6). Anything critical — a target it cannot carry, a conflict that blocks work until it is settled — goes up as an executability signal without waiting for the cadence, including while the register is being set, and triggers an out-of-cycle decision by the decision forum of the level above, decided and logged as any other. Whether a signal is critical is a governance call: the triggers set in Step 6 name what counts, and the decision forum's owner judges anything else. A conflict that can wait goes to the next forum.
 
 **The three OSM artifacts.** The run produces three living documents, reused every cycle:
 
 | Artifact | What it holds | Produced in | Updated by |
 |---|---|---|---|
-| **Strategy Kernel** | Diagnosis (the crux), where we play / won't play, how we win (or theory of change) — one page | Steps 1–2 | Annual reset; out-of-cycle when a core assumption is refuted |
-| **Priority Register** | Per ranked priority: outcome with target and date, crux addressed, key assumptions with refutation evidence, horizon, value stream and owner, committed resources, measurement frame | Steps 3–5 | Every quarterly decision forum |
-| **Decision log** | Every loop decision — persist, retune, re-resource, stop — with the signal that prompted it, the rationale, and who accepted the risk | Step 6 | Every decision |
+| **Strategy Kernel** | Diagnosis (the crux), where we play / won't play, how we win (or theory of change) — one page | Steps 1–2 | Strategic reset; out of cycle when a core hypothesis is rejected |
+| **Priority Register** | Per ranked priority: outcome with target and date, crux addressed, key hypotheses, each with its experiment, rejection condition and status, horizon, value stream and owner, committed resources, measurement frame | Steps 3–5 | Every decision forum |
+| **Decision log** | Every loop decision — persist, retune, re-resource, stop — with the signal that prompted it, the rationale, and who accepted the risk; every experiment run and change of hypothesis status, with its evidence | Step 6 | Every decision and every run |
 
 ---
 
@@ -91,7 +91,7 @@ OSM runs at three levels (Organization → Enterprise/Function → Portfolio). R
 - A description is not a diagnosis. "Mid-market is saturating and enterprise deals are growing" describes. "Enterprise deals close, then stall because our onboarding needs professional services we cannot scale" diagnoses — it names the obstacle and why it blocks progress. Write the crux in two or three sentences.
 - A good diagnosis explains several symptoms at once. If the crux accounts for most of what the context picture shows, it is probably the right one. If it explains only one symptom, keep looking.
 - For non-competitive contexts, ask what caused past efforts to fall short. The reason earlier attempts failed is usually the crux.
-- Treat the inputs as live, not static. The most common failure is anchoring on last year's context. Market shifts, stakeholder expectations, and last cycle's refuted assumptions all feed back in here.
+- Treat the inputs as live, not static. The most common failure is anchoring on last year's context. Market shifts, stakeholder expectations, and last cycle's rejected hypotheses all feed back in here.
 - Product Mindset maturity is an internal-context factor, not an aspiration. An organization that cannot yet operate strategy as a testable hypothesis must set a strategy it can realistically govern — name the maturity honestly.
 - You are done when leadership agrees on one shared context picture *and* one stated crux. If two executives hold materially different diagnoses, resolve it before moving on — divergence here multiplies downstream.
 
@@ -110,21 +110,22 @@ OSM runs at three levels (Organization → Enterprise/Function → Portfolio). R
 **Key question this step answers:** *Where will we compete (or act), what will we decline, and why should we expect to succeed?*
 
 **Inputs:** Strategic foundation brief and diagnosis (Step 1); competitive and customer evidence
-**Output:** The completed **Strategy Kernel** — diagnosis, where we play / won't play, how we win — plus the list of options considered and rejected
+**Output:** The completed **Strategy Kernel** — diagnosis, where we play / won't play, how we win — plus the options considered, each with what would have to be true, and those rejected with the condition that ruled each out
 
 **Guidance:**
+- **Choose between options, not one plan.** Before choosing, write two or more options, each a where-to-play and how-to-win that fit together, and for each write *what would have to be true* for it to work. Choose the options the evidence best supports. Their conditions become the key hypotheses in Step 3. Record the others as rejected, with the condition that ruled each out; the strongest rejected option is the first candidate when Step 2 is reopened. Where more than one is chosen, each enters the Priority Register as its own ranked priority, and the coherence check in Step 3 tests that they can run together. At low maturity, two options sketched briefly are enough.
 - A ranked list of goals is not a strategy. Without a "how we win," priorities are aspirations. The test: could a competitor adopt your stated strategy word for word? If yes, you have not yet said what makes it yours.
 - The advantage must be real today or buildable within the horizon — and it must be something the customer values, not something the organization is proud of. Check it against the customer and competitive evidence, not leadership conviction.
 - "Won't play" must contain things someone in the room wanted. A won't-play list of options nobody proposed makes no trade-off. Record the rejected options and the reason for each — they are the strategy's boundary and the first thing to revisit when context shifts.
 - **Screen every choice against Values, Mission, and risk appetite.** Test each option against each stated Value and the Mission. An option that conflicts is rejected here, not rationalized — record which Value it conflicted with. An option outside risk appetite is either rejected or explicitly accepted by the risk owner, and the acceptance is recorded.
 - OSM does not prescribe the analysis method. Use whatever the organization already practices — Playing to Win, Rumelt's strategy kernel, Porter's competitive analysis, Blue Ocean, Wardley mapping. OSM requires the *outputs*, not the method. See [Using OSM with Existing Strategy Methods](#using-osm-with-existing-strategy-methods).
-- You are done when the Kernel fits on one page, a team lead could explain it in two minutes, and the won't-play list includes at least one option someone argued for.
+- You are done when two or more options were weighed, the Kernel fits on one page, a team lead could explain it in two minutes, and the won't-play list includes at least one option someone argued for.
 
 ---
 
 ### Step 3 — Set and rank strategic value priorities
 
-**What you do:** Translate the Kernel into Strategic Objectives expressed as **Outcomes and Value Priorities** — the few outcomes that, if achieved, would mean the strategy is working. Rank them. Then record each one in the Priority Register with the assumptions it rests on.
+**What you do:** Translate the Kernel into Strategic Objectives expressed as **Outcomes and Value Priorities** — the few outcomes that, if achieved, would mean the strategy is working. Rank them. Then record each one in the Priority Register with the hypotheses it rests on.
 
 **Key question this step answers:** *What outcomes will prove the strategy is working, in what order, and what must be true for each to succeed?*
 
@@ -135,17 +136,17 @@ OSM runs at three levels (Organization → Enterprise/Function → Portfolio). R
 |---|---|
 | **Priority (outcome)** | The outcome, with a measurable target and a date — "we would know this succeeded if…" |
 | **Crux addressed** | Which part of the diagnosis this priority overcomes |
-| **Key assumptions** | The two or three beliefs this priority depends on — for each, the evidence that would refute it and when it will be checked |
+| **Key hypotheses** | The two or three hypotheses this priority depends on — for each, the experiment that tests it (or, where none is possible, a dated observation), the result that would reject it, and when it will be read |
 | **Horizon** | Near-term (within the year), mid-term (1–2 years), or long-term bet (beyond 2 years) |
 
 **Guidance:**
 - State every priority as an outcome, not an output. "Enterprise customers go live without professional services" is a value priority. "Ship the new onboarding flow" is a deliverable — it belongs downstream in PTS/CVDM.
 - Every priority must trace to the Kernel. A priority that addresses no part of the crux and serves no where-to-play choice is a separate strategy smuggled in — drop it or reopen Step 2.
 - **Check coherence.** Do the priorities reinforce each other, or compete for the same customers, capacity, or budget? Does any priority depend on another that is ranked lower? A priority that another depends on must be ranked and resourced at least as high as its dependent. Incoherence caught here is cheap; caught in execution it is a lost year.
-- **Write the assumptions down.** Strategy is a living hypothesis only if the hypotheses are written. Each assumption needs a refutation test — "we would consider this wrong if [observable] by [date]." These tests become the out-of-cycle triggers in Step 6.
+- **Write the hypotheses down, each with its experiment.** This is the Product Mindset's hypothesis-driven thinking applied to strategy: a strategy is a living hypothesis only if its hypotheses are written and tested. Each needs an experiment — or, where no experiment is possible, a dated observation — and a rejection condition: "we reject this if [observable result] by [date]." These become the out-of-cycle triggers in Step 6.
 - **Check the horizon mix.** A register of only near-term priorities starves Innovation Value; one of only long-term bets starves Financial Value. If the mix is deliberately lopsided, say so and why.
 - Rank ruthlessly — typically three to five priorities at Organization level. If leadership will not rank, the prioritization has not happened — it has been deferred to whoever controls resources by default.
-- You are done when every priority has a dated, measurable outcome, traces to the Kernel, and carries written assumptions with refutation tests — and the ranked set has passed the coherence check.
+- You are done when every priority has a dated, measurable outcome, traces to the Kernel, and carries written hypotheses, each with an experiment and a rejection condition — and the ranked set has passed the coherence check.
 
 ---
 
@@ -166,56 +167,58 @@ OSM runs at three levels (Organization → Enterprise/Function → Portfolio). R
 - **Name the capability gaps and decide their sourcing.** For each priority, check the capability map for what its value streams need. Where a capability is missing, decide here whether it is built, bought, or sourced from a partner — a how-to-win choice that commits resources — and record it as a costed line under the priority. A heavy reliance on partners belongs in the risk read of Step 1.
 - **Resources follow the ranking.** Finance and the Portfolio level commit budget and capacity in rank order. If the third priority is funded more heavily than the first, the funding is the real ranking. A priority without committed resources is not committed — fund it or remove it from the register.
 - **Reconcile in-flight work.** Every in-flight initiative is dispositioned against the new register: continue (serves a priority), re-scope (partly serves one), or stop (serves none, or sits in won't-play). Stopped work releases the capacity that funds the new priorities.
-- **Cascade without re-litigating — and resolve conflicts by the ranking.** Each lower level aligns *to* the level above; it does not reopen organization-level choices. When two priorities compete for the same value stream or capacity at a lower level, the ranking decides. Resolve conflicts at the lowest level that owns both claims; escalate only what the ranking cannot settle, and escalate as an executability signal (Step 6), not as a quiet local override. Existing forums — portfolio boards, Lean Portfolio Management, investment committees — are where this runs.
+- **Cascade without re-litigating — and resolve conflicts by the ranking.** Each lower level aligns *to* the level above; it does not reopen organization-level choices. When two priorities compete for the same value stream or capacity at a lower level, the ranking decides. Resolve conflicts at the lowest level that owns both claims; escalate only what the ranking cannot settle, as an executability signal to the decision forum (Step 6) — on cadence, or out of cycle when critical — never as a quiet local override. Existing forums — portfolio boards, Lean Portfolio Management, investment committees — are where this runs.
 - You are done when every committed priority traces to a value stream with an owner and funded capacity, every affected value stream has a stated outcome that measures its priority, every new or reshaped stream has a charter and funded build capacity, every capability gap has a sourcing decision, in-flight work is dispositioned, and the cascade is consistent top to bottom.
 
 ---
 
 ### Step 5 — Establish Governance & Measurement, communicate, and hand off
 
-**What you do:** Hand the value-stream outcomes to execution (PTS builds the operating model to deliver them). Set up Governance & Measurement: for each priority, define the lagging outcome measure, the leading signals that will move first, and the signposts that test its assumptions — and define how 3E, the dual-track AER (Organizational AER from PTS, Customer AER from CVDM), and the 8 Values will be read together at the strategic level. Communicate the Kernel and the ranked priorities across the organization.
+**What you do:** Hand the value-stream outcomes to execution (PTS builds the operating model to deliver them). Set up Governance & Measurement: for each priority, define the lagging outcome measure, the leading signals that will move first, and the signposts that test its hypotheses — and define how 3E, the dual-track AER (Organizational AER from PTS, Customer AER from CVDM), and the 8 Values will be read together at the strategic level. Communicate the Kernel and the ranked priorities across the organization.
 
-**Key question this step answers:** *How will we know — early — whether each priority is working and its assumptions hold, and does the organization understand the strategy well enough to execute it?*
+**Key question this step answers:** *How will we know — early — whether each priority is working and its hypotheses hold, and does the organization understand the strategy well enough to execute it?*
 
 **Inputs:** Priority Register and value-stream outcomes (Steps 3–4)
 **Output:** A measurement frame per priority (recorded in the Priority Register); the reconciliation model; the handoff to PTS; the strategy communicated and its understanding baselined
 
 **Guidance:**
-- **Build a measurement frame per priority with three layers:** the *lagging outcome* (the value-stream outcome and its target date — Effectiveness), the *leading signals* (Customer and Organizational AER on the value stream, which move months before the outcome), and the *assumption signposts* (the refutation tests from Step 3). Waiting only on the lagging outcome means learning a year late.
+- **Build a measurement frame per priority with three layers:** the *lagging outcome* (the value-stream outcome and its target date — Effectiveness), the *leading signals* (Customer and Organizational AER on the value stream, which move months before the outcome), and the *hypothesis signposts* (the experiments from Step 3). Waiting only on the lagging outcome means learning a year late.
 - Measure outcomes, not activity. Governance & Measurement reads whether value-stream outcomes are being produced — not whether teams are busy.
 - Do not build a parallel behavioral track. OSM does not generate its own AER; it is the reconciliation point where PTS's Organizational AER and CVDM's Customer AER converge, expressed through the 8 Values. Define *where they converge* and *who reads them together*.
 - **Read outcomes against Values, not just targets.** An outcome achieved in a way that breaks a stated Value — a retention target hit by making cancellation hard, an efficiency target hit by degrading dignity of service — is not counted as achieved. Name the Value-conduct signal to watch alongside each outcome where the risk exists.
 - **Use the tracking practice you already have.** If the organization runs OKRs, a balanced scorecard, or value-stream KPIs, express the measurement frame through them — value-stream outcomes as Objectives, leading signals as Key Results. They carry the frame; they do not replace the Kernel.
 - **Communicate the strategy, not just the priorities.** Share the Kernel — the crux, the choices including what we won't do, and why we expect to win — with the priorities. People execute a strategy they understand; they merely comply with a list.
 - **Baseline Experience with the strategy clarity check** (see [3E Application](#3e-application)): ask a sample of team leads and managers across levels to state the top priority, why we will win, and one thing we have chosen not to do. The share who answer consistently with the Kernel is OSM's leading Experience signal.
-- Make the handoff explicit. PTS must receive each value-stream outcome with its owner, success definition, committed resources, and the assumptions it tests. An outcome handed off without a measurement frame returns no usable signal.
+- Make the handoff explicit. PTS must receive each value-stream outcome with its owner, success definition, committed resources, and the hypotheses it tests. An outcome handed off without a measurement frame returns no usable signal.
 - You are done when each priority has a three-layer measurement frame, a named convergence point for Org AER + Customer AER + 8 Values, a confirmed PTS owner — and the strategy clarity baseline is taken.
 
 ---
 
 ### Step 6 — Activate the strategic feedback loop
 
-**What you do:** Define the cadence, forums, owners, triggers, and decision rules for the continuous loop between Governance & Measurement and Execution & Deployment. This is where PTS's executability signal, CVDM's customer reality, the dual-track AER, the 8 Values, and enterprise risk converge — and resolve into decisions that confirm, retune, or refute the strategy's assumptions.
+**What you do:** Define the cadence, forums, owners, triggers, and decision rules for the continuous loop between Governance & Measurement and Execution & Deployment. This is where PTS's executability signal, CVDM's customer reality, the dual-track AER, the 8 Values, and enterprise risk converge — and resolve into decisions on the strategy's hypotheses and its priorities.
 
-**Key question this step answers:** *How and when will strategy be reassessed as execution generates signal — and what will we do when an assumption fails?*
+**Key question this step answers:** *How and when will strategy be reassessed as execution generates signal — and what will we do when a hypothesis is rejected?*
 
 **Inputs:** Measurement frames (Step 5); the return path from PTS and CVDM; the risk signal from ERM
 **Output:** Strategic governance cadence — forums and their purpose, named owners, out-of-cycle triggers, decision rules, and the decision log
 
 **Guidance:**
-- **Separate the read from the decision.** Run three rhythms, each with a distinct job:
+- **Separate the read from the decision.** Run three rhythms, each with a distinct job, at the cadences the organization already practices — its management reviews, its planning cycle, and its strategy or budget cycle. OSM does not fix the period. The read runs more often than the forum, and the forum more often than the reset; each decision forum has at least one read before it. A common pattern is monthly, quarterly and annual.
 
-  | Forum | Frequency | Job | Owner |
+  | Forum | Cadence | Job | Owner |
   |---|---|---|---|
-  | **Reconciliation read** | Monthly | Read leading signals, dual-track AER, and assumption signposts together; flag anything off-path. No priority changes except on a trigger | Strategy lead |
-  | **Decision forum** | Quarterly | Decide per priority — persist, retune, re-resource, or stop — and record each decision in the decision log | CEO / executive team |
-  | **Strategic reset** | Annual | Re-run Steps 1–3: revisit the diagnosis, the choices, and the register | CEO / executive team |
+  | **Reconciliation read** | The organization's management-review cadence | Read leading signals, dual-track AER, and hypothesis signposts together; flag anything off-path. No priority changes except on a trigger | Strategy lead |
+  | **Decision forum** | The organization's planning cadence | Give each hypothesis its status, then decide per priority — persist, retune, re-resource, or stop — and record each decision in the decision log | CEO / executive team |
+  | **Strategic reset** | The organization's strategy or budget cycle | Re-run Steps 1–3: revisit the diagnosis, the choices, and the register; put the Vision to its owners if the evidence says it no longer holds | CEO / executive team |
 
-- **Set at minimum three kinds of out-of-cycle trigger.** An **executability signal** from PTS (a value-stream outcome the operating model cannot carry, or a cascade conflict the ranking cannot settle); a **customer-reality signal** from CVDM (strategic signals that refute a written assumption); and a **risk signal** from ERM (exposure moving outside appetite). Each should be tied to a specific assumption or risk in the Priority Register — a trigger that tests nothing in particular will never fire.
-- **Decide with a fixed set of options.** For each priority, the decision forum chooses one: **persist** (signal on path), **retune** (change the outcome target, the value stream, or the how-to-win within the same choice), **re-resource** (move capacity toward or away from it), or **stop** (retire the priority; its resources return to the ranking). When a core assumption behind the Kernel itself is refuted, the decision is to reopen Step 2 out of cycle.
+- **Set at minimum three kinds of out-of-cycle trigger.** An **executability signal** from PTS (a value-stream outcome the operating model cannot carry, or a cascade conflict the ranking cannot settle and that blocks work); a **customer-reality signal** from CVDM (strategic signals that reject a written hypothesis); and a **risk signal** from ERM (exposure moving outside appetite). Each should be tied to a specific hypothesis or risk in the Priority Register — a trigger that tests nothing in particular will never fire.
+- **Give each hypothesis a status first.** At each decision forum, before deciding any priority, mark every hypothesis *accepted* (its latest run did not meet the rejection condition), *rejected* (it did), or *not yet run* (no run has reached its read date; give the planned date), from its latest experiment or dated observation, in the Priority Register, and log each run and any change of status. An experiment may be run again when its result is unclear or conditions change; the latest run sets the status, and earlier runs stay in the log. Readings before a run's read date are signposts for the reconciliation read, not a status. The rejection condition is fixed before the first run. A rerun keeps it; changing it makes a new hypothesis, logged as one, with the reason. The status is recorded separately from the priority decision, so a priority's result does not rewrite what its experiment showed. A priority kept at *persist* while one of its hypotheses is rejected needs a written reason in the log.
+- **Decide with a fixed set of options.** For each priority, the decision forum chooses one: **persist** (signal on path), **retune** (change the outcome target, the value stream, or the how-to-win within the same choice), **re-resource** (move funding or capacity toward or away from it), or **stop** (retire the priority; its resources return to the ranking). When a core hypothesis behind the Kernel itself is rejected, the decision is to reopen Step 2 out of cycle.
+- **What re-resource can move.** At each decision forum, re-resource moves funding and capacity: the funding a priority receives, what persistent value-stream teams work on, and shared capacity lent between priorities. A critical case may be decided out of cycle by the same forum and logged.
 - **Decisions that change risk exposure need the risk owner.** Slowing a priority that mitigates a named risk extends that exposure. The risk owner accepts or rejects it, and the acceptance is recorded.
 - **Decide changes to the capability map.** PTS and CVDM propose capabilities the map is missing, and duplicates they find; OSM decides them at the decision forum, so the map stays one organization-wide list rather than one per team or value stream.
-- **Keep the decision log.** Record every decision with the signal behind it, the rationale, and who accepted the risk. The log is how the loop learns across cycles, and how next year's reset knows which assumptions were tested and what they showed.
+- **Keep the decision log.** Record every decision with the signal behind it, the rationale, and who accepted the risk. The log is how the loop learns across cycles, and how the next strategic reset knows which hypotheses were tested, how often, and what each run showed.
 - Name who acts, not just who receives. The CEO/executive team owns acting on the reconciled signal. If reconciliation lands in a report no one is accountable for acting on, the loop is decorative.
 - Strategy is a living hypothesis. A governance cadence that only reports status, never revises priorities or resources, is not OSM.
 
@@ -232,7 +235,7 @@ OSM runs at three levels (Organization → Enterprise/Function → Portfolio). R
 > **Scenario:** A Series C workflow-automation SaaS company has grown to 400 people. The strategy lives in a board deck, but engineering, sales, and customer success are each optimizing for different goals. Growth is slowing and no one can say which bets are working. The CEO runs OSM to reset and govern strategy.
 
 **Step 1 — Foundation and diagnosis**
-Values, Mission, Vision confirmed (Mission: "make operations teams self-sufficient"). Context: the mid-market segment is saturating; enterprise deals are growing; Product Mindset maturity is moderate — teams run sprints but rarely test strategic assumptions. Enterprise risk: over-reliance on two large logos (38% of ARR).
+Values, Mission, Vision confirmed (Mission: "make operations teams self-sufficient"). Context: the mid-market segment is saturating; enterprise deals are growing; Product Mindset maturity is moderate — teams run sprints but rarely test strategic hypotheses. Enterprise risk: over-reliance on two large logos (38% of ARR).
 *Diagnosis (the crux):* Growth now depends on enterprise, but the product was built for self-serve mid-market adoption. Enterprise deals close, then stall in onboarding because activation needs professional services (PS) the company cannot scale — so enterprise accounts churn or never expand, and the two legacy logos remain the revenue base. One obstacle explains both the growth stall and the concentration risk.
 
 **Step 2 — Strategic choices (Strategy Kernel)**
@@ -243,11 +246,11 @@ Values, Mission, Vision confirmed (Mission: "make operations teams self-sufficie
 
 **Step 3 — Ranked priorities (Priority Register)**
 
-| # | Priority (outcome) | Crux addressed | Key assumptions (refutation test) | Horizon |
+| # | Priority (outcome) | Crux addressed | Key hypotheses (experiment; *rejected if*) | Horizon |
 |---|---|---|---|---|
-| 1 | 70% of new enterprise accounts reach their first automated workflow within 14 days without PS, by Q4 | The onboarding obstacle itself | **A1** Enterprise ops teams can adopt unassisted if onboarding is redesigned (*refuted if* < 40% of pilot accounts activate unassisted within 30 days by end of Q2) | Near |
-| 2 | Enterprise reaches 40% of new ARR within 18 months | Growth depends on enterprise | **A2** Time-to-value is a top-three enterprise buying criterion (*refuted if* win/loss coding does not show it in the top three by Q3) | Mid |
-| 3 | Top-two accounts fall below 25% of ARR within 24 months, with both renewed | Concentration persists while enterprise stalls | **A3** Enterprise growth dilutes concentration faster than mid-market expansion can (*refuted if* enterprise new ARR is below plan for two consecutive quarters) | Mid |
+| 1 | 70% of new enterprise accounts reach their first automated workflow within 14 days without PS, by Q4 | The onboarding obstacle itself | **A1** Enterprise ops teams can adopt unassisted if onboarding is redesigned (pilot experiment; *rejected if* < 40% of pilot accounts activate unassisted within 30 days by end of Q2) | Near |
+| 2 | Enterprise reaches 40% of new ARR within 18 months | Growth depends on enterprise | **A2** Time-to-value is a top-three enterprise buying criterion (observation; *rejected if* win/loss coding does not show it in the top three by Q3) | Mid |
+| 3 | Top-two accounts fall below 25% of ARR within 24 months, with both renewed | Concentration persists while enterprise stalls | **A3** Enterprise growth dilutes concentration faster than mid-market expansion can (observation; *rejected if* enterprise new ARR is below plan for two consecutive quarters) | Mid |
 
 *Coherence check:* the first draft had *#1 enterprise growth* ranked above *#3 self-serve onboarding* — but growth depended on onboarding, so onboarding was moved to first. The draft outcome for concentration was *NRR ≥ 120% across mid-market* — rejected because NRR does not measure concentration and mid-market is saturating; enterprise growth (#2) is the faster route to dilution, so #3 is now measured directly as top-two share of ARR. *Horizon mix:* no long-term bet this cycle — accepted deliberately given runway, and recorded.
 
@@ -260,14 +263,14 @@ Values, Mission, Vision confirmed (Mission: "make operations teams self-sufficie
 - *Cascade conflict:* at Portfolio level, the Onboarding teams were also carrying mid-market onboarding fixes. The ranking settled it locally — enterprise first, mid-market at keep-the-lights-on — with no escalation needed.
 
 **Step 5 — Governance & Measurement, communication, handoff**
-Each value-stream outcome handed to PTS with owner, resources, and the assumption it tests. Measurement frame for #1: lagging — 14-day unassisted activation rate; leading — enterprise Customer AER (adoption and day-7 engagement) and Organizational AER (are onboarding teams adopting the new self-serve operating model?); signpost — the A1 pilot activation rate. Frames expressed as quarterly OKRs. The Kernel was shared company-wide; the strategy clarity check baseline: 45% of team leads could state the top priority, why we win, and one thing we won't do — target 80% by the next quarter.
+Each value-stream outcome handed to PTS with owner, resources, and the hypothesis it tests. Measurement frame for #1: lagging — 14-day unassisted activation rate; leading — enterprise Customer AER (adoption and day-7 engagement) and Organizational AER (are onboarding teams adopting the new self-serve operating model?); signpost — the A1 pilot activation rate. Frames expressed as quarterly OKRs. The Kernel was shared company-wide; the strategy clarity check baseline: 45% of team leads could state the top priority, why we win, and one thing we won't do — target 80% by the next quarter.
 
 **Step 6 — Feedback loop**
-- Monthly reconciliation read (strategy lead); quarterly decision forum (CEO and executive team); annual reset.
-- Triggers: *executability* — PTS reports Onboarding cannot reach 14-day activation with current capabilities; *customer reality* — A1 pilot activation falls below its refutation line; *risk* — either top-two account signals non-renewal.
+- Reconciliation read monthly (strategy lead), at the existing management review; decision forum quarterly (CEO and executive team), at the planning cycle; strategic reset annually.
+- Triggers: *executability* — PTS reports Onboarding cannot reach 14-day activation with current capabilities; *customer reality* — A1 pilot activation falls below its rejection line; *risk* — either top-two account signals non-renewal.
 - Owner: CEO acts on the reconciled signal; strategy lead owns the cadence and the decision log.
 
-> **What it produced:** A one-page Kernel naming the crux and what the company would not do; three coherent, ranked priorities, each measured directly and funded in rank order; and a working loop. At the first quarterly decision forum, the monthly reads showed weak Org AER — onboarding teams were still routing enterprise accounts to PS by habit — and A1 pilot activation at 31%, below path. **Decision (logged):** reinforce #1 and slow #2 for one quarter, moving Enterprise Acquisition's sales-engineering capacity to Onboarding — because selling more enterprise accounts into an onboarding that cannot yet activate them adds churn and PS load, not growth. Slowing #2 delays the dilution #3 depends on, so the risk owner reviewed it and accepted a one-quarter delay as within appetite, given both top accounts had just renewed. Not every decision held. At the next forum, pilot activation had reached only 38%: the extra sales-engineering capacity had not changed the habit of routing enterprise accounts to PS, which was a team-practice problem, not a capacity one. **Decision (logged):** the reinforcement was recorded as not working, the capacity went back to #2, and the routing habit went to PTS as an operating-model problem to fix, with PTS's executability read on it due at the next forum.
+> **What it produced:** A one-page Kernel naming the crux and what the company would not do; three coherent, ranked priorities, each measured directly and funded in rank order; and a working loop. At the first quarterly decision forum, A1 stayed *not yet run*: the pilot reads at the end of Q2. The monthly reads showed weak Org AER (onboarding teams were still routing enterprise accounts to PS by habit) and pilot activation at 31%, below path. **Decision (logged):** reinforce #1 and slow #2 for one quarter, lending Enterprise Acquisition's shared sales-engineering capacity to Onboarding for one quarter — because selling more enterprise accounts into an onboarding that cannot yet activate them adds churn and PS load, not growth. Slowing #2 delays the dilution #3 depends on, so the risk owner reviewed it and accepted a one-quarter delay as within appetite, given both top accounts had just renewed. Not every decision held. At the next forum the pilot reported: activation had reached only 38%, below its 40% line, so A1 was marked *rejected* and the run logged with its evidence. The extra sales-engineering capacity had not changed the habit of routing enterprise accounts to PS, which was a team-practice problem, not a capacity one. **Decision (logged):** the reinforcement was recorded as not working and the loan ended, returning the capacity to #2. A1 tests a priority, not the Kernel, so Step 2 stayed closed. #1 was kept, with its written reason: the pilot had run with the routing habit still in place, so it had tested the habit as much as unassisted adoption. The routing habit went to PTS as an operating-model problem to fix, with PTS's executability read on it due at the next forum, and A1 was scheduled to run again once the fix is in.
 
 ---
 
@@ -287,10 +290,10 @@ Mission confirmed: "deliver every entitled benefit accurately, on time, and with
 
 **Step 3 — Ranked priorities (Priority Register)**
 
-| # | Priority (outcome) | Crux addressed | Key assumptions (refutation test) | Horizon |
+| # | Priority (outcome) | Crux addressed | Key hypotheses (experiment; *rejected if*) | Horizon |
 |---|---|---|---|---|
-| 1 | Citizens complete the five highest-volume benefit applications digitally, end to end, to a decision | Manual determination blocks digital completion | **A1** Citizens will complete digitally if they can finish end to end (*refuted if* < 60% of digital starters reach a decision, six months after the first benefit goes live). **A2** Eligibility rules for the five benefits can be codified without legislative change (*refuted if* legal review finds any benefit needs statutory change) | Mid |
-| 2 | Payment accuracy reaches and sustains 99.5%, closing the audit exposure | Manual re-keying causes errors | **A3** Automated determination removes the main error source (*refuted if* accuracy on automated cases is not above manual cases within two quarters of go-live) | Near–mid |
+| 1 | Citizens complete the five highest-volume benefit applications digitally, end to end, to a decision | Manual determination blocks digital completion | **A1** Citizens will complete digitally if they can finish end to end (funnel observation; *rejected if* < 60% of digital starters reach a decision, six months after the first benefit goes live). **A2** Eligibility rules for the five benefits can be codified without legislative change (observation by legal review; *rejected if* legal review finds any benefit needs statutory change) | Mid |
+| 2 | Payment accuracy reaches and sustains 99.5%, closing the audit exposure | Manual re-keying causes errors | **A3** Automated determination removes the main error source (parallel-run comparison; *rejected if* accuracy on automated cases is not above manual cases within two quarters of go-live) | Near–mid |
 
 *Reclassified:* a third proposed priority — "the three directorates govern transformation as one coherent portfolio" — maps to no service delivery stream and produces no citizen or public outcome. It describes *how the agency will govern*, so it became the governance design in Steps 4–6 rather than a priority. *Coherence check:* both priorities rest on the same mechanism (automated determination), so they reinforce rather than compete.
 
@@ -306,11 +309,11 @@ Mission confirmed: "deliver every entitled benefit accurately, on time, and with
 Outcomes handed to the agency's delivery model (PTS equivalent). Measurement frame: lagging — digital completion-to-determination rate, payment accuracy; leading — Citizen AER (digital starts, completion, returning digital use) and Organizational AER (are caseworkers adopting the rules engine rather than overriding it?); signposts — A1–A3. *Values-conduct signal:* dignity measures (assisted-digital wait times, complaints from citizens with low digital access) are read alongside digital completion — digital gains that come with worsening dignity measures are not counted as achieved. The Kernel was briefed to every directorate; the strategy clarity check was baselined with directorate leads and frontline managers.
 
 **Step 6 — Feedback loop**
-- Monthly reconciliation read (transformation office); quarterly cross-directorate governance board as the decision forum; annual reset aligned to the budget cycle.
+- Monthly reconciliation read (transformation office); quarterly cross-directorate governance board as the decision forum; strategic reset annually, aligned to the budget cycle.
 - Triggers: *executability* — a benefit's rules cannot be codified (A2); *citizen reality* — citizens revert to phone after starting digitally (A1), or dignity measures worsen for low-access groups; *risk* — accuracy on any migrated benefit falls below 99% during parallel run, which halts cutover.
 - Owner: Director-General acts on the reconciled signal; the transformation office owns the cadence and the decision log.
 
-> **What it produced:** A diagnosis that explained why two earlier programs failed; one theory of change that serves both citizen access and payment accuracy; the three directorates governed as one portfolio through the governance design rather than as a competing priority; and a loop that acts on assumptions. In month 4, legal review found that one of the five benefits needed statutory change — refuting A2 for that benefit. **Decision (logged):** retune #1 — substitute the sixth-highest-volume benefit rather than wait on legislation, and open a policy track for the blocked one. The decision was recorded with its rationale and fed straight into the next budget-cycle reset.
+> **What it produced:** A diagnosis that explained why two earlier programs failed; one theory of change that serves both citizen access and payment accuracy; the three directorates governed as one portfolio through the governance design rather than as a competing priority; and a loop that acts on hypotheses. In month 4, legal review found that one of the five benefits needed statutory change. That executability trigger called an out-of-cycle decision forum, which marked A2 *rejected* for that benefit. **Decision (logged):** retune #1 — substitute the sixth-highest-volume benefit rather than wait on legislation, and open a policy track for the blocked one. The decision was recorded with its rationale and fed straight into the next budget-cycle reset.
 
 ---
 
@@ -324,9 +327,9 @@ OSM is measured at the strategic level. **Effectiveness is OSM's proof** — whe
 |---|---|---|---|
 | **Efficiency — Use** | Does the strategy process and governance run without friction — priorities set, cascaded, funded, and governed without delay, duplication, or conflicting direction? | Time from reset to funded, cascaded register; count of unresolved cascade conflicts; share of in-flight work dispositioned | Leading |
 | **Experience — Feel** | Do leaders, teams, and stakeholders experience the strategy as clear, coherent, and credible — can they state it, and do they believe it? | The **strategy clarity check** (below) | Leading |
-| **Effectiveness — Achieve** | Are the strategic value priorities producing their intended value-stream outcomes and organizational value — and are their assumptions holding? | Share of value-stream outcomes on path to target; share of assumptions confirmed vs. refuted | Lagging |
+| **Effectiveness — Achieve** | Are the strategic value priorities producing their intended value-stream outcomes and organizational value — and are their hypotheses holding? | Share of value-stream outcomes on path to target; share of hypotheses read by their date, with accepted vs. rejected reported, not targeted | Lagging |
 
-**The strategy clarity check — OSM's Experience instrument.** At each quarterly decision forum, ask a sample of team leads and managers across levels and value streams three open questions and one rating:
+**The strategy clarity check — OSM's Experience instrument.** At each decision forum, ask a sample of team leads and managers across levels and value streams three open questions and one rating:
 
 1. What is our top strategic priority?
 2. Why will we win — or why will this work — where others or past efforts have not?
@@ -343,27 +346,27 @@ This framework most directly drives:
 
 | Value | How This Framework Generates It |
 |---|---|
-| **Strategic Value** | OSM is the source of Strategic Value across both its layers. **Formulation quality** is generated in Steps 1–3 — the clarity of the diagnosis, the strength of the choices, and how well-formed the assumptions are. **Execution effectiveness** is generated in Steps 4–6 — whether priorities are funded, carried, tested, and revised on signal |
+| **Strategic Value** | OSM is the source of Strategic Value across both its layers. **Formulation quality** is generated in Steps 1–3 — the clarity of the diagnosis, the strength of the choices, and how well-formed the hypotheses are. **Execution effectiveness** is generated in Steps 4–6 — whether priorities are funded, carried, tested, and revised on signal |
 | **Innovation Value** | OSM sets the direction for Innovation Value — the where-to-play choices and the horizon mix in the Priority Register determine where the organization places its innovation bets, even though PTS most directly generates it |
 
 All 8 Values are touched across the full IIVCS — and OSM is uniquely the **reconciliation point** where every value dimension converges to validate strategy. The table above shows which Values OSM is the primary generator and direction-setter of.
 
 ### AER Connection
 
-OSM does not generate a behavioral track of its own. It is the reconciliation point where **Organizational AER** (from PTS — whether teams adopt, engage with, and sustain the operating model) and **Customer AER** (from CVDM — whether customers adopt, engage with, and retain the value) converge in Governance & Measurement, expressed through the 8 Values. When *both* tracks reach sustained Retention on a value stream, the strategic priority behind it is validated — the strategy produced organizational value that lasted. When the tracks diverge, the divergence points to *which* assumption failed: teams adopt an operating model that yields no customer retention — the how-to-win or customer assumption is wrong; customers retain on delivery the operating model cannot sustain — the executability or resourcing assumption is wrong. OSM reads the divergence against the Priority Register and retunes.
+OSM does not generate a behavioral track of its own. It is the reconciliation point where **Organizational AER** (from PTS — whether teams adopt, engage with, and sustain the operating model) and **Customer AER** (from CVDM — whether customers adopt, engage with, and retain the value) converge in Governance & Measurement, expressed through the 8 Values. When *both* tracks reach sustained Retention on a value stream, the strategic priority behind it is validated — the strategy produced organizational value that lasted. When the tracks diverge, the divergence points to *which* hypothesis failed: teams adopt an operating model that yields no customer retention — the how-to-win or customer hypothesis is wrong; customers retain on delivery the operating model cannot sustain — the executability or resourcing hypothesis is wrong. OSM reads the divergence against the Priority Register and retunes.
 
 ---
 
 ## System Health Check
 
-These signals confirm OSM is working — not just being followed. Review them at each quarterly decision forum.
+These signals confirm OSM is working — not just being followed. Review them at each decision forum.
 
 | Stage | Signal | Healthy | At Risk |
 |---|---|---|---|
 | **Formulation** | Diagnosis names the crux | The Kernel states the one or two challenges the strategy must overcome | Context is described but no crux is named; the priorities could belong to any organization |
 | | Choices are explicit | Where we play, where we won't play, and how we win (or theory of change) are written, and won't-play includes options someone wanted | No won't-play list; "how we win" is absent or generic ("better service," "customer focus") |
 | | Priorities stated as outcomes | Every priority is a dated, measurable outcome that traces to the Kernel | Priorities are activities, deliverables, or initiatives ("launch X"), or float free of the Kernel |
-| | Assumptions written and tested | Each priority's assumptions have refutation tests, and the loop checks them | Assumptions are unwritten; reviews debate opinions rather than test evidence |
+| | Hypotheses written and tested | Each priority's hypotheses have an experiment and a rejection condition, and each forum gives them a status before deciding | Hypotheses are unwritten or never given a status; reviews debate opinions rather than test evidence |
 | **Deployment** | Priority-to-value-stream traceability | Every priority maps to a value stream with a named owner and an outcome that measures it directly | Priorities exist with no value stream or owner, or with an outcome that measures something else |
 | | Resources follow the ranking | Budget and capacity are committed in rank order; in-flight work is dispositioned | Funding contradicts the ranking; stopped initiatives are still consuming capacity |
 | | Cascade coherence | Lower levels align to the level above; conflicts are settled by the ranking or escalated as executability signals | Lower levels run their own priorities, or settle conflicts by quiet local override |
@@ -385,10 +388,10 @@ OSM is a formulation *and* governance model: it requires a diagnosis and explici
 | **Playing to Win** (Lafley & Martin) | Winning aspiration → Vision (Step 1) and priority outcomes (Step 3); where to play / how to win → Step 2; must-have capabilities → value streams and PTS (Step 4); management systems → Steps 5–6 |
 | **Porter — competitive strategy** | Five Forces and value-chain analysis inform the context and diagnosis (Step 1); competitive positioning is the substance of "how we win" (Step 2) |
 | **Blue Ocean / Wardley mapping** | Analytical inputs to where-to-play and how-to-win choices (Step 2) |
-| **Hoshin Kanri** | Catchball and the X-matrix map to the cascade and coherence checks (Steps 3–4); the review cycle maps to the decision forum (Step 6) |
+| **Hoshin Kanri** | The X-matrix maps to the coherence checks (Steps 3–4) and the review cycle to the decision forum (Step 6). OSM does not run catchball's negotiation rounds: a level's executability read returns through governance, on the cadence or out of cycle when critical |
 | **OKRs / Balanced Scorecard** | The tracking layer for the measurement frame (Step 5) — they carry the priorities; they do not supply the diagnosis or choices |
 
-The distinction matters: deployment methods (Hoshin Kanri, OKRs) assume a strategy already exists, and formulation methods (Rumelt, Porter, Playing to Win) concentrate on making the choices. OSM runs formulation and governance as one loop, and three things set it apart: the choices become ranked, outcome-stated value priorities resting on written assumptions; they are deployed through the value streams PTS and CVDM run on; and the loop is read through 3E → AER → 8 Values, with signal from PTS, CVDM and enterprise risk.
+The distinction matters: deployment methods (Hoshin Kanri, OKRs) assume a strategy already exists, and formulation methods (Rumelt, Porter, Playing to Win) concentrate on making the choices. OSM runs formulation and governance as one loop, and three things set it apart: the choices become ranked, outcome-stated value priorities resting on written, tested hypotheses; they are deployed through the value streams PTS and CVDM run on; and the loop is read through 3E → AER → 8 Values, with signal from PTS, CVDM and enterprise risk.
 
 ---
 
@@ -421,7 +424,7 @@ OSM applies to any organization that must turn intent into governed value creati
 3. Set and rank strategic value priorities — *What outcomes prove the strategy is working, and what must be true?*
 4. Map to value streams, commit resources, and cascade — *Through which value streams, with what resources?*
 5. Establish Governance & Measurement, communicate, and hand off — *How will we know early, and is the strategy understood?*
-6. Activate the strategic feedback loop — *When will we reassess, and what will we do when an assumption fails?*
+6. Activate the strategic feedback loop — *When will we reassess, and what will we do when a hypothesis is rejected?*
 
 **Artifacts:** Strategy Kernel (one page) · Priority Register (living, ranked) · Decision log
 
@@ -429,7 +432,7 @@ OSM applies to any organization that must turn intent into governed value creati
 
 - The Kernel names the crux, where we play and won't play, and how we win
 - Every priority is a dated, measurable outcome that traces to the Kernel
-- Every priority's assumptions are written, with refutation tests the loop checks
+- Every priority's hypotheses are written, each with an experiment the loop reads and a status
 - Every priority traces to a value stream with a named owner and funded capacity
 - Resources follow the ranking; lower levels align to the level above
 - Team leads can state the top priority, why it wins, and what we won't do
