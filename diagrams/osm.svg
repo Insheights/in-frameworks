@@ -22,7 +22,7 @@
       1 value-stream outcomes  E&D -> G&M   (G&M reads whether value-stream outcomes are produced)
       2 value-stream risk      E&D -> ERM   (risks identified at the value-stream level in execution)
       3 risk exposure          G&M -> ERM   (decisions that change risk exposure go to the risk owner)
-      4 strategic reassessment G&M -> SVC   (assumptions confirmed, retuned or refuted)
+      4 strategic reassessment G&M -> SVC   (hypotheses accepted or rejected, and the priorities revised on them)
       5 strategic risks        SVC -> ERM   (the risk carried by strategic choices; outside appetite goes to the risk owner)
     Vocabulary sources: README (OSM), glossary.md, feedback.md, integration.md (ERM), guides/osm-practitioners-guide.md.
   -->
@@ -93,7 +93,7 @@
   <path class="work" d="M612,487.3 H532"/>
   <text class="lbl" x="574" y="481" text-anchor="middle">shapes</text>
 
-  <!-- SVC -> G&M: ranked value priorities (with assumptions) are handed to governance -->
+  <!-- SVC -> G&M: ranked value priorities (with hypotheses) are handed to governance -->
   <path class="work" d="M374.4,556 V692"/>
   <text class="lbl" x="366" y="675" text-anchor="end">sets value priorities</text>
 
@@ -171,7 +171,7 @@
   <text class="t wht" x="346" y="402">Strategic Objectives,</text>
   <text class="t wht" x="346" y="420">Outcomes and Value</text>
   <text class="t wht" x="346" y="438">Priorities &amp;</text>
-  <text class="t wht" x="346" y="456">Assumptions</text>
+  <text class="t wht" x="346" y="456">Hypotheses</text>
 
   <rect x="612" y="350" width="192" height="84" rx="3" fill="#C5D0DA"/>
   <text class="h dark" x="622" y="370">Leadership Direction</text>

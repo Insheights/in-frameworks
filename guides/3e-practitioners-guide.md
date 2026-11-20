@@ -339,7 +339,7 @@ A 3E gap is expected to show up as an AER gap. A diagnosed Efficiency failure is
 |---|---|---|
 | **Efficiency** (leading) | Operational Value | Friction-free execution is the core measure and output of operational capability |
 | **Experience** (leading) | Customer Value | How value is felt is the most direct Customer Value signal — ahead of outcomes |
-| **Effectiveness** (lagging) | Strategic Value | Outcome achievement validates or refutes the strategic hypotheses behind the element |
+| **Effectiveness** (lagging) | Strategic Value | Outcome achievement is evidence to accept or reject the strategic hypotheses behind the element |
 
 ---
 
