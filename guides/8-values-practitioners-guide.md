@@ -107,16 +107,16 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 | Signal Source | Signal | Most Directly Surfaces | Type |
 |---|---|---|---|
-| **3E Efficiency** | Friction, completion rates, cost-per-activation | Operational Value | Leading |
+| **3E Efficiency** | Ease of use — effort, time-to-value, friction, unassisted completion share, cost-per-activation | Operational Value | Leading |
 | **3E Experience** | Customer sentiment, CSAT at step, NPS (stated intent to recommend) | Customer Value | Leading |
 | **3E Effectiveness** | Outcome attainment, goal achievement | Strategic Value | Lagging |
-| **Customer AER — Adoption** | Trial-to-activation, feature uptake, onboarding completion | Customer Value, Financial Value | Leading |
+| **Customer AER — Adoption** | Activation / first-use rate, trial-to-activation, onboarding completion, entry conversion | Customer Value, Financial Value | Leading |
 | **Customer AER — Engagement** | Day-2 return, active usage depth, session frequency, feature breadth | Customer Value, Market Value | Leading |
 | **Customer AER — Retention** | 12-month retention, repeat purchase, churn rate | Financial Value, Market Value | Lagging |
 | **Customer AER — Recommendation** | Referral rate, organic acquisition, advocacy behavior | Market Value, Financial Value | Lagging |
-| **Org AER — Adoption** | New practice uptake, capability activation rate, tool usage | People Value, Operational Value | Leading |
-| **Org AER — Engagement** | Cross-functional participation, initiative engagement depth | People Value, Operational Value | Leading |
-| **Org AER — Retention** | Retention by capability area, internal mobility, team continuity | People Value, Strategic Value | Lagging |
+| **Org AER — Adoption** | Practice coverage — the share of teams whose artefacts show the practices running | People Value, Operational Value | Leading |
+| **Org AER — Engagement** | Review output cited in recorded decisions, team-made changes to the way of working, cross-functional participation | People Value, Operational Value | Leading |
+| **Org AER — Retention** | Practice persistence, team continuity by capability area, voluntary turnover | People Value, Strategic Value | Lagging |
 | **Financial signals** | Revenue, margin, unit economics, pipeline, CLV | Financial Value | Lagging |
 | **Market signals** | Brand perception, competitive win/loss; NPS only as a stand-in where referral (Customer AER Recommendation) is not observed | Market Value | Lagging |
 | **IP and R&D signals** | Pipeline of new value streams, discovery velocity, hypothesis-to-delivery rate | Innovation Value | Leading/Lagging |

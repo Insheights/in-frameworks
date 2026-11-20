@@ -24,9 +24,9 @@ AER operates across two parallel tracks — Customer AER measuring how customers
 
 **Organizational AER** measures behavioral response to the operating model from the delivering organization:
 
-- **Adoption** — teams adopt the operating model, practices, and ways of working
-- **Engagement** — teams engage with purpose, culture, and the work — active participation, not compliance
-- **Retention** — talent, institutional knowledge, and organizational stability are sustained
+- **Adoption** — teams take up the operating model, practices, and ways of working: the breadth of teams whose own records show the practices running
+- **Engagement** — teams actively use and shape the way of working — active participation, not compliance: review output that reaches decisions, and changes teams make to the model themselves
+- **Retention** — teams persist with the way of working, and the people and knowledge that carry it stay, because the operating model delivers outcomes: Effectiveness is expected to earn Retention. Read by *practice persistence* (the practices still seen in team artefacts at consecutive reviews), *team continuity* (members staying in persistent value-stream teams, by capability area), and *voluntary turnover*. Read Retention with the operating model's 3E: a fall that follows weak Effectiveness is the expected chain, so fix the model; a fall while Effectiveness holds points outside the model, such as the labour market or a leadership change
 
 AER is the home of these behavioral signals — return, active use, retention, renewal, referral, and teams' adoption and retention. 3E and the 8 Values read them from here rather than counting them again; candidate metrics are in [Metrics and Indicators](metrics-and-indicators.md#part-2--aer-metrics-and-indicators).
 
@@ -71,7 +71,7 @@ AER translates behavioral signal into organizational value across the 8 Values.
 
 - Adoption of operating model practices builds organizational capability
 - Engagement with purpose and culture generates discretionary effort and organizational health
-- Retention of talent and institutional knowledge sustains the delivery system
+- Retention of the way of working, and of the people and knowledge that carry it, sustains the delivery system
 
 Both tracks compound across the remaining 8 Values over time. Customer Retention generates Market Value through advocacy. Organizational Engagement generates Operational and Innovation Value through discretionary effort and creative investment, and Organizational Retention sustains Strategic Value by preserving the institutional knowledge and continuity that strategy execution depends on. Impact Value depends on sustained behavioral commitment across both tracks.
 

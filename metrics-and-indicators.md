@@ -47,7 +47,7 @@ Candidate metrics per dimension, with the architecture level they suit, signal t
 
 | Metric | Best at level | What it captures | Typical source | Threshold guidance |
 |---|---|---|---|---|
-| Completion / activation rate without assistance | Product/Service, Value Stage | % who complete without a support ticket or hand-off | Product analytics + support system | Healthy: at/above target & rising; At risk: falling, or a rising share needing assistance |
+| Unassisted completion share | Product/Service, Value Stage | Of those who complete, the % who need no support ticket or hand-off — the ease condition; the uptake itself is [AER Adoption](#customer-aer) | Product analytics + support system | Healthy: at/above target & rising; At risk: falling, or a rising share needing assistance |
 | Time-to-value (time-to-activation) | Value Stage, Value Stream | Elapsed time from start to first realized value | Analytics / operations data | Set target from the value promise (e.g. "first value in 5 days"); At risk: trending longer |
 | Steps-to-complete (actual vs. designed) | Process, Product/Service | Friction beyond the intended path | Process analytics | Healthy: actual ≈ designed; At risk: actual ≫ designed |
 | Rework / support-ticket rate | Process, Capability | Share of work redone or escalated | Support + QA data | At risk: rising rework or escalation rate |
@@ -73,7 +73,7 @@ Candidate metrics per dimension, with the architecture level they suit, signal t
 | Metric | Best at level | What it captures | Typical source | Threshold guidance |
 |---|---|---|---|---|
 | Outcome-attainment rate | Value Stage | % achieving the stage's realized-outcome definition | Outcome tracking | Read only after the outcome window; At risk: below target |
-| Conversion / goal-attainment rate | Product/Service | Whether the value proposition is realized | CRM / analytics | Baseline-relative vs. target |
+| Goal-attainment rate | Product/Service | Whether the value proposition is realized; entry conversion is uptake, read in [AER Adoption](#customer-aer) | CRM / analytics | Baseline-relative vs. target |
 | Revenue per customer / LTV | Value Stream | Financial proof of realized value | Finance / billing | Lagging; LTV is a projection from realized retention, so read it with [AER Retention](#customer-aer) |
 | Strategic-outcome achievement (OSM) | Value Stream | Whether the value-stream outcome is being produced | Governance review | At risk: priority off-track across ≥1 cycle |
 
@@ -89,6 +89,7 @@ AER is the home of behavioral signals: what customers and teams *do* once value 
 
 | Metric | AER stage | Best at level | What it captures | Typical source | Threshold guidance |
 |---|---|---|---|---|---|
+| Activation / first-use rate | Adoption | Product/Service, Value Stage | The share of those offered the value who start and reach first use — activation, onboarding completion, entry conversion | Product analytics / CRM | Baseline-relative, by cohort; At risk: a falling share reaching first use. 3E Efficiency reads how easily they got there |
 | Early return / day-2 return rate | Engagement | Product/Service | Unprompted return soon after first use — the behavior that follows felt value | Session analytics | At risk: falling unprompted return rate |
 | Engagement depth / active-use frequency | Engagement | Product/Service, Value Stream | Whether value is actively used, not just accessed | Usage analytics | Baseline-relative; At risk: declining active use |
 | Retention / repeat / renewal rate | Retention | Value Stream, Product/Service | Whether customers keep choosing the value stream | CRM / billing | Lagging; read by cohort over the realization window |
@@ -98,8 +99,13 @@ AER is the home of behavioral signals: what customers and teams *do* once value 
 
 | Metric | AER stage | Best at level | What it captures | Typical source | Threshold guidance |
 |---|---|---|---|---|---|
-| Team adoption & engagement of the operating model | Adoption, Engagement | Value Stream (PTS) | Whether *teams* take up and actively use the way of working | Org AER instrumentation (observed practice, not surveys) | At risk: falling adoption/engagement of the model |
-| Voluntary turnover | Retention | Organization, Value Stream | Whether talent and institutional knowledge stay | HR data | Lagging; baseline-relative; People Value reads from here |
+| Practice coverage | Adoption | Value Stream (PTS) | The share of the stream's teams whose artefacts show each defined practice running — a named accountable product role, outcome goals with baselines, discovery records, operating-model reviews held | Team artefacts, read at the operating-model review | Baseline-relative; At risk: a falling share of teams running the practices |
+| Decision trace and team-made change | Engagement | Value Stream (PTS) | The share of operating-model reviews whose output is cited in a recorded decision, and changes to the way of working teams propose and make themselves; cross-functional participation in discovery and reviews alongside | Review and decision records | Baseline-relative; At risk: reviews held but cited in no decision, or no team-made change |
+| Practice persistence | Retention | Value Stream (PTS) | Whether the practices are still seen in team artefacts at consecutive reviews | Team artefacts across reviews | Lagging; At risk: practices dropping out between reviews |
+| Team continuity | Retention | Value Stream, by capability area | Whether members stay in persistent value-stream teams | Team rosters / HR data | Baseline-relative; read with the model's 3E Effectiveness |
+| Voluntary turnover | Retention | Organization, Value Stream | Whether talent and institutional knowledge stay | HR data | Lagging; baseline-relative; read with the model's 3E Effectiveness, since it also moves with the labour market; People Value reads from here |
+
+Many organizations keep forum and review records unevenly, so early record-based readings of Organizational AER are partial; label them as such.
 
 ---
 

@@ -27,7 +27,7 @@ Definitions for the terms, acronyms, and external frameworks referenced across t
 | **Effectiveness (Achieve)** | Whether intended outcomes are achieved for customer and organization. The proof of value; a lagging, outcome signal. |
 | **AER** | **Adoption, Engagement, Retention** — the behavioral measurement model that sits between 3E and the 8 Values, measuring behavioral response to value delivery across two tracks. |
 | **Customer AER** | Behavioral response from the customer side — adoption, engagement, retention (or **Recommendation**) of the value offered. |
-| **Organizational AER (Org AER)** | Behavioral response from the delivering organization — adoption of the operating model, engagement with purpose and work, retention of talent and institutional knowledge. |
+| **Organizational AER (Org AER)** | Behavioral response from the delivering organization to the operating model — adoption (the breadth of teams running its practices), engagement (review output that reaches decisions; changes teams make to the model themselves), and retention (the way of working, the people, and the knowledge that carry it persisting: practice persistence, team continuity, voluntary turnover). |
 | **8 Values** | **Insheights 8 Organizational Values Measurement Model** — the eight dimensions of Organization Value: Customer, Financial, People, Operational, Market, Strategic, Innovation, Impact. |
 | **Feedback System** | The two-level upstream feedback path (operational via CVDM's five loops; organizational via the 8 Values) running CVDM → PTS → OSM. |
 
