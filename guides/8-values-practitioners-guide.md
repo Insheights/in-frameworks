@@ -30,7 +30,7 @@
 - [ ] AER data for both tracks: Customer AER (Adoption, Engagement, Retention rates) and Organizational AER (Adoption, Engagement, Retention across the workforce and partners)
 - [ ] OSM strategic hypotheses — the value priorities and strategic bets the organization is currently executing against
 - [ ] Current financial performance data (for Financial Value) and forward-looking pipeline data (CLV, revenue potential)
-- [ ] People and workforce indicators — not survey scores alone, but behavioral signals: internal mobility, capability depth, retention rates by role
+- [ ] People and workforce indicators — not survey scores alone, but behavioral signals: team continuity, voluntary turnover, internal mobility, capability depth
 - [ ] Any existing ESG, mission, or impact reporting (for Impact Value)
 
 **People required**
@@ -69,7 +69,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 **Guidance:**
 - A value is measured only if there is an observable signal with a named owner who reviews it on a defined cadence. A value claimed because an initiative exists ("we run a mentorship program, so we have People Value") is an assumption, not a measurement
-- Do not treat survey data as a behavioral signal. Engagement scores and satisfaction surveys are attitudinal — they tell you how people feel, not what they are doing. A People Value signal based only on survey data is a weak signal; it must be paired with behavioral indicators (internal mobility rates, retention by capability area, cross-functional team activation) to be credible
+- Do not treat survey data as a behavioral signal. Engagement scores and satisfaction surveys are attitudinal — they tell you how people feel, not what they are doing. A People Value signal based only on survey data is a weak signal; it must be paired with behavioral indicators (team continuity by capability area, voluntary turnover, internal mobility, practice coverage) to be credible
 - Values without signals are not zero — they are unknown. The diagnostic distinction matters: a value that is measured and weak requires an intervention; a value that is unmeasured requires instrumentation first
 - The most common unmeasured values in most organizations are: Innovation Value (IP and R&D pipeline is tracked financially, but capability expansion and future value stream health are not), Impact Value (ESG reporting exists but is not connected to operational behavior), and Strategic Value (strategy exists but execution effectiveness is not measured distinctly from financial outcomes)
 
@@ -107,16 +107,16 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 | Signal Source | Signal | Most Directly Surfaces | Type |
 |---|---|---|---|
-| **3E Efficiency** | Friction, completion rates, cost-per-activation | Operational Value | Leading |
+| **3E Efficiency** | Ease of use — effort, time-to-value, friction, quality, unassisted completion share, cost-per-activation | Operational Value | Leading |
 | **3E Experience** | Customer sentiment, CSAT at step, NPS (stated intent to recommend) | Customer Value | Leading |
 | **3E Effectiveness** | Outcome attainment, goal achievement | Strategic Value | Lagging |
-| **Customer AER — Adoption** | Trial-to-activation, feature uptake, onboarding completion | Customer Value, Financial Value | Leading |
+| **Customer AER — Adoption** | Activation / first-use rate, trial-to-activation, onboarding completion, entry conversion | Customer Value, Financial Value | Leading |
 | **Customer AER — Engagement** | Day-2 return, active usage depth, session frequency, feature breadth | Customer Value, Market Value | Leading |
 | **Customer AER — Retention** | 12-month retention, repeat purchase, churn rate | Financial Value, Market Value | Lagging |
 | **Customer AER — Recommendation** | Referral rate, organic acquisition, advocacy behavior | Market Value, Financial Value | Lagging |
-| **Org AER — Adoption** | New practice uptake, capability activation rate, tool usage | People Value, Operational Value | Leading |
-| **Org AER — Engagement** | Cross-functional participation, initiative engagement depth | People Value, Operational Value | Leading |
-| **Org AER — Retention** | Retention by capability area, internal mobility, team continuity | People Value, Strategic Value | Lagging |
+| **Org AER — Adoption** | Practice coverage — the share of teams whose artifacts show the practices running | People Value, Operational Value | Leading |
+| **Org AER — Engagement** | Review output cited in recorded decisions, team-made changes to the way of working, cross-functional participation | People Value, Operational Value | Leading |
+| **Org AER — Retention** | Practice persistence, team continuity by capability area, voluntary turnover | People Value, Strategic Value | Lagging |
 | **Financial signals** | Revenue, margin, unit economics, pipeline, CLV | Financial Value | Lagging |
 | **Market signals** | Brand perception, competitive win/loss; NPS only as a stand-in where referral (Customer AER Recommendation) is not observed | Market Value | Lagging |
 | **IP and R&D signals** | Pipeline of new value streams, discovery velocity, hypothesis-to-delivery rate | Innovation Value | Leading/Lagging |

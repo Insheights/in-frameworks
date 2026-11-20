@@ -24,9 +24,9 @@ AER operates across two parallel tracks — Customer AER measuring how customers
 
 **Organizational AER** measures behavioral response to the operating model from the delivering organization:
 
-- **Adoption** — teams adopt the operating model, practices, and ways of working
-- **Engagement** — teams engage with purpose, culture, and the work — active participation, not compliance
-- **Retention** — talent, institutional knowledge, and organizational stability are sustained
+- **Adoption** — teams take up the operating model, practices, and ways of working: the breadth of teams whose own records show the practices running
+- **Engagement** — teams actively use and shape the way of working — active participation, not compliance: review output that reaches decisions, and changes teams make to the model themselves
+- **Retention** — teams persist with the way of working, and the people and knowledge that carry it stay. An operating model that delivers outcomes is expected to earn this: Effectiveness drives Retention, as a reasoned hypothesis. Read by *practice persistence* (the practices still seen in team artifacts at consecutive reviews), *team continuity* (members staying in persistent value-stream teams, by capability area), and *voluntary turnover*. Read Retention with the operating model's 3E: a fall that follows weak Effectiveness is the expected chain, so fix the model; a fall while Effectiveness holds points outside the model, such as the labor market or a leadership change
 
 AER is the home of these behavioral signals — return, active use, retention, renewal, referral, and teams' adoption and retention. 3E and the 8 Values read them from here rather than counting them again; candidate metrics are in [Metrics and Indicators](metrics-and-indicators.md#part-2--aer-metrics-and-indicators).
 
@@ -40,7 +40,7 @@ The two tracks are parallel — both run simultaneously, and both are necessary.
 
 | 3E Dimension | AER Stage | Why |
 |---|---|---|
-| **Efficiency** | Adoption | Value that is accessible without friction lowers the barrier to entry — customers and teams adopt what they can reach |
+| **Efficiency** | Adoption | Value that is accessible without unnecessary friction, effort, time, or cost lowers the barrier to entry — customers and teams adopt what they can reach |
 | **Experience** | Engagement | Value that is felt positively sustains active participation — customers and teams engage with what they trust and enjoy |
 | **Effectiveness** | Retention | Value that delivers outcomes earns continued commitment — customers and teams persist with what works |
 
@@ -53,7 +53,7 @@ Customer AER    Adoption    →  Engagement  →  Retention
 Org AER         Adoption    →  Engagement  →  Retention
 ```
 
-A 3E gap at any stage is expected to show as an AER gap at the corresponding stage: friction in Efficiency as adoption failure, poor Experience as disengagement, weak Effectiveness as churn — in customers and in teams. These links are the model's reasoned hypothesis, to be confirmed with evidence (see [Limitations](#limitations)).
+A 3E gap at any stage is expected to show as an AER gap at the corresponding stage: an Efficiency gap (friction, effort, time, cost) as adoption failure, poor Experience as disengagement, weak Effectiveness as churn — in customers and in teams. These links are the model's reasoned hypothesis, to be confirmed with evidence (see [Limitations](#limitations)).
 
 ---
 
@@ -70,8 +70,8 @@ AER translates behavioral signal into organizational value across the 8 Values.
 **Organizational AER** drives People Value directly:
 
 - Adoption of operating model practices builds organizational capability
-- Engagement with purpose and culture generates discretionary effort and organizational health
-- Retention of talent and institutional knowledge sustains the delivery system
+- Engagement — teams using and shaping the way of working — generates discretionary effort and organizational health
+- Retention of the way of working, and of the people and knowledge that carry it, sustains the delivery system
 
 Both tracks compound across the remaining 8 Values over time. Customer Retention generates Market Value through advocacy. Organizational Engagement generates Operational and Innovation Value through discretionary effort and creative investment, and Organizational Retention sustains Strategic Value by preserving the institutional knowledge and continuity that strategy execution depends on. Impact Value depends on sustained behavioral commitment across both tracks.
 
