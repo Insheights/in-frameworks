@@ -99,11 +99,11 @@ AER is the home of behavioral signals: what customers and teams *do* once value 
 
 | Metric | AER stage | Best at level | What it captures | Typical source | Threshold guidance |
 |---|---|---|---|---|---|
-| Practice coverage | Adoption | Value Stream (PTS) | The share of the stream's teams whose artefacts show each defined practice running — a named accountable product role, outcome goals with baselines, discovery records, operating-model reviews held | Team artefacts, read at the operating-model review | Baseline-relative; At risk: a falling share of teams running the practices |
+| Practice coverage | Adoption | Value Stream (PTS) | The share of the stream's teams whose artifacts show each defined practice running — a named accountable product role, outcome goals with baselines, discovery records, operating-model reviews held | Team artifacts, read at the operating-model review | Baseline-relative; At risk: a falling share of teams running the practices |
 | Decision trace and team-made change | Engagement | Value Stream (PTS) | The share of operating-model reviews whose output is cited in a recorded decision, and changes to the way of working teams propose and make themselves; cross-functional participation in discovery and reviews alongside | Review and decision records | Baseline-relative; At risk: reviews held but cited in no decision, or no team-made change |
-| Practice persistence | Retention | Value Stream (PTS) | Whether the practices are still seen in team artefacts at consecutive reviews | Team artefacts across reviews | Lagging; At risk: practices dropping out between reviews |
-| Team continuity | Retention | Value Stream, by capability area | Whether members stay in persistent value-stream teams | Team rosters / HR data | Baseline-relative; read with the model's 3E Effectiveness |
-| Voluntary turnover | Retention | Organization, Value Stream | Whether talent and institutional knowledge stay | HR data | Lagging; baseline-relative; read with the model's 3E Effectiveness, since it also moves with the labour market; People Value reads from here |
+| Practice persistence | Retention | Value Stream (PTS) | Whether the practices are still seen in team artifacts at consecutive reviews | Team artifacts across reviews | Lagging; baseline-relative; At risk: practices dropping out between reviews |
+| Team continuity | Retention | Value Stream | Whether members stay in persistent value-stream teams, read by capability area | Team rosters / HR data | Baseline-relative; read with the model's 3E Effectiveness |
+| Voluntary turnover | Retention | Organization, Value Stream | Whether talent and institutional knowledge stay | HR data | Lagging; baseline-relative; read with the model's 3E Effectiveness, since it also moves with the labor market; People Value reads from here |
 
 Many organizations keep forum and review records unevenly, so early record-based readings of Organizational AER are partial; label them as such.
 
