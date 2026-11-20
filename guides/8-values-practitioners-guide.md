@@ -248,9 +248,9 @@ Read the network for root cause: a gap in People Value creates drag on Operation
 | Return path | What feeds it | Cadence | Owner |
 |---|---|---|---|
 | **OSM Governance & Measurement** | Full 8 Values profile — evidence to accept or reject strategic hypotheses | Each decision forum | OSM governance lead |
-| **CVDM Strategic signals loop → OSM** | Strategic Value and Financial Value effectiveness signals | Quarterly / annually | OSM governance lead |
+| **CVDM Strategic signals loop → OSM** | Strategic Value and Financial Value effectiveness signals | Before each OSM decision forum | OSM governance lead |
 | **PTS operating model review** | Operational Value and People Value gaps and root causes | The organization's planning cadence | PTS / delivery lead |
-| **CVDM performance optimization** | Customer Value and Market Value delivery signals | Monthly / quarterly | CVDM / customer experience lead |
+| **CVDM performance optimization** | Customer Value and Market Value delivery signals | Before each PTS operating-model review | CVDM / customer experience lead |
 | **IR 6 Capitals board reporting** | Full 8 Values profile translated to capital stock | Annually / per board cycle | Finance lead + governance lead |
 | **Out-of-cycle trigger — foundation** | Org AER Retention drops or Operational Value signal degrades sharply | Immediate | OSM governance lead |
 | **Out-of-cycle trigger — customer** | Customer AER Adoption or Retention drops below threshold | Immediate | CVDM / customer experience lead |

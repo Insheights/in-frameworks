@@ -39,7 +39,7 @@
 | Role | Why they must be present |
 |---|---|
 | Value-stream / journey owner | Owns the journey-to-value-stream mapping and the value-stage definitions |
-| Customer-facing team member(s) | Closest to how the journey is actually experienced — source of experience signal |
+| Customer-facing team member(s) | Closest to how the journey is actually experienced — add staff observation to the customer's own signal |
 | Delivery / operations member(s) | Own the capabilities and processes each value stage depends on |
 | Capability owners | Accountable for the capabilities and processes that deliver each value stage |
 | Data / analytics support | Instruments 3E and Customer AER across the journey |
@@ -65,12 +65,13 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Key question this step answers:** *What does the customer actually do, and which value stage serves each step?*
 
 **Inputs:** The customer journey; the value stream and its outcome
-**Output:** A journey-to-value-stream map — each journey step paired with the value stage that serves it
+**Output:** A journey-to-value-stream map, with its main path and any variants — each journey step paired with the value stage that serves it
 
 **Guidance:**
 - Map the journey as the customer experiences it, not as the organization processes it. "Decides whether to trust us with their data" is a journey step; "completes KYC workflow" is the internal process that serves it.
 - Every journey step must map to a value stage. A journey step with no value stage serving it is a gap where the customer is on their own — flag it.
 - One value stage may serve several journey steps. A value stage that serves no customer journey step is not automatically waste: it may be work behind the scenes that a later customer-facing stage depends on, or part of a value stream whose stakeholder is an internal user rather than a customer. Question it only if it serves neither.
+- **Map the main path first, then the variants that matter.** Add a variant for a customer segment, a channel, or a failure and recovery path — what happens when a step goes wrong and how the customer gets back on track — only where it changes which value stage serves the customer, or where its signal differs from the main path. Variants are branches of the same map, not separate funnels, so each value stream keeps one map and one owning product team.
 - You are done when every customer journey step is paired with the value stage that serves it, and every value stage either serves a journey step or is justified as behind-the-scenes or internal-stakeholder work.
 
 ---
@@ -122,6 +123,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Guidance:**
 - CVDM is where 3E is primarily surfaced. Apply it in sequence: **Efficiency (Use)** — can the customer access and use the value stage without friction; **Experience (Feel)** — does the customer feel positive, confident, supported; **Effectiveness (Achieve)** — is the value-stage outcome realized. Read the sequence, not the dimensions in isolation (see the [3E Practitioners Guide](3e-practitioners-guide.md) for the diagnostic).
 - Customer AER is CVDM's behavioral track: **Adoption** (the customer starts), **Engagement** (the customer actively uses), **Retention** (the customer returns / sustains). The model expects Efficiency to enable Adoption, Experience to sustain Engagement, and Effectiveness to earn Retention — a reasoned hypothesis, confirmed with evidence.
+- **Name a break only on two signals.** Name a break at a value stage only when two signals of different kinds agree there — one about what customers do (behaviour) and one about how they feel or what they say (perception). A single signal is a *candidate break*: investigate it, and name the break once a second signal confirms it.
 - Measure at two levels: value stage (where the customer experiences each step) and value stream (whether the whole journey realizes the value proposition). A value stream can show strong stage-level signal yet fail to retain — measure both.
 - You are done when each value stage has a 3E reading and the value stream has a Customer AER reading you can act on.
 
@@ -129,20 +131,20 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ### Step 5 — Activate the five feedback loops
 
-**What you do:** Stand up CVDM's five continuous feedback loops — **Experience feedback, Journey insights, Delivery learning, Performance optimization, Strategic signals** — each with a cadence, owner, and return path. These are the operational feedback mechanism of the IIVCS, returning signal to PTS and OSM.
+**What you do:** Stand up CVDM's five continuous feedback loops — **Experience feedback, Journey insights, Delivery learning, Performance optimization, Strategic signals** — each owned by the product team, with the decision it informs, how its signal is collected, a cadence, and a return path. These are the operational feedback mechanism of the IIVCS, returning signal to PTS and OSM.
 
 **Key question this step answers:** *How does customer signal surface continuously and return upstream to improve delivery and refine strategy?*
 
 **Inputs:** 3E + Customer AER instrumentation (Step 4)
-**Output:** Five active feedback loops — each with cadence, owner, and upstream return path
+**Output:** Five active feedback loops — each with its owner role, the decision it informs, its signal source and rough cost, its cadence, and its upstream return path
 
 **Guidance:**
 - The loops form a diagnostic sequence, each narrowing the cause one layer further: **Experience feedback** first (the most immediate customer signal), then **Journey insights** (where in the journey), **Delivery learning** (which value stage is not delivering its outcome), **Performance optimization** (which capability or process to fix), and **Strategic signals** last (whether strategic priorities still hold). Delivery learning and performance optimization work as a pair. The sequence is the order of diagnosis, not of cadence — performance optimization can run more often than delivery learning. Do not collapse them into one review — each surfaces a different signal at a different cadence.
 - Each loop has a return destination. Experience, Journey insights, and Performance optimization mostly improve delivery (return to the team and PTS); Delivery learning confirms value-stage outcomes; Strategic signals land on the value stream as a whole and return customer reality to OSM for strategic reassessment — the product team consolidates its learnings, including these signals, and OSM decides.
-- Name an owner who acts, not just receives. A loop that surfaces signal no one acts on is not a feedback loop.
-- Set minimum cadences and out-of-cycle triggers. An experience-signal drop should trigger an immediate journey review; a retention drop should trigger a delivery-learning and strategic-signals review.
+- **Specify each loop, hear the customer directly, and set its cadence.** The rules are set out once in the [IIVCS Feedback System](../feedback.md#operational-feedback--cvdm): the product team owns every loop, and a loop is active only once it is specified and has informed a decision; loops that read the customer draw on the customer's own words or behaviour, with staff observation added and labelled; and the cadences shown are typical, run at the organization's own. A loop that surfaces signal no one acts on is not a feedback loop.
+- **Set out-of-cycle triggers.** An experience-signal drop should trigger an immediate journey review; a retention drop should trigger a delivery-learning and strategic-signals review.
 
-**The five feedback loops** — what each surfaces, where it returns, and its typical cadence — are set out once in the [IIVCS Feedback System](../feedback.md#operational-feedback--cvdm).
+**The five feedback loops** — what each surfaces, its typical signal source, the decision it informs, where it returns, and its typical cadence — are set out once in the [IIVCS Feedback System](../feedback.md#operational-feedback--cvdm).
 
 ---
 
@@ -157,7 +159,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 > **Scenario:** A direct-to-consumer fitness app has strong sign-ups but poor 90-day retention. The value proposition — *help members build a sustainable workout habit* — is not being realized. The cross-functional team (built in PTS) runs CVDM on the new-member value stream.
 
 **Step 1 — Map the journey to the value stream**
-Journey steps → value stages: *discovers the app* → Acquisition stage; *signs up and sets a goal* → Onboarding stage; *completes first workouts* → Activation stage; *builds a routine* → Habit-formation stage; *sees results* → Outcome-realization stage.
+Journey steps → value stages: *discovers the app* → Acquisition stage; *signs up and sets a goal* → Onboarding stage; *completes first workouts* → Activation stage; *builds a routine* → Habit-formation stage; *sees results* → Outcome-realization stage. *Variant:* members who lapse after week 2 take a recovery path — *gets a re-engagement prompt and returns* — back into the Habit-formation stage; its signal differs from the main path, so it is read separately.
 
 **Step 2 — Define value stages and value propositions**
 - Onboarding: *the member has a plan that fits their life* (realized outcome: a scheduled plan they commit to).
@@ -171,10 +173,10 @@ Habit-formation value stage: Product/Service = streak tracking + adaptive remind
 **Step 4 — Instrument 3E + Customer AER (full Use → Feel → Achieve)**
 At the Habit-formation stage: **Efficiency (Use)** — % of members who can log a workout in under 10 seconds (88%, healthy); **Experience (Feel)** — does the member feel the plan fits them? In-app sentiment 3.1/5 (weak); **Effectiveness (Achieve)** — % sustaining 3+ sessions/week to week 4 (29%, underperforming). Customer AER at value-stream level: Adoption high, Engagement falling at week 2, Retention at 90 days low.
 
-Diagnostic (Use → Feel → Achieve): Efficiency holds, but Experience is weak — members do not feel the plan fits, so Engagement falls before the habit forms, and Retention fails. The break is at Feel, not Use. Action: use the workout-completion information flow to actually adapt the plan (the capability existed but the information flow was not wired to it).
+Diagnostic (Use → Feel → Achieve): Efficiency holds, but Experience is weak — members do not feel the plan fits (3.1/5, a perception signal), and Engagement falls at week 2 at the same stage (a behaviour signal), before the habit forms; Retention then fails. Two signals of different kinds agree, so the break is named at Feel, not Use. Action: use the workout-completion information flow to actually adapt the plan (the capability existed but the information flow was not wired to it).
 
 **Step 5 — Activate the five loops**
-Experience feedback (weekly, team) caught the sentiment drop first; Journey insights (bi-weekly) located it at the Habit-formation stage; Delivery learning (quarterly, → PTS) confirmed the stage was not delivering its outcome (29% sustaining to week 4) and tracks whether the fix moves it; Performance optimization (monthly, → PTS) traced that to the under-performing personalization capability; Strategic signals (quarterly, → OSM) fed back that retention — not acquisition — was the real strategic constraint.
+Experience feedback (weekly, owned by the team's product manager, from in-app sentiment) caught the sentiment drop first — a candidate break; Journey insights (bi-weekly, from usage analytics) located it at the Habit-formation stage and confirmed it with the week-2 Engagement drop, so the break was named; Delivery learning (quarterly, → PTS) confirmed the stage was not delivering its outcome (29% sustaining to week 4) and tracks whether the fix moves it; Performance optimization (monthly, → PTS) traced that to the under-performing personalization capability; Strategic signals (quarterly, → OSM) fed back that retention — not acquisition — was the real strategic constraint.
 
 > **What it produced:** A journey mapped to value stages with a precise diagnosis (Experience break at Habit-formation), a wired-up information flow that made the personalization capability real, and five loops returning signal — including strategic signals that reframed the company's growth priority from acquisition to retention.
 
@@ -185,7 +187,7 @@ Experience feedback (weekly, team) caught the sentiment drop first; Journey insi
 > **Scenario:** A retail bank's mortgage value stream has high application start rates but high abandonment before completion, and approved customers report a stressful experience. The value proposition — *get the customer confidently into their home* — is not being realized at the value-stream level. *(Translation: "customer" → "applicant"; "product/service" → "mortgage product"; "journey" → "application journey.")*
 
 **Step 1 — Map the journey to the value stream**
-Journey → value stages: *explores affordability* → Pre-qualification stage; *applies* → Application stage; *submits documents and waits* → Underwriting stage; *receives a decision* → Decision stage; *completes and draws down* → Completion stage.
+Journey → value stages: *explores affordability* → Pre-qualification stage; *applies* → Application stage; *submits documents and waits* → Underwriting stage; *receives a decision* → Decision stage; *completes and draws down* → Completion stage. *Variant:* applications that come through a broker follow the same stages, but at Underwriting the status updates go to the broker, and the applicant's confidence signal arrives through the broker too; that signal differs from the direct path, so it is read separately.
 
 **Step 2 — Define value stages and value propositions**
 - Application: *the applicant can apply without confusion or fear of getting it wrong* (realized outcome: a complete, accurate application submitted).
@@ -193,12 +195,12 @@ Journey → value stages: *explores affordability* → Pre-qualification stage; 
 - Decision: *the applicant gets a clear, timely answer* (realized outcome: a decision within the promised window, clearly explained).
 
 **Step 3 — Operationalize capabilities and processes**
-Underwriting value stage: Product/Service = application status portal; Capability = document verification + risk assessment; Process = underwriting review; Information concept = verification status, flowing to the portal so the applicant sees progress in real time.
+Underwriting value stage: Product/Service = application status portal; Capability = document verification + risk assessment; Process = underwriting review; Information concept = verification status, flowing to the portal so the applicant sees progress in real time, and to the broker's view for broker-channel applications.
 
 **Step 4 — Instrument 3E + Customer AER (value stage and value stream)**
 At Underwriting: **Efficiency (Use)** — average document re-request rate (high — 40% of applicants asked for documents twice); **Experience (Feel)** — applicant confidence during wait (low — 2.6/5, "no idea what's happening"); **Effectiveness (Achieve)** — % decided within promised window (68%). Value-stream Customer AER: Adoption strong, Engagement collapses at Underwriting (the wait), Retention (completion + would-recommend) weak.
 
-Diagnostic (Use → Feel → Achieve): the Efficiency gap (duplicate document requests) drives the Experience collapse during the wait, which drives abandonment before Decision. The information flow from verification to the status portal was not built — the capability ran blind to the applicant. Action: wire verification status into the portal and eliminate duplicate requests.
+Diagnostic (Use → Feel → Achieve): the Efficiency gap (duplicate document requests) drives the Experience collapse during the wait (2.6/5 confidence, a perception signal), which drives abandonment before Decision (Engagement collapsing at Underwriting, a behaviour signal) — two signals of different kinds agreeing at the same stage. The information flow from verification to the status portal was not built — the capability ran blind to the applicant. Action: wire verification status into the portal and eliminate duplicate requests.
 
 **Step 5 — Activate the five loops**
 Experience feedback (weekly) flagged the Underwriting anxiety; Journey insights (bi-weekly) located abandonment at the wait; Delivery learning (quarterly → PTS) showed Underwriting missing its outcome (68% decided within the promised window) and tracks completion-rate recovery; Performance optimization (monthly → PTS) targeted the verification process and duplicate-request defect; Strategic signals (quarterly → OSM) returned that mortgage experience — not pricing — was the competitive gap.
@@ -241,17 +243,18 @@ CVDM is the home of **Customer AER** — the customer half of the IIVCS dual-tra
 
 ## System Health Check
 
-These signals confirm CVDM is working — not just being followed. Review them at each feedback-loop cadence.
+These signals confirm CVDM is working — not just being followed. Review them before each PTS operating-model review, where the product team's loops are read together.
 
-| Signal | Healthy | At Risk |
-|---|---|---|
-| Journey-to-value-stream mapping | Every journey step maps to a value stage; no orphaned steps or stages | The map reflects internal process, not the customer journey; gaps go unflagged |
-| Value stages stated as outcomes | Each stage has a customer-outcome promise and a realized-outcome definition | Stages are defined as internal deliverables, not customer outcomes |
-| Information flows wired | Information flows between capabilities at the moment the customer needs it | Capabilities exist but run blind — information does not reach the customer or the next stage |
-| 3E read in sequence | Use → Feel → Achieve is read in order; Experience gaps traced upstream | Only outcome (Effectiveness) is watched; experience and friction are invisible |
-| Five loops active and owned | All five loops run at their cadence with named owners who act | Loops are collapsed into one review, or surface signal no one acts on |
+| Signal | Healthy | At Risk | Remedy when At Risk |
+|---|---|---|---|
+| Journey-to-value-stream mapping | Every journey step maps to a value stage; no orphaned steps or stages | The map reflects internal process, not the customer journey; gaps go unflagged | Step 1: re-map from the customer's perspective |
+| Value stages stated as outcomes | Each stage has a customer-outcome promise and a realized-outcome definition | Stages are defined as internal deliverables, not customer outcomes | Step 2: restate the stage as a customer-outcome promise |
+| Information flows wired | Information flows between capabilities at the moment the customer needs it | Capabilities exist but run blind — information does not reach the customer or the next stage | Step 3: wire the information flow the capability runs without |
+| 3E read in sequence | Use → Feel → Achieve is read in order; Experience gaps traced upstream; a break is named only on two signals of different kinds | Only outcome (Effectiveness) is watched; experience and friction are invisible; a break is named on one signal | Step 4: read Use → Feel → Achieve in order, and name a break only on two signals |
+| Five loops active and owned | All five loops are specified — owner role, decision informed, method, rough cost — and each has informed a decision | Loops are collapsed into one review, left unspecified, or surface signal no one acts on | Step 5: specify the loop |
+| Customer's own signal | Experience feedback, Journey insights, and Delivery learning draw on the customer's own words or behaviour | A loop that reads the customer runs on staff observation only (provisional) | Step 5: replace provisional staff observation with a customer-sourced method |
 
-**If two or more signals are At Risk:** Stop and return to Step 1. The journey-to-value-stream mapping has drifted from the customer's actual experience — re-map from the customer's perspective and re-instrument before running the loops again.
+**When a signal is At Risk:** apply its remedy before the next review. A signal still At Risk at two reviews running goes to the value-stream owner; where a value stage cannot deliver its outcome, it also returns to PTS through Delivery learning.
 
 ---
 
@@ -289,9 +292,10 @@ CVDM applies to any organization that realizes value for someone through a journ
 - Value stages are stated as customer outcomes, not internal deliverables
 - Information flows are wired where the customer needs them
 - 3E is read in sequence (Use → Feel → Achieve), with gaps traced upstream
-- All five loops run at their cadence with owners who act
+- All five loops are specified, owned by the product team, and have informed a decision
+- Loops that read the customer draw on the customer's own words or behaviour
 
-**The five feedback loops:** Experience feedback (continuous / weekly) · Journey insights (sprint / bi-weekly) · Delivery learning (monthly / quarterly) · Performance optimization (sprint / monthly) · Strategic signals (quarterly / annually → OSM) — a diagnostic sequence, Experience first, Strategic signals last.
+**The five feedback loops** (typical cadences; run each at the organization's own): Experience feedback (continuous / weekly) · Journey insights (sprint / bi-weekly) · Delivery learning (monthly / quarterly) · Performance optimization (sprint / monthly) · Strategic signals (quarterly / annually → OSM) — a diagnostic sequence, Experience first, Strategic signals last.
 
 **Primary 3E signal:** Experience — CVDM is the customer-facing layer where feeling surfaces first; read it in sequence, with Effectiveness as the proof the value proposition landed.
 
