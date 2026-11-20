@@ -4,27 +4,27 @@
 
 ## In Development
 
-> **Status:** The practitioner-guide, maturity-model, and *Metrics and Indicators* items are **draft ready, needs review** — first drafts written, committed, and linked from the README, pending review and refinement before being considered final.
+> **Status:** The practitioner guides, the maturity model with the Quick Self-Assessment, and *Metrics and Indicators* are **reviewed**: each has been through a critical review and the owner's rulings, and is linked from the README. Reviewed does not mean field-validated: thresholds, bars and worked examples are reasoned defaults until real assessment runs calibrate them.
 
 ### Practitioners Guide — OSM
 A step-by-step guide for practitioners applying the Organization Strategy Model. Covers the full formulation-to-governance run: diagnosing the key challenge, making explicit strategic choices (where to play and not play, how to win or theory of change), setting ranked, outcome-stated priorities with written hypotheses, committing resources in rank order through value streams, and governing through a feedback loop that tests those hypotheses. Defines the three OSM artifacts (One-Page Strategy, Priority Register, decision log), the strategy clarity check as OSM's Experience instrument, and how OSM maps to existing strategy methods (Rumelt, Playing to Win, Porter, Hoshin Kanri, [Objectives and Key Results (OKRs)](glossary.md#external-frameworks-referenced)). Includes worked examples, OSM-specific system health indicators, and a translation note for non-product contexts. It also covers both earlier *OSM Framework Refinements*: values as a constraint on strategic choices (a values screen, plus values-conduct signals in governance) and cross-level conflict resolution (settled by the ranking, and escalated as an executability signal).
-**Draft:** [guides/osm-practitioners-guide.md](guides/osm-practitioners-guide.md) — *needs review.*
+**Reviewed:** [guides/osm-practitioners-guide.md](guides/osm-practitioners-guide.md).
 
 ### Practitioners Guide — PTS
 A step-by-step guide for practitioners applying the Product Transformation System. Covers how to stand up a Product Operating Model, structure cross-functional teams around value streams, activate each POM Enabler, and run the Discover–Support phases continuously. Includes worked examples of [Efficiency, Experience, Effectiveness (3E)](3e.md) measurement in transformation contexts, PTS-specific system health indicators, an industry translation note, and full coverage of the Launch phase — external [Go-To-Market (GTM)](glossary.md#common-metrics-and-acronyms) and internal change communication.
-**Draft:** [guides/pts-practitioners-guide.md](guides/pts-practitioners-guide.md) — *needs review.*
+**Reviewed:** [guides/pts-practitioners-guide.md](guides/pts-practitioners-guide.md).
 
 ### Practitioners Guide — CVDM
 A step-by-step guide for practitioners applying the Customer Value Delivery Model. Covers how to map customer journeys to value streams, define value stages, operationalize capabilities and processes, and activate the five feedback loops. Includes worked examples of the full 3E sequence (Use → Feel → Achieve) at value stage and value stream level, CVDM-specific system health indicators, and a translation note for non-product contexts.
-**Draft:** [guides/cvdm-practitioners-guide.md](guides/cvdm-practitioners-guide.md) — *needs review.*
+**Reviewed:** [guides/cvdm-practitioners-guide.md](guides/cvdm-practitioners-guide.md). One question is still open: whether a journey map needs customer research before it counts.
 
 ### Adoption Sequencing & Maturity Model
 A maturity model that helps organizations self-assess their current state and determine where to start — OSM, PTS, or CVDM — and in what sequence. Defines what early, developing, and mature adoption looks like across the suite. Includes the IIVCS self-assessment in two forms — a quick directional check and a detailed, evidence-anchored scored instrument that produces a maturity profile (strengths, gaps, adoption priorities) across all IIVCS components.
-**Draft:** [adoption-maturity.md](adoption-maturity.md), with [quick-assessment.md](quick-assessment.md) — *needs review.* The Detailed Assessment instrument is maintained privately (see the note below).
+**Reviewed:** [adoption-maturity.md](adoption-maturity.md), with [quick-assessment.md](quick-assessment.md). The Detailed Assessment instrument is maintained privately (see the note below).
 
 ### Measurement Framework — Metrics and Indicators
 Practitioner-facing layer for the 3E and 8 Values measurement models: concrete metrics, indicators, and thresholds for each dimension across OSM, PTS, and CVDM, with the leading and lagging signals that indicate the system is working at each architecture level. Includes the **8 Values Minimum Viable Signal Set** (embedded) and states **reference bars (v3)** for system maturity, which the Detailed Assessment uses; v2 tightened them so a token action does not meet them, and v3 counts a feedback loop only when it is active. *3E Aggregation* and *3E Benchmarking* depend on it; field calibration of the thresholds is gated on real assessment runs.
-**Draft:** [metrics-and-indicators.md](metrics-and-indicators.md) — *needs review.*
+**Reviewed:** [metrics-and-indicators.md](metrics-and-indicators.md).
 
 > **Note:** The IIVCS **Detailed Assessment** instrument — and the assessment *solution* built on it (the build inputs and the application that runs it and tracks maturity over time) — are maintained in a **separate private repository**, not here. This public repo carries the openly published assessment *methodology*: the Adoption Sequencing & Maturity Model and the Quick Self-Assessment.
 
