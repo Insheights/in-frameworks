@@ -170,7 +170,7 @@ Effectiveness underperforming?
 
 **Return path by CVDM feedback loop:**
 
-| CVDM Loop | What 3E signals return to it | Cadence |
+| CVDM Loop | What 3E signals return to it | Typical cadence |
 |---|---|---|
 | **Experience feedback** | Experience signals from all elements | Continuous / weekly |
 | **Journey insights** | Efficiency signals revealing friction across the journey | Sprint / bi-weekly |
