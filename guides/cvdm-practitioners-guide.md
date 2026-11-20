@@ -141,9 +141,8 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Guidance:**
 - The loops form a diagnostic sequence, each narrowing the cause one layer further: **Experience feedback** first (the most immediate customer signal), then **Journey insights** (where in the journey), **Delivery learning** (which value stage is not delivering its outcome), **Performance optimization** (which capability or process to fix), and **Strategic signals** last (whether strategic priorities still hold). Delivery learning and performance optimization work as a pair. The sequence is the order of diagnosis, not of cadence — performance optimization can run more often than delivery learning. Do not collapse them into one review — each surfaces a different signal at a different cadence.
 - Each loop has a return destination. Experience, Journey insights, and Performance optimization mostly improve delivery (return to the team and PTS); Delivery learning confirms value-stage outcomes; Strategic signals land on the value stream as a whole and return customer reality to OSM for strategic reassessment — the product team consolidates its learnings, including these signals, and OSM decides.
-- **The product team owns every loop.** A loop is active when it names the role in the team that acts on it, the decision it informs, and how its signal is collected — using the organization's existing research or analytics where they exist — with a rough cost, and has informed at least one decision. Until then it is planned. A research or analytics team may collect a loop's signal as a capability the product team consumes; the loop and its decision stay with the product team. A loop that surfaces signal no one acts on is not a feedback loop.
-- **Hear the customer directly.** Every loop that reads the customer — Experience feedback, Journey insights, and Delivery learning — draws on at least one source in the customer's own words or behaviour. Customer-facing staff add to that signal; they do not replace it, and their reports are recorded as staff observation. Where no customer-sourced method can be funded yet, the loop may run on staff observation, labelled provisional, and the System Health Check reads it At Risk until customer signal arrives.
-- **Set cadences and out-of-cycle triggers.** The cadences shown are typical starting points; run each loop at the organization's own cadence. Each loop reads at least once before the decision it informs — Delivery learning and Performance optimization before PTS's operating-model review, Strategic signals before each OSM decision forum. The out-of-cycle triggers stay. An experience-signal drop should trigger an immediate journey review; a retention drop should trigger a delivery-learning and strategic-signals review.
+- **Specify each loop, hear the customer directly, and set its cadence.** The rules are set out once in the [IIVCS Feedback System](../feedback.md#operational-feedback--cvdm): the product team owns every loop, and a loop is active only once it is specified and has informed a decision; loops that read the customer draw on the customer's own words or behaviour, with staff observation added and labelled; and the cadences shown are typical, run at the organization's own. A loop that surfaces signal no one acts on is not a feedback loop.
+- **Set out-of-cycle triggers.** An experience-signal drop should trigger an immediate journey review; a retention drop should trigger a delivery-learning and strategic-signals review.
 
 **The five feedback loops** — what each surfaces, its typical signal source, the decision it informs, where it returns, and its typical cadence — are set out once in the [IIVCS Feedback System](../feedback.md#operational-feedback--cvdm).
 
@@ -188,7 +187,7 @@ Experience feedback (weekly, owned by the team's product manager, from in-app se
 > **Scenario:** A retail bank's mortgage value stream has high application start rates but high abandonment before completion, and approved customers report a stressful experience. The value proposition — *get the customer confidently into their home* — is not being realized at the value-stream level. *(Translation: "customer" → "applicant"; "product/service" → "mortgage product"; "journey" → "application journey.")*
 
 **Step 1 — Map the journey to the value stream**
-Journey → value stages: *explores affordability* → Pre-qualification stage; *applies* → Application stage; *submits documents and waits* → Underwriting stage; *receives a decision* → Decision stage; *completes and draws down* → Completion stage. *Variant:* applications that come through a broker follow the same stages, but at Underwriting the status updates go to the broker, which changes the information flow.
+Journey → value stages: *explores affordability* → Pre-qualification stage; *applies* → Application stage; *submits documents and waits* → Underwriting stage; *receives a decision* → Decision stage; *completes and draws down* → Completion stage. *Variant:* applications that come through a broker follow the same stages, but at Underwriting the status updates go to the broker, and the applicant's confidence signal arrives through the broker too; that signal differs from the direct path, so it is read separately.
 
 **Step 2 — Define value stages and value propositions**
 - Application: *the applicant can apply without confusion or fear of getting it wrong* (realized outcome: a complete, accurate application submitted).
@@ -244,7 +243,7 @@ CVDM is the home of **Customer AER** — the customer half of the IIVCS dual-tra
 
 ## System Health Check
 
-These signals confirm CVDM is working — not just being followed. Review them at each feedback-loop cadence.
+These signals confirm CVDM is working — not just being followed. Review them before each PTS operating-model review, where the product team's loops are read together.
 
 | Signal | Healthy | At Risk | Remedy when At Risk |
 |---|---|---|---|
