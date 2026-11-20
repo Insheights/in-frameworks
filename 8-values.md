@@ -255,8 +255,8 @@ The Innovation ↔ Financial relationship is indirect and episodic: financial re
 |---|---|---|
 | **People → Operational** | Foundational | People capability is the prerequisite for operational performance |
 | **People → Innovation** | Foundational | People capability and engagement drive innovation capacity |
-| **Operational → Impact** | Generative | How the organisation operates directly creates or undermines societal and ecosystem impact |
-| **Operational → Strategic** | Feedback | Operational capability and capacity inform strategic feasibility — what the organisation can actually execute |
+| **Operational → Impact** | Generative | How the organization operates directly creates or undermines societal and ecosystem impact |
+| **Operational → Strategic** | Feedback | Operational capability and capacity inform strategic feasibility — what the organization can actually execute |
 | **Customer → Financial** | Generative | Customer value delivery generates revenue, margin, and financial sustainability |
 | **Customer → Market** | Generative | Consistent customer outcomes build market reputation and position |
 | **Customer → Strategic** | Feedback | Customer outcomes are direct evidence for whether strategic hypotheses are being validated |

@@ -175,7 +175,7 @@ The 8 Values form a network, not a linear chain. Most values are convergence nod
 | People → Operational | People capability is the prerequisite for operational performance | enables |
 | People → Innovation | People capability and engagement drive innovation capacity | enables |
 | Operational → Strategic | Operational capacity informs strategic feasibility | informs feasibility |
-| Operational → Impact | How the organisation operates creates or undermines societal impact | creates |
+| Operational → Impact | How the organization operates creates or undermines societal impact | creates |
 | Customer → Financial | Customer value delivery generates revenue and financial sustainability | generates revenue |
 | Customer → Market | Consistent customer outcomes build market reputation | builds reputation |
 | Customer → Strategic | Customer outcomes give evidence to accept or reject strategic hypotheses | validates |

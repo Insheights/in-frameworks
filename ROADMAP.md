@@ -16,7 +16,7 @@ A step-by-step guide for practitioners applying the Product Transformation Syste
 
 ### Practitioners Guide — CVDM
 A step-by-step guide for practitioners applying the Customer Value Delivery Model. Covers how to map customer journeys to value streams, define value stages, operationalize capabilities and processes, and activate the five feedback loops. Includes worked examples of the full 3E sequence (Use → Feel → Achieve) at value stage and value stream level, CVDM-specific system health indicators, and a translation note for non-product contexts.
-**Reviewed:** [guides/cvdm-practitioners-guide.md](guides/cvdm-practitioners-guide.md). One question is still open: whether a journey map needs customer research before it counts.
+**Reviewed:** [guides/cvdm-practitioners-guide.md](guides/cvdm-practitioners-guide.md).
 
 ### Adoption Sequencing & Maturity Model
 A maturity model that helps organizations self-assess their current state and determine where to start — OSM, PTS, or CVDM — and in what sequence. Defines what early, developing, and mature adoption looks like across the suite. Includes the IIVCS self-assessment in two forms — a quick directional check and a detailed, evidence-anchored scored instrument that produces a maturity profile (strengths, gaps, adoption priorities) across all IIVCS components.
