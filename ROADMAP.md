@@ -11,7 +11,7 @@ A step-by-step guide for practitioners applying the Organization Strategy Model.
 **Reviewed:** [guides/osm-practitioners-guide.md](guides/osm-practitioners-guide.md).
 
 ### Practitioners Guide — PTS
-A step-by-step guide for practitioners applying the Product Transformation System. Covers how to stand up a Product Operating Model, structure cross-functional teams around value streams, activate each POM Enabler, and run the Discover–Support phases continuously. Includes worked examples of [Efficiency, Experience, Effectiveness (3E)](3e.md) measurement in transformation contexts, PTS-specific system health indicators, an industry translation note, and full coverage of the Launch phase — external [Go-To-Market (GTM)](glossary.md#common-metrics-and-acronyms) and internal change communication. It works through the organization's own funding process, role titles and forums rather than installing new ones, and sets the conditions they must come to meet: funding for persistent value-stream teams, one named role accountable for each Core team's product, and one route for trade-offs. It starts with a pilot on one value stream, with the work the pilot stops named up front and its first active feedback loop as the first visible win. Together with the team types it defines, this covers the earlier planned *Role and Ownership Model*.
+A step-by-step guide for practitioners applying the Product Transformation System. Covers how to stand up a Product Operating Model, structure cross-functional teams around value streams, activate each POM Enabler, and run the Discover–Support phases continuously. Includes worked examples of [Efficiency, Experience, Effectiveness (3E)](3e.md) measurement in transformation contexts, PTS-specific system health indicators, an industry translation note, and full coverage of the Launch phase — external [Go-To-Market (GTM)](glossary.md#common-metrics-and-acronyms) and internal change communication. It works through the organization's own funding process, role titles and forums rather than installing new ones, and sets the conditions they must come to meet: funding for persistent value-stream teams, one named role accountable for each Core team's product, and one route for trade-offs. It starts with a pilot on one value stream, with the work the pilot stops named up front and its first active feedback loop as the first visible win. The earlier planned *Role and Ownership Model* is folded into this guide, which gives the team types, the accountable role and the route for trade-offs.
 **Reviewed:** [guides/pts-practitioners-guide.md](guides/pts-practitioners-guide.md).
 
 ### Practitioners Guide — CVDM
@@ -32,10 +32,10 @@ Practitioner-facing layer for the 3E and 8 Values measurement models: concrete m
 
 ## Needs Review
 
-> **Status:** Published and linked from the README, but not yet through a whole-document review. Read them as drafts.
+> **Status:** Published and linked from the README, and critically reviewed with the other pages, but not yet signed off: each still needs the owner's ruling and a final review before it moves to *Reviewed*.
 
 ### Practitioners Guides — 3E and 8 Values
-Step-by-step guides for applying the [3E](3e.md) measurement model at any architecture element, and for reading, diagnosing and acting on the [8 Values](8-values.md) profile at each governance cadence. They have been edited for consistency with the reviewed pages, but each still needs its own review.
+Step-by-step guides for applying the [3E](3e.md) measurement model at any architecture element, and for reading, diagnosing and acting on the [8 Values](8-values.md) profile at each governance cadence. Both were edited to match the reviewed pages; neither has yet had its final sign-off.
 **Needs review:** [guides/3e-practitioners-guide.md](guides/3e-practitioners-guide.md), [guides/8-values-practitioners-guide.md](guides/8-values-practitioners-guide.md).
 
 ---
@@ -58,7 +58,7 @@ Extends the 8 Values from a set of positive dimensions to a model that also hand
 Guidance on running the transition itself — moving an organization from current to envisioned state — not just measuring whether it took (Organizational AER). Frames the change practice around the integrated methods already referenced (ADKAR, Kotter, McKinsey 7-S in aer-comparison.md) and the POM Enablers, giving practitioners a native path through resistance, sequencing, and enablement rather than only a maturity target. Pairs with the *Adoption Sequencing & Maturity Model*, which says where to start but not how to move. The pilot-first path, starting on one value stream, is already in the PTS guide; the Playbook covers the rest.
 
 ### Templates and Canvases
-Downloadable, reusable artifacts that turn the practitioner guides from readable to usable: an OSM One-Page Strategy and Priority Register canvas, a journey-to-value-stream mapping template (CVDM), a 3E instrumentation worksheet, and an 8 Values reading sheet. The OSM, PTS and CVDM guides are now reviewed, so their templates can follow; each guide's set is released in full.
+Downloadable, reusable artifacts that turn the practitioner guides from readable to usable: an OSM One-Page Strategy and Priority Register canvas, a journey-to-value-stream mapping template (CVDM), a 3E instrumentation worksheet, and an 8 Values reading sheet. The OSM, PTS and CVDM guides are now reviewed, so their templates can follow; the 3E and 8 Values sets wait on those guides' sign-off. Each guide's set is released in full.
 
 ---
 
