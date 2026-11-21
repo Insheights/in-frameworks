@@ -165,6 +165,8 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 
 ## Documents in This System
 
+> **Status:** The OSM, PTS and CVDM practitioner guides, the Adoption Sequencing & Maturity Model with the Quick Self-Assessment, and Metrics and Indicators are **reviewed**: each has been through a critical review and the owner's rulings. The 3E and 8 Values practitioner guides have been critically reviewed but are not yet signed off, and are marked *needs review*. Reviewed does not mean field-validated: thresholds, bars and worked examples are reasoned defaults until real assessment runs calibrate them.
+
 **Frameworks**
 - This document — OSM (Organization Strategy Model), PTS (Product Transformation System), CVDM (Customer Value Delivery Model)
 - [Framework Positioning](positioning.md) — how OSM, PTS, and CVDM relate within the system
@@ -189,14 +191,14 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 - [OSM Practitioners Guide](guides/osm-practitioners-guide.md)
 - [PTS Practitioners Guide](guides/pts-practitioners-guide.md)
 - [CVDM Practitioners Guide](guides/cvdm-practitioners-guide.md)
-- [3E Practitioners Guide](guides/3e-practitioners-guide.md)
-- [8 Values Practitioners Guide](guides/8-values-practitioners-guide.md)
+- [3E Practitioners Guide](guides/3e-practitioners-guide.md) — *needs review*
+- [8 Values Practitioners Guide](guides/8-values-practitioners-guide.md) — *needs review*
 
 **Reference**
 - [Glossary](glossary.md) — terms, acronyms, and external frameworks
 
 **Planning**
-- [Roadmap](ROADMAP.md)
+- [Roadmap](ROADMAP.md) — what is still to come
 
 ---
 
