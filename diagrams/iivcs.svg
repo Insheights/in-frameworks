@@ -1,12 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="660" viewBox="0 0 1000 660" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="560" viewBox="0 0 1140 560" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
   <title>Insheights Integrated Value Creation System</title>
   <!--
     Layout
-    - Product Mindset band (top) and Value Streams band (bottom) span x=60..940.
-    - Framework boxes are 192 wide: OSM x=60 (upper row, y=240..340), PTS x=404 and CVDM x=748 (y=400..480).
-    - Dashed lines: Product Mindset (brown, as in pts-detailed.svg) above each framework; Value Streams (red) below each framework.
-    - OSM bottom points (quarters): 108 Value Streams, 156 value-stream outcomes & strategic signals (in), 204 value priorities (out).
-      PTS / CVDM side pairs at y=426.7 (work) and 453.3 (feedback).
+    - Product Mindset band (top) and Value Streams band (bottom) span x=60..1076.
+    - Framework boxes, one row, 192 wide and 100 high (y=260..360): OSM x=60, PTS x=472, CVDM x=884; gaps of 220 for the labels.
+    - Dashed lines from each box's centre (x=156, 568, 980): Product Mindset (brown, as in pts-detailed.svg) above; Value Streams (red) below.
+    - Side pairs at y=293.3 (work) and 326.7 (feedback), thirds of the box height.
     - Grey = work flow, blue = feedback flow; labels above work lines and below feedback lines.
   -->
   <defs>
@@ -32,8 +31,8 @@
   </defs>
 
   <!-- background -->
-  <rect width="1000" height="660" fill="#F1F4F7"/>
-  <rect width="1000" height="660" fill="url(#dots)"/>
+  <rect width="1140" height="560" fill="#F1F4F7"/>
+  <rect width="1140" height="560" fill="url(#dots)"/>
 
   <!-- title -->
   <text x="60" y="40" font-size="20" font-weight="700" fill="#2E3A46">Insheights Integrated Value Creation System</text>
@@ -41,67 +40,67 @@
   <text x="60" y="88" font-size="12.5" fill="#3B4652">The Insheights Integrated Value Creation System is how organizations define, build, and deliver value — from</text>
   <text x="60" y="106" font-size="12.5" fill="#3B4652">strategic intent to value — integrating existing practices into a coherent system.</text>
 
-  <!-- legend: top-right, same spot as the other diagrams -->
-  <text x="860" y="34" font-size="12" fill="#3B4652">work flow</text>
-  <path class="work" d="M860,44 H960"/>
-  <text x="860" y="70" font-size="12" fill="#2F6FB5" font-style="italic">feedback flow</text>
-  <path class="fb" d="M860,80 H960"/>
-  <text x="860" y="104" font-size="12" fill="#3B4652">underpins</text>
-  <path class="dg" d="M860,112 H960"/>
-  <text x="860" y="130" font-size="12" fill="#3B4652">runs on</text>
-  <path class="dr" d="M860,138 H960"/>
+  <!-- legend: top-right, right edge aligned with the bands -->
+  <text x="976" y="34" font-size="12" fill="#3B4652">work flow</text>
+  <path class="work" d="M976,44 H1076"/>
+  <text x="976" y="70" font-size="12" fill="#2F6FB5" font-style="italic">feedback flow</text>
+  <path class="fb" d="M976,80 H1076"/>
+  <text x="976" y="104" font-size="12" fill="#3B4652">underpins</text>
+  <path class="dg" d="M976,112 H1076"/>
+  <text x="976" y="130" font-size="12" fill="#3B4652">runs on</text>
+  <path class="dr" d="M976,138 H1076"/>
 
   <!-- ===================== BANDS ===================== -->
 
-  <rect x="60" y="150" width="880" height="36" rx="3" fill="#8A7B58"/>
-  <text class="bt" x="500" y="173">Product Mindset - operating philosophy</text>
+  <rect x="60" y="160" width="1016" height="36" rx="3" fill="#8A7B58"/>
+  <text class="bt" x="568" y="183">Product Mindset - operating philosophy</text>
 
-  <rect x="60" y="540" width="880" height="54" rx="3" fill="#D9465A"/>
-  <text class="bt" x="500" y="562">Value Streams - common spine</text>
-  <text class="bt" x="500" y="582">pre-existing business workflows and capabilities through which value is created and delivered</text>
+  <rect x="60" y="430" width="1016" height="54" rx="3" fill="#D9465A"/>
+  <text class="bt" x="568" y="452">Value Streams - common spine</text>
+  <text class="bt" x="568" y="472">pre-existing business workflows and capabilities through which value is created and delivered</text>
 
   <!-- dashed: Product Mindset above each framework; Value Streams below each framework -->
-  <path class="dg" d="M156,186 V240"/>
-  <path class="dg" d="M500,186 V400"/>
-  <path class="dg" d="M844,186 V400"/>
-  <path class="dr" d="M108,340 V540"/>
-  <path class="dr" d="M500,480 V540"/>
-  <path class="dr" d="M844,480 V540"/>
+  <path class="dg" d="M156,196 V260"/>
+  <path class="dg" d="M568,196 V260"/>
+  <path class="dg" d="M980,196 V260"/>
+  <path class="dr" d="M156,360 V430"/>
+  <path class="dr" d="M568,360 V430"/>
+  <path class="dr" d="M980,360 V430"/>
 
   <!-- ===================== FLOWS ===================== -->
 
   <!-- OSM -> PTS: value priorities (README: "PTS is where OSM's strategic intent, value priorities, and value streams are structured") -->
-  <path class="work" d="M204,340 V426.7 H400"/>
-  <text class="lbl" x="328" y="420">value priorities</text>
+  <path class="work" d="M252,293.3 H468"/>
+  <text class="lbl" x="362" y="286">value priorities</text>
   <!-- PTS -> OSM: value-stream outcomes and strategic signals (CVDM loop 5, consolidated by the product team) -->
-  <path class="fb" d="M404,453.3 H156 V344"/>
-  <text class="lblf" x="328" y="471">value-stream outcomes</text>
-  <text class="lblf" x="328" y="487">&amp; strategic signals</text>
+  <path class="fb" d="M472,326.7 H256"/>
+  <text class="lblf" x="362" y="345">value-stream outcomes</text>
+  <text class="lblf" x="362" y="361">&amp; strategic signals</text>
 
   <!-- PTS -> CVDM: product teams -->
-  <path class="work" d="M596,426.7 H744"/>
-  <text class="lbl" x="672" y="420">product teams</text>
+  <path class="work" d="M664,293.3 H880"/>
+  <text class="lbl" x="774" y="286">product teams</text>
   <!-- CVDM -> PTS: customer outcomes -->
-  <path class="fb" d="M748,453.3 H600"/>
-  <text class="lblf" x="672" y="471">customer outcomes</text>
+  <path class="fb" d="M884,326.7 H668"/>
+  <text class="lblf" x="774" y="345">customer outcomes</text>
 
   <!-- ===================== FRAMEWORKS ===================== -->
 
-  <rect x="60" y="240" width="192" height="100" rx="3" fill="#3FAF9C"/>
-  <text class="bh" x="156" y="266">OSM</text>
-  <text class="bt" x="156" y="286">Strategic Value Creation</text>
-  <text class="bt" x="156" y="305">Organization, Enterprise/</text>
-  <text class="bt" x="156" y="323">Function, Portfolio</text>
+  <rect x="60" y="260" width="192" height="100" rx="3" fill="#3FAF9C"/>
+  <text class="bh" x="156" y="286">OSM</text>
+  <text class="bt" x="156" y="306">Strategic Value Creation</text>
+  <text class="bt" x="156" y="325">Organization, Enterprise/</text>
+  <text class="bt" x="156" y="343">Function, Portfolio</text>
 
-  <rect x="404" y="400" width="192" height="80" rx="3" fill="#E57E2C"/>
-  <text class="bh" x="500" y="426">PTS</text>
-  <text class="bt" x="500" y="446">Structured, Empowered,</text>
-  <text class="bt" x="500" y="464">Executed</text>
+  <rect x="472" y="260" width="192" height="100" rx="3" fill="#E57E2C"/>
+  <text class="bh" x="568" y="296">PTS</text>
+  <text class="bt" x="568" y="316">Structured, Empowered,</text>
+  <text class="bt" x="568" y="334">Executed</text>
 
-  <rect x="748" y="400" width="192" height="80" rx="3" fill="#2E7867"/>
-  <text class="bh" x="844" y="426">CVDM</text>
-  <text class="bt" x="844" y="446">Practiced, Tested,</text>
-  <text class="bt" x="844" y="464">Reinforced</text>
+  <rect x="884" y="260" width="192" height="100" rx="3" fill="#2E7867"/>
+  <text class="bh" x="980" y="296">CVDM</text>
+  <text class="bt" x="980" y="316">Practiced, Tested,</text>
+  <text class="bt" x="980" y="334">Reinforced</text>
 
-  <text x="500" y="636" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
+  <text x="568" y="526" font-size="13" fill="#2E3A46" text-anchor="middle">© 2026 Insheights LLC. All rights reserved.</text>
 </svg>
