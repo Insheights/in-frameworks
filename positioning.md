@@ -30,7 +30,7 @@ OSM is where the system's behavioral and value signals **become strategic decisi
 ## PTS — Product Transformation System
 *Positioning*
 
-PTS is the product operating model layer of the IIVCS — the system through which an organization structures the value-stream operating model and empowers the persistent cross-functional teams that carry strategy into delivery. It comprises the POM Enablers (Leadership; Practices & Behaviors; Organizational Architecture; Culture & Relationships), the cross-functional teams those enablers empower, and the product management lifecycle they run — all underpinned by Product Mindset.
+PTS is the product operating model layer of the IIVCS — the system through which an organization structures the value-stream operating model and empowers the persistent cross-functional teams that carry strategy into delivery. It comprises the POM Enablers (Leadership; Practices & Behaviors; Organizational Architecture; Culture & Relationships), the cross-functional teams those enablers empower, and the product lifecycle they run — all underpinned by Product Mindset.
 
 PTS sits between strategy and delivery, and carries a specific accountability in each direction:
 
