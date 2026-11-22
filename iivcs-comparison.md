@@ -183,7 +183,7 @@ AER reads the same three behavioral stages on a customer track and a team track 
 
 ### Feedback Architecture Connecting Delivery to Strategy
 
-Many established frameworks include a review cycle that returns signal to strategy, and the Net Promoter System routes customer feedback both to the frontline and to structural fixes (see [Related Prior Work](#related-prior-work)). CVDM's five feedback loops are designed to differ in two ways. The product team owns every loop: it returns experience signal to delivery teams and consolidates strategic signals for OSM. And the signal is read through 3E → AER → 8 Values. Each loop runs at the cadence set for it in the [feedback loops table](feedback.md#operational-feedback--cvdm).
+Many established frameworks include a review cycle that returns signal to strategy, and the Net Promoter System routes customer feedback both to the frontline and to structural fixes (see [Related Prior Work](#related-prior-work)). CVDM's five feedback loops are designed to differ in two ways. The product team owns every loop: it returns experience signal to delivery teams and consolidates strategic signals for OSM. And the signal is read through 3E → AER → 8 Values. The loops are designed to run in every phase of the product lifecycle, each at its own cadence ([feedback loops table](feedback.md#operational-feedback--cvdm)).
 
 ### Consistent Measurement from Process to Organization
 

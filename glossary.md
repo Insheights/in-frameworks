@@ -30,6 +30,7 @@ Definitions for the terms, acronyms, and external frameworks referenced across t
 | **Organizational AER (Org AER)** | Behavioral response from the delivering organization to the operating model — adoption (the breadth of teams running its practices), engagement (review output that reaches decisions; changes teams make to the model themselves), and retention (the way of working, the people, and the knowledge that carry it persisting: practice persistence, team continuity, voluntary turnover). |
 | **8 Values** | **Insheights 8 Organizational Values Measurement Model** — the eight dimensions of Organization Value: Customer, Financial, People, Operational, Market, Strategic, Innovation, Impact. |
 | **Feedback System** | The two-level upstream feedback path (operational via CVDM's five loops; organizational via the 8 Values) running CVDM → PTS → OSM. |
+| **Continuous feedback** | Feedback that is sought in every phase of the [product lifecycle](#key-concepts), from Discover to Support, not only at a point-in-time review. Each loop runs at its own cadence (see the [feedback loops table](feedback.md#operational-feedback--cvdm)); it does not mean every signal is read in real time. |
 
 ---
 
@@ -54,6 +55,8 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 
 | Term | Definition |
 |---|---|
+| **Product lifecycle** | PTS's six phases: Discover, Define, Develop, Deliver, Launch and Support. They are continuous and overlapping, and run from building a product to supporting it in use: Discover runs throughout, and Launch covers both external go-to-market and internal change adoption. Not a product's market stages — introduction, growth, maturity and decline — often called the product life cycle (PLC). |
+| **Market stages** | The stages a product passes through in its market: introduction, growth, maturity and decline. |
 | **Leading indicator** | A signal that surfaces before the outcome it predicts (Efficiency, Experience; AER Adoption, Engagement). Leading and lagging describe timing relative to a named outcome, not what is measured. Enables intervention before damage registers. |
 | **Lagging indicator** | A signal that confirms an outcome after the fact (Effectiveness; AER Retention; most 8 Values signals). |
 | **Behavioral signal** | An observed action: what customers or teams actually do (return, use, renew, refer, stay). AER's signals are behavioral. |
