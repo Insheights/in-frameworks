@@ -33,11 +33,7 @@ The frameworks below each capture a portion of what 3E measures. Among them, 3E 
 
 ### ISO 9241-11 (Usability: Effectiveness, Efficiency, Satisfaction)
 
-ISO 9241-11 is the international ergonomics standard for usability. Its 2018 edition defines usability for "a system, product or service" through three dimensions:
-
-- **Effectiveness** — whether users achieve specified goals, accurately and completely
-- **Efficiency** — the resources used in achieving them
-- **Satisfaction** — the user's physical, cognitive and emotional responses, as they meet the user's needs and expectations
+ISO 9241-11 is the international ergonomics standard for usability. Its 2018 edition defines usability for "a system, product or service" through three dimensions: Effectiveness, Efficiency and Satisfaction. It defines Satisfaction through the user's physical, cognitive and emotional responses, as they meet the user's needs and expectations.
 
 **Alignment:** 3E borrows two ISO terms, Efficiency and Effectiveness, puts Experience where ISO has Satisfaction, and applies them beyond the use of a system, product or service, which is ISO's scope, to any element of the delivery system.
 
@@ -55,7 +51,7 @@ The Balanced Scorecard organizes measurement into four perspectives — Financia
 
 **What it does well:** It gives leaders a balanced set of perspectives beyond financial results, and its strategy maps make the assumed cause-and-effect between them explicit.
 
-**Key difference:** The Balanced Scorecard's four perspectives are watched together, each weighted by strategic importance. Its strategy maps assert causal links between perspectives, but they set no order in which to look when an outcome underperforms. 3E reads its three dimensions in a stated order: when Effectiveness underperforms, the practitioner checks Experience first, then Efficiency. The Balanced Scorecard is designed for strategic management and is commonly cascaded to business units and teams. Its customer perspective rests on a customer value proposition defined per strategy. 3E applies the same three questions at every architecture level, and maps to one external taxonomy, the Elements of Value, through Insheights' own mapping, which has not been validated. 3E is designed to add that order and a fixed leading/lagging classification at every element; both are reasoned hypotheses, not yet validated.
+**Key difference:** The Balanced Scorecard's four perspectives are watched together. Its strategy maps assert causal links between perspectives, but they set no order in which to look when an outcome underperforms. 3E reads its three dimensions in a stated order: when Effectiveness underperforms, the practitioner checks Experience first, then Efficiency. The Balanced Scorecard is designed for strategic management and is commonly cascaded to business units and teams. Its customer perspective rests on a customer value proposition defined per strategy. 3E applies the same three questions at every architecture level, and maps to one external taxonomy, the Elements of Value, through Insheights' own mapping, which has not been validated. 3E is designed to add that order and a fixed leading/lagging classification at every element; both are reasoned hypotheses, not yet validated.
 
 ---
 
@@ -115,7 +111,7 @@ Among the frameworks compared here, ISO 9241-11, the Balanced Scorecard and HEAR
 
 ### Cross-Architectural Consistency
 
-3E applies the same three questions — Efficiency, Experience, Effectiveness — from Value Stream level down to Process level, giving every element in the IIVCS a shared measurement language. A portfolio decision comparing two Value Streams uses the same language as a team improving a single Process. This consistency is designed to make cross-level comparison and root-cause tracing possible; frameworks built for a single level (HEART for products, AARRR for growth funnels, ISO 9241-11 for interactions) are not designed for that.
+3E applies the same three questions — Efficiency, Experience, Effectiveness — from Value Stream level down to Process level, giving every element in the IIVCS a shared measurement language. A portfolio decision comparing two Value Streams uses the same language as a team improving a single Process. This consistency is designed to make cross-level comparison and root-cause tracing possible; frameworks built for a single level (HEART for products, AARRR for growth funnels, ISO 9241-11 for the use of a system, product or service) are not designed for that.
 
 ### Connection to Behavioral and Organizational Outcomes
 

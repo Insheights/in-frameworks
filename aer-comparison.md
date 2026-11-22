@@ -40,7 +40,7 @@ ADKAR (Awareness → Desire → Knowledge → Ability → Reinforcement) is Pros
 
 **What it does well:** It shows a change manager where to intervene with a specific person. Prosci measures a change's outcomes as speed of adoption, ultimate utilization and proficiency, and links them to the project's results.
 
-**Key difference:** ADKAR and Prosci's measures are scoped to one change at a time. AER is designed to read one operating model at each operating-model review, on both a team and a customer track. Prosci's per-change measures run alongside it and can inform practice coverage. AER is designed to add the customer track and a read at each operating-model review, not per change; the link to outcomes is a reasoned hypothesis, not yet validated.
+**Key difference:** ADKAR and Prosci's measures are scoped to one change at a time. Organizational AER is designed to read one operating model at each operating-model review, and Customer AER reads the customer track at its own loops' cadences. Prosci's per-change measures run alongside Organizational AER and can inform practice coverage. AER is designed to add the customer track and, for Organizational AER, a read at each operating-model review, not per change; the link to outcomes is a reasoned hypothesis, not yet validated.
 
 ---
 
@@ -50,9 +50,9 @@ Kotter sequences the leadership actions required to execute large-scale change: 
 
 **Alignment:** Kotter's last steps — generate short-term wins, sustain acceleration, institute change — ask the question Organizational AER Retention reads: did the change become the way we work?
 
-**What it does well:** It sequences what leaders need to do to carry a large change through, and uses short-term wins to show progress.
+**What it does well:** It sequences what leaders need to do to carry a large change through, from creating urgency to instituting the change.
 
-**Key difference:** Kotter prescribes what leaders should do, and uses short-term wins to show progress. AER is designed to add a behavioral reading of whether Steps 5–8 produced lasting change, read alongside Kotter's short-term wins; the link to outcomes is a reasoned hypothesis, not yet validated.
+**Key difference:** Kotter prescribes what leaders should do, and uses short-term wins to show progress. AER is designed to add a behavioral reading of whether those last steps produced lasting change. It runs alongside Kotter's short-term wins, which can inform it; the link to outcomes is a reasoned hypothesis, not yet validated.
 
 ---
 
@@ -70,7 +70,7 @@ Kotter sequences the leadership actions required to execute large-scale change: 
 
 ### Employee Engagement Surveys (Gallup Q12 and equivalents)
 
-Employee engagement surveys measure how employees feel about their work, manager, team, and organization. The Gallup Q12 and similar instruments capture attitudinal indicators — belonging, purpose, recognition, and development.
+Employee engagement surveys measure how employees feel about their work, manager, team, and organization. The Gallup Q12 and similar instruments capture attitudinal indicators.
 
 **Alignment:** Organizational AER Engagement is the behavioral counterpart to the attitudinal engagement survey. Both target organizational health and the quality of employee participation: the survey through sentiment, AER through behavior.
 

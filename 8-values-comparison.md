@@ -39,7 +39,7 @@ The Balanced Scorecard (BSC) measures organizational performance across four per
 
 **What it does well:** It translates strategy into a balanced set of measures beyond financial results, and its strategy maps make the assumed cause-and-effect between perspectives explicit.
 
-**Key difference:** The BSC measures performance *toward* a strategy; the 8 Values measures value *generated through* an operating system. In the BSC, the links between perspectives are drawn per strategy, in a strategy map. The 8 Values specifies its compounding relationships in the model itself, as reasoned hypotheses: Customer Value behavioral signals are expected to drive Financial Value; People Value health is expected to drive Operational Value capability stock; Market Value is expected to be earned through Customer Value and Strategic Value consistency, not set independently. The BSC asks "are we meeting targets in each dimension?" The 8 Values asks "which dimensions are generating, which are consuming, and where is the upstream cause?" The BSC pairs leading and lagging indicators — performance drivers ahead of outcomes — constructed per strategy map. The 8 Values sits within a three-layer sequence — 3E (leading), AER (bridge), 8 Values (organizational outcome) — that is designed to make leading indicators explicit and connected to delivery. The 8 Values is designed to add that connection to the delivery architecture and the behavioral signal layer beneath it; the link to outcomes is a reasoned hypothesis, not yet validated.
+**Key difference:** The BSC measures performance *toward* a strategy; the 8 Values measures value *generated through* an operating system. In the BSC, the links between perspectives are drawn per strategy, in a strategy map. The 8 Values specifies its compounding relationships in the model itself, as reasoned hypotheses: Customer Value behavioral signals are expected to drive Financial Value; People Value health is expected to drive Operational Value capability stock; Market Value is expected to be earned through Customer Value and Strategic Value consistency, not set independently. The BSC asks "are we meeting targets in each dimension?" The 8 Values asks "which dimensions are generating, which are consuming, and where is the upstream cause?" The BSC pairs leading and lagging indicators, constructed per strategy map. The 8 Values sits within a three-layer sequence — 3E (leading), AER (bridge), 8 Values (organizational outcome) — that is designed to make leading indicators explicit and connected to delivery. The 8 Values is designed to add that connection to the delivery architecture and the behavioral signal layer beneath it; the link to outcomes is a reasoned hypothesis, not yet validated.
 
 ---
 
@@ -59,7 +59,7 @@ The Integrated Reporting (<IR>) Framework was issued by the IIRC and is now main
 
 The EFQM Model, since its 2020 edition and in the 2025 edition, asks three questions (Direction, Execution and Results) across seven criteria, and assesses them with the RADAR logic (Results, Approaches, Deployment, Assessment and Refinement).
 
-**Alignment:** Its Results criteria relate to the 8 Values' Customer, People, Financial and Impact dimensions.
+**Alignment:** Its Results question asks what the organization has achieved, which is the ground the 8 Values measures as organizational outcomes.
 
 **What it does well:** One model and one assessment logic that an organization can use to examine its direction, its execution and its results together.
 
@@ -69,9 +69,9 @@ The EFQM Model, since its 2020 edition and in the 2025 edition, asks three quest
 
 ### ESG / GRI Standards (Environmental, Social, Governance)
 
-ESG frameworks — including the Global Reporting Initiative (GRI), SASB (Sustainability Accounting Standards Board), TCFD (Task Force on Climate-related Financial Disclosures), and the ISSB (International Sustainability Standards Board) — define how organizations measure and disclose their environmental, social, and governance performance. They are widely used for external accountability and disclosure of non-financial impact.
+ESG frameworks — such as the GRI (Global Reporting Initiative) Standards and the ISSB (International Sustainability Standards Board) standards — define how organizations measure and disclose their environmental, social, and governance performance. They are widely used for external accountability and disclosure of non-financial impact.
 
-**Alignment:** Impact Value is the dimension of the 8 Values most directly addressed by ESG frameworks. The external layer of Impact Value — societal, environmental, and community contribution — maps to the Environmental and Social dimensions of ESG. The internal layer — mission advancement and governance integrity — maps to the Governance dimension. Organizations using the 8 Values to read Impact Value are designed to produce operational data that can inform ESG disclosures.
+**Alignment:** Impact Value is the dimension of the 8 Values most directly addressed by ESG frameworks. The external layer of Impact Value — societal, environmental, and community contribution — maps to the Environmental and Social dimensions of ESG. The internal layer — mission advancement and governance integrity — maps to the Governance dimension. The 8 Values is designed to produce operational data on Impact Value that can inform ESG disclosures.
 
 **What it does well:** Defined, comparable disclosure standards that external stakeholders, regulators and rating agencies can rely on.
 
@@ -81,13 +81,15 @@ ESG frameworks — including the Global Reporting Initiative (GRI), SASB (Sustai
 
 ### OKRs (Objectives & Key Results)
 
-OKRs are a goal-alignment and progress-tracking system, originated at Intel and popularized by Google. Organizations set ambitious Objectives (qualitative direction) and measurable Key Results (quantitative proof), cascaded across the organization at company, team, and individual levels. OKRs are used to align execution across large organizations and track progress against strategic intent.
+OKRs are a goal-alignment and progress-tracking system. Organizations set ambitious Objectives (qualitative direction) and measurable Key Results (quantitative proof), cascaded across the organization at company, team, and individual levels. OKRs are used to align execution across large organizations and track progress against strategic intent.
 
 **Alignment:** OKRs are framework-agnostic — they can be written for any dimension of organizational performance. In practice, OKRs are often written for dimensions that correspond to 8 Values: revenue OKRs (Financial Value), customer acquisition OKRs (Customer Value), hiring and capability OKRs (People Value), product launch OKRs (Innovation Value). OKRs could function as the tracking layer within the 8 Values measurement system — setting objectives that correspond to specific value dimensions and measuring progress through key results that mirror AER and 3E signals.
 
 **What it does well:** A light, widely understood way to set direction, track progress, and align teams through cascading.
 
 **Key difference:** OKRs define what the organization is trying to achieve and whether it is making progress. They do not define what organizational value means, how it is generated, or how value dimensions compound. An OKR system tells a team whether they hit their target; the 8 Values is designed to show whether the organization is generating value and through which mechanisms. Objectives are set and tracked per team or unit, with alignment through cascading rather than through a modeled compounding system: a team can achieve all of its People Value OKRs while Operational Value is degrading upstream. The two are complementary: OKRs can be structured to carry 8 Values priorities, and the 8 Values profile can show which dimensions need OKR investment. The 8 Values is designed to add a definition of organizational value and the compounding links between its dimensions; the link to outcomes is a reasoned hypothesis, not yet validated.
+
+**How they work together:** [Integration — OKRs](integration.md#okrs-objectives-and-key-results).
 
 ---
 

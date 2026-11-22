@@ -53,11 +53,11 @@ TOGAF is a widely used enterprise architecture method. Its Architecture Developm
 
 The BIZBOK Guide defines business architecture as the blueprint of an enterprise — mapping strategy, capabilities, value streams, information, and organizational structures. It is the Business Architecture Guild's reference for the business architecture discipline.
 
-**Alignment:** BIZBOK and IIVCS share a large structural overlap. BIZBOK defines a value stream as "an end-to-end collection of activities that create a result for a customer", and IIVCS uses value streams as its organizing spine. BIZBOK's capability mapping (what the organization can do) connects to CVDM's Capability layer. BIZBOK's strategy mapping relates objectives to capabilities and value streams; OSM can reuse that map.
+**Alignment:** BIZBOK and IIVCS share a large structural overlap. BIZBOK defines a value stream as "an end-to-end collection of activities that create a result for a customer", and IIVCS uses value streams as its organizing spine. BIZBOK's capability mapping (what the organization can do) connects to CVDM's Capability layer. Where an organization has BIZBOK strategy maps, OSM can reuse them.
 
 **What it does well:** A shared, well-defined vocabulary and set of maps — capabilities, value streams, information, organization — for describing the business and planning from strategy to initiatives.
 
-**Key difference:** BIZBOK is a business architecture discipline: it models the enterprise's current and target state and is used to plan from strategy to initiatives, but it is not a delivery operating model. BIZBOK maps customer journeys; in CVDM, each journey step is paired with the value stage that serves it, and every other element is asked to justify itself by what it serves. BIZBOK does not define an operating model for delivery teams or a behavioral measurement layer. IIVCS is designed to add an operating model for the teams (PTS), a behavioral layer (AER), feedback loops that return customer signal upstream, and one measurement language across architecture levels (3E); the link to outcomes is a reasoned hypothesis, not yet validated.
+**Key difference:** BIZBOK is a business architecture discipline: it models the enterprise's current and target state and is used to plan from strategy to initiatives, but it is not a delivery operating model. In CVDM, each journey step is paired with the value stage that serves it, and every other element is asked to justify itself by what it serves. BIZBOK does not define an operating model for delivery teams or a behavioral measurement layer. IIVCS is designed to add an operating model for the teams (PTS), a behavioral layer (AER), feedback loops that return customer signal upstream, and one measurement language across architecture levels (3E); the link to outcomes is a reasoned hypothesis, not yet validated.
 
 **How they work together:** [Integration — Enterprise Architecture](integration.md#enterprise-architecture-togaf-archimate-bizbok).
 
@@ -79,7 +79,7 @@ ArchiMate is the Open Group's modeling language for enterprise architecture: a n
 
 ### SAFe (Scaled Agile Framework)
 
-SAFe is a widely used enterprise framework for scaling agile practices across large organizations. It structures delivery across Portfolio, Large Solution, Agile Release Train (ART), and Team levels — organizing work through value streams, Agile Release Trains, and PI (Planning Interval) Planning.
+SAFe is a widely used enterprise framework for scaling agile practices across large organizations. It structures delivery across Portfolio, Large Solution, Program (ART), and Team levels — organizing work through value streams, Agile Release Trains, and PI Planning.
 
 **Alignment:** SAFe and IIVCS are the closest pair at the operating model level. SAFe's value streams are a core organizing concept, directly aligned with IIVCS. SAFe's Portfolio layer (strategic themes, lean portfolio management) maps to elements of OSM. SAFe's ART construct and cross-functional team model maps to PTS's cross-functional product team structure. SAFe's Customer Centricity and Design Thinking practices align with CVDM's customer journey anchor.
 
@@ -143,7 +143,7 @@ The Service-Profit Chain is the closest intellectual precedent to the IIVCS meas
 
 **What it does well:** It turned the link between how employees are served and how customers respond into a proposition that could be tested in service firms.
 
-**Key difference:** The Service-Profit Chain links employee satisfaction, retention and productivity to customer satisfaction and loyalty, and on to profit. Of the three AER stages it reads only one, Retention (as loyalty), on each side; it does not read Adoption or Engagement. AER reads all three on two parallel tracks against one operating model: Customer AER in CVDM, and Organizational AER in PTS, from team records rather than surveys. The chain is a set of propositions tested in service firms with mixed results; it does not define an operating model, a delivery architecture or a strategy layer. IIVCS is designed to add these; neither the chain nor IIVCS's paired reading is validated.
+**Key difference:** The Service-Profit Chain links employee satisfaction, retention and productivity to customer satisfaction and loyalty, and on to profit. Of the three AER stages it reads only one, Retention (as loyalty), on each side; it does not read Adoption or Engagement. AER reads all three on two parallel tracks against one operating model: Customer AER in CVDM, and Organizational AER in PTS, from team records rather than surveys. The chain is a set of propositions, not an operating model; it does not define an operating model, a delivery architecture or a strategy layer. IIVCS is designed to add these; neither the chain nor IIVCS's paired reading is validated.
 
 ### Strategy Maps (Kaplan & Norton, 2004)
 
@@ -161,7 +161,7 @@ The Net Promoter System is Bain's management practice built around the Net Promo
 
 **Alignment:** Like CVDM's feedback loops, it returns customer signal to the people who can act on it, at two levels: the team, and changes the team cannot make alone.
 
-**What it does well:** It closes the loop with the individual customer, and it gives structural issues an owner and a route to investment.
+**What it does well:** It closes the loop with the individual customer, and it gives issues beyond the frontline's control an owner.
 
 **Key difference:** The Net Promoter System is built on one stated-intent score and the reason behind it. In IIVCS the product team owns every loop and the decision it informs. Operational signal returns to the team and PTS, and the product team consolidates strategic signals for OSM. The signal is read through 3E → AER → 8 Values: NPS is one 3E Experience signal, and the referral itself is recorded in Customer AER. IIVCS is designed to add that routing and that reading; the link to outcomes is a reasoned hypothesis, not yet validated.
 

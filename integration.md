@@ -1,6 +1,6 @@
 # IIVCS Integration with Existing Practices
 
-**SAFe | Scrum | Team Topologies | [Objectives and Key Results (OKRs)](glossary.md#external-frameworks-referenced) | ITIL | ERM | Design Thinking | Value Stream Mapping | Jobs To Be Done**
+**SAFe | Scrum | Team Topologies | [Objectives and Key Results (OKRs)](glossary.md#external-frameworks-referenced) | ITIL | ERM | Design Thinking | Value Stream Mapping | Jobs To Be Done | Enterprise Architecture**
 
 How the Insheights Integrated Value Creation System connects to and integrates with existing organizational practices, methods, and frameworks — rather than replacing them.
 
@@ -157,11 +157,11 @@ A note on terms: Lean uses "value stream" for the path that material and informa
 
 **Where VSM connects into IIVCS:**
 
-- **VSM analysis → 3E Efficiency baseline:** A Value Stream Map is a current-state Efficiency analysis. VSM surfaces cycle time, wait time, and waste in the value stream — which are the Efficiency signals 3E measures on an ongoing basis. VSM is the point-in-time diagnostic; 3E is the continuous measurement.
+- **VSM analysis → 3E Efficiency baseline:** A Value Stream Map is a current-state Efficiency analysis. VSM surfaces cycle time, wait time, and waste in the value stream — which are the Efficiency signals 3E measures on an ongoing basis. A VSM is redrawn at intervals; 3E is designed to read the same Efficiency signals between them.
 - **Future-state VSM → CVDM capability redesign:** VSM's future-state maps define the target capabilities and processes that CVDM must operationalize. The future-state design becomes the target architecture for CVDM's capability and process layer.
-- **VSM kaizen events → PTS improvement cycles:** VSM-driven improvement events are inputs to PTS's operating model improvement cycle. They surface operating model gaps (people, practices, architecture) that PTS's enablers must address.
+- **VSM improvement events → PTS improvement cycles:** VSM-driven improvement events are inputs to PTS's operating model improvement cycle. They surface operating model gaps (people, practices, architecture) that PTS's enablers must address.
 
-**What IIVCS adds:** The Experience and Effectiveness dimensions that VSM cannot see. A VSM-efficient value stream can still fail on customer experience or outcome achievement — 3E makes these gaps visible. A feedback architecture that turns VSM's point-in-time findings into a continuous improvement signal.
+**What IIVCS adds:** The Experience and Effectiveness dimensions that VSM does not read. A VSM-efficient value stream can still fail on customer experience or outcome achievement — 3E is designed to make these gaps visible. A feedback architecture designed to return VSM's findings, with the Experience and Effectiveness readings beside them, to the teams and leaders who can act on them.
 
 ---
 

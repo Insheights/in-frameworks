@@ -30,7 +30,7 @@ Measurement runs alongside this system — see the [Measurement Architecture](#s
 
 Two things set IIVCS apart.
 
-**It is a coherent system, not a single-layer tool.** OSM, PTS, and CVDM integrate strategy, operating model, and customer delivery into one connected system — with value streams as a shared spine and a single measurement language ([Efficiency, Experience, Effectiveness (3E)](3e.md) → [Adoption, Engagement, Retention (AER)](aer.md) → 8 Values) running through all of them. Most frameworks address one layer; IIVCS connects them, and is designed to integrate existing practices rather than replace them.
+**It is a coherent system, not a single-layer tool.** OSM, PTS, and CVDM integrate strategy, operating model, and customer delivery into one connected system — with value streams as a shared spine and a single measurement language ([Efficiency, Experience, Effectiveness (3E)](3e.md) → [Adoption, Engagement, Retention (AER)](aer.md) → 8 Values) running through all of them. Many frameworks address one layer; IIVCS is designed to connect them, and is designed to integrate existing practices rather than replace them.
 
 **Within that system, it measures value on two parallel behavioral tracks.** Many frameworks measure one side of value creation — either how the organization delivers (operating-model and flow metrics) or how customers respond (satisfaction, loyalty, NPS). IIVCS is designed to read both, and treats neither as sufficient alone:
 
