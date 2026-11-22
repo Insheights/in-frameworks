@@ -55,8 +55,8 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 
 | Term | Definition |
 |---|---|
-| **Leading indicator** | A signal that surfaces before the outcome it predicts (Efficiency, Experience; AER Adoption, Engagement). Leading and lagging describe timing relative to a named outcome, not what is measured. Enables intervention before damage registers. |
 | **Product lifecycle** | PTS's six phases: Discover, Define, Develop, Deliver, Launch and Support. They are continuous and overlapping, and cover both product development (Discover to Deliver) and the product in market (Launch, Support). Not the market lifecycle of introduction, growth, maturity and decline. |
+| **Leading indicator** | A signal that surfaces before the outcome it predicts (Efficiency, Experience; AER Adoption, Engagement). Leading and lagging describe timing relative to a named outcome, not what is measured. Enables intervention before damage registers. |
 | **Lagging indicator** | A signal that confirms an outcome after the fact (Effectiveness; AER Retention; most 8 Values signals). |
 | **Behavioral signal** | An observed action: what customers or teams actually do (return, use, renew, refer, stay). AER's signals are behavioral. |
 | **Attitudinal signal** | A reported feeling or intent: what people say they feel or would do (CSAT, CES, NPS, eNPS). 3E Experience's signals are attitudinal. |
