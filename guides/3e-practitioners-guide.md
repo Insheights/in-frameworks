@@ -11,7 +11,7 @@
 | **What it does** | Provides a consistent three-dimension measurement language — Efficiency, Experience, Effectiveness — applied across any architecture element to surface whether value is accessible, felt, and achieving outcomes |
 | **When to use it** | Any time you need to measure whether value is being delivered at a specific architecture element: Value Stream, Value Stage, Capability, Process, or Product/Service |
 | **Who runs it** | Product team lead, Value Stream owner, or the person accountable for the element being measured |
-| **Who must be in the room** | Customer-facing team members (for Experience signals); delivery team members (for Efficiency signals); outcome owners (for Effectiveness signals) |
+| **Who must be in the room** | Customer-facing team members (staff observation, added to the customer's own Experience signal); delivery team members (for Efficiency signals); outcome owners (for Effectiveness signals) |
 | **Key inputs** | A defined architecture element; a stated value promise for that element; access to customer and delivery signals |
 | **Key outputs** | A 3E profile for the element; a diagnostic reading (which dimension is underperforming and why); a measurement cadence |
 | **Typical timeframe** | Initial profile: one working session. Ongoing measurement: aligned to [Customer Value Delivery Model (CVDM)](../README.md#cvdm--customer-value-delivery-model) feedback loop cadence |
@@ -36,14 +36,14 @@
 | Role | Why they must be present |
 |---|---|
 | Element owner | Owns the value promise definition and the measurement cadence |
-| Customer-facing team member(s) | Source of Experience signals — they are closest to how value is being felt |
+| Customer-facing team member(s) | Closest to how value is being felt — add staff observation to the customer's own Experience signal |
 | Delivery/operations team member(s) | Source of Efficiency signals — they see friction and effort first |
 | Outcome owner | Accountable for Effectiveness — whether outcomes are being achieved |
 
 **Prepare the room**
 
 - Have the element's value promise written down in advance — if the room cannot agree on what the element is supposed to deliver, 3E measurement cannot begin
-- Gather any existing signal data (usage analytics, support tickets, NPS/CSAT, completion rates, outcome metrics) before the session
+- Gather any existing signal data (usage analytics, support tickets, Net Promoter Score (NPS) and Customer Satisfaction Score (CSAT) readings, completion rates, outcome metrics) before the session
 - Know which CVDM feedback loop this element feeds: Experience feedback, Journey insights, Delivery learning, Performance optimization, or Strategic signals
 
 ---
@@ -64,7 +64,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Output:** Element definition — name, level, value promise sentence
 
 **Guidance:**
-- The value promise must be written from the customer's perspective, not the organization's. "Enables customers to onboard without IT involvement" is a value promise. "Completes the provisioning workflow" is not.
+- The value promise must be written from the customer's perspective, not the organization's. "Enables customers to onboard without information technology (IT) involvement" is a value promise. "Completes the provisioning workflow" is not.
 - If the team cannot agree on the value promise in this step, stop. Measuring without agreement on what you are measuring produces noise, not signal.
 - You are done when you can complete this sentence: "[Element name] delivers [value] to [customer/stakeholder] by [mechanism]."
 
@@ -81,7 +81,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 **Guidance:**
 - Use the standard 3E architecture questions as your starting point, then substitute the element's specific value promise. "Can customers access and use it without friction?" becomes "Can a new B2B customer complete onboarding without raising a support ticket?"
-- Effectiveness must connect directly to the value promise. If the value promise is "enable customers to realize ROI within 90 days," Effectiveness asks: "Are customers realizing ROI within 90 days?"
+- Effectiveness must connect directly to the value promise. If the value promise is "enable customers to realize return on investment (ROI) within 90 days," Effectiveness asks: "Are customers realizing ROI within 90 days?"
 - The Efficiency question must be answerable with observable data — not a survey. If you cannot observe the friction, you need a different Efficiency question.
 
 **3E question starter templates by level:**
@@ -108,7 +108,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Guidance:**
 - Each dimension needs at minimum one leading signal (Efficiency, Experience) or one lagging signal (Effectiveness). More signals give richer diagnosis; fewer signals give faster feedback.
 - Efficiency signals are typically operational: completion rates, error rates, time-to-value, support ticket volume, drop-off points, cost-per-activation.
-- Experience signals are attitudinal: CSAT at step level, NPS, qualitative sentiment from customer-facing teams. Read them with the behavioral signals that follow in [AER](../aer.md) — day-two return rate, churn before outcomes can be confirmed.
+- Experience signals are attitudinal: CSAT at step level, NPS, the customer's own words in interviews. Staff observation from customer-facing teams adds to these, labelled as such; it never replaces them. Read them with the behavioral signals that follow in [AER](../aer.md) — day-two return rate, churn before outcomes can be confirmed.
 - Effectiveness signals are outcome-based: goal attainment rates, revenue impact, outcome validation interviews. Retention curves are read from AER Retention.
 - Do not wait for perfect signal data. One Efficiency signal, one Experience signal, and one Effectiveness signal is enough to begin the diagnostic.
 
@@ -117,14 +117,14 @@ Each step below is an action. Complete them in order — later steps depend on e
 | Dimension | Typical Signal Sources |
 |---|---|
 | **Efficiency** | Usage analytics, completion rates, support ticket category analysis, time-to-activation, error logs, cost-per-unit |
-| **Experience** | Post-step CSAT, NPS, qualitative interviews, team-reported friction observations — read with AER's day-two return and churn before outcomes are realized |
+| **Experience** | Post-step CSAT, NPS, qualitative interviews, team-reported friction observations (labelled staff observation, read beside the customer's own signal) — read with AER's day-two return and churn before outcomes are realized |
 | **Effectiveness** | Outcome interviews, goal attainment metrics, revenue per customer — read with AER's retention and repeat engagement |
 
 ---
 
 ### Step 4 — Baseline, diagnose, and act
 
-**What you do:** Run the first 3E measurement. Record the current state of each dimension. Then use the sequence diagnostically — if Effectiveness is underperforming, trace upstream through Experience and Efficiency before concluding.
+**What you do:** Run the first 3E measurement. Record the current state of each dimension. Then use the sequence diagnostically — if Effectiveness is underperforming, trace upstream through Experience and Efficiency before concluding. The sequence is the model's diagnostic hypothesis, not a proven causal chain ([Limitations](../3e.md#limitations)).
 
 **Key question this step answers:** *Where in the Use → Feel → Achieve sequence is value breaking down?*
 
@@ -168,15 +168,7 @@ Effectiveness underperforming?
 - Name a single owner for each dimension signal. Shared ownership of a signal means no one acts on it.
 - Define at minimum two out-of-cycle triggers: an Experience signal drop (early warning) and an Effectiveness signal drop (outcome confirmation). Both should trigger an immediate upstream review.
 
-**Return path by CVDM feedback loop:**
-
-| CVDM Loop | What 3E signals return to it | Typical cadence |
-|---|---|---|
-| **Experience feedback** | Experience signals from all elements | Continuous / weekly |
-| **Journey insights** | Efficiency signals revealing friction across the journey | Sprint / bi-weekly |
-| **Delivery learning** | Effectiveness signals from Value Stages and Products/Services | Monthly / quarterly |
-| **Strategic signals** | Effectiveness signals from Value Streams | Quarterly / annually |
-| **Performance optimization** | Efficiency signals from Capabilities and Processes | Sprint / monthly |
+**Return path:** 3E signals return through CVDM's five feedback loops. Their one table — what each loop surfaces, the decision it informs, where it returns and its typical cadence — is in the [IIVCS Feedback System](../feedback.md#operational-feedback--cvdm).
 
 ---
 
@@ -188,7 +180,7 @@ Effectiveness underperforming?
 
 ### Example 1 — B2B SaaS Onboarding (Product/Service level)
 
-> **Scenario:** A mid-market B2B SaaS company sells a workflow automation tool to operations teams. Customer success data shows that 40% of customers who complete a trial do not convert to paid accounts. The product team applies 3E to the onboarding product to diagnose where value is breaking down.
+> **Scenario:** A mid-market B2B SaaS company sells a workflow automation tool to operations teams. Customer success data shows that 40% of customers who complete a trial do not convert to paid accounts, and many never run a workflow at all. The product team applies 3E to the onboarding product to diagnose where value is breaking down.
 
 **Step 1 — Define the element and its value promise**
 
@@ -198,7 +190,7 @@ Element: **onboarding product** (Product/Service level). Value promise: *The onb
 
 - **Efficiency:** Can a new operations team member complete their first workflow configuration without raising a support ticket or requiring IT involvement?
 - **Experience:** Does the new customer feel confident and capable during onboarding — not anxious, confused, or dependent on external help?
-- **Effectiveness:** Does the customer activate to a paid account and successfully run their first automated workflow within five days?
+- **Effectiveness:** Does the customer successfully run their first automated workflow — the outcome onboarding promises — within five days? That first run is the outcome this element promises, so it is goal attainment; whether they convert to a paid account is entry conversion, read in [AER Adoption](../metrics-and-indicators.md#customer-aer), not here.
 
 **Step 3 — Define signals**
 
@@ -208,22 +200,23 @@ Element: **onboarding product** (Product/Service level). Value promise: *The onb
 | **Efficiency** | Average steps-to-first-run (actual vs. designed) | Product analytics | Leading |
 | **Experience** | Post-onboarding CSAT (1–5) | In-product survey at day 3 | Leading |
 | **AER Engagement** *(read with Experience)* | % of users who return to the product on day 2 without prompting | Product analytics (session data) | Leading |
-| **Effectiveness** | % of trials converting to paid within 14 days | CRM / billing system | Lagging |
+| **Effectiveness** | % of trial customers who run their first automated workflow within five days | Product analytics | Lagging |
+| **AER Adoption** *(read beside Effectiveness)* | % of trials converting to paid within 14 days | Customer relationship management (CRM) / billing system | Leading |
 | **Effectiveness** | % of paid accounts running at least one workflow in first 30 days | Product analytics | Lagging |
 
 **Step 4 — Baseline and diagnose**
 
-Baseline: 62% of users complete configuration without raising a ticket (Efficiency: moderate). Post-onboarding CSAT: 3.2/5 (Experience: weak). Day-2 return rate: 44% (AER Engagement: weak, confirming the Experience reading). Trial-to-paid conversion: 60% against a target of 75% (Effectiveness: underperforming).
+Baseline, in the [bands](../metrics-and-indicators.md#how-to-read-this-guide) against the targets and floors the team set: 62% of users complete configuration without raising a ticket (Efficiency: Watch). Post-onboarding CSAT: 3.2/5 (Experience: At risk). Day-2 return rate: 44% (AER Engagement: At risk, confirming the Experience reading). First workflow run within five days: 55% against a target of 75% (Effectiveness: At risk). Trial-to-paid conversion, read beside it in AER Adoption: 60%.
 
-Diagnostic: Effectiveness is underperforming. Experience is weak — this points upstream. Trace to Efficiency: 38% of users hit a friction point severe enough to raise a ticket. The Experience weakness is downstream of an Efficiency gap.
+Diagnostic: Effectiveness is At risk. Experience is At risk — this points upstream. Trace to Efficiency: 38% of users hit a friction point severe enough to raise a ticket. The Experience weakness is downstream of an Efficiency gap.
 
-The Efficiency gap is in the configuration step — the API key entry requires an IT handoff. Action: implement OAuth-based auto-connect to remove the IT dependency. Measure Experience again once Efficiency is restored before acting on the conversion gap directly.
+The Efficiency gap is in the configuration step — the application programming interface (API) key entry requires an IT handoff. Action: implement an OAuth (open authorization) auto-connect to remove the IT dependency. Measure Experience again once Efficiency is restored before acting on the outcome gap directly.
 
 **Step 5 — Activate the feedback loop**
 
 - Experience signals reviewed weekly by the product team → feeds CVDM Experience feedback loop
 - Efficiency signals reviewed at each sprint end by the product lead → feeds Journey insights loop
-- Effectiveness reviewed monthly — 14-day trial window requires 30-day confirmation to confirm trends
+- Effectiveness reviewed monthly — a single week's trials are too few to confirm a trend
 - Out-of-cycle trigger: Day-2 return rate drops below 40% → immediate experience review
 - Owner: product lead owns Efficiency and Experience signals; customer success lead owns Effectiveness signal
 
@@ -247,7 +240,7 @@ Element: **cardiac discharge process** (Process level). Value promise: *The disc
 
 | Dimension | Signal | Source | Type |
 |---|---|---|---|
-| **Efficiency** | Average discharge time from physician sign-off to patient departure | EHR / operations data | Leading |
+| **Efficiency** | Average discharge time from physician sign-off to patient departure | Electronic health record (EHR) / operations data | Leading |
 | **Efficiency** | % of discharge packets completed without requiring a second clinical review | EHR audit | Leading |
 | **Experience** | Post-discharge confidence score (1–5): "How confident do you feel about your recovery plan?" | Discharge survey | Leading |
 | **AER Engagement** *(read with Experience)* | % of patients calling the discharge helpline within 48 hours with questions already covered in discharge instructions | Call center data | Leading |
@@ -256,9 +249,9 @@ Element: **cardiac discharge process** (Process level). Value promise: *The disc
 
 **Step 4 — Baseline and diagnose**
 
-Baseline: Average discharge time: 4.2 hours from sign-off against a target of 2 hours (Efficiency: high friction). Post-discharge confidence score: 3.8/5 (Experience: moderate). 48-hour helpline call rate for covered questions: 28% (AER Engagement: weak, confirming the Experience reading — patients are not retaining instructions). 30-day readmission rate: 18% against a target of 12% (Effectiveness: underperforming).
+Baseline: Average discharge time: 4.2 hours from sign-off against a target of 2 hours (Efficiency: At risk). Post-discharge confidence score: 3.8/5 (Experience: Watch). 48-hour helpline call rate for covered questions: 28% (AER Engagement: At risk, confirming the Experience reading — patients are not retaining instructions). 30-day readmission rate: 18% against a target of 12% (Effectiveness: At risk).
 
-Diagnostic: Effectiveness is underperforming. Experience is moderate-to-weak. Trace to Efficiency: the 4.2-hour discharge time is driven by a pharmacy, nursing, and administrative sign-off sequence running serially. The delay creates patient anxiety (undermining Experience) and rush at end of discharge (undermining instruction quality and Effectiveness downstream).
+Diagnostic: Effectiveness is At risk. Experience is in Watch, with AER Engagement At risk. Trace to Efficiency: the 4.2-hour discharge time is driven by a pharmacy, nursing, and administrative sign-off sequence running serially. The delay creates patient anxiety (undermining Experience) and rush at end of discharge (undermining instruction quality and Effectiveness downstream).
 
 Actions: Redesign the sign-off sequence to run pharmacy and administrative steps in parallel (Efficiency fix). Add a teach-back confirmation step — patient verbally restates care plan before departure — to confirm comprehension before discharge completes (Experience fix that directly supports Effectiveness).
 
@@ -300,9 +293,9 @@ Element: **loyalty value stream** (Value Stream level). Value promise: *The loya
 
 **Step 4 — Baseline and diagnose**
 
-Baseline: Quarterly benefit redemption rate: 34% (Efficiency: weak — two-thirds of members do not redeem a benefit without help). Loyalty NPS: 42 (Experience: moderate). Personalized communication open rate: 31% vs. 12% for generic (AER Engagement: strong where personalization exists, but most communications are still generic). 12-month member retention: 61% vs. 48% non-member (AER Retention: moderate). Annual spend differential: +22% against a program investment threshold of +35% (Effectiveness: underperforming at program scale).
+Baseline: Quarterly benefit redemption rate: 34% (Efficiency: At risk — two-thirds of members do not redeem a benefit without help). Loyalty NPS: 42 (Experience: Watch). Personalized communication open rate: 31% vs. 12% for generic (AER Engagement: Healthy where personalization exists, but most communications are still generic). 12-month member retention: 61% vs. 48% non-member (AER Retention: Watch). Annual spend differential: +22% against a program investment threshold of +35% (Effectiveness: At risk at program scale).
 
-Diagnostic: Effectiveness is below the investment threshold. Experience is moderate but the personalization signal shows customers respond strongly when they feel recognized — the opportunity exists. Trace to Efficiency: 66% of members do not redeem a benefit in a quarter without contacting support. Redemption is the Efficiency gate for this value stream. Customers who cannot easily activate the value will not form the Experience or produce the Effectiveness outcomes the program requires.
+Diagnostic: Effectiveness is below the investment threshold. Experience is in Watch, but the personalization signal shows customers respond strongly when they feel recognized — the opportunity exists. Trace to Efficiency: 66% of members do not redeem a benefit in a quarter without contacting support. Redemption is the Efficiency gate for this value stream. Customers who cannot easily activate the value will not form the Experience or produce the Effectiveness outcomes the program requires.
 
 Actions: Reduce steps-to-redemption from 5 to 2 (Efficiency fix). Extend personalized communications using available purchase history to the full member base, not just a segment (Experience fix). Measure Experience and Efficiency again at 60 days before reassessing Effectiveness.
 
@@ -350,7 +343,7 @@ These signals confirm 3E is being applied correctly — not just being followed 
 | Signal | Healthy | At Risk |
 |---|---|---|
 | 3E question specificity | Each question is element-specific and answerable with observable data | Questions are generic ("is efficiency good?") or cannot be measured |
-| Leading/lagging signal balance | At least one leading signal (Efficiency or Experience) is reviewed before Effectiveness | Only Effectiveness is monitored — leading signals are absent |
+| Leading/lagging signal balance | At least one leading signal for each of Efficiency and Experience is reviewed before Effectiveness | Only Effectiveness is monitored — leading signals are absent |
 | Diagnostic sequencing | When Effectiveness underperforms, Experience and Efficiency are checked before action is taken | Actions are taken directly on Effectiveness without tracing upstream |
 | Signal ownership | Each dimension has a named owner who is accountable for acting on signal changes | Signals are reported into a shared inbox but no one is specifically accountable |
 | Feedback loop connection | 3E signals are named in at least one CVDM feedback loop with a defined cadence | 3E measurements are produced but not connected to any upstream return path |
