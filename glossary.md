@@ -56,6 +56,7 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 | Term | Definition |
 |---|---|
 | **Product lifecycle** | PTS's six phases: Discover, Define, Develop, Deliver, Launch and Support. They are continuous and overlapping, and cover both product development (Discover to Deliver) and the product in market (Launch, Support). Not a product's market stages — introduction, growth, maturity and decline — often called the product life cycle (PLC). |
+| **Market stages** | The stages a product passes through in its market: introduction, growth, maturity and decline, often called the product life cycle (PLC). IIVCS does not measure them. Not the product lifecycle, which is PTS's six phases (above). |
 | **Leading indicator** | A signal that surfaces before the outcome it predicts (Efficiency, Experience; AER Adoption, Engagement). Leading and lagging describe timing relative to a named outcome, not what is measured. Enables intervention before damage registers. |
 | **Lagging indicator** | A signal that confirms an outcome after the fact (Effectiveness; AER Retention; most 8 Values signals). |
 | **Behavioral signal** | An observed action: what customers or teams actually do (return, use, renew, refer, stay). AER's signals are behavioral. |
