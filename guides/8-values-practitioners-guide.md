@@ -29,9 +29,9 @@
 - [ ] 3E signal maps from at least the highest-priority architecture elements — Value Streams and Value Stages at minimum; individual Capabilities and Processes add diagnostic precision
 - [ ] AER data for both tracks: Customer AER (Adoption, Engagement, Retention rates) and Organizational AER (Adoption, Engagement, Retention across the workforce and partners)
 - [ ] OSM strategic hypotheses — the value priorities and strategic bets the organization is currently executing against
-- [ ] Current financial performance data (for Financial Value) and forward-looking pipeline data (CLV, revenue potential)
+- [ ] Current financial performance data (for Financial Value) and forward-looking pipeline data (customer lifetime value (CLV), revenue potential)
 - [ ] People and workforce indicators — not survey scores alone, but behavioral signals: team continuity, voluntary turnover, internal mobility, capability depth
-- [ ] Any existing ESG, mission, or impact reporting (for Impact Value)
+- [ ] Any existing environmental, social and governance (ESG), mission, or impact reporting (for Impact Value)
 
 **People required**
 
@@ -48,7 +48,7 @@
 - Gather existing signal data in advance — do not enter the session expecting to source signals in the room. The session is for reading the profile and diagnosing compounding relationships, not for finding data
 - Know in advance which of the eight values have instrumented signals and which do not — the first action is separating measured values from assumed ones
 - Have the OSM strategic hypotheses written down — the 8 Values profile is not useful in isolation; it is most useful in relation to what the organization was trying to achieve
-- If this is the first time the organization is running this process, expect Step 1 to reveal that several values have no signals at all. This is the most common and most important finding of the first session
+- If this is the first time the organization is running this process, expect Step 1 to reveal that several values have no signals at all. That is itself a finding of the first session: record each as unmeasured, not zero
 
 ---
 
@@ -71,7 +71,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 - A value is measured only if it has an owned signal with a named indicator, a baseline and a current reading, reviewed by its owner on a defined cadence. A value claimed because an initiative exists ("we run a mentorship program, so we have People Value") is an assumption, not a measurement
 - Do not treat survey data as a behavioral signal. Engagement scores and satisfaction surveys are attitudinal — they tell you how people feel, not what they are doing. A People Value signal based only on survey data is a weak signal; it must be paired with behavioral indicators (team continuity by capability area, voluntary turnover, internal mobility, practice coverage) to be credible
 - Values without signals are not zero — they are unknown. The diagnostic distinction matters: a value that is measured and weak requires an intervention; a value that is unmeasured requires instrumentation first
-- The most common unmeasured values in most organizations are: Innovation Value (IP and R&D pipeline is tracked financially, but capability expansion and future value stream health are not), Impact Value (ESG reporting exists but is not connected to operational behavior), and Strategic Value (strategy exists but execution effectiveness is not measured distinctly from financial outcomes)
+- Values to check first for missing signals: Innovation Value (the intellectual property (IP) and research and development (R&D) pipeline is often tracked financially, but capability expansion and future value stream health are not), Impact Value (ESG reporting exists but is not connected to operational behavior), and Strategic Value (strategy exists but execution effectiveness is not measured distinctly from financial outcomes)
 
 **Signal inventory template:**
 
@@ -99,7 +99,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 **Guidance:**
 - A single signal can speak to more than one value — do not force each signal into one dimension. Customer AER Retention speaks to both Customer Value (behavioral proof of value realized) and Financial Value (revenue sustainability). Map it to both
-- 3E signals are primarily leading — they surface before AER and value outcomes. An Efficiency signal from a critical capability is a leading indicator of Operational Value health; it will surface before Organizational AER Adoption begins to decline
+- 3E signals are primarily leading — they surface before AER and value outcomes. An Efficiency signal from a critical capability is a leading indicator of Operational Value health; it is expected to surface before Organizational AER Adoption begins to decline
 - AER signals are the bridge layer — they sit between 3E delivery signals and 8 Values organizational outcomes. Customer AER Adoption is downstream of 3E Efficiency; it is upstream of Customer Value and Financial Value. Read the signal at the right position in the sequence
 - The mapping below is the standard translation. Adapt it to the specific elements and signals in your organization, but do not deviate from the directional logic
 
@@ -108,7 +108,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 | Signal Source | Signal | Most Directly Surfaces | Type |
 |---|---|---|---|
 | **3E Efficiency** | Ease of use — effort, time-to-value, friction, quality, unassisted completion share, cost-per-activation | Operational Value | Leading |
-| **3E Experience** | Customer sentiment, CSAT at step, NPS (stated intent to recommend) | Customer Value | Leading |
+| **3E Experience** | Customer sentiment, customer satisfaction (CSAT) at step, Net Promoter Score (NPS: stated intent to recommend) | Customer Value | Leading |
 | **3E Effectiveness** | Outcome attainment, goal achievement | Strategic Value | Lagging |
 | **Customer AER — Adoption** | Activation / first-use rate, trial-to-activation, onboarding completion, entry conversion | Customer Value, Financial Value | Leading |
 | **Customer AER — Engagement** | Day-2 return, active usage depth, session frequency, feature breadth | Customer Value, Market Value | Leading |
@@ -134,8 +134,8 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Output:** An 8 Values profile — current status per dimension; a compounding diagnosis — which gaps are upstream causes, which are downstream symptoms
 
 **Guidance:**
-- Read the profile as a system, not as eight independent scores. A weak Operational Value and a weak Customer Value appearing simultaneously are almost certainly linked — trace the direction before concluding independently on each
-- The four most common compounding patterns to diagnose:
+- Read the profile as a system, not as eight independent scores. A weak Operational Value and a weak Customer Value appearing simultaneously are likely to be linked — trace the direction before concluding independently on each
+- Four compounding patterns to diagnose first:
 
 **Pattern 1 — The engine failure:** Org AER Engagement or Retention is declining while Customer Value and Financial Value still appear strong. This is the most dangerous pattern — the human and operational engine is degrading while the visible outputs are holding. Left unaddressed, Operational Value is expected to erode, and Customer Value delivery to begin to fail (the timing varies by organization). The strong external signals are a lag; the weak internal signals are the early truth.
 
@@ -199,7 +199,7 @@ Read the network for root cause: a gap in People Value creates drag on Operation
 - **Start from the traced evidence.** The root cause is the gap whose signal fell first, by dated readings, while the signals feeding it held. Act on it first, even if a downstream symptom is more visible. Fixing Customer Value symptoms while People Value or Operational Value is degrading produces temporary improvement and delayed recurrence
 - **Where the evidence does not separate two gaps, apply your organization's own prioritization criteria.** If you have none yet, we suggest this order as a starting point:
 
-**Priority 1 — Foundation gaps:** People Value, then Operational Value. People Value is the network's source node. If either is weak, no other value can be consistently delivered. These are the conditions on which everything else depends.
+**Priority 1 — Foundation gaps:** People Value, then Operational Value. People Value is the network's source node. If either is weak, the model expects no other value to be delivered consistently. These are the conditions on which everything else depends.
 
 **Priority 2 — Delivery gaps:** Customer Value. If the foundation is sound but Customer Value is weak, the gap is in CVDM — the delivery layer is not connecting capability to customer outcome. This is a journey and value stage problem, not a capability problem.
 
@@ -245,14 +245,13 @@ Read the network for root cause: a gap in People Value creates drag on Operation
 - Set distinct cadences for internal governance and external reporting — they serve different audiences and have different horizons. Internal governance follows the OSM decision forum's cadence; external IR reporting is annual at minimum but the 8 Values profile that feeds it should be current at each board cycle
 - Name a single owner per value dimension for signal ownership. The governance lead owns the profile synthesis; individual value owners are accountable for the signals that feed it
 
-**Return paths and cadences:**
+**Return paths and cadences:** People Value and Operational Value feed PTS; the other values feed OSM. The CVDM loops are in the [IIVCS Feedback System](../feedback.md#operational-feedback--cvdm); the product team owns every loop.
 
 | Return path | What feeds it | Cadence | Owner |
 |---|---|---|---|
 | **OSM Governance & Measurement** | Full 8 Values profile — evidence to accept or reject strategic hypotheses | Each decision forum | OSM governance lead |
-| **CVDM Strategic signals loop → OSM** | Strategic Value and Financial Value effectiveness signals | Before each OSM decision forum | OSM governance lead |
+| **CVDM Strategic signals loop → OSM** | Customer Value and Market Value delivery signals, in the product team's consolidation of the other four loops | Before each OSM decision forum | The value stream's product team |
 | **PTS operating model review** | Operational Value and People Value gaps and root causes | The organization's planning cadence | PTS / delivery lead |
-| **CVDM performance optimization** | Customer Value and Market Value delivery signals | Before each PTS operating-model review | CVDM / customer experience lead |
 | **IR 6 Capitals board reporting** | Full 8 Values profile translated to capital stock | Annually / per board cycle | Finance lead + governance lead |
 | **Out-of-cycle trigger — foundation** | Org AER Retention drops or Operational Value signal degrades sharply | Immediate | OSM governance lead |
 | **Out-of-cycle trigger — customer** | Customer AER Adoption or Retention drops below threshold | Immediate | CVDM / customer experience lead |
@@ -284,13 +283,13 @@ Customer AER Adoption and Retention → Customer Value (leading, lagging). Finan
 
 Profile: Customer Value — Healthy. Financial Value — Healthy. People Value — Watch (attrition is a lagging signal; the leading edge has been declining for longer). Operational Value — At risk (delivery miss rate and slowing velocity). Innovation Value — unmeasured (the CTO reports a decline informally; name a signal before acting on it). Strategic Value — unmeasured (no distinct signal). Market Value — Watch (read through NPS alone).
 
-Compounding diagnosis: This is Pattern 4 — the extraction pattern. The organization is generating Customer Value and Financial Value from a workforce and capability base that is degrading. The People Value gap is upstream: senior engineer attrition reduces the capability stock that Operational Value depends on. Reduced Operational Value then reduces delivery quality and velocity, which is expected to produce Customer Value degradation (in this illustrative case, within about two to three quarters). The strong financial and customer signals are a lag — they reflect the value generated by a capability base that was stronger six months ago. The leading signals point to a different future.
+Compounding diagnosis: This is Pattern 4 — the extraction pattern. The organization is generating Customer Value and Financial Value from a workforce and capability base that is degrading. The People Value gap is upstream: senior engineer attrition reduces the capability stock that Operational Value depends on. Reduced Operational Value then reduces delivery quality and velocity, which is expected to produce Customer Value degradation (in this illustrative case, within about two to three quarters). Innovation Value is unmeasured, so the pattern rests on People Value for now; name an Innovation Value signal before confirming it. The strong financial and customer signals are a lag — they reflect the value generated by a capability base that was stronger six months ago. The leading signals point to a different future.
 
 **Step 4 — Prioritized action**
 
 Priority 1 (foundation): People Value. Diagnose the attrition signal by capability area — which roles are leaving, and what is the Org AER Retention pattern for senior engineers specifically? Until People Value is understood at the capability level, no other intervention is well-targeted. Action: instrument Org AER Retention by role and capability area within 30 days; run a structured exit signal analysis with departing engineers.
 
-Priority 2 (foundation): Operational Value. The delivery miss rate is a symptom. Root cause: is the capability to execute the product initiative scope still present, or has attrition degraded it? Action: PTS lead runs a POM capability assessment — mapping delivery team capability stock against the current product portfolio scope.
+Priority 2 (foundation): Operational Value. The delivery miss rate is a symptom. Root cause: is the capability to execute the product initiative scope still present, or has attrition degraded it? Action: PTS lead runs a Product Operating Model (POM) capability assessment — mapping delivery team capability stock against the current product portfolio scope.
 
 Priority 3 (future): Innovation Value. The discovery cadence slowdown is the earliest Innovation Value signal. If it is not addressed, the next-generation value stream pipeline empties. Action: PTS lead maps Discover phase capacity and velocity against prior quarters — identify whether the slowdown is resource-driven or prioritization-driven.
 
@@ -324,7 +323,7 @@ OEE and on-time delivery → Operational Value (leading). Revenue decline → Fi
 
 Profile: Operational Value — Healthy. Financial Value — Watch (margin stable, revenue declining). Market Value — At risk (declining share). Customer Value — unmeasured: no behavioral signal (attitudinal readings alone). Innovation Value — At risk. People Value — unmeasured: no behavioral signal. Strategic Value — unmeasured.
 
-Compounding diagnosis: This is Pattern 2 — the delivery misalignment. Strong Operational Value with weak Customer Value and Market Value signals a CVDM gap: the organization is producing efficiently against internally defined specifications, but those specifications are not aligned to what customers value. The customers choosing competitors for "better fit" are telling the story directly — the product is operationally well-made for the wrong outcome definition. Operational Value is generating; it is generating the wrong things.
+Compounding diagnosis: This is Pattern 2 — the delivery misalignment. Operational Value Healthy, Market Value At risk and Customer Value unmeasured point to a CVDM gap (name a behavioral Customer Value signal to confirm it): the organization is producing efficiently against internally defined specifications, but those specifications are not aligned to what customers value. The customers choosing competitors for "better fit" are telling the story directly — the product is operationally well-made for the wrong outcome definition. Operational Value is generating; it is generating the wrong things.
 
 The Innovation Value gap confirms this: new launches are failing not because the organization cannot build, but because what it is building is not validated against customer outcomes before launch. Discovery is either absent or disconnected from the customer journey.
 
@@ -366,7 +365,7 @@ Leadership alignment → Strategic Value formulation (leading). Revenue below pl
 
 Profile: Strategic Value — Watch (formulation strong; execution weak). People Value — Watch (capability exists; behavioral engagement with the new direction is absent). Operational Value — Watch (utilization strong; strategic alignment absent). Customer Value — unmeasured: no behavioral signal; client non-renewals are a lagging warning. Financial Value — At risk (below plan). Market Value — unmeasured.
 
-Compounding diagnosis: This is Pattern 3 — the formulation-execution gap. Strategic formulation is strong — leadership is aligned, the direction is clear. But PTS has not been applied: the operating model has not been rebuilt to deliver the new value proposition. Delivery teams are using the same capability activation and process patterns as before because nothing has changed at the POM level. The strategy exists at the OSM layer; it has not been operationalized through PTS into the delivery layer. Customer Value cannot change until CVDM has been rebuilt around the new value proposition — which cannot happen until PTS has stood up the capability and team structure to deliver it.
+Compounding diagnosis: This is Pattern 3 — the formulation-execution gap. Strategic formulation is strong — leadership is aligned, the direction is clear. But PTS has not been applied: the operating model has not been rebuilt to deliver the new value proposition. Delivery teams are using the same capability activation and process patterns as before because nothing has changed at the POM level. The strategy exists at the OSM layer; it has not been operationalized through PTS into the delivery layer. Customer Value is unmeasured, so name a behavioral signal for it; the model expects it not to change until CVDM has been rebuilt around the new value proposition — which cannot happen until PTS has stood up the capability and team structure to deliver it.
 
 The Financial Value underperformance is the most downstream symptom. The root is in PTS: the product operating model has not been transformed to carry the new strategy into execution.
 
@@ -480,7 +479,7 @@ The eight value dimensions are universal. What shifts by sector is the vocabular
 2. Map 3E and AER signals to value dimensions — *What do existing signals tell us about each value?*
 3. Build the value profile and read compounding relationships — *What are we generating, and which gaps cause systemic drag?*
 4. Prioritize by compounding leverage — *Which gap do we address first for the most systemic improvement?*
-5. Activate the feedback loop — *How does the profile feed governance and reporting, and when do we revisit?*
+5. Feed upstream to governance and outward to reporting — *How does the profile feed governance and reporting, and when do we revisit?*
 
 **Health signals at a glance**
 
