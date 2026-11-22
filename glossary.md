@@ -55,7 +55,7 @@ The named layers 3E measures and CVDM activates, from broadest to most granular.
 
 | Term | Definition |
 |---|---|
-| **Product lifecycle** | PTS's six phases: Discover, Define, Develop, Deliver, Launch and Support. They are continuous and overlapping, and run from building a product to supporting it in use: Discover runs throughout, and Launch covers both external go-to-market and internal change adoption. Not a product's market stages — introduction, growth, maturity and decline — often called the product life cycle (PLC). |
+| **Product lifecycle** | PTS's six phases: Discover, Define, Develop, Deliver, Launch and Support. They are continuous and overlapping, and run from building a product to supporting it in use: Discover runs throughout, and Launch covers both external go-to-market and internal change adoption. |
 | **Market stages** | The stages a product passes through in its market: introduction, growth, maturity and decline. |
 | **Leading indicator** | A signal that surfaces before the outcome it predicts (Efficiency, Experience; AER Adoption, Engagement). Leading and lagging describe timing relative to a named outcome, not what is measured. Enables intervention before damage registers. |
 | **Lagging indicator** | A signal that confirms an outcome after the fact (Effectiveness; AER Retention; most 8 Values signals). |
