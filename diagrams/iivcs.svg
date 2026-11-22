@@ -40,7 +40,7 @@
   <text x="60" y="88" font-size="12.5" fill="#3B4652">The Insheights Integrated Value Creation System is how organizations define, build, and deliver value — from</text>
   <text x="60" y="106" font-size="12.5" fill="#3B4652">strategic intent to value — integrating existing practices into a coherent system.</text>
 
-  <!-- legend: top-right, same spot as the other diagrams -->
+  <!-- legend: top-right, right edge aligned with the bands -->
   <text x="976" y="34" font-size="12" fill="#3B4652">work flow</text>
   <path class="work" d="M976,44 H1076"/>
   <text x="976" y="70" font-size="12" fill="#2F6FB5" font-style="italic">feedback flow</text>
