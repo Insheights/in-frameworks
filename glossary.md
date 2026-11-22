@@ -173,13 +173,13 @@ Frameworks the IIVCS comparison, integration, and guide documents reference. Lis
 | **Rumelt's strategy kernel** | From *Good Strategy / Bad Strategy*: diagnosis, guiding policy, and coherent actions. The minimum structure of a real strategy. |
 | **Playing to Win** | Lafley & Martin's strategy-formulation framework of five cascading choices: winning aspiration, where to play, how to win, must-have capabilities, and management systems. |
 | **Porter — competitive strategy** | Michael Porter's competitive-analysis tools (Five Forces, value chain, generic strategies) for understanding industry structure and competitive advantage. |
-| **EFQM / RADAR** | EFQM Excellence Model — European organizational quality framework; RADAR (Results, Approaches, Deployment, Assessment & Refinement) is its scoring method. |
+| **EFQM / RADAR** | EFQM Model (European Foundation for Quality Management) — an organizational assessment model asking three questions, Direction, Execution and Results, across seven criteria; RADAR (Results, Approaches, Deployment, Assessment & Refinement) is its assessment logic. |
 | **TOGAF / BIZBOK / ArchiMate** | Enterprise Architecture frameworks and modeling language. |
 | **SAFe** | Scaled Agile Framework — enterprise agile delivery framework. |
 | **JTBD** | Jobs To Be Done — a framework for understanding the job a customer hires a product to do. |
 | **Service Blueprint / Value Stream Mapping** | Service design and lean process-mapping techniques. |
 | **ISO 9241-11** | International usability standard defining Effectiveness, Efficiency, Satisfaction. |
-| **Google HEART** | Product UX measurement framework — Happiness, Engagement, Adoption, Retention, Task Success. |
+| **Google HEART** | User-centered metric categories for web products: Happiness, Engagement, Adoption, Retention, Task Success (Google, 2010). Adoption, Engagement and Retention are behaviors; in IIVCS they sit in AER. |
 | **AARRR** | "Pirate Metrics" growth funnel — Acquisition, Activation, Retention, Referral, Revenue. |
 | **Prosci ADKAR** | Individual change model — Awareness, Desire, Knowledge, Ability, Reinforcement. |
 | **Kotter 8-Step** | Kotter's eight-step model for leading organizational change. |
@@ -193,9 +193,10 @@ Frameworks the IIVCS comparison, integration, and guide documents reference. Lis
 | Term | Definition |
 |---|---|
 | **NPS** | Net Promoter Score — stated likelihood to recommend; an attitudinal 3E Experience signal. The referral itself is recorded in Customer AER (Recommendation). |
+| **Net Promoter System** | Bain & Company's management practice around NPS: an inner loop in which frontline teams follow up each customer's feedback, and an outer loop that takes issues beyond frontline control to structural fixes. Not the score itself. |
 | **eNPS** | Employee Net Promoter Score — teams' stated likelihood to recommend the organization as a place to work; an attitudinal 3E Experience signal (internal), which People Value reads from. |
 | **CSAT** | Customer Satisfaction Score — satisfaction with a specific interaction. |
-| **CES** | Customer Effort Score — effort required to complete a task; a leading friction signal. |
+| **CES** | Customer Effort Score — the effort a customer reports in completing a task; an attitudinal 3E Experience signal of perceived effort. Observed friction is read in Efficiency. |
 | **CLV / LTV** | Customer Lifetime Value — total value a customer generates over the relationship. |
 | **OEE** | Overall Equipment Effectiveness — a manufacturing performance measure. |
 | **GTM** | Go-To-Market — external launch motion (awareness, acquisition, channel activation). |

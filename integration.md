@@ -1,6 +1,6 @@
 # IIVCS Integration with Existing Practices
 
-**SAFe | Scrum | Team Topologies | [Objectives and Key Results (OKRs)](glossary.md#external-frameworks-referenced) | ITIL | ERM | Design Thinking | Value Stream Mapping | Jobs To Be Done**
+**SAFe | Scrum | Team Topologies | [Objectives and Key Results (OKRs)](glossary.md#external-frameworks-referenced) | ITIL | ERM | Design Thinking | Value Stream Mapping | Jobs To Be Done | Enterprise Architecture**
 
 How the Insheights Integrated Value Creation System connects to and integrates with existing organizational practices, methods, and frameworks — rather than replacing them.
 
@@ -157,11 +157,11 @@ A note on terms: Lean uses "value stream" for the path that material and informa
 
 **Where VSM connects into IIVCS:**
 
-- **VSM analysis → 3E Efficiency baseline:** A Value Stream Map is a current-state Efficiency analysis. VSM surfaces cycle time, wait time, and waste in the value stream — which are the Efficiency signals 3E measures on an ongoing basis. VSM is the point-in-time diagnostic; 3E is the continuous measurement.
+- **VSM analysis → 3E Efficiency baseline:** A Value Stream Map is a current-state Efficiency analysis. VSM surfaces cycle time, wait time, and waste in the value stream — which are the Efficiency signals 3E measures on an ongoing basis. A VSM is redrawn at intervals; 3E is designed to read the same Efficiency signals between them.
 - **Future-state VSM → CVDM capability redesign:** VSM's future-state maps define the target capabilities and processes that CVDM must operationalize. The future-state design becomes the target architecture for CVDM's capability and process layer.
-- **VSM kaizen events → PTS improvement cycles:** VSM-driven improvement events are inputs to PTS's operating model improvement cycle. They surface operating model gaps (people, practices, architecture) that PTS's enablers must address.
+- **VSM improvement events → PTS improvement cycles:** VSM-driven improvement events are inputs to PTS's operating model improvement cycle. They surface operating model gaps (people, practices, architecture) that PTS's enablers must address.
 
-**What IIVCS adds:** The Experience and Effectiveness dimensions that VSM cannot see. A VSM-efficient value stream can still fail on customer experience or outcome achievement — 3E makes these gaps visible. A feedback architecture that turns VSM's point-in-time findings into a continuous improvement signal.
+**What IIVCS adds:** The Experience and Effectiveness dimensions that VSM does not read. A VSM-efficient value stream can still fail on customer experience or outcome achievement — 3E is designed to make these gaps visible. A feedback architecture designed to return VSM's findings, with the Experience and Effectiveness readings beside them, to the teams and leaders who can act on them.
 
 ---
 
@@ -176,7 +176,21 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 - **Job executor's desired outcomes → CVDM value propositions:** JTBD's outcome statements (what customers want to accomplish, at what speed, with what precision) are the basis for CVDM's value propositions at each journey stage. The value proposition is the organization's answer to the job; CVDM is how the organization delivers it.
 - **Job satisfaction research → 3E Effectiveness signal:** JTBD outcome surveys (e.g., Outcome-Driven Innovation) measure whether customers are achieving their desired outcomes — which is the Effectiveness dimension of 3E at the customer level.
 
-**What IIVCS adds:** The delivery system that turns JTBD demand insights into realized customer outcomes. JTBD identifies what job to do; IIVCS is the system that does it and measures whether it was done.
+**What IIVCS adds:** The delivery system that turns JTBD demand insights into realized customer outcomes. JTBD identifies what job to do; IIVCS is designed as the system that does it and reads whether it was done; a reasoned hypothesis, not yet validated.
+
+---
+
+### Enterprise Architecture (TOGAF, ArchiMate, BIZBOK)
+
+Enterprise architecture practice describes, plans and governs the organization's architecture. Where an organization has this practice, IIVCS uses its models and governance. It does not replace the practice.
+
+**Where enterprise architecture connects into IIVCS:**
+
+- **TOGAF → architecture changes that OSM decisions require:** where an OSM decision changes the architecture, such as a new or reshaped value stream or capability, the organization's architecture governance, run with TOGAF, reviews that change. It does not set or review the strategy itself.
+- **BIZBOK → OSM's maps:** where an organization has a business-architecture capability map and value-stream map, OSM adopts them as the starting point for the value-stream inventory and capability map it hands to PTS and CVDM, and changes them through its own decisions.
+- **ArchiMate → the organization's own models:** IIVCS value streams, value stages and capabilities, and the links between them, can be modeled with ArchiMate's strategy and business elements in the organization's existing architecture repository.
+
+**What IIVCS is designed to add:** a customer journey anchor for the capabilities the architecture describes; an operating model for the product teams that run them (PTS); and measurement, 3E → AER → 8 Values, designed to read whether they are producing value (a reasoned hypothesis, not yet validated).
 
 ---
 
@@ -190,7 +204,7 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 | Hoshin Kanri | Cascade and coherence across levels | The X-matrix for cascading priorities and checking their coherence; OSM returns each level's executability read through governance rather than through catchball's negotiation rounds |
 | OKRs | Governance & Measurement cycle | Time-bound objectives and measurable key results for strategic commitments |
 | ERM | Strategic Value Creation inputs | Enterprise risk signal as a constraint on strategic options |
-| TOGAF / BIZBOK | Architecture governance layer | Architecture review and governance processes for OSM's deployment decisions |
+| TOGAF / BIZBOK | Architecture governance layer | Architecture review of the changes OSM's decisions make to value streams and capabilities |
 | Portfolio prioritization methods (WSJF, NPV) | Value stream allocation | Investment scoring and prioritization logic for value stream funding decisions |
 | Board and Executive governance cadences | Governance & Measurement | The organizational forums through which OSM's measurement cycle runs |
 
@@ -203,7 +217,7 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 | Team Topologies | Team types and team interactions | Prior art for PTS's Core, Shared, and Platform-Enabled teams and for consuming a capability as a service |
 | Design Thinking | Discover phase | Customer empathy research and iterative prototyping methods |
 | Jobs To Be Done | Discover phase | Outcome research that keeps teams grounded in what customers are trying to achieve across all delivery phases |
-| Value Stream Mapping | Operating model analysis | Point-in-time Efficiency diagnostics for value stream improvement |
+| Value Stream Mapping | Operating model analysis | Flow and quality diagnostics for value stream improvement |
 | HR and people frameworks | POM Enablers (People, Culture) | Performance management, career development, and organizational design practices |
 
 ### CVDM — What connects in
@@ -214,7 +228,7 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 | ITIL | Support phase, capability layer | Service management processes for the support stage of the customer journey |
 | Design Thinking | Value proposition definition | Customer research and prototype testing methods |
 | Service Blueprint | Journey-to-capability mapping | Current-state documentation of customer journey and backstage processes |
-| NPS / CSAT / CES | 3E signal instruments | Survey instruments that produce attitudinal signals for Efficiency (CES) and Experience (CSAT, NPS) |
+| NPS / CSAT / CES | 3E signal instruments | Survey instruments that produce attitudinal Experience signals (CES as perceived effort, CSAT, NPS as stated intent) |
 | JTBD | Value proposition and journey step definition | Demand research defining what outcomes each journey stage must achieve |
 
 ---
