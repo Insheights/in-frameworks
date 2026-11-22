@@ -8,7 +8,7 @@ AER measures behavioral response to value delivery — the actions customers and
 
 AER operates across two parallel tracks — Customer AER measuring how customers respond to value delivery, and Organizational AER measuring how the delivering organization responds to its own operating model.
 
-> **Behavioral, not satisfaction** — AER measures what customers and teams *do*, not how they *feel*. Satisfaction is a condition; behavior is the signal. A customer can report high satisfaction and still churn. A team can score well on a satisfaction survey and still fail to adopt new practices. AER reads behavior because it is observable and actionable, and it is expected to predict outcomes better than satisfaction scores alone. Stated intent — NPS, eNPS, engagement surveys — is attitudinal and belongs to [3E Experience](3e.md); AER records what people then do, such as an actual referral (Recommendation).
+> **Behavioral, not satisfaction** — AER measures what customers and teams *do*, not how they *feel*. Satisfaction is a condition; behavior is the signal. A customer can report high satisfaction and still churn. A team can score well on a satisfaction survey and still fail to adopt new practices. AER reads behavior because it is observable and actionable, and it is expected to predict outcomes better than satisfaction scores alone; if satisfaction scores predict Retention better over three consecutive readings, revisit the link. Stated intent — NPS, eNPS, engagement surveys — is attitudinal and belongs to [3E Experience](3e.md); AER records what people then do, such as an actual referral (Recommendation).
 
 ---
 
@@ -26,11 +26,11 @@ AER operates across two parallel tracks — Customer AER measuring how customers
 
 - **Adoption** — teams take up the operating model, practices, and ways of working: the breadth of teams whose own records show the practices running
 - **Engagement** — teams actively use and shape the way of working — active participation, not compliance: review output that reaches decisions, and changes teams make to the model themselves
-- **Retention** — teams persist with the way of working, and the people and knowledge that carry it stay. An operating model that delivers outcomes is expected to earn this: Effectiveness is expected to drive Retention, as a reasoned hypothesis. Read by *practice persistence* (the practices still seen in team artifacts at consecutive reviews), *team continuity* (members staying in persistent value-stream teams, by capability area), and *voluntary turnover*. Read Retention with the operating model's 3E: a fall that follows weak Effectiveness is the expected chain, so fix the model. A fall while Effectiveness holds points elsewhere. If it follows a change of executive sponsor, read it as a sponsorship risk at the next review, not as outside the model; if it follows the labor market, it lies outside the model. If Retention holds over three consecutive readings while Effectiveness stays weak, revisit the link
+- **Retention** — teams persist with the way of working, and the people and knowledge that carry it stay. An operating model that delivers outcomes is expected to earn this: Effectiveness is expected to drive Retention, as a reasoned hypothesis. Read by *practice persistence* (the practices still seen in team artifacts at consecutive reviews), *team continuity* (members staying in persistent value-stream teams, by capability area), and *voluntary turnover*. Read Retention with the operating model's 3E: a fall that follows weak Effectiveness is the expected chain, so fix the model. A fall while Effectiveness holds points elsewhere. If it follows a change of executive sponsor or value-stream owner, read it as a sponsorship risk at the next review, not as outside the model; if it follows the labor market, it lies outside the model. If Retention holds over three consecutive readings while Effectiveness stays weak, revisit the link
 
 AER is the home of these behavioral signals — return, active use, retention, renewal, referral, and teams' adoption and retention. 3E and the 8 Values read them from here rather than counting them again; candidate metrics are in [Metrics and Indicators](metrics-and-indicators.md#part-2--aer-metrics-and-indicators).
 
-The two tracks are parallel — both run simultaneously, and both are necessary. A delivery system that succeeds with customers but loses organizational capability is not expected to last. A delivery system with strong organizational engagement that fails to generate customer adoption is not creating value.
+The two tracks are parallel — both run simultaneously, and both are necessary. A delivery system that succeeds with customers but loses organizational capability is not expected to last, and one with strong organizational engagement that fails to generate customer adoption is not expected to create value. If either holds up over three consecutive readings, revisit the link.
 
 ---
 
@@ -40,9 +40,9 @@ The two tracks are parallel — both run simultaneously, and both are necessary.
 
 | 3E Dimension | AER Stage | Why |
 |---|---|---|
-| **Efficiency** | Adoption | Value that is accessible without unnecessary friction, effort, time, or cost lowers the barrier to entry — customers and teams adopt what they can reach |
-| **Experience** | Engagement | Value that is felt positively sustains active participation — customers and teams engage with what they trust and enjoy |
-| **Effectiveness** | Retention | Value that delivers outcomes earns continued commitment — customers and teams persist with what works |
+| **Efficiency** | Adoption (revisit after three contrary readings) | Value that is accessible without unnecessary friction, effort, time, or cost lowers the barrier to entry — customers and teams adopt what they can reach |
+| **Experience** | Engagement (revisit after three contrary readings) | Value that is felt positively sustains active participation — customers and teams engage with what they trust and enjoy |
+| **Effectiveness** | Retention (revisit after three contrary readings) | Value that delivers outcomes earns continued commitment — customers and teams persist with what works |
 
 The model expects this to hold across both tracks: Efficiency to enable teams to adopt new ways of working just as it enables customers to adopt new value, and Effectiveness to earn organizational commitment just as it earns customer retention.
 
@@ -77,8 +77,8 @@ Both tracks are expected to compound across the remaining 8 Values over time. Cu
 
 | AER Track | Primary 8 Values | Compounding 8 Values |
 |---|---|---|
-| **Customer AER** | Customer Value, Financial Value | Market Value, Impact Value |
-| **Organizational AER** | People Value | Operational Value, Strategic Value, Innovation Value, Impact Value |
+| **Customer AER** | Customer Value, Financial Value (revisit after three contrary readings) | Market Value, Impact Value |
+| **Organizational AER** | People Value (revisit after three contrary readings) | Operational Value, Strategic Value, Innovation Value, Impact Value |
 
 ---
 
@@ -97,7 +97,7 @@ Org AER         Adoption → Engagement → Retention
 
 3E measures how value is delivered and what it achieves — Efficiency and Experience as leading signals, Effectiveness as the lagging outcome signal. AER measures how delivery is received. The 8 Values measure what the organization generates as a result.
 
-The sequence matters. 3E's leading signals (Efficiency, Experience) are expected to surface first — operational, at the journey and delivery level. AER signals surface next — behavioral, as cumulative patterns of customer and team response. 8 Values signals surface last — organizational, as the compound outcome of sustained behavioral commitment over time.
+The sequence matters. 3E's leading signals (Efficiency, Experience) are expected to surface first — operational, at the journey and delivery level. AER signals are expected to surface next — behavioral, as cumulative patterns of customer and team response. 8 Values signals are expected to surface last — organizational, as the compound outcome of sustained behavioral commitment over time.
 
 In this sequence, AER Adoption and Engagement are expected to lead 8 Values performance: a decline in either is expected to be an early warning for Customer, Financial, or People Value, visible before the organizational impact registers in value metrics. If a Value falls over three consecutive readings with no decline in Adoption or Engagement before it, revisit the link. Teams and leaders who monitor AER are meant to act before value erosion becomes value loss.
 
@@ -115,10 +115,12 @@ AER signals return through the IIVCS feedback system: Customer AER through CVDM'
 
 1. **Pick one value stream.** Use the one the operating model is stood up on first (the [PTS Practitioners Guide](guides/pts-practitioners-guide.md) starts with a pilot on one value stream).
 2. **Name two roles**, as the PTS guide defines them:
-   - the **executive sponsor**, who holds the mandate for the operating model. A change of sponsor is a Retention risk: read it at the next review;
+   - the **executive sponsor**, who holds the mandate to restructure teams around value streams and protect persistent ownership;
    - the **value-stream owner**, who, with POM Leadership, acts on the signal and owns retuning the operating model when adoption or engagement drops.
+
+   Without a named sponsor, do not start: use the [Adoption Sequencing & Maturity Model](adoption-maturity.md) to find one first. A change of sponsor or value-stream owner is a Retention risk (see [Limitations](#limitations)).
 3. **Start with one signal per stage**, from [Metrics and Indicators](metrics-and-indicators.md#organizational-aer): practice coverage (Adoption), decision trace and team-made change (Engagement), practice persistence (Retention). They are read from team artifacts and review records. The value-stream owner reads them at the operating-model review. Label early readings partial.
-4. **Check each artifact reading against the work.** A team can produce the artifacts without running the practice. Pair each artifact reading with one behavioral signal from the work itself, such as the practice cited in a recorded decision or a Customer AER movement in the same value stream.
+4. **Check each artifact reading against the work.** A team can produce the artifacts without running the practice. Pair each Adoption and persistence reading with one behavioral signal from the work itself, such as the practice cited in a recorded decision or a Customer AER movement in the same value stream. For Engagement, whose signal is the decision trace itself, check that the cited decisions changed what the team then did.
 5. **Read at each operating-model review**, held at the organization's planning cadence before each OSM decision forum, so the read reaches it.
 
 **Output:** a first Organizational AER reading for one value stream: one named signal per stage, each with a baseline and its paired behavioral check, labelled partial where records are thin; and the named executive sponsor and value-stream owner.
@@ -134,7 +136,7 @@ AER measures behavior, which makes it more actionable than sentiment — but als
 - **Behavioral-data dependent.** AER requires observable behavioral signals — adoption rates, engagement depth, retention and recommendation curves — across both tracks. Organizations that rely only on attitudinal surveys (satisfaction, engagement scores) cannot populate AER without new instrumentation.
 - **Organizational AER is the harder track.** Customer behavioral analytics are common; behavioral — not survey-based — measures of team adoption, engagement, and retention by capability area are rare. Most organizations will begin with a partial Organizational AER and should not mistake a Gallup-style engagement score for a behavioral signal.
 - **Organizational AER can be gamed.** Adoption and persistence are read from team artifacts, and a team can produce the artifacts without running the practice. Each artifact reading needs one behavioral signal beside it (see [Where to Start](#where-to-start)).
-- **Sponsorship is a risk to read, not an exclusion.** A change of executive sponsor can undo a way of working. Read it at the next review as an Organizational AER Retention risk.
+- **Sponsorship is a risk to read, not an exclusion.** A change of executive sponsor or value-stream owner can undo a way of working. Read it at the next review as an Organizational AER Retention risk.
 - **Retention signal lags.** Retention and Recommendation require months-long windows to mature. AER's leading-indicator value lives mostly in Adoption and Engagement; the Retention dimension confirms rather than warns.
 - **Conceptually derived.** The 3E → AER stage mapping and the dual-track parallelism are reasoned constructs, not empirically validated relationships. A 3E gap *predicting* an AER gap is a model assertion to verify, not a measured law. Each link on this page is stated with what would count against it: if the next signal does not follow over three consecutive readings, revisit the link.
 - **No external benchmarks.** Like 3E, AER has no published industry reference ranges; comparison is against your own baseline over time.
@@ -147,9 +149,9 @@ AER measures behavior, which makes it more actionable than sentiment — but als
 
 AER is the behavioral layer of the IIVCS measurement architecture — the signal that connects what the system delivers (3E) to what the organization generates (8 Values).
 
-Customer AER and Organizational AER run in parallel because organizational value is expected to depend on both. A delivery system that generates customer adoption without organizational capability is fragile. A delivery system with strong teams but weak customer retention is failing at its purpose.
+Customer AER and Organizational AER run in parallel because organizational value is expected to depend on both. A delivery system that generates customer adoption without organizational capability is expected to be fragile, and one with strong teams but weak customer retention is expected to fall short of its purpose.
 
-The AER stages — Adoption, Engagement, Retention — are not independent milestones. They are expected to be sequential and compounding: Adoption that does not deepen into Engagement is not expected to last, and Engagement without Effectiveness is not expected to earn Retention. If Retention holds over three consecutive readings while Engagement or Effectiveness is weak, revisit the link. Retention is the proof that the system is delivering value worth staying for — in both directions.
+The AER stages — Adoption, Engagement, Retention — are not independent milestones. They are expected to be sequential and compounding: Adoption that does not deepen into Engagement is not expected to last, and Engagement without Effectiveness is not expected to earn Retention. If Retention holds over three consecutive readings while Engagement or Effectiveness is weak, revisit the link. Retention is meant as the proof that the system is delivering value worth staying for — in both directions.
 
 ---
 
