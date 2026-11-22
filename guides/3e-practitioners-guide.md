@@ -43,7 +43,7 @@
 **Prepare the room**
 
 - Have the element's value promise written down in advance — if the room cannot agree on what the element is supposed to deliver, 3E measurement cannot begin
-- Gather any existing signal data (usage analytics, support tickets, Net Promoter Score (NPS) and customer satisfaction (CSAT) scores, completion rates, outcome metrics) before the session
+- Gather any existing signal data (usage analytics, support tickets, Net Promoter Score (NPS) and Customer Satisfaction Score (CSAT) readings, completion rates, outcome metrics) before the session
 - Know which CVDM feedback loop this element feeds: Experience feedback, Journey insights, Delivery learning, Performance optimization, or Strategic signals
 
 ---
@@ -64,7 +64,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Output:** Element definition — name, level, value promise sentence
 
 **Guidance:**
-- The value promise must be written from the customer's perspective, not the organization's. "Enables customers to onboard without IT involvement" is a value promise. "Completes the provisioning workflow" is not.
+- The value promise must be written from the customer's perspective, not the organization's. "Enables customers to onboard without information technology (IT) involvement" is a value promise. "Completes the provisioning workflow" is not.
 - If the team cannot agree on the value promise in this step, stop. Measuring without agreement on what you are measuring produces noise, not signal.
 - You are done when you can complete this sentence: "[Element name] delivers [value] to [customer/stakeholder] by [mechanism]."
 
@@ -180,7 +180,7 @@ Effectiveness underperforming?
 
 ### Example 1 — B2B SaaS Onboarding (Product/Service level)
 
-> **Scenario:** A mid-market B2B SaaS company sells a workflow automation tool to operations teams. Customer success data shows that 40% of customers who complete a trial do not convert to paid accounts. The product team applies 3E to the onboarding product to diagnose where value is breaking down.
+> **Scenario:** A mid-market B2B SaaS company sells a workflow automation tool to operations teams. Customer success data shows that 40% of customers who complete a trial do not convert to paid accounts, and many never run a workflow at all. The product team applies 3E to the onboarding product to diagnose where value is breaking down.
 
 **Step 1 — Define the element and its value promise**
 
@@ -190,7 +190,7 @@ Element: **onboarding product** (Product/Service level). Value promise: *The onb
 
 - **Efficiency:** Can a new operations team member complete their first workflow configuration without raising a support ticket or requiring IT involvement?
 - **Experience:** Does the new customer feel confident and capable during onboarding — not anxious, confused, or dependent on external help?
-- **Effectiveness:** Does the customer successfully run their first automated workflow — the outcome onboarding promises — within five days? Whether they convert to a paid account is entry conversion, read in [AER Adoption](../metrics-and-indicators.md#customer-aer), not here.
+- **Effectiveness:** Does the customer successfully run their first automated workflow — the outcome onboarding promises — within five days? That first run is the outcome this element promises, so it is goal attainment; whether they convert to a paid account is entry conversion, read in [AER Adoption](../metrics-and-indicators.md#customer-aer), not here.
 
 **Step 3 — Define signals**
 
@@ -206,7 +206,7 @@ Element: **onboarding product** (Product/Service level). Value promise: *The onb
 
 **Step 4 — Baseline and diagnose**
 
-Baseline, in the [bands](../metrics-and-indicators.md#how-to-read-this-guide) against the targets and floors the team set: 62% of users complete configuration without raising a ticket (Efficiency: Watch). Post-onboarding CSAT: 3.2/5 (Experience: At risk). Day-2 return rate: 44% (AER Engagement: At risk, confirming the Experience reading). First workflow run within five days: 60% against a target of 75% (Effectiveness: At risk). Trial-to-paid conversion is read beside it, in AER Adoption.
+Baseline, in the [bands](../metrics-and-indicators.md#how-to-read-this-guide) against the targets and floors the team set: 62% of users complete configuration without raising a ticket (Efficiency: Watch). Post-onboarding CSAT: 3.2/5 (Experience: At risk). Day-2 return rate: 44% (AER Engagement: At risk, confirming the Experience reading). First workflow run within five days: 55% against a target of 75% (Effectiveness: At risk). Trial-to-paid conversion, read beside it in AER Adoption: 60%.
 
 Diagnostic: Effectiveness is At risk. Experience is At risk — this points upstream. Trace to Efficiency: 38% of users hit a friction point severe enough to raise a ticket. The Experience weakness is downstream of an Efficiency gap.
 

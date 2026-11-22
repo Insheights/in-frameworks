@@ -108,7 +108,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 | Signal Source | Signal | Most Directly Surfaces | Type |
 |---|---|---|---|
 | **3E Efficiency** | Ease of use — effort, time-to-value, friction, quality, unassisted completion share, cost-per-activation | Operational Value | Leading |
-| **3E Experience** | Customer sentiment, customer satisfaction (CSAT) at step, Net Promoter Score (NPS: stated intent to recommend) | Customer Value | Leading |
+| **3E Experience** | Customer sentiment, Customer Satisfaction Score (CSAT) at step, Net Promoter Score (NPS: stated intent to recommend) | Customer Value | Leading |
 | **3E Effectiveness** | Outcome attainment, goal achievement | Strategic Value | Lagging |
 | **Customer AER — Adoption** | Activation / first-use rate, trial-to-activation, onboarding completion, entry conversion | Customer Value, Financial Value | Leading |
 | **Customer AER — Engagement** | Day-2 return, active usage depth, session frequency, feature breadth | Customer Value, Market Value | Leading |
@@ -137,7 +137,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 - Read the profile as a system, not as eight independent scores. A weak Operational Value and a weak Customer Value appearing simultaneously are likely to be linked — trace the direction before concluding independently on each
 - Four compounding patterns to diagnose first:
 
-**Pattern 1 — The engine failure:** Org AER Engagement or Retention is declining while Customer Value and Financial Value still appear strong. This is the most dangerous pattern — the human and operational engine is degrading while the visible outputs are holding. Left unaddressed, Operational Value is expected to erode, and Customer Value delivery to begin to fail (the timing varies by organization). The strong external signals are a lag; the weak internal signals are the early truth.
+**Pattern 1 — The engine failure:** Org AER Engagement or Retention is declining while Customer Value and Financial Value still appear strong. The model treats this as the most dangerous pattern — the human and operational engine is degrading while the visible outputs are holding. Left unaddressed, Operational Value is expected to erode, and Customer Value delivery to begin to fail (the timing varies by organization). The strong external signals are a lag; the weak internal signals are the early truth.
 
 **Pattern 2 — The delivery misalignment:** Operational Value is strong but Customer Value is weak. The organization has built capability stock but is activating it for internally defined outcomes, not customer outcomes. The gap is in CVDM — how value is delivered at the journey level, not what the organization is capable of.
 
@@ -250,7 +250,7 @@ Read the network for root cause: a gap in People Value creates drag on Operation
 | Return path | What feeds it | Cadence | Owner |
 |---|---|---|---|
 | **OSM Governance & Measurement** | Full 8 Values profile — evidence to accept or reject strategic hypotheses | Each decision forum | OSM governance lead |
-| **CVDM Strategic signals loop → OSM** | Customer Value and Market Value delivery signals, in the product team's consolidation of the other four loops | Before each OSM decision forum | The value stream's product team |
+| **CVDM Strategic signals loop → OSM** | Delivery signals that bear on Customer Value and Market Value, in the product team's consolidation of the other four loops | Before each OSM decision forum | The value stream's product team |
 | **PTS operating model review** | Operational Value and People Value gaps and root causes | The organization's planning cadence | PTS / delivery lead |
 | **IR 6 Capitals board reporting** | Full 8 Values profile translated to capital stock | Annually / per board cycle | Finance lead + governance lead |
 | **Out-of-cycle trigger — foundation** | Org AER Retention drops or Operational Value signal degrades sharply | Immediate | OSM governance lead |
@@ -267,11 +267,11 @@ Read the network for root cause: a gap in People Value creates drag on Operation
 
 ### Example 1 — The Unsustainable Growth Pattern (B2B SaaS)
 
-> **Scenario:** A B2B SaaS company has grown annual recurring revenue by 40% over two years. Customer AER signals are strong. The board is satisfied. But the VP of Engineering is losing senior engineers at an accelerating rate, three of the last five product initiatives have missed their delivery dates, and the product discovery cadence has slowed. The strategy lead applies the 8 Values model to understand whether the organization is generating sustainable value or extracting it.
+> **Scenario:** A B2B SaaS company has grown annual recurring revenue by 40% over two years. Customer AER signals are strong. The board is satisfied. But the Vice President (VP) of Engineering is losing senior engineers at an accelerating rate, three of the last five product initiatives have missed their delivery dates, and the product discovery cadence has slowed. The strategy lead applies the 8 Values model to understand whether the organization is generating sustainable value or extracting it.
 
 **Step 1 — Signal inventory**
 
-The team catalogs available signals. Customer AER: strong data, owned by customer success. Financial Value: strong, owned by finance. Org AER Adoption and Engagement: measured at team level through quarterly pulse checks, weak ownership. Org AER Retention: tracked by HR as attrition rate, not connected to capability area. Innovation Value: no signal — IP pipeline is informally tracked by the CTO. Strategic Value: no signal beyond financial performance. Impact Value: ESG statement exists; no operational signals.
+The team catalogs available signals. Customer AER: strong data, owned by customer success. Financial Value: strong, owned by finance. Org AER Adoption and Engagement: measured at team level through quarterly pulse checks, weak ownership. Org AER Retention: tracked by HR as attrition rate, not connected to capability area. Innovation Value: no signal — IP pipeline is informally tracked by the Chief Technology Officer (CTO). Strategic Value: no signal beyond financial performance. Impact Value: ESG statement exists; no operational signals.
 
 Result: Customer Value, Financial Value — measured, strong. People Value — partially measured, signal ownership fragmented. Operational Value — assumed; no direct capability stock signal. Innovation Value — unmeasured. Strategic Value — unmeasured. Market Value — partially measured through NPS. Impact Value — assumed.
 
@@ -307,7 +307,7 @@ Out-of-cycle trigger: engineering attrition rate above 18% annualized, or delive
 
 ### Example 2 — The Operational Fortress Pattern (Manufacturing)
 
-> **Scenario:** A mid-size manufacturer has invested heavily in process improvement over five years. OEE (Overall Equipment Effectiveness) is above industry benchmark. On-time delivery is at 97%. But market share has declined for three consecutive years, the sales team reports that customers are choosing competitors for "better fit" despite similar pricing, and new product launches are consistently underperforming against plan. The COO applies the 8 Values model to diagnose the gap between operational strength and market outcome.
+> **Scenario:** A mid-size manufacturer has invested heavily in process improvement over five years. OEE (Overall Equipment Effectiveness) is above industry benchmark. On-time delivery is at 97%. But market share has declined for three consecutive years, the sales team reports that customers are choosing competitors for "better fit" despite similar pricing, and new product launches are consistently underperforming against plan. The Chief Operating Officer (COO) applies the 8 Values model to diagnose the gap between operational strength and market outcome.
 
 **Step 1 — Signal inventory**
 
