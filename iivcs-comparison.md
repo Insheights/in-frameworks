@@ -143,7 +143,7 @@ The Service-Profit Chain is the closest intellectual precedent to the IIVCS meas
 
 **What it does well:** It turned the link between how employees are served and how customers respond into a proposition that could be tested in service firms.
 
-**Key difference:** The Service-Profit Chain links employee satisfaction, retention and productivity to customer satisfaction and loyalty, and on to profit. Of the three AER stages it reads only one, Retention (as loyalty), on each side; it does not read Adoption or Engagement. AER reads all three on two parallel tracks against one operating model: Customer AER in CVDM, and Organizational AER in PTS, from team records rather than surveys. The chain is a set of propositions, not an operating model; it does not define an operating model, a delivery architecture or a strategy layer. IIVCS is designed to add these; neither the chain nor IIVCS's paired reading is validated.
+**Key difference:** The Service-Profit Chain links employee satisfaction, retention and productivity to customer satisfaction and loyalty, and on to profit. Of the three AER stages it reads only one, Retention (as loyalty), on each side; it does not read Adoption or Engagement. AER reads all three on two parallel tracks against one operating model: Customer AER in CVDM, and Organizational AER in PTS, from team records rather than surveys. The chain is a set of propositions; it does not define an operating model, a delivery architecture or a strategy layer. IIVCS is designed to add these; neither the chain nor IIVCS's paired reading is validated.
 
 ### Strategy Maps (Kaplan & Norton, 2004)
 
