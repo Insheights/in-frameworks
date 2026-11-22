@@ -77,7 +77,7 @@ Candidate metrics per dimension, with the architecture level they suit, signal t
 | Revenue per customer / LTV | Value Stream | Financial proof of realized value | Finance / billing | Lagging; LTV is a projection from realized retention, so read it with [AER Retention](#customer-aer) |
 | Strategic-outcome achievement (OSM) | Value Stream | Whether the value-stream outcome is being produced | Governance review | At risk: priority off-track across ≥1 cycle |
 
-> **Read the sequence, not the cells.** A weak Effectiveness reading is diagnosed *upstream* — check Experience, then Efficiency — before acting (see the [3E Practitioners Guide](guides/3e-practitioners-guide.md) diagnostic). Efficiency is the table stake: if it fails, Experience and Effectiveness cannot be reached.
+> **Read the sequence, not the cells.** A weak Effectiveness reading is diagnosed *upstream* — check Experience, then Efficiency — before acting (see the [3E Practitioners Guide](guides/3e-practitioners-guide.md) diagnostic). Efficiency is the table stake: if it fails, Experience and Effectiveness are not expected to be reached (a reasoned hypothesis; see [3E](3e.md#the-sequence--use--feel--achieve)).
 
 ---
 
