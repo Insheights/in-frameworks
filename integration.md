@@ -176,7 +176,21 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 - **Job executor's desired outcomes → CVDM value propositions:** JTBD's outcome statements (what customers want to accomplish, at what speed, with what precision) are the basis for CVDM's value propositions at each journey stage. The value proposition is the organization's answer to the job; CVDM is how the organization delivers it.
 - **Job satisfaction research → 3E Effectiveness signal:** JTBD outcome surveys (e.g., Outcome-Driven Innovation) measure whether customers are achieving their desired outcomes — which is the Effectiveness dimension of 3E at the customer level.
 
-**What IIVCS adds:** The delivery system that turns JTBD demand insights into realized customer outcomes. JTBD identifies what job to do; IIVCS is the system that does it and measures whether it was done.
+**What IIVCS adds:** The delivery system that turns JTBD demand insights into realized customer outcomes. JTBD identifies what job to do; IIVCS is designed as the system that does it and reads whether it was done; a reasoned hypothesis, not yet validated.
+
+---
+
+### Enterprise Architecture (TOGAF, ArchiMate, BIZBOK)
+
+Enterprise architecture practice describes, plans and governs the organization's architecture. Where an organization has this practice, IIVCS uses its models and governance. It does not replace the practice.
+
+**Where enterprise architecture connects into IIVCS:**
+
+- **TOGAF → architecture changes that OSM decisions require:** where an OSM decision changes the architecture, such as a new or reshaped value stream or capability, the organization's architecture governance, run with TOGAF, reviews that change. It does not set or review the strategy itself.
+- **BIZBOK → OSM's maps:** where an organization has a business-architecture capability map and value-stream map, OSM adopts them as the starting point for the value-stream inventory and capability map it hands to PTS and CVDM, and changes them through its own decisions.
+- **ArchiMate → the organization's own models:** IIVCS value streams, value stages and capabilities, and the links between them, can be modeled with ArchiMate's strategy and business elements in the organization's existing architecture repository.
+
+**What IIVCS is designed to add:** a customer journey anchor for the capabilities the architecture describes; an operating model for the product teams that run them (PTS); and measurement, 3E → AER → 8 Values, designed to read whether they are producing value (a reasoned hypothesis, not yet validated).
 
 ---
 
@@ -190,7 +204,7 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 | Hoshin Kanri | Cascade and coherence across levels | The X-matrix for cascading priorities and checking their coherence; OSM returns each level's executability read through governance rather than through catchball's negotiation rounds |
 | OKRs | Governance & Measurement cycle | Time-bound objectives and measurable key results for strategic commitments |
 | ERM | Strategic Value Creation inputs | Enterprise risk signal as a constraint on strategic options |
-| TOGAF / BIZBOK | Architecture governance layer | Architecture review and governance processes for OSM's deployment decisions |
+| TOGAF / BIZBOK | Architecture governance layer | Architecture review of the changes OSM's decisions make to value streams and capabilities |
 | Portfolio prioritization methods (WSJF, NPV) | Value stream allocation | Investment scoring and prioritization logic for value stream funding decisions |
 | Board and Executive governance cadences | Governance & Measurement | The organizational forums through which OSM's measurement cycle runs |
 
@@ -203,7 +217,7 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 | Team Topologies | Team types and team interactions | Prior art for PTS's Core, Shared, and Platform-Enabled teams and for consuming a capability as a service |
 | Design Thinking | Discover phase | Customer empathy research and iterative prototyping methods |
 | Jobs To Be Done | Discover phase | Outcome research that keeps teams grounded in what customers are trying to achieve across all delivery phases |
-| Value Stream Mapping | Operating model analysis | Point-in-time Efficiency diagnostics for value stream improvement |
+| Value Stream Mapping | Operating model analysis | Flow and quality diagnostics for value stream improvement |
 | HR and people frameworks | POM Enablers (People, Culture) | Performance management, career development, and organizational design practices |
 
 ### CVDM — What connects in
@@ -214,7 +228,7 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 | ITIL | Support phase, capability layer | Service management processes for the support stage of the customer journey |
 | Design Thinking | Value proposition definition | Customer research and prototype testing methods |
 | Service Blueprint | Journey-to-capability mapping | Current-state documentation of customer journey and backstage processes |
-| NPS / CSAT / CES | 3E signal instruments | Survey instruments that produce attitudinal signals for Efficiency (CES) and Experience (CSAT, NPS) |
+| NPS / CSAT / CES | 3E signal instruments | Survey instruments that produce attitudinal Experience signals (CES as perceived effort, CSAT, NPS as stated intent) |
 | JTBD | Value proposition and journey step definition | Demand research defining what outcomes each journey stage must achieve |
 
 ---

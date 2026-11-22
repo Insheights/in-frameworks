@@ -32,14 +32,14 @@ Two things set IIVCS apart.
 
 **It is a coherent system, not a single-layer tool.** OSM, PTS, and CVDM integrate strategy, operating model, and customer delivery into one connected system — with value streams as a shared spine and a single measurement language ([Efficiency, Experience, Effectiveness (3E)](3e.md) → [Adoption, Engagement, Retention (AER)](aer.md) → 8 Values) running through all of them. Most frameworks address one layer; IIVCS connects them, and is designed to integrate existing practices rather than replace them.
 
-**Within that system, it measures value on two parallel behavioral tracks.** Most frameworks measure one side of value creation — either how the organization delivers (operating-model and flow metrics) or how customers respond (satisfaction, loyalty, NPS). IIVCS measures both, and treats neither as sufficient alone:
+**Within that system, it measures value on two parallel behavioral tracks.** Many frameworks measure one side of value creation — either how the organization delivers (operating-model and flow metrics) or how customers respond (satisfaction, loyalty, NPS). IIVCS is designed to read both, and treats neither as sufficient alone:
 
 - **Organizational AER** — does the operating model get adopted, engaged with, and sustained *inside* the organization?
 - **Customer AER** — does the value get adopted, engaged with, and retained *outside*, by customers?
 
 The two run in parallel because either alone produces nothing: an operating model teams adopt but that yields no customer outcome creates no value, and customer delivery that no sustained operating model can support cannot last.
 
-Together — the coherent system and the dual-track measurement within it — are the contribution. OSM governs *what* value to create, PTS carries the organizational track as the operating model, and CVDM carries the customer track at the point of delivery, with 3E feeding behavioral signal in and the 8 Values capturing what it generates. See [AER Behavioral Measurement Model](aer.md) and [Framework Positioning](positioning.md).
+Together — the coherent system and the dual-track measurement within it — are the contribution. OSM governs *what* value to create, PTS carries the organizational track as the operating model, and CVDM carries the customer track at the point of delivery, with 3E feeding behavioral signal in and the 8 Values capturing what it generates. See [AER Behavioral Measurement Model](aer.md) and [Framework Positioning](positioning.md). How the dual track differs from the closest precedent, the Service-Profit Chain, is set out in [AER comparison — Dual-Track Structure](aer-comparison.md#dual-track-structure).
 
 ---
 
@@ -138,12 +138,12 @@ Each Product Mindset principle has a direct home in CVDM:
 
 ## Comparison with Established Frameworks
 
-What distinguishes IIVCS from established Enterprise Architecture, product, and value delivery frameworks is the combination of two things: a coherent system connecting customer journey, value stream delivery, outcome measurement, and upstream feedback — and dual-track behavioral measurement, reading organizational and customer adoption in parallel within it. Standalone comparisons cover each layer:
+IIVCS is designed to differ from established Enterprise Architecture, product, and value delivery frameworks in the combination of two things: a coherent system connecting customer journey, value stream delivery, outcome measurement, and upstream feedback — and dual-track behavioral measurement, reading organizational and customer adoption in parallel within it. Standalone comparisons cover each layer:
 
-- [IIVCS Comparison with Established Frameworks](iivcs-comparison.md) — TOGAF, BIZBOK, ArchiMate, SAFe, Service Blueprint, Value Stream Mapping, Jobs To Be Done
+- [IIVCS Comparison with Established Frameworks](iivcs-comparison.md) — TOGAF, BIZBOK, ArchiMate, SAFe, Service Blueprint, Value Stream Mapping, Jobs To Be Done; related prior work: Service-Profit Chain, Strategy Maps, Net Promoter System
 - [3E Comparison with Industry Standards](3e-comparison.md) — ISO 9241-11, Balanced Scorecard, Google HEART, NPS/CSAT/CES, AARRR
-- [AER Comparison with Industry Standards](aer-comparison.md) — ADKAR, Kotter 8-Step, McKinsey 7-S, Employee Engagement Surveys, NPS
-- [8 Values Comparison with Industry Standards](8-values-comparison.md) — Balanced Scorecard, IIRC 6 Capitals, EFQM, ESG/GRI, OKRs
+- [AER Comparison with Industry Standards](aer-comparison.md) — ADKAR, Kotter 8-Step, McKinsey 7-S, Employee Engagement Surveys, NPS, Google HEART
+- [8 Values Comparison with Industry Standards](8-values-comparison.md) — Balanced Scorecard, IIRC 6 Capitals, EFQM Model, ESG/GRI, OKRs
 
 ---
 
