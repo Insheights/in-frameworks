@@ -22,7 +22,7 @@ Extends the 8 Values from a set of positive dimensions to a model that also hand
 Guidance on running the transition itself — moving an organization from current to envisioned state — not just measuring whether it took (Organizational AER). Frames the change practice around the integrated methods already referenced (ADKAR, Kotter, McKinsey 7-S in aer-comparison.md) and the POM Enablers, giving practitioners a native path through resistance, sequencing, and enablement rather than only a maturity target. Pairs with the *Adoption Sequencing & Maturity Model*, which says where to start but not how to move. The pilot-first path, starting on one value stream, is already in the PTS guide; the Playbook covers the rest.
 
 ### Templates and Canvases
-Downloadable, reusable artifacts that turn the practitioner guides from readable to usable: an OSM One-Page Strategy and Priority Register canvas, a journey-to-value-stream mapping template (CVDM), a 3E instrumentation worksheet, and an 8 Values reading sheet. The OSM, PTS and CVDM guides are now reviewed, so their templates can follow; the 3E and 8 Values sets wait on those guides' sign-off. Each guide's set is released in full.
+Downloadable, reusable artifacts that turn the practitioner guides from readable to usable: an OSM One-Page Strategy and Priority Register canvas, a journey-to-value-stream mapping template (CVDM), a 3E instrumentation worksheet, and an 8 Values reading sheet. The practitioner guides are now reviewed, so their templates can follow; each guide's set is released in full.
 
 ---
 
