@@ -24,6 +24,9 @@ Guidance on running the transition itself — moving an organization from curren
 ### Templates and Canvases
 Downloadable, reusable artifacts that turn the practitioner guides from readable to usable: an OSM One-Page Strategy and Priority Register canvas, a journey-to-value-stream mapping template (CVDM), a 3E instrumentation worksheet, and an 8 Values reading sheet. The practitioner guides are now reviewed, so their templates can follow; each guide's set is released in full.
 
+### AER Practitioner Guide
+The sixth practitioner guide, for [Adoption, Engagement, Retention (AER)](aer.md): how to set up and read AER on a value stream, step by step, as the other five guides do for their frameworks and models. It replaces the interim [Where to Start](aer.md#where-to-start) section on the AER page.
+
 ---
 
 ## Requires a Client Engagement
