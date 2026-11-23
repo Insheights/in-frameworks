@@ -61,7 +61,7 @@ For each question, pick the **highest statement that is *fully* true** today. **
   - [ ] The two are read side by side.
   - [ ] They are reviewed together in strategy reviews.
 
-**6. The value you create.** How do you measure the value your organization creates?
+**6. How you see the value you create.** How do you measure the value your organization creates?
 - **a)** Financial and operational results only, each function on its own.
 - **b)** Several kinds of value are measured, each with a starting point and a current reading, and the readings are reviewed; some are traced back to the work behind them.
 - **c)** All of these are true:
@@ -119,7 +119,7 @@ Each question states, in plain words, one row of the [Maturity Model](adoption-m
 | 3. Delivery and the customer | [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model) — Delivery & Realization (its feedback is the [five feedback loops](feedback.md)) | Chain |
 | 4. Measuring delivery | [Efficiency, Experience, Effectiveness (3E)](3e.md) — Operational Measurement | Enabler |
 | 5. What people do with what you deliver | [Adoption, Engagement, Retention (AER)](aer.md) — Behavioral Measurement | Enabler |
-| 6. The value you create | [8 Values](8-values.md) — Value Measurement | Outcome reading |
+| 6. How you see the value you create | [8 Values](8-values.md) — Value Measurement | Outcome reading |
 | 7. What happens to what you learn | [Feedback System](feedback.md) — Upstream Loops | Chain |
 | 8. How people work | Product Mindset — Foundation | Enabler |
 
