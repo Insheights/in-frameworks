@@ -165,10 +165,10 @@
   <rect x="194" y="790" width="192" height="48" rx="3" fill="#26AE9E"/>
   <text class="c wht" x="290" y="819">Stakeholder</text>
 
-  <rect x="444" y="790" width="192" height="48" rx="3" fill="#3F87DE"/>
+  <rect x="444" y="790" width="192" height="48" rx="3" fill="#2F6FB8"/>
   <text class="c wht" x="540" y="819">Capability</text>
 
-  <rect x="444" y="880" width="192" height="48" rx="3" fill="#3F87DE"/>
+  <rect x="444" y="880" width="192" height="48" rx="3" fill="#2F6FB8"/>
   <text class="c wht" x="540" y="909">Process</text>
 
   <!-- Information Concept (README, CVDM guide Step 3): named business information (the terms of PTS Business Domain Language);
@@ -176,7 +176,7 @@
        Sits on the Process row; its arrow enters Capability's right edge below loop 4 (loop 4 at y=804, feeds at y=828), clear of the x=700 line. -->
   <path class="work" d="M760,880 V828 H640"/>
   <text class="lbl" x="768" y="862">feeds</text>
-  <rect x="700" y="880" width="192" height="48" rx="3" fill="#3F87DE"/>
+  <rect x="700" y="880" width="192" height="48" rx="3" fill="#2F6FB8"/>
   <text class="c wht" x="796" y="909">Information Concept</text>
 
   <!-- legend: top-right, same spot and layout in osm.svg, cvdm-layered.svg, pts-detailed.svg -->
