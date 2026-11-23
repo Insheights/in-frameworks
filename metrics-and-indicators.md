@@ -8,7 +8,7 @@ This guide turns the measurement *models* into measurable *signals*. Where [3E](
 
 It is paired with the practitioner guides — [3E](guides/3e-practitioners-guide.md) for *how* to apply 3E to an element, [8 Values](guides/8-values-practitioners-guide.md) for *how* to read organizational value. This guide is the *reference layer* underneath them: the candidate metric set and the bands to read it against.
 
-> **Read thresholds honestly.** The [Insheights Integrated Value Creation System (IIVCS)](README.md) has **no validated external benchmarks** (3e.md, 8-values.md both state this). This guide uses two kinds of number:
+> **Read thresholds honestly.** The [Insheights Integrated Value Creation System (IIVCS)](README.md) has **no validated external benchmarks** ([3E](3e.md#limitations), [AER](aer.md#limitations) and the [8 Values](8-values.md#limitations) each state this). This guide uses two kinds of number:
 >
 > - **Indicator thresholds** — how good a reading is. Every one is either **baseline-relative** (compare an element to its own prior reading and its stated target) or a **conservative starting band to calibrate**, never a universal industry truth. Set targets from your own baseline, and treat these absolute numbers as starting points, not pass/fail lines.
 > - **[Reference bars](#reference-bars-for-system-maturity)** — the exception. They are stated lines for whether a practice exists, is current, and is used, so that two readers of the same evidence agree. They are not benchmarks of good performance, and they are provisional until real assessment runs confirm them.
