@@ -78,7 +78,7 @@ AER       Adoption → Engagement → Retention            (two tracks: Customer
 
 The path forks at the 8 Values: People and Operational Value feed PTS to signal whether the operating model needs adjustment; the other six feed OSM's Governance & Measurement and strategic reassessment. AER runs as two parallel tracks — Customer AER and Organizational AER.
 
-[3E](3e.md) provides the measurement language at every point in the return journey — grounding both operational and organizational feedback in Efficiency, Experience, and Effectiveness.
+[3E](3e.md) is the first layer of the measurement language at every point in the return journey — grounding both operational and organizational feedback in Efficiency, Experience, and Effectiveness, and passing it on to [AER](aer.md) and the [8 Values](8-values.md).
 
 The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming delivery learning, delivery learning becoming strategic signals, continuously refining where the organization creates value.
 
