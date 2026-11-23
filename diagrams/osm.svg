@@ -144,7 +144,7 @@
   <text class="d dark" x="70" y="174">What we stand for: principles</text>
   <text class="d dark" x="70" y="191">that guide conduct and choices</text>
 
-  <rect x="336" y="130" width="192" height="80" rx="3" fill="#3F87DE"/>
+  <rect x="336" y="130" width="192" height="80" rx="3" fill="#2F6FB8"/>
   <text class="h wht" x="346" y="152">Mission</text>
   <text class="d wht" x="346" y="174">Why we exist: the purpose</text>
   <text class="d wht" x="346" y="191">we serve today</text>
