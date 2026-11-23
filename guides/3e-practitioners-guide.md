@@ -316,9 +316,9 @@ Actions: Reduce steps-to-redemption from 5 to 2 (Efficiency fix). Extend persona
 
 ### How 3E drives AER
 
-Each 3E dimension drives the corresponding AER stage across both Customer AER and Organizational AER:
+Each 3E dimension is expected to lead the corresponding AER stage across both Customer AER and Organizational AER. If the AER stage does not follow over three consecutive readings, revisit the link:
 
-| 3E Dimension | AER Stage | Connection |
+| 3E Dimension | AER Stage | Expected connection (revisit after three contrary readings) |
 |---|---|---|
 | **Efficiency** | Adoption | Frictionless access lowers the barrier to entry — customers and teams adopt what they can reach |
 | **Experience** | Engagement | Positive feeling sustains active participation — customers and teams engage with what they trust |
