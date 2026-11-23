@@ -4,9 +4,9 @@
 
 The organizational value measurement model of the Insheights Integrated Value Creation System, developed by Insheights LLC.
 
-The Insheights 8 Organizational Values Measurement Model defines how the Insheights Integrated Value Creation System generates Organization Value — translating the outcomes of strategy, transformation, and delivery into eight dimensions of value that are expected to compound over time into sustained organizational impact. Each Value is operationally grounded in the IIVCS, behaviorally measured through [Adoption, Engagement, Retention (AER)](aer.md), and delivery-measured through [Efficiency, Experience, Effectiveness (3E)](3e.md).
+The Insheights 8 Organizational Values Measurement Model defines how the Insheights Integrated Value Creation System generates Organization Value — translating the outcomes of strategy, transformation, and delivery into eight dimensions of value that are expected to compound over time into sustained organizational impact. Each Value is generated in the IIVCS, behaviorally measured through [Adoption, Engagement, Retention (AER)](aer.md), and delivery-measured through [Efficiency, Experience, Effectiveness (3E)](3e.md).
 
-- **Operational** — each Value is generated through [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model), [Product Transformation System (PTS)](README.md#pts--product-transformation-system), and [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model), not observed from outside
+- **Generated in the system** — each Value is generated through [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model), [Product Transformation System (PTS)](README.md#pts--product-transformation-system), and [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model), not observed from outside
 - **Behavioral** — AER operates across two parallel tracks: Customer AER measuring how customers respond to value delivery, and Organizational AER measuring how the delivering organization responds to its own operating model
 - **Compounding** — Values are modeled as reinforcing and amplifying each other over time, a reasoned model rather than measured causality (see [Limitations](#limitations))
 
