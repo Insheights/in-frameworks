@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **What it does** | Provides a consistent three-dimension measurement language — Efficiency, Experience, Effectiveness — applied across any architecture element to surface whether value is accessible, felt, and achieving outcomes |
+| **What it does** | Provides the first layer of the IIVCS measurement language: three consistent dimensions — Efficiency, Experience, Effectiveness — applied across any architecture element to surface whether value is accessible, felt, and achieving outcomes |
 | **When to use it** | Any time you need to measure whether value is being delivered at a specific architecture element: Value Stream, Value Stage, Capability, Process, or Product/Service |
 | **Who runs it** | Product team lead, Value Stream owner, or the person accountable for the element being measured |
 | **Who must be in the room** | Customer-facing team members (staff observation, added to the customer's own Experience signal); delivery team members (for Efficiency signals); outcome owners (for Effectiveness signals) |
@@ -316,9 +316,9 @@ Actions: Reduce steps-to-redemption from 5 to 2 (Efficiency fix). Extend persona
 
 ### How 3E drives AER
 
-Each 3E dimension drives the corresponding AER stage across both Customer AER and Organizational AER:
+Each 3E dimension is expected to lead the corresponding AER stage across both Customer AER and Organizational AER. If the AER stage does not follow over three consecutive readings, revisit the link:
 
-| 3E Dimension | AER Stage | Connection |
+| 3E Dimension | AER Stage | Expected connection (revisit after three contrary readings) |
 |---|---|---|
 | **Efficiency** | Adoption | Frictionless access lowers the barrier to entry — customers and teams adopt what they can reach |
 | **Experience** | Engagement | Positive feeling sustains active participation — customers and teams engage with what they trust |

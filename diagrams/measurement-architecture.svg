@@ -98,11 +98,11 @@
   <text class="t" x="694" y="394">Engagement</text>
   <text class="t" x="694" y="414">Retention</text>
 
-  <!-- 3E drives AER (both tracks): Efficiency enables Adoption, Experience deepens Engagement, Effectiveness earns Retention -->
+  <!-- 3E is expected to lead AER (both tracks): Efficiency toward Adoption, Experience toward Engagement, Effectiveness toward Retention -->
   <path class="work" d="M580,240 V288"/>
-  <text class="lbl" x="588" y="266">drives</text>
+  <text class="lbl" x="588" y="266">expected to lead</text>
 
-  <!-- side inputs: the behavioural signal each AER track measures -->
+  <!-- side inputs: the behavioral signal each AER track measures -->
   <rect class="box" x="40" y="322" width="192" height="96" rx="3"/>
   <text class="t" x="136" y="364">Customer Journey</text>
   <text class="t" x="136" y="384">Steps</text>
@@ -116,9 +116,9 @@
   <path class="work" d="M928,370 H824"/>
   <text class="lbl" x="878" y="362" text-anchor="middle">feed</text>
 
-  <!-- AER drives the 8 Values -->
+  <!-- AER is expected to lead the 8 Values -->
   <path class="work" d="M580,454 V516"/>
-  <text class="lbl" x="588" y="490">drives</text>
+  <text class="lbl" x="588" y="490">expected to lead</text>
 
   <!-- ===================== ROW 3: 8 Values ===================== -->
 

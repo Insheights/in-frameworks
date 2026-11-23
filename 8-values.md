@@ -284,7 +284,7 @@ Every value except People receives inputs from multiple sources — making it a 
 
 ## 8 Values and IR 6 Capitals — The Bridge
 
-The Insheights 8 Values model is the operational measurement layer of the IIVCS — measuring how value is generated through strategy, transformation, and delivery. It maps to the six capitals of the Integrated Reporting Framework (IIRC, now maintained by the IFRS Foundation), framing operational value generation in terms of the stock of capitals reported to investors and stakeholders.
+The Insheights 8 Values model is the organizational measurement layer of the IIVCS, the last layer of 3E → AER → 8 Values — measuring how value is generated through strategy, transformation, and delivery. It maps to the six capitals of the Integrated Reporting Framework (IIRC, now maintained by the IFRS Foundation), framing operational value generation in terms of the stock of capitals reported to investors and stakeholders.
 
 The bridge is directional — 8 Values measure the flow of value generation; IR 6 Capitals measure the resulting stock of value held.
 

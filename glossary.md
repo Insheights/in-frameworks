@@ -158,6 +158,7 @@ Every arrow in the IIVCS diagrams carries a label from this vocabulary, and a wo
 - **empower vs enables** — *empower* is about people (the POM Enablers give teams the authority and means to own outcomes); *enables* is about ability (a capability makes a value stage possible; PTS supplies CVDM with teams and capabilities).
 - **decides vs sets** — *decides* is making the choice (leadership); *sets* is fixing the target others then work to (value priorities, value-stream outcomes).
 - **constrains vs flags risk** — *constrains* is a standing limit (risk appetite); *flags risk* is a signal raised when something needs attention.
+- **Value Stage vs AER stage vs market stages** — a [Value Stage](#architecture-elements) is a step in a value stream; an AER stage is one of Adoption, Engagement and Retention, the behavioral sequence [AER](#measurement-models) reads; [market stages](#key-concepts) are the introduction, growth, maturity and decline a product passes through in its market, an outside sequence and not an IIVCS framework term.
 - **value priorities vs value-stream outcomes** — value priorities are OSM's ranked, outcome-stated objectives; value-stream outcomes are the business intent each value stream must produce. Both flow down; evidence of value-stream outcomes flows back up.
 
 ---
