@@ -28,7 +28,7 @@ The product team owns every loop. A loop is active when it names the role in the
 
 | Feedback Loop | What It Surfaces | Typical signal source | Decision it informs | Returns to | Typical cadence |
 |---|---|---|---|---|---|
-| Experience feedback | How the customer felt at each journey step — the first and most immediate signal | The customer's own words: in-product surveys, interviews | Which journey step to examine next | Team / PTS | Continuous / weekly |
+| Experience feedback | How the customer felt at each journey step — the first and most immediate signal | The customer's own words: in-product surveys, interviews | Which journey step to examine next | Team / PTS | Collected as it arrives / read weekly |
 | Journey insights | Where friction, gaps, and misalignments exist across the journey | The customer's behavior (drop-off, usage analytics) or words | Which value stage to fix | Team / PTS | Sprint / bi-weekly |
 | Delivery learning | Whether value stages are delivering intended customer outcomes | Realized customer outcomes | Whether a value stage is retuned, and what PTS changes in the operating model | PTS | Monthly / quarterly |
 | Performance optimization | Whether capabilities and processes are performing at the required maturity | Capability and process data | Which capability or process to fix | PTS | Sprint / monthly |

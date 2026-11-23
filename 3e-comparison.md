@@ -10,7 +10,7 @@ A comparison of the Insheights 3E Operational Values Measurement Model against e
 
 3E (Efficiency | Experience | Effectiveness) measures value delivery in sequence — from whether value can be accessed (Use), through whether it is felt positively (Feel), to whether it achieves intended outcomes (Achieve). It is applied consistently across every architecture element in the [Insheights Integrated Value Creation System (IIVCS)](README.md): Value Streams, Value Stages, Capabilities, Processes, and Products/Services.
 
-The frameworks below each capture a portion of what 3E measures. Among them, 3E is designed to read its dimensions in a stated order, which is a reasoned hypothesis, and to apply one measurement language from process level to value stream level, mapped to an external taxonomy of customer value.
+The frameworks below each capture a portion of what 3E measures. Among them, 3E is designed to read its dimensions in a stated order, which is a reasoned hypothesis, and to apply the same three questions from process level to value stream level, as the first layer of the IIVCS measurement language (3E → AER → 8 Values), mapped to an external taxonomy of customer value.
 
 ---
 
@@ -111,7 +111,7 @@ Among the frameworks compared here, ISO 9241-11, the Balanced Scorecard and HEAR
 
 ### Cross-Architectural Consistency
 
-3E applies the same three questions — Efficiency, Experience, Effectiveness — from Value Stream level down to Process level, giving every element in the IIVCS a shared measurement language. A portfolio decision comparing two Value Streams uses the same language as a team improving a single Process. This consistency is designed to make cross-level comparison and root-cause tracing possible; frameworks built for a single level (HEART for products, AARRR for growth funnels, ISO 9241-11 for the use of a system, product or service) are not designed for that.
+3E applies the same three questions — Efficiency, Experience, Effectiveness — from Value Stream level down to Process level, giving every element in the IIVCS the same first layer of its measurement language. A portfolio decision comparing two Value Streams asks the same questions as a team improving a single Process. This consistency is designed to make cross-level comparison and root-cause tracing possible; frameworks built for a single level (HEART for products, AARRR for growth funnels, ISO 9241-11 for the use of a system, product or service) are not designed for that.
 
 ### Connection to Behavioral and Organizational Outcomes
 

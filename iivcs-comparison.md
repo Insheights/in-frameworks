@@ -79,7 +79,7 @@ ArchiMate is the Open Group's modeling language for enterprise architecture: a n
 
 ### SAFe (Scaled Agile Framework)
 
-SAFe is a widely used enterprise framework for scaling agile practices across large organizations. It structures delivery across Portfolio, Large Solution, Program (ART), and Team levels — organizing work through value streams, Agile Release Trains, and PI Planning.
+SAFe is a widely used enterprise framework for scaling agile practices across large organizations. It comes in four configurations — Essential, Large Solution, Portfolio and Full SAFe — and organizes work through value streams, Agile Release Trains (ARTs) and PI Planning, where a PI is a Planning Interval.
 
 **Alignment:** SAFe and IIVCS are the closest pair at the operating model level. SAFe's value streams are a core organizing concept, directly aligned with IIVCS. SAFe's Portfolio layer (strategic themes, lean portfolio management) maps to elements of OSM. SAFe's ART construct and cross-functional team model maps to PTS's cross-functional product team structure. SAFe's Customer Centricity and Design Thinking practices align with CVDM's customer journey anchor.
 

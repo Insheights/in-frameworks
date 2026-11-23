@@ -10,9 +10,9 @@ How the Insheights Integrated Value Creation System connects to and integrates w
 
 The IIVCS does not ask organizations to discard existing practices. Most organizations already use agile delivery methods, strategic planning tools, risk frameworks, architecture governance, and customer measurement instruments. These practices work within their domains.
 
-What IIVCS provides is the connecting system — the architecture within which existing practices operate, the measurement language that makes their outputs composable, and the feedback architecture that returns their signals to the right place in the organization.
+What IIVCS is designed to provide is the connecting system — the architecture within which existing practices operate, the measurement language that makes their outputs composable, and the feedback architecture that returns their signals to the right place in the organization.
 
-The test: an organization running SAFe, OKRs, and ITIL has delivery teams, strategic objectives, and service management. What it typically lacks is a shared spine connecting strategic intent to value stream execution to customer outcome — measured consistently from process level to organizational value level, with feedback running upstream. IIVCS is that spine.
+The test: an organization running SAFe, OKRs, and ITIL has delivery teams, strategic objectives, and service management. What it typically lacks is a shared spine connecting strategic intent to value stream execution to customer outcome — measured consistently from process level to organizational value level, with feedback running upstream. IIVCS is designed to be that spine.
 
 ---
 
@@ -48,7 +48,7 @@ SAFe provides the delivery execution structure — Agile Release Trains, PI Plan
 
 - **Portfolio → OSM:** SAFe's Portfolio layer (Strategic Themes, Lean Portfolio Management) maps to OSM's strategic value priorities and value stream allocation. OSM sets the value priorities that SAFe's portfolio layer executes against. Strategic themes become the bridge between OSM's Strategic Objectives and SAFe's portfolio investment decisions.
 - **ART structure → PTS:** SAFe's Agile Release Trains are teams of Agile teams. An ART maps to the set of PTS teams serving one value stream — its Core, Shared and Platform-Enabled teams — not to a single PTS team. PTS's four [Product Operating Model (POM)](glossary.md#core-system-and-frameworks) Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) are the conditions that make SAFe ARTs effective — or identify why they are not.
-- **PI Objectives → CVDM:** SAFe's Program Increment Objectives become the delivery commitments that CVDM's value stages and capabilities must deliver against. CVDM's 3E measurement makes visible whether PI execution is producing customer outcomes, not just shipped features.
+- **PI Objectives → CVDM:** SAFe's PI Objectives (PI: Planning Interval) become the delivery commitments that CVDM's value stages and capabilities must deliver against. CVDM's 3E measurement makes visible whether PI execution is producing customer outcomes, not just shipped features.
 - **Flow metrics → 3E Efficiency:** SAFe's flow metrics (Flow Velocity, Flow Time, Flow Efficiency, Flow Load) are Efficiency signals in 3E terms. They measure whether value can be accessed without friction at the delivery level. 3E connects these signals forward to Experience and Effectiveness — dimensions SAFe's native metrics do not capture.
 
 **What IIVCS adds that SAFe does not provide:** A customer journey anchor that is structural (not just practiced). A measurement architecture that connects flow performance to customer outcomes and organizational value. A feedback architecture that returns PI-level delivery signal to strategic reassessment in OSM.

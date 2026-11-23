@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **What it does** | Provides a consistent three-dimension measurement language — Efficiency, Experience, Effectiveness — applied across any architecture element to surface whether value is accessible, felt, and achieving outcomes |
+| **What it does** | Provides the first layer of the IIVCS measurement language: three consistent dimensions — Efficiency, Experience, Effectiveness — applied across any architecture element to surface whether value is accessible, felt, and achieving outcomes |
 | **When to use it** | Any time you need to measure whether value is being delivered at a specific architecture element: Value Stream, Value Stage, Capability, Process, or Product/Service |
 | **Who runs it** | Product team lead, Value Stream owner, or the person accountable for the element being measured |
 | **Who must be in the room** | Customer-facing team members (staff observation, added to the customer's own Experience signal); delivery team members (for Efficiency signals); outcome owners (for Effectiveness signals) |
