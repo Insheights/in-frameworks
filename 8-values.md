@@ -12,7 +12,7 @@ The Insheights 8 Organizational Values Measurement Model defines how the Insheig
 
 ![8-values Diagram](diagrams/8-values.svg)
 
-The 8 Values map to the six capitals of the Integrated Reporting Framework (first issued by the International Integrated Reporting Council, IIRC, and now maintained by the IFRS Foundation) — framing IIVCS operational value generation in terms of the stock of capitals reported to investors and stakeholders.
+The 8 Values map to the six capitals of the Integrated Reporting Framework (first issued by the International Integrated Reporting Council, IIRC, and now maintained by the IFRS Foundation) — framing the value the IIVCS generates in terms of the stock of capitals reported to investors and stakeholders.
 
 ---
 
@@ -284,7 +284,7 @@ Every value except People receives inputs from multiple sources — making it a 
 
 ## 8 Values and IR 6 Capitals — The Bridge
 
-The Insheights 8 Values model is the organizational measurement layer of the IIVCS, the last layer of 3E → AER → 8 Values — measuring how value is generated through strategy, transformation, and delivery. It maps to the six capitals of the Integrated Reporting Framework (IIRC, now maintained by the IFRS Foundation), framing operational value generation in terms of the stock of capitals reported to investors and stakeholders.
+The Insheights 8 Values model is the organizational measurement layer of the IIVCS, the last layer of 3E → AER → 8 Values — measuring how value is generated through strategy, transformation, and delivery. It maps to the six capitals of the Integrated Reporting Framework (IIRC, now maintained by the IFRS Foundation), framing that value in terms of the stock of capitals reported to investors and stakeholders.
 
 The bridge is directional — 8 Values measure the flow of value generation; IR 6 Capitals measure the resulting stock of value held.
 
@@ -299,7 +299,7 @@ The bridge is directional — 8 Values measure the flow of value generation; IR 
 | **Innovation Value** | Intellectual Capital | IP, R&D, and future value streams are the intellectual capital pipeline |
 | **Impact Value** | Natural + Social & Relationship Capital | Mission, ESG, and societal contribution maps to natural capital and to social and relationship capital |
 
-The bridge lets organizations using the IIVCS frame operational value generation in IR-compatible terms — connecting delivery metrics to board and investor-level reporting. It is framing, not an audited translation (see [Limitations](#limitations)).
+The bridge lets organizations using the IIVCS frame the value they generate in IR-compatible terms — connecting delivery metrics to board and investor-level reporting. It is framing, not an audited translation (see [Limitations](#limitations)).
 
 ---
 
@@ -335,7 +335,7 @@ The 8 Values is a synthesis model — it reads across 3E and AER signals and inf
 - **The IIVCS connection tables describe design, not tested links.** Each Value's table of how OSM, PTS, CVDM, 3E and AER generate it states how the system is meant to work. Read each row as an expected link under the same revisit rule.
 - **The IR 6 Capitals bridge is many-to-many.** Several values map to the same capital (Customer + Market + Impact → Social & Relationship; Operational + Strategic + Innovation → Intellectual). Rolling values up to capitals without an agreed aggregation convention risks double-counting. The bridge enables IR-compatible *framing*; it is not an audited translation.
 - **A value's status rests on the signals chosen for it.** The status follows a stated rule (the weakest signal decides; the statuses and the rule are set out in [Step 3 of the practitioner guide](guides/8-values-practitioners-guide.md#step-3--build-the-value-profile-and-read-the-compounding-relationships), from the [bands in Metrics and Indicators](metrics-and-indicators.md#how-to-read-this-guide)), so two readers of the same signals reach the same status. Which signals represent a value is still a judgment: name them before reading them. The model supplies structure and discipline — not objectivity.
-- **Not an external reporting standard.** The 8 Values is an internal, operational measurement model. It does not replace audited financial statements, ESG/GRI disclosure, or IR assurance — it produces the operational data that feeds them.
+- **Not an external reporting standard.** The 8 Values is an internal measurement model, used in day-to-day operation. It does not replace audited financial statements, ESG/GRI disclosure, or IR assurance — it produces internal data that feeds them.
 - **No external benchmarks.** Like 3E and AER, the 8 Values has no published industry reference ranges; compare a value against its own baseline over time, not against peers.
 
 **When not to use it:** as a board scorecard before the underlying signals exist; or as a substitute for statutory or ESG reporting. Where a value has no traceable operational source yet, report it as unmeasured, not as a status, and start with the values that have one (see *Heaviest instrumentation demand*, above).
