@@ -24,7 +24,7 @@ For each question, pick the **highest statement that is *fully* true** today. **
   - [ ] Each priority carries written hypotheses.
   - [ ] Priorities are funded in rank order.
   - [ ] Priorities are steered by value stream.
-  - [ ] Strategy reviews read customer, staff and business outcomes together.
+  - [ ] Strategy reviews read together whether customers take up, use and keep using what you deliver, whether your teams take up, shape and keep the way of working, and the eight kinds of value.
   - [ ] Strategy reviews test the hypotheses and change strategy when the evidence says so.
 
 **2. How teams are organized.** How are delivery teams set up?
@@ -61,7 +61,7 @@ For each question, pick the **highest statement that is *fully* true** today. **
   - [ ] The two are read side by side.
   - [ ] They are reviewed together in strategy reviews.
 
-**6. The value you create.** How do you measure the value your organization creates?
+**6. How you see the value you create.** How do you measure the value your organization creates?
 - **a)** Financial and operational results only, each function on its own.
 - **b)** Several kinds of value are measured, each with a starting point and a current reading, and the readings are reviewed; some are traced back to the work behind them.
 - **c)** All of these are true:
@@ -91,9 +91,10 @@ For each question, pick the **highest statement that is *fully* true** today. **
 ## Read Your Result
 
 1. **Your system level comes from the chain.** Questions 1, 2, 3 and 7 are the chain strategy → operating model → delivery → feedback, which the IIVCS calls OSM → PTS → CVDM → the Feedback System (see [How the questions map](#how-the-questions-map)). Your lowest answer among them is your level: **a** → *Early*, **b** → *Developing*, **c** → *Mature*, as in the [Maturity Model](adoption-maturity.md#maturity-across-the-suite). It is not an average: high answers elsewhere do not raise it.
-2. **Read questions 4, 5, 6 and 8 as enablers.** They cover the measurement and the working culture the frameworks depend on. An enabler answered below your level is a finding: it limits how far the frameworks it supports can climb.
-3. **Keep your eight answers as your profile**: the four chain answers, then the four enablers (for example: chain b a b a; enablers b b a b). Mark any *not sure*: it counts as a, but it is a gap in what you know, not a finding about the stream. Mixed answers are the most common result, and the most useful: the spread shows which connections are missing.
-4. **Find your break and your starting point.** Your break is your lowest chain answer: the point where value leaks out of the system, and your adoption priority. It points to the part of the IIVCS to start with. The Maturity Model's [From an assessment result](adoption-maturity.md#from-an-assessment-result) gives the tie rule, the entry point the break points to, and what to do when there is no break.
+2. **Read questions 4, 5 and 8 as enablers.** They cover the measurement and the working culture the frameworks depend on. An enabler answered below your level is a finding: it usually explains a gap on the framework it supports, but it does not lower your level. Like question 6, questions 4 and 5 show whether something is measured, not how well it goes; question 8 shows habits you can point to. The top answers to questions 1, 2 and 3 already need question 5, so a low answer there holds those back too.
+3. **Read question 6 as your outcome reading.** It shows whether you can see the value your chain produces: whether value is measured, traced and reviewed, not how much value you create. It does not set your level, and a low answer is expected while the chain is young.
+4. **Keep your eight answers as your profile**: the four chain answers, the three enablers, then the outcome reading (for example: chain b a b a; enablers b b b; outcome reading a). Mark any *not sure*: it counts as a, but it is a gap in what you know, not a finding about the stream. Mixed answers are the most common result, and the most useful: the spread shows which connections are missing.
+5. **Find your break and your starting point.** Your break is your lowest chain answer: the point where value leaks out of the system, and your adoption priority. It points to the part of the IIVCS to start with. The Maturity Model's [From an assessment result](adoption-maturity.md#from-an-assessment-result) gives the tie rule, the entry point the break points to, and what to do when there is no break.
 
 ### When several people answer
 
@@ -118,7 +119,7 @@ Each question states, in plain words, one row of the [Maturity Model](adoption-m
 | 3. Delivery and the customer | [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model) — Delivery & Realization (its feedback is the [five feedback loops](feedback.md)) | Chain |
 | 4. Measuring delivery | [Efficiency, Experience, Effectiveness (3E)](3e.md) — Operational Measurement | Enabler |
 | 5. What people do with what you deliver | [Adoption, Engagement, Retention (AER)](aer.md) — Behavioral Measurement | Enabler |
-| 6. The value you create | [8 Values](8-values.md) — Organizational Outcomes | Enabler |
+| 6. How you see the value you create | [8 Values](8-values.md) — Value Measurement | Outcome reading |
 | 7. What happens to what you learn | [Feedback System](feedback.md) — Upstream Loops | Chain |
 | 8. How people work | Product Mindset — Foundation | Enabler |
 
