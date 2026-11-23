@@ -156,19 +156,19 @@
   <circle cx="805" cy="548" r="24" fill="#26AE9E"/><text class="ct wht" x="805" y="553">C</text>
   <circle cx="860" cy="548" r="24" fill="#26AE9E"/><text class="ct wht" x="860" y="553">…</text>
 
-  <rect x="444" y="666" width="192" height="48" rx="3" fill="#7210C8"/>
+  <rect x="444" y="666" width="192" height="48" rx="3" fill="#CC4458"/>
   <text class="c wht" x="540" y="695">Value Stage A</text>
-  <circle cx="750" cy="690" r="24" fill="#7210C8"/><text class="ct wht" x="750" y="695">B</text>
-  <circle cx="805" cy="690" r="24" fill="#7210C8"/><text class="ct wht" x="805" y="695">C</text>
-  <circle cx="860" cy="690" r="24" fill="#7210C8"/><text class="ct wht" x="860" y="695">…</text>
+  <circle cx="750" cy="690" r="24" fill="#CC4458"/><text class="ct wht" x="750" y="695">B</text>
+  <circle cx="805" cy="690" r="24" fill="#CC4458"/><text class="ct wht" x="805" y="695">C</text>
+  <circle cx="860" cy="690" r="24" fill="#CC4458"/><text class="ct wht" x="860" y="695">…</text>
 
   <rect x="194" y="790" width="192" height="48" rx="3" fill="#26AE9E"/>
   <text class="c wht" x="290" y="819">Stakeholder</text>
 
-  <rect x="444" y="790" width="192" height="48" rx="3" fill="#6A5AE8"/>
+  <rect x="444" y="790" width="192" height="48" rx="3" fill="#3F87DE"/>
   <text class="c wht" x="540" y="819">Capability</text>
 
-  <rect x="444" y="880" width="192" height="48" rx="3" fill="#6A5AE8"/>
+  <rect x="444" y="880" width="192" height="48" rx="3" fill="#3F87DE"/>
   <text class="c wht" x="540" y="909">Process</text>
 
   <!-- Information Concept (README, CVDM guide Step 3): named business information (the terms of PTS Business Domain Language);
@@ -176,7 +176,7 @@
        Sits on the Process row; its arrow enters Capability's right edge below loop 4 (loop 4 at y=804, feeds at y=828), clear of the x=700 line. -->
   <path class="work" d="M760,880 V828 H640"/>
   <text class="lbl" x="768" y="862">feeds</text>
-  <rect x="700" y="880" width="192" height="48" rx="3" fill="#6A5AE8"/>
+  <rect x="700" y="880" width="192" height="48" rx="3" fill="#3F87DE"/>
   <text class="c wht" x="796" y="909">Information Concept</text>
 
   <!-- legend: top-right, same spot and layout in osm.svg, cvdm-layered.svg, pts-detailed.svg -->
