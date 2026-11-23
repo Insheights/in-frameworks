@@ -24,7 +24,7 @@ For each question, pick the **highest statement that is *fully* true** today. **
   - [ ] Each priority carries written hypotheses.
   - [ ] Priorities are funded in rank order.
   - [ ] Priorities are steered by value stream.
-  - [ ] Strategy reviews read customer, staff and business outcomes together.
+  - [ ] Strategy reviews read together whether customers take up, use and keep using what you deliver, whether your teams take up, shape and keep the way of working, and the eight kinds of value.
   - [ ] Strategy reviews test the hypotheses and change strategy when the evidence says so.
 
 **2. How teams are organized.** How are delivery teams set up?
