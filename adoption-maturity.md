@@ -31,7 +31,7 @@ Adoption maturity is defined at three levels across the suite. The levels descri
 
 ## Maturity Across the Suite
 
-Read each row and find the column you have fully reached today. Four rows form the chain strategy → operating model → delivery → feedback: **OSM, PTS, CVDM and the Feedback System**. Your **system level is the lowest of those four rows**, not their average: the IIVCS is a chain, and a chain is only as strong as its weakest link. The other four rows, **3E, AER, 8 Values and Product Mindset**, are **enablers**: the measurement and the working culture the three frameworks depend on. They are read alongside the chain rather than counted as links. An enabler below your system level is a finding: it shows a framework being run without the measurement or ways of working it needs, and it limits how far that framework can climb. Where the chain breaks tells you where to start (see [From an assessment result](#from-an-assessment-result)).
+Read each row and find the column you have fully reached today. Four rows form the chain strategy → operating model → delivery → feedback: **OSM, PTS, CVDM and the Feedback System**. Your **system level is the lowest of those four rows**, not their average: the IIVCS is a chain, and a chain is only as strong as its weakest link. Three rows, **3E, AER and Product Mindset**, are **enablers**: the measurement and the working culture the three frameworks depend on. The **8 Values** row is the **outcome reading**: whether you can see the value your chain produces, read from whether value is measured, traced and reviewed, not how much value you create. Enablers and the outcome reading are read alongside the chain rather than counted as links. An enabler below your system level is a finding: it shows a framework being run without the measurement or ways of working it needs, and it limits how far that framework can climb. Where the chain breaks tells you where to start (see [From an assessment result](#from-an-assessment-result)).
 
 | Component | Early | Developing | Mature |
 |---|---|---|---|
@@ -40,7 +40,7 @@ Read each row and find the column you have fully reached today. Four rows form t
 | **CVDM** — Delivery & Realization | Delivery organized by internal process, not the customer journey; no journey-to-value-stream map | Journey mapped to value stream on key journeys; value stages defined with a stated customer-outcome promise; at least two feedback loops active | Full journey-to-value-stream mapping; value stages defined as outcomes; all five loops active, those that read the customer on the customer's own words or behavior; Customer AER measured |
 | **3E** — Operational Measurement | Metrics are activity/output; no consistent measurement language | 3E applied at some elements; Use → Feel → Achieve read in places | 3E applied consistently across architecture levels and read in sequence diagnostically |
 | **AER** — Behavioral Measurement | No behavioral measurement; satisfaction surveys at best | One track (usually Customer AER) defined, baselined and reviewed on a cadence on at least one named primary journey | Dual-track AER (Customer + Organizational) measured in parallel and reconciled at OSM |
-| **8 Values** — Organizational Outcomes | Value measured only financially/operationally, in silos | Several value dimensions tracked, each with a baseline and a current reading, and reviewed; some traceable to an operational source | All 8 Values aggregated from their operational source and feeding OSM governance |
+| **8 Values** — Value Measurement | Value measured only financially/operationally, in silos | Several value dimensions tracked, each with a baseline and a current reading, and reviewed; some traceable to an operational source | All 8 Values aggregated from their operational source and feeding OSM governance |
 | **Feedback System** — Upstream Loops | No upstream feedback; signals die at the team | Operational loops active, each naming who acts on it and the decision it informs, and reaching PTS; feedback has changed how delivery is organized | Full upstream path CVDM → PTS → OSM; operational + organizational feedback drives strategic reassessment |
 | **Product Mindset** — Foundation | Output-focused, project culture; assumptions go untested | Outcome language adopted; discovery practiced in places; some initiatives framed as testable hypotheses | Customer obsession, outcome-over-output, continuous discovery, hypothesis-driven thinking, and cross-functional ownership are the norm |
 
@@ -141,7 +141,7 @@ Your **break** is the lowest of the four chain rows: OSM, PTS, CVDM and the Feed
 
 This is a default, not a rule: start where your pain is. If your situation, in the table above, points to another entry point, start there and note why.
 
-**No break.** If all four chain rows are Mature, the chain has no break. An enabler below Mature is then your next priority, the lowest first; with none, keep re-assessing on your cadence.
+**No break.** If all four chain rows are Mature, the chain has no break. An enabler or the outcome reading (the 8 Values row) below Mature is then your next priority, the lowest first; with none, keep re-assessing on your cadence.
 
 ---
 
