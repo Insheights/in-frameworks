@@ -103,7 +103,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 **Guidance:**
 - A team can produce the artifacts without running the practice ([Limitations](../aer.md#limitations)). Good checks: the practice cited in a recorded decision; a backlog or priority that changed after a discovery finding.
-- A reading whose check fails is **not confirmed**. Report it that way at the review; do not count it toward coverage.
+- A reading whose check fails is **not confirmed**. Report it that way at the review; do not count it toward practice coverage.
 - Keep one check per reading. Several weak checks are not one strong one.
 - You are done when every Adoption and persistence reading, and every cited decision, is marked confirmed or not confirmed.
 
@@ -212,7 +212,7 @@ At the next review, practice persistence reads for the first time. Between the r
 > - A first Organizational AER reading: one named signal per stage, labelled partial, with one artifact reading not confirmed
 > - A two-track reading that put the customer-side Engagement fall and the organizational Engagement gap side by side
 > - A handover rule that was used once, at the next review
-> - Not yet the coverage bar: practice persistence has been read at one review, and the bar needs each stage read at two or more consecutive reviews. It can be met at the next review, if a reading leads to a recorded change by then
+> - Not yet the coverage bar: practice persistence has been read at one review, and the bar needs each stage read at two or more consecutive reviews. The recorded changes are already in place, so it can be met at the next review, when persistence reads for the second time
 
 ---
 
