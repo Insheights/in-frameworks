@@ -29,7 +29,7 @@
 **Inputs required**
 
 - [ ] **The value-stream outcome (from OSM, carried by PTS)** — what this value stream is meant to produce. CVDM realizes it; it does not redefine it.
-- [ ] **The persistent cross-functional team and capabilities (from PTS)** — CVDM is activated by the teams PTS builds. Without an empowered team owning the value stream, there is no one to realize the journey.
+- [ ] **The persistent cross-functional team and capabilities (from PTS)** — CVDM is activated by the teams PTS builds. Without empowered teams serving the value stream's stages, there is no one to realize the journey.
 - [ ] **The customer journey** — the actual steps a customer takes, from their perspective, not the org's internal process.
 - [ ] **The value proposition** — what value the customer is promised at the journey, and the realized outcome that proves it.
 - [ ] **Access to customer and delivery signal** — experience, friction, and outcome data sources, so the five feedback loops have something to surface.
