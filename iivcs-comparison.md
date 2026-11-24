@@ -22,9 +22,9 @@ The frameworks below were each built for a different primary purpose — archite
 
 | Framework | Strategy to Delivery | Outside-in journey mapping (CVDM) | Value Stream Coverage | Operating Model | Behavioral Measurement | Org Value Connection | Feedback Architecture | Maturity |
 |---|---|---|---|---|---|---|---|---|
-| **TOGAF** | Partial | Absent | Partial | Absent | Absent | Absent | Absent | Mature |
-| **BIZBOK** | Partial | Partial | Strong | Partial | Absent | Partial | Absent | Mature |
-| **ArchiMate** | Partial | Absent | Partial | Absent | Absent | Absent | Absent | Mature |
+| **TOGAF** | Partial | Partial | Partial | Absent | Absent | Absent | Absent | Mature |
+| **BIZBOK** | Partial | Partial | Strong | Absent | Absent | Partial | Absent | Mature |
+| **ArchiMate** | Partial | Absent | Partial | Absent | Absent | Partial | Absent | Mature |
 | **SAFe** | Strong | Partial | Strong | Strong | Partial | Partial | Partial | Mature |
 | **Service Blueprint** | Absent | Strong | Partial | Absent | Absent | Absent | Absent | Established |
 | **Value Stream Mapping** | Absent | Partial | Strong | Absent | Absent | Absent | Absent | Established |
@@ -43,7 +43,7 @@ TOGAF is a widely used enterprise architecture method. Its Architecture Developm
 
 **What it does well:** A disciplined, repeatable way to describe the current and target architecture, plan the move between them, and govern change. IIVCS has no equivalent and does not try to replace it.
 
-**Key difference:** TOGAF describes and governs architecture. IIVCS is designed as a way of running value creation: strategy, an operating model for product teams, and delivery on value streams read outside-in through CVDM's journey-to-stage mapping, measured through 3E → AER → 8 Values. TOGAF's core standard does not map customer journey steps to the value stages that serve them, and it does not define a behavioral measurement layer. IIVCS is designed to add both; the link from IIVCS's design to the outcomes it targets is a reasoned hypothesis, not yet validated.
+**Key difference:** TOGAF describes and governs architecture. IIVCS is designed as a way of running value creation: strategy, an operating model for product teams, and delivery on value streams read outside-in through CVDM's journey-to-stage mapping, measured through 3E → AER → 8 Values. TOGAF's Series Guides (the Digital Business Reference Model and Enabling Enterprise Agility) treat customer journey maps as a Business Architecture artifact beside value streams; in CVDM, pairing each journey step with the value stage that serves it is the structure of delivery. TOGAF does not define a behavioral measurement layer. IIVCS is designed to add the pairing as delivery structure and a behavioral layer; the link from IIVCS's design to the outcomes it targets is a reasoned hypothesis, not yet validated.
 
 **How they work together:** [Integration — Enterprise Architecture](integration.md#enterprise-architecture-togaf-archimate-bizbok).
 
@@ -57,7 +57,7 @@ The BIZBOK Guide defines business architecture as the blueprint of an enterprise
 
 **What it does well:** A shared, well-defined vocabulary and set of maps — capabilities, value streams, information, organization — for describing the business and planning from strategy to initiatives.
 
-**Key difference:** BIZBOK is a business architecture discipline: it models the enterprise's current and target state and is used to plan from strategy to initiatives, but it is not a delivery operating model. In CVDM, each journey step is paired with the value stage that serves it, and every other element is asked to justify itself by what it serves. BIZBOK does not define an operating model for delivery teams or a behavioral measurement layer. IIVCS is designed to add an operating model for the teams (PTS), a behavioral layer (AER), feedback loops that return customer signal upstream, and one measurement language across architecture levels (3E); the link to outcomes is a reasoned hypothesis, not yet validated.
+**Key difference:** BIZBOK is a business architecture discipline: it models the enterprise's current and target state and is used to plan from strategy to initiatives, but it is not a delivery operating model. The Guild's business architecture metamodel lets each value stream stage enable a customer journey stage, and lets either be used on its own; in CVDM, that pairing is the structure of delivery, and every other element is asked to justify itself by what it serves. BIZBOK separates business architecture from the operating model, and does not define a behavioral measurement layer. IIVCS is designed to add an operating model for the teams (PTS), a behavioral layer (AER), feedback loops that return customer signal upstream, and one measurement language across architecture levels (3E); the link to outcomes is a reasoned hypothesis, not yet validated.
 
 **How they work together:** [Integration — Enterprise Architecture](integration.md#enterprise-architecture-togaf-archimate-bizbok).
 
@@ -71,7 +71,7 @@ ArchiMate is the Open Group's modeling language for enterprise architecture: a n
 
 **What it does well:** Shared, precise semantics for capability, value stream, value and stakeholder, so that one model can be read the same way by architects across an organization.
 
-**Key difference:** ArchiMate is a notation, not a method, an operating model or a measurement model. It can describe IIVCS's elements, but it does not say how to run them or how to read whether they create value. IIVCS value streams and capabilities can be modeled in ArchiMate. IIVCS is designed to add how they are run and read; the link to outcomes is a reasoned hypothesis, not yet validated.
+**Key difference:** ArchiMate is a notation, not a method, an operating model or a measurement model. It can describe IIVCS's elements, and its motivation and value elements can trace them to the goals and value they serve, but it does not say how to run them or how to read whether they create value. IIVCS value streams and capabilities can be modeled in ArchiMate. IIVCS is designed to add how they are run and read; the link to outcomes is a reasoned hypothesis, not yet validated.
 
 **How they work together:** [Integration — Enterprise Architecture](integration.md#enterprise-architecture-togaf-archimate-bizbok).
 
@@ -85,7 +85,7 @@ SAFe is a widely used enterprise framework for scaling agile practices across la
 
 **What it does well:** A widely adopted way to plan and deliver across many teams on shared value streams, with a measurement approach (Measure and Grow) across three domains: Outcomes, Flow and Competency.
 
-**Key difference:** SAFe is a delivery scaling framework built around agile execution. Its customer orientation is a set of practices (Customer Centricity, Design Thinking) inside delivery. In CVDM, each journey step is paired with the value stage that serves it, as the structure of the delivery layer. SAFe's measures are organized in three domains; IIVCS is designed to read one ordered chain, 3E → AER → 8 Values, with each signal in one home layer, including a behavioral layer (AER) on both the customer and team tracks. IIVCS is designed to add that chain, and a strategy layer (OSM) linked to the operating model through shared value streams; the link to outcomes is a reasoned hypothesis, not yet validated.
+**Key difference:** SAFe is a delivery scaling framework built around agile execution. Its customer orientation is a mindset and a set of practices (Customer Centricity, Design Thinking) inside delivery. In CVDM, each journey step is paired with the value stage that serves it, as the structure of the delivery layer. SAFe's measures are organized in three domains; IIVCS is designed to read one ordered chain, 3E → AER → 8 Values, with each signal in one home layer, including a behavioral layer (AER) on both the customer and team tracks. IIVCS is designed to add that chain, and a strategy layer (OSM) linked to the operating model through shared value streams; the link to outcomes is a reasoned hypothesis, not yet validated.
 
 **How they work together:** [Integration — SAFe](integration.md#safe-scaled-agile-framework).
 
@@ -167,7 +167,7 @@ The Net Promoter System is Bain's management practice built around the Net Promo
 
 ---
 
-## The Distinctive Contribution of IIVCS
+## IIVCS Contributions
 
 ### From Strategy to Outcome in One System
 

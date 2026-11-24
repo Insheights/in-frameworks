@@ -12,7 +12,7 @@ The IIVCS does not ask organizations to discard existing practices. Most organiz
 
 What IIVCS is designed to provide is the connecting system — the architecture within which existing practices operate, the measurement language that makes their outputs composable, and the feedback architecture that returns their signals to the right place in the organization.
 
-The test: an organization running SAFe, OKRs, and ITIL has delivery teams, strategic objectives, and service management. What it typically lacks is a shared spine connecting strategic intent to value stream execution to customer outcome — measured consistently from process level to organizational value level, with feedback running upstream. IIVCS is designed to be that spine.
+The test: an organization running SAFe, OKRs, and ITIL has delivery teams, strategic objectives, and service management. IIVCS is designed to add a shared spine connecting strategic intent to value stream execution to customer outcome — measured consistently from process level to organizational value level, with feedback running upstream — so that these practices work as one system.
 
 ---
 
@@ -49,9 +49,9 @@ SAFe provides the delivery execution structure — Agile Release Trains, PI Plan
 - **Portfolio → OSM:** SAFe's Portfolio layer (Strategic Themes, Lean Portfolio Management) maps to OSM's strategic value priorities and value stream allocation. OSM sets the value priorities that SAFe's portfolio layer executes against. Strategic themes become the bridge between OSM's Strategic Objectives and SAFe's portfolio investment decisions.
 - **ART structure → PTS:** SAFe's Agile Release Trains are teams of Agile teams. An ART maps to the set of PTS teams serving one value stream — its Core, Shared and Platform-Enabled teams — not to a single PTS team. PTS's four [Product Operating Model (POM)](glossary.md#core-system-and-frameworks) Enablers (Leadership, Practices & Behaviors, Organizational Architecture, Culture & Relationships) are the conditions that make SAFe ARTs effective — or identify why they are not.
 - **PI Objectives → CVDM:** SAFe's PI Objectives (PI: Planning Interval) become the delivery commitments that CVDM's value stages and capabilities must deliver against. CVDM's 3E measurement makes visible whether PI execution is producing customer outcomes, not just shipped features.
-- **Flow metrics → 3E Efficiency:** SAFe's flow metrics (Flow Velocity, Flow Time, Flow Efficiency, Flow Load) are Efficiency signals in 3E terms. They measure whether value can be accessed without friction at the delivery level. 3E connects these signals forward to Experience and Effectiveness — dimensions SAFe's native metrics do not capture.
+- **Flow metrics → 3E Efficiency:** SAFe's flow metrics (Flow Velocity, Flow Time, Flow Efficiency, Flow Load) are Efficiency signals in 3E terms. They measure whether value can be accessed without friction at the delivery level. 3E reads these signals with Experience and Effectiveness, so flow performance is read beside how value is felt and whether it achieves its outcome.
 
-**What IIVCS adds that SAFe does not provide:** Outside-in journey mapping that is structural in CVDM, not just practiced: each customer journey step is paired with the value stage that serves it. A measurement architecture that connects flow performance to customer outcomes and organizational value. A feedback architecture that returns PI-level delivery signal to strategic reassessment in OSM.
+**What IIVCS adds alongside SAFe:** Outside-in journey mapping that is structural in CVDM: each customer journey step is paired with the value stage that serves it. A measurement architecture that connects flow performance to customer outcomes and organizational value. A feedback architecture that returns PI-level delivery signal to strategic reassessment in OSM.
 
 ---
 
@@ -66,7 +66,7 @@ Scrum provides the team-level delivery ceremonies and practices — Sprint Plann
 - **Sprint Retrospective → Feedback loops:** Retrospective outcomes feed directly into CVDM's Delivery Learning feedback loop — and, when systemic, into PTS's operating model improvement cycle.
 - **Velocity and throughput → 3E Efficiency:** Sprint velocity and throughput are Efficiency signals at the team level. They surface whether the team can access and deliver value without friction.
 
-**What IIVCS adds:** The system above and around Scrum — the value streams that Scrum teams operate within, read outside-in through CVDM's journey-to-stage mapping, which names the journey step a Sprint goal serves, the measurement architecture that connects Sprint delivery to customer behavioral response and organizational value.
+**What IIVCS adds alongside Scrum:** The system above and around Scrum — the value streams that Scrum teams operate within, read outside-in through CVDM's journey-to-stage mapping, which names the journey step a Sprint goal serves, the measurement architecture that connects Sprint delivery to customer behavioral response and organizational value.
 
 ---
 
@@ -87,7 +87,7 @@ PTS uses its own team vocabulary — Core, Shared, and Platform-Enabled teams, a
 
 - **X-as-a-Service → owned / consumed capabilities:** PTS reads a consumed capability the way Team Topologies' X-as-a-Service mode works: the consuming team draws on it without a hand-off, and one owning team stays accountable for it.
 
-**What IIVCS adds:** Teams anchored to value streams that OSM governs and CVDM realizes, an organization-wide capability map on which every capability has one owning team, and measurement (Organizational AER) of whether the team model is adopted and sustained.
+**What IIVCS adds alongside Team Topologies:** Teams anchored to value streams that OSM governs and CVDM realizes, an organization-wide capability map on which every capability has one owning team, and measurement (Organizational AER) of whether the team model is adopted and sustained.
 
 ---
 
@@ -102,7 +102,7 @@ OKRs are the strategic execution practice through which OSM's Strategic Objectiv
 - **OKR cadence → OSM Governance cycle:** The OKR review cycle (quarterly or annual) is the execution mechanism for OSM's Governance & Measurement loop. IIVCS does not define a cadence — it defines what the measurement language is. OKR ceremonies are how the cadence runs.
 - **Portfolio OKRs → Value stream allocation:** Portfolio-level OKRs determine which value streams are prioritized for investment — directly informing OSM's Execution & Deployment layer.
 
-**What IIVCS adds:** A measurement architecture (3E → AER → 8 Values) that makes Key Result design more rigorous — distinguishing leading Efficiency and Experience signals from lagging Effectiveness outcomes. A feedback architecture that returns delivery signal to OKR retrospectives. A framework for surfacing whether OKR attainment is driving the organizational value dimensions it was intended to drive.
+**What IIVCS adds alongside OKRs:** A measurement architecture (3E → AER → 8 Values) that makes Key Result design more rigorous — distinguishing leading Efficiency and Experience signals from lagging Effectiveness outcomes. A feedback architecture that returns delivery signal to OKR retrospectives. A framework for surfacing whether OKR attainment is driving the organizational value dimensions it was intended to drive.
 
 ---
 
@@ -117,7 +117,7 @@ ITIL's service management practices — Incident Management, Problem Management,
 - **Service Level Agreements → 3E thresholds:** SLA targets define the acceptable Efficiency floor for service delivery. Breaches are CVDM feedback loop triggers — signals that a capability is not meeting the value delivery threshold.
 - **Continual Service Improvement → CVDM Performance Optimization loop:** ITIL's Continual Service Improvement cycle is the execution mechanism for CVDM's fourth feedback loop (Performance Optimization). CSI provides the improvement methodology; CVDM's feedback loop defines what signal triggers it and where the output goes.
 
-**What IIVCS adds:** A customer journey context for customer-facing ITIL processes: in CVDM, each customer-facing capability serves a value stage paired with a step in the customer's journey. 3E measurement that connects ITIL's service metrics to customer experience and outcome dimensions ITIL's metrics do not capture. A feedback architecture that returns service performance signal upstream through PTS operating model improvement to OSM strategic reassessment.
+**What IIVCS adds alongside ITIL:** A customer journey context for customer-facing ITIL processes: in CVDM, each customer-facing capability serves a value stage paired with a step in the customer's journey. 3E measurement that reads ITIL's service metrics beside the customer's experience and outcome. A feedback architecture that returns service performance signal upstream through PTS operating model improvement to OSM strategic reassessment.
 
 ---
 
@@ -131,7 +131,7 @@ Enterprise Risk Management is a direct input to OSM's Strategic Value Creation p
 - **Risk appetite → Value priorities:** The organization's risk appetite, defined through ERM governance, is a constraint on OSM's value priority setting. High-risk value streams require risk-adjusted strategic treatment; ERM provides the framework for defining what that means.
 - **Value stream risk → PTS operating model:** Risks identified through ERM at the value stream level (operational, technology, people, compliance) are inputs to PTS's operating model design — informing how teams are structured and enabled to manage risk in execution.
 
-**What IIVCS adds:** A delivery architecture that connects risk signal to operational response. ERM identifies risk; IIVCS is the system through which the organization executes its risk-adjusted strategy and monitors whether delivery is producing or mitigating the outcomes ERM flagged.
+**What IIVCS adds alongside ERM:** A delivery architecture that connects risk signal to operational response. ERM identifies risk; IIVCS is the system through which the organization executes its risk-adjusted strategy and monitors whether delivery is producing or mitigating the outcomes ERM flagged.
 
 ---
 
@@ -145,7 +145,7 @@ Design Thinking practices — Empathize, Define, Ideate, Prototype, Test — are
 - **Prototype and Test → CVDM Effectiveness validation:** Design Thinking's prototype and test cycle is the mechanism for validating whether a new capability or value stage design achieves its intended Effectiveness before scaling. The test is the Effectiveness signal; CVDM's feedback loops carry the result upstream.
 - **PTS Discover phase:** PTS's Discover phase is where Design Thinking is practiced — continuously, not as a one-time project. The Discover phase is the ongoing loop that keeps teams in contact with customer reality and prevents delivery from drifting away from customer need.
 
-**What IIVCS adds:** The delivery system that operationalizes Design Thinking outputs. Design Thinking surfaces what to build and why; IIVCS is how the organization builds it, delivers it, measures it, and improves it continuously.
+**What IIVCS adds alongside Design Thinking:** The delivery system that operationalizes Design Thinking outputs. Design Thinking surfaces what to build and why; IIVCS is how the organization builds it, delivers it, measures it, and improves it continuously.
 
 ---
 
@@ -161,7 +161,7 @@ A note on terms: Lean uses "value stream" for the path that material and informa
 - **Future-state VSM → CVDM capability redesign:** VSM's future-state maps define the target capabilities and processes that CVDM must operationalize. The future-state design becomes the target architecture for CVDM's capability and process layer.
 - **VSM improvement events → PTS improvement cycles:** VSM-driven improvement events are inputs to PTS's operating model improvement cycle. They surface operating model gaps (people, practices, architecture) that PTS's enablers must address.
 
-**What IIVCS adds:** The Experience and Effectiveness dimensions that VSM does not read. A VSM-efficient value stream can still fail on customer experience or outcome achievement — 3E is designed to make these gaps visible. A feedback architecture designed to return VSM's findings, with the Experience and Effectiveness readings beside them, to the teams and leaders who can act on them.
+**What IIVCS adds alongside VSM:** Experience and Effectiveness, read beside the Efficiency that VSM already reads. An efficient value stream can still fail on customer experience or outcome achievement — 3E is designed to make these gaps visible. A feedback architecture designed to return VSM's findings, with the Experience and Effectiveness readings beside them, to the teams and leaders who can act on them.
 
 ---
 
@@ -176,7 +176,7 @@ JTBD research is a demand insight method that informs OSM's strategic value crea
 - **Job executor's desired outcomes → CVDM value propositions:** JTBD's outcome statements (what customers want to accomplish, at what speed, with what precision) are the basis for CVDM's value propositions at each journey stage. The value proposition is the organization's answer to the job; CVDM is how the organization delivers it.
 - **Job satisfaction research → 3E Effectiveness signal:** JTBD outcome surveys (e.g., Outcome-Driven Innovation) measure whether customers are achieving their desired outcomes — which is the Effectiveness dimension of 3E at the customer level.
 
-**What IIVCS adds:** The delivery system that turns JTBD demand insights into realized customer outcomes. JTBD identifies what job to do; IIVCS is designed as the system that does it and reads whether it was done; a reasoned hypothesis, not yet validated.
+**What IIVCS adds alongside JTBD:** The delivery system that turns JTBD demand insights into realized customer outcomes. JTBD identifies what job to do; IIVCS is designed as the system that does it and reads whether it was done; a reasoned hypothesis, not yet validated.
 
 ---
 
@@ -190,7 +190,7 @@ Enterprise architecture practice describes, plans and governs the organization's
 - **BIZBOK → OSM's maps:** where an organization has a business-architecture capability map and value-stream map, OSM adopts them as the starting point for the value-stream inventory and capability map it hands to PTS and CVDM, and changes them through its own decisions.
 - **ArchiMate → the organization's own models:** IIVCS value streams, value stages and capabilities, and the links between them, can be modeled with ArchiMate's strategy and business elements in the organization's existing architecture repository.
 
-**What IIVCS is designed to add:** a customer-journey pairing for the value stages those capabilities enable; an operating model for the product teams that run them (PTS); and measurement, 3E → AER → 8 Values, designed to read whether they are producing value (a reasoned hypothesis, not yet validated).
+**What IIVCS adds alongside enterprise architecture:** a customer-journey pairing for the value stages those capabilities enable; an operating model for the product teams that run them (PTS); and measurement, 3E → AER → 8 Values, designed to read whether they are producing value (a reasoned hypothesis, not yet validated).
 
 ---
 
