@@ -173,7 +173,7 @@ The Net Promoter System is Bain's management practice built around the Net Promo
 
 Among the frameworks compared here, each is built for one part of the strategy-to-outcome arc, not the whole of it — TOGAF and BIZBOK address architecture, SAFe addresses delivery scaling, Service Blueprint and VSM address delivery analysis, JTBD addresses demand insight. IIVCS's distinguishing choice is to integrate strategy, operating model, and customer value delivery within a single system connected by a shared measurement language — OSM sets strategic direction, PTS carries it into the operating model, CVDM realizes it — with value streams as the common spine. The integration is the contribution, not the individual spans, each of which has precedent.
 
-### Outside-In Delivery in CVDM
+### CVDM's Outside-In Lens on the Value Stream
 
 CVDM pairs every customer journey step with the value stage that serves it, and asks every other element (capability, process, team) to justify itself by what it serves. That is CVDM's structural premise, applied to each value stream that serves a customer. Many architecture frameworks start from the inside, from capabilities and functions, instead. Customer Journey Mapping and the Service Blueprint are general practice for this; see [Integration](integration.md).
 
