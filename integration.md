@@ -190,7 +190,7 @@ Enterprise architecture practice describes, plans and governs the organization's
 - **BIZBOK → OSM's maps:** where an organization has a business-architecture capability map and value-stream map, OSM adopts them as the starting point for the value-stream inventory and capability map it hands to PTS and CVDM, and changes them through its own decisions.
 - **ArchiMate → the organization's own models:** IIVCS value streams, value stages and capabilities, and the links between them, can be modeled with ArchiMate's strategy and business elements in the organization's existing architecture repository.
 
-**What IIVCS is designed to add alongside enterprise architecture:** a customer-journey pairing for the value stages those capabilities enable; an operating model for the product teams that run them (PTS); and measurement, 3E → AER → 8 Values, designed to read whether they are producing value (a reasoned hypothesis, not yet validated).
+**What IIVCS adds alongside enterprise architecture:** a customer-journey pairing for the value stages those capabilities enable; an operating model for the product teams that run them (PTS); and measurement, 3E → AER → 8 Values, designed to read whether they are producing value (a reasoned hypothesis, not yet validated).
 
 ---
 
