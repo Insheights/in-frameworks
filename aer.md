@@ -8,6 +8,8 @@ AER measures behavioral response to value delivery — the actions customers and
 
 AER operates across two parallel tracks — Customer AER measuring how customers respond to value delivery, and Organizational AER measuring how the delivering organization responds to its own operating model.
 
+How to run it: [AER Practitioners Guide](guides/aer-practitioners-guide.md). Signals, their home layers and reference bars: [Metrics and Indicators](metrics-and-indicators.md#part-2--aer-metrics-and-indicators).
+
 > **Behavioral, not satisfaction** — AER measures what customers and teams *do*, not how they *feel*. Satisfaction is a condition; behavior is the signal. A customer can report high satisfaction and still churn. A team can score well on a satisfaction survey and still fail to adopt new practices. AER reads behavior because it is observable and actionable, and it is expected to predict outcomes better than satisfaction scores alone; if satisfaction scores predict Retention better over three consecutive readings, revisit the link. Stated intent — NPS, eNPS, engagement surveys — is attitudinal and belongs to [3E Experience](3e.md); AER records what people then do, such as an actual referral (Recommendation).
 
 ---
@@ -111,21 +113,7 @@ AER signals return through the IIVCS feedback system: Customer AER through CVDM'
 
 ## Where to Start
 
-*Interim: this section stands in for an AER practitioner guide, which is not yet written.* It is written for a reader working alone. Customer AER usually starts from analytics the organization already keeps; this section is about Organizational AER, the harder track.
-
-1. **Pick one value stream.** Use the one the operating model is stood up on first (the [PTS Practitioners Guide](guides/pts-practitioners-guide.md) starts with a pilot on one value stream).
-2. **Name two roles**, as the PTS guide defines them:
-   - the **executive sponsor**, who holds the mandate to restructure teams around value streams and protect persistent ownership;
-   - the **value-stream owner**, who, with POM Leadership, acts on the signal and owns retuning the operating model when adoption or engagement drops.
-
-   Without a named sponsor, do not start: use the [Adoption Sequencing & Maturity Model](adoption-maturity.md) to find one first. A change of sponsor or value-stream owner is a Retention risk (see [Limitations](#limitations)).
-3. **Start with one signal per stage**, from [Metrics and Indicators](metrics-and-indicators.md#organizational-aer): practice coverage (Adoption), decision trace and team-made change (Engagement), practice persistence (Retention). They are read from team artifacts and review records. The value-stream owner reads them at the operating-model review. Label early readings partial.
-4. **Check each artifact reading against the work.** A team can produce the artifacts without running the practice. Pair each Adoption and persistence reading with one behavioral signal from the work itself, such as the practice cited in a recorded decision or a Customer AER movement in the same value stream. For Engagement, whose signal is the decision trace itself, check that the cited decisions changed what the team then did.
-5. **Read at each operating-model review**, held at the organization's planning cadence before each OSM decision forum, so the read reaches it.
-
-**Output:** a first Organizational AER reading for one value stream: one named signal per stage, each with a baseline and its paired behavioral check, labelled partial where records are thin; and the named executive sponsor and value-stream owner.
-
-**You are done when:** the value stream meets the Organizational AER coverage bar in [Metrics and Indicators](metrics-and-indicators.md#reference-bars-for-system-maturity).
+See the [AER Practitioners Guide](guides/aer-practitioners-guide.md): it sets up Organizational AER on one value stream and reads it against Customer AER.
 
 ---
 
@@ -135,7 +123,7 @@ AER measures behavior, which makes it more actionable than sentiment — but als
 
 - **Behavioral-data dependent.** AER requires observable behavioral signals — adoption rates, engagement depth, retention and recommendation curves — across both tracks. Organizations that rely only on attitudinal surveys (satisfaction, engagement scores) cannot populate AER without new instrumentation.
 - **Organizational AER is the harder track.** Customer behavioral analytics are common; behavioral — not survey-based — measures of team adoption, engagement, and retention by capability area are rare. Most organizations will begin with a partial Organizational AER and should not mistake a Gallup-style engagement score for a behavioral signal.
-- **Organizational AER can be gamed.** Adoption and persistence are read from team artifacts, and a team can produce the artifacts without running the practice. Each artifact reading needs one behavioral signal beside it (see [Where to Start](#where-to-start)).
+- **Organizational AER can be gamed.** Adoption and persistence are read from team artifacts, and a team can produce the artifacts without running the practice. Each artifact reading needs one behavioral signal beside it (see [Step 3 of the AER Practitioners Guide](guides/aer-practitioners-guide.md#step-3--pair-each-artifact-reading-with-a-check-on-the-work)).
 - **Sponsorship is a risk to read, not an exclusion.** A change of executive sponsor or value-stream owner can undo a way of working. Read it at the next review as an Organizational AER Retention risk.
 - **Retention signal lags.** Retention and Recommendation require months-long windows to mature. AER's leading-indicator value lives mostly in Adoption and Engagement; the Retention dimension confirms rather than warns.
 - **Conceptually derived.** The 3E → AER stage mapping and the dual-track parallelism are reasoned constructs, not empirically validated relationships. A 3E gap *predicting* an AER gap is a model assertion to verify, not a measured law. Each link on this page is stated with what would count against it: if the next signal does not follow over three consecutive readings, revisit the link.

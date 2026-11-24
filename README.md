@@ -165,7 +165,7 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 
 ## Documents in This System
 
-> **Status:** The three measurement models (3E, AER and the 8 Values), the five practitioner guides (OSM, PTS, CVDM, 3E and 8 Values), the Adoption Sequencing & Maturity Model with the Quick Self-Assessment, and Metrics and Indicators are **reviewed**: each has been through a critical review and the owner's rulings. Reviewed does not mean field-validated: thresholds, bars and worked examples are reasoned defaults until real assessment runs calibrate them.
+> **Status:** The three measurement models (3E, AER and the 8 Values), the six practitioner guides (OSM, PTS, CVDM, 3E, 8 Values and AER), the Adoption Sequencing & Maturity Model with the Quick Self-Assessment, and Metrics and Indicators are **reviewed**: each has been through a critical review and the owner's rulings. Reviewed does not mean field-validated: thresholds, bars and worked examples are reasoned defaults until real assessment runs calibrate them.
 
 **Frameworks**
 - This document — OSM (Organization Strategy Model), PTS (Product Transformation System), CVDM (Customer Value Delivery Model)
@@ -193,6 +193,7 @@ The feedback runs upstream — CVDM to PTS to OSM — customer signals becoming 
 - [CVDM Practitioners Guide](guides/cvdm-practitioners-guide.md)
 - [3E Practitioners Guide](guides/3e-practitioners-guide.md)
 - [8 Values Practitioners Guide](guides/8-values-practitioners-guide.md)
+- [AER Practitioners Guide](guides/aer-practitioners-guide.md)
 
 **Reference**
 - [Glossary](glossary.md) — terms, acronyms, and external frameworks
