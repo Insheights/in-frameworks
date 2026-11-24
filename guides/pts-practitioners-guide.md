@@ -128,9 +128,9 @@ Each step below is an action. Complete them in order — later steps depend on e
 
 ### Step 3 — Structure persistent cross-functional teams around value streams
 
-**What you do:** Organize people into persistent cross-functional teams aligned to value streams — each team holding the product, engineering, design, and operational capability to own delivery end-to-end, without handoffs. Define each team's value-stream ownership and the customer outcomes it is accountable for through CVDM.
+**What you do:** Organize people into persistent cross-functional teams aligned to value streams — each team holding the product, engineering, design, and operational capability to own delivery end-to-end, without handoffs. Define the value stages each team serves and the customer outcomes it is accountable for through CVDM; the value-stream owner owns each value stream's outcome.
 
-**Key question this step answers:** *Who owns each value stream end-to-end, and do they have what they need to deliver without handoffs?*
+**Key question this step answers:** *Which teams serve each value stream's stages end-to-end, who owns its outcome, and do the teams have what they need to deliver without handoffs?*
 
 **Inputs:** Activated POM (Step 2); value-stream-to-outcome map; capability map (from OSM)
 **Output:** A value-stream team topology — persistent teams by type, ownership boundaries, and for each team the capabilities it owns and the capabilities it consumes
@@ -142,14 +142,14 @@ Each step below is an action. Complete them in order — later steps depend on e
 
   | Team | What it is | Aligned to |
   |---|---|---|
-  | **Core** | A persistent cross-functional team aligned to one value stream. It owns the capabilities only that stream's stages use, consumes the rest, and is accountable for the stream's outcome end to end. | One value stream |
+  | **Core** | A persistent cross-functional team aligned to one value stream and the value stages it serves; a value stream has one or more Core teams. It owns the customer outcomes at its stages, which evidence the value-stream outcome, and delivers them end-to-end, without handoffs. It owns the capabilities only its stages use and consumes the rest; when two Core teams in one stream use a capability, one owns it and the other consumes it. The value-stream owner owns the value-stream outcome. | One value stream |
   | **Shared** | A persistent team that owns a capability value stages in several value streams draw on. It serves those streams' Core teams on agreed terms and is judged on their outcomes. | The value streams that draw on its capability |
   | **Platform-Enabled** | A persistent team that owns a technology capability, such as a platform, data and AI, integration or developer tooling, and offers it as a self-service internal product, so other teams consume it without hand-offs. | Every value stream that consumes it |
 
 - **Record owned and consumed capabilities on the capability map.** Every capability has exactly one owning team; every other team that draws on it consumes it. A capability sourced from a partner is always consumed, with one internal team accountable for the partner, the integration, and the service level: the team that would own it if it were built in-house. A capability the map is missing, or a duplicate, goes back to OSM to decide; PTS does not add it locally.
 - Each Core team must own or consume the capabilities to deliver end-to-end. Consuming a capability from a Shared or Platform-Enabled team, on agreed terms or as self-service, is not a handoff. If delivering an outcome needs an ad-hoc handoff to another team, either a capability is missing or the value-stream boundary is wrong — fix the topology, don't add a handoff.
 - The team owns the **customer outcomes** that evidence the value-stream outcome; the value-stream owner owns the value-stream outcome itself. Make both explicit so accountability does not blur.
-- You are done when every value stream has a persistent Core team with clear ownership and one named accountable product role, every capability on the map has one owning team, each team's owned and consumed capabilities are recorded, and no value stage depends on an ad-hoc hand-off.
+- You are done when every value stage is served by a persistent Core team (a value stream has one or more) with clear ownership and one named accountable product role, every capability on the map has one owning team, each team's owned and consumed capabilities are recorded, and no value stage depends on an ad-hoc hand-off.
 
 ---
 
@@ -255,7 +255,7 @@ The **Cardiac Care Pathway value stream** is confirmed to carry the outcome — 
 - *Culture & Relationships:* psychological safety lets nurses flag discharge gaps without blame.
 
 **Step 3 — Structure the persistent team**
-A persistent Cardiac Care Pathway **Core** team, with a clinical nurse lead as its accountable role, owns the patient's pathway end-to-end — no handoff to a separate discharge unit. Its capabilities:
+A persistent Cardiac Care Pathway **Core** team, with a clinical nurse lead as its accountable role, serves every stage of the patient's pathway end-to-end — no handoff to a separate discharge unit. Its capabilities:
 
 | Capability | Owned or consumed | From |
 |---|---|---|
@@ -349,7 +349,7 @@ PTS applies to any organization that must stand up an operating model to deliver
 
 1. Receive governed priorities and confirm value-stream outcomes — *What must this operating model deliver, and can we carry it?*
 2. Stand up the POM — activate the four Enablers — *What model will empower teams to deliver?*
-3. Structure persistent cross-functional teams around value streams — *Who owns each value stream end-to-end?*
+3. Structure persistent cross-functional teams around value streams — *Which teams serve each value stream's stages, and who owns its outcome?*
 4. Run the continuous product lifecycle — *How do teams continuously turn priorities into adopted value?*
 5. Activate the feedback and learning loop — *Is the model being adopted, sustained, and delivering outcomes?*
 
