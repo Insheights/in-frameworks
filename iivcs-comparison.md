@@ -12,7 +12,7 @@ A comparison of the Insheights Integrated Value Creation System against establis
 
 The IIVCS ([Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model) | [Product Transformation System (PTS)](README.md#pts--product-transformation-system) | [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model)) is a system of three interdependent frameworks designed to span the full arc from strategic intent to realized customer outcome — integrated with a shared measurement language ([Efficiency, Experience, Effectiveness (3E)](3e.md), [Adoption, Engagement, Retention (AER)](aer.md), 8 Values) and a feedback architecture that returns customer signal upstream to strategy.
 
-The frameworks below were each built for a different primary purpose — architecture description, delivery scaling, service design, demand insight. Each addresses part of this arc; IIVCS is designed to integrate them within one system, anchored outside-in on the customer journey. The comparison is *integrative reach*, not a claim that any single capability below is novel — several have decades of prior art (see [Related Prior Work](#related-prior-work)).
+The frameworks below were each built for a different primary purpose — architecture description, delivery scaling, service design, demand insight. Each addresses part of this arc; IIVCS is designed to integrate them within one system, with value streams as the common spine, read outside-in through CVDM's journey-to-stage mapping. The comparison is *integrative reach*, not a claim that any single capability below is novel — several have decades of prior art (see [Related Prior Work](#related-prior-work)).
 
 ---
 
@@ -20,7 +20,7 @@ The frameworks below were each built for a different primary purpose — archite
 
 **Reading the table.** Ratings reflect how directly each framework is *designed* to address each dimension — coverage by design, not validated outcomes. These are the dimensions IIVCS is built to integrate, and Insheights rated every row, its own included, so the table maps where established frameworks also address each; it is not a neutral ranking. A Yes or Strong in the IIVCS row means the model is designed to do this; the links it relies on are reasoned hypotheses, not validated (see [Limitations](#limitations)). The final column states maturity, where IIVCS is Conceptual and the others are established in practice.
 
-| Framework | Strategy to Delivery | Customer Journey Anchor | Value Stream Coverage | Operating Model | Behavioral Measurement | Org Value Connection | Feedback Architecture | Maturity |
+| Framework | Strategy to Delivery | Outside-in journey mapping (CVDM) | Value Stream Coverage | Operating Model | Behavioral Measurement | Org Value Connection | Feedback Architecture | Maturity |
 |---|---|---|---|---|---|---|---|---|
 | **TOGAF** | Partial | Absent | Partial | Absent | Absent | Absent | Absent | Mature |
 | **BIZBOK** | Partial | Partial | Strong | Partial | Absent | Partial | Absent | Mature |
@@ -43,7 +43,7 @@ TOGAF is a widely used enterprise architecture method. Its Architecture Developm
 
 **What it does well:** A disciplined, repeatable way to describe the current and target architecture, plan the move between them, and govern change. IIVCS has no equivalent and does not try to replace it.
 
-**Key difference:** TOGAF describes and governs architecture. IIVCS is designed as a way of running value creation: strategy, an operating model for product teams, and delivery anchored on the customer journey, measured through 3E → AER → 8 Values. TOGAF does not make the customer journey its organizing unit, and it does not define a behavioral measurement layer. IIVCS is designed to add both; the link from IIVCS's design to the outcomes it targets is a reasoned hypothesis, not yet validated.
+**Key difference:** TOGAF describes and governs architecture. IIVCS is designed as a way of running value creation: strategy, an operating model for product teams, and delivery on value streams read outside-in through CVDM's journey-to-stage mapping, measured through 3E → AER → 8 Values. TOGAF's core standard does not map customer journey steps to the value stages that serve them, and it does not define a behavioral measurement layer. IIVCS is designed to add both; the link from IIVCS's design to the outcomes it targets is a reasoned hypothesis, not yet validated.
 
 **How they work together:** [Integration — Enterprise Architecture](integration.md#enterprise-architecture-togaf-archimate-bizbok).
 
@@ -153,7 +153,7 @@ Strategy Maps cascade cause-and-effect across measurement perspectives, from lea
 
 **What it does well:** They make the assumed cause-and-effect of a strategy explicit, on one page, across perspectives.
 
-**Key difference:** The detailed distinction is drawn in [8-values-comparison.md](8-values-comparison.md) (compounding model, operational grounding, leading-indicator structure) and [3e-comparison.md](3e-comparison.md) (stated order of reading vs. parallel perspectives). IIVCS is designed to add a chain anchored at the bottom on customer-journey delivery signal, with its leading/lagging order fixed in the model rather than set per implementation; the link to outcomes is a reasoned hypothesis, not yet validated.
+**Key difference:** The detailed distinction is drawn in [8-values-comparison.md](8-values-comparison.md) (compounding model, operational grounding, leading-indicator structure) and [3e-comparison.md](3e-comparison.md) (stated order of reading vs. parallel perspectives). IIVCS is designed to add a chain whose bottom is customer-facing delivery signal at the value stage, with its leading/lagging order fixed in the model rather than set per implementation; the link to outcomes is a reasoned hypothesis, not yet validated.
 
 ### Net Promoter System (Bain & Company)
 
@@ -173,9 +173,9 @@ The Net Promoter System is Bain's management practice built around the Net Promo
 
 Among the frameworks compared here, each is built for one part of the strategy-to-outcome arc, not the whole of it — TOGAF and BIZBOK address architecture, SAFe addresses delivery scaling, Service Blueprint and VSM address delivery analysis, JTBD addresses demand insight. IIVCS's distinguishing choice is to integrate strategy, operating model, and customer value delivery within a single system connected by a shared measurement language — OSM sets strategic direction, PTS carries it into the operating model, CVDM realizes it — with value streams as the common spine. The integration is the contribution, not the individual spans, each of which has precedent.
 
-### Customer Journey as Organizing Principle
+### CVDM's Outside-In Lens on the Value Stream
 
-CVDM pairs every customer journey step with the value stage that serves it, and asks every other element (capability, process, team) to justify itself by what it serves. That is CVDM's structural premise. Many architecture frameworks start from the inside, from capabilities and functions, instead. Customer Journey Mapping and the Service Blueprint are general practice for this; see [Integration](integration.md).
+CVDM pairs every customer journey step with the value stage that serves it, and asks every other element (capability, process, team) to justify itself by what it serves. That is CVDM's structural premise, applied to each value stream that serves a customer. Many architecture frameworks start from the inside, from capabilities and functions, instead. Customer Journey Mapping and the Service Blueprint are general practice for this; see [Integration](integration.md).
 
 ### Dual-Track Behavioral Reading
 
@@ -187,7 +187,7 @@ Many established frameworks include a review cycle that returns signal to strate
 
 ### Consistent Measurement from Process to Organization
 
-The 3E → AER → 8 Values measurement chain is designed to provide a consistent language from individual process level to organizational value generation. A process-level Efficiency signal aggregates through Capability and Value Stream levels via 3E, connects to behavioral response via AER, and is expected to drive one of eight organizational value dimensions — a reasoned hypothesis. Among the frameworks compared here, few carry a single measurement chain from an individual process step to an organizational value outcome; Kaplan & Norton's Strategy Maps cascade cause-and-effect across measurement levels, and this chain is in that lineage — distinguished by anchoring the bottom on customer-journey delivery signal and the top on a defined set of organizational value dimensions (see [Related Prior Work](#related-prior-work)).
+The 3E → AER → 8 Values measurement chain is designed to provide a consistent language from individual process level to organizational value generation. A process-level Efficiency signal aggregates through Capability and Value Stream levels via 3E, connects to behavioral response via AER, and is expected to drive one of eight organizational value dimensions — a reasoned hypothesis. Among the frameworks compared here, few carry a single measurement chain from an individual process step to an organizational value outcome; Kaplan & Norton's Strategy Maps cascade cause-and-effect across measurement levels, and this chain is in that lineage — distinguished by anchoring the bottom on customer-facing delivery signal at the value stage and the top on a defined set of organizational value dimensions (see [Related Prior Work](#related-prior-work)).
 
 ### Integration, Not Replacement
 

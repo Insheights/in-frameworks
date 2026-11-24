@@ -21,7 +21,7 @@ The test: an organization running SAFe, OKRs, and ITIL has delivery teams, strat
 | Capability | IIVCS Provides | Existing Practice Handles |
 |---|---|---|
 | Strategy-to-delivery spine | [Organization Strategy Model (OSM)](README.md#osm--organization-strategy-model) → [Product Transformation System (PTS)](README.md#pts--product-transformation-system) → [Customer Value Delivery Model (CVDM)](README.md#cvdm--customer-value-delivery-model): single connected system from strategic intent to customer outcome | — |
-| Customer journey as organizing principle | CVDM anchors all internal elements to customer journey steps | Service Blueprint, Customer Journey Mapping tools |
+| Outside-in journey mapping (CVDM) | CVDM pairs each customer journey step with the value stage that serves it, and asks every internal element to justify itself by what it serves | Service Blueprint, Customer Journey Mapping tools |
 | Consistent cross-architectural measurement | 3E (Efficiency → Experience → Effectiveness) from Process to Value Stream | Domain-specific measurement instruments (see below) |
 | Behavioral signal layer | AER: Customer and Organizational Adoption, Engagement, Retention | — |
 | Organizational value model | 8 Values: eight outcome dimensions that delivery generates | Balanced Scorecard, ESG/GRI (external reporting) |
@@ -51,7 +51,7 @@ SAFe provides the delivery execution structure — Agile Release Trains, PI Plan
 - **PI Objectives → CVDM:** SAFe's PI Objectives (PI: Planning Interval) become the delivery commitments that CVDM's value stages and capabilities must deliver against. CVDM's 3E measurement makes visible whether PI execution is producing customer outcomes, not just shipped features.
 - **Flow metrics → 3E Efficiency:** SAFe's flow metrics (Flow Velocity, Flow Time, Flow Efficiency, Flow Load) are Efficiency signals in 3E terms. They measure whether value can be accessed without friction at the delivery level. 3E connects these signals forward to Experience and Effectiveness — dimensions SAFe's native metrics do not capture.
 
-**What IIVCS adds that SAFe does not provide:** A customer journey anchor that is structural (not just practiced). A measurement architecture that connects flow performance to customer outcomes and organizational value. A feedback architecture that returns PI-level delivery signal to strategic reassessment in OSM.
+**What IIVCS adds that SAFe does not provide:** Outside-in journey mapping that is structural in CVDM, not just practiced: each customer journey step is paired with the value stage that serves it. A measurement architecture that connects flow performance to customer outcomes and organizational value. A feedback architecture that returns PI-level delivery signal to strategic reassessment in OSM.
 
 ---
 
@@ -66,7 +66,7 @@ Scrum provides the team-level delivery ceremonies and practices — Sprint Plann
 - **Sprint Retrospective → Feedback loops:** Retrospective outcomes feed directly into CVDM's Delivery Learning feedback loop — and, when systemic, into PTS's operating model improvement cycle.
 - **Velocity and throughput → 3E Efficiency:** Sprint velocity and throughput are Efficiency signals at the team level. They surface whether the team can access and deliver value without friction.
 
-**What IIVCS adds:** The system above and around Scrum — the customer journey that Sprint goals serve, the value streams that Scrum teams operate within, the measurement architecture that connects Sprint delivery to customer behavioral response and organizational value.
+**What IIVCS adds:** The system above and around Scrum — the value streams that Scrum teams operate within, read outside-in through CVDM's journey-to-stage mapping, which names the journey step a Sprint goal serves, the measurement architecture that connects Sprint delivery to customer behavioral response and organizational value.
 
 ---
 
@@ -117,7 +117,7 @@ ITIL's service management practices — Incident Management, Problem Management,
 - **Service Level Agreements → 3E thresholds:** SLA targets define the acceptable Efficiency floor for service delivery. Breaches are CVDM feedback loop triggers — signals that a capability is not meeting the value delivery threshold.
 - **Continual Service Improvement → CVDM Performance Optimization loop:** ITIL's Continual Service Improvement cycle is the execution mechanism for CVDM's fourth feedback loop (Performance Optimization). CSI provides the improvement methodology; CVDM's feedback loop defines what signal triggers it and where the output goes.
 
-**What IIVCS adds:** A customer journey context for ITIL processes — every ITIL capability exists to serve a specific step in the customer's journey. 3E measurement that connects ITIL's service metrics to customer experience and outcome dimensions ITIL's metrics do not capture. A feedback architecture that returns service performance signal upstream through PTS operating model improvement to OSM strategic reassessment.
+**What IIVCS adds:** A customer journey context for customer-facing ITIL processes: in CVDM, each customer-facing capability serves a value stage paired with a step in the customer's journey. 3E measurement that connects ITIL's service metrics to customer experience and outcome dimensions ITIL's metrics do not capture. A feedback architecture that returns service performance signal upstream through PTS operating model improvement to OSM strategic reassessment.
 
 ---
 
@@ -190,7 +190,7 @@ Enterprise architecture practice describes, plans and governs the organization's
 - **BIZBOK → OSM's maps:** where an organization has a business-architecture capability map and value-stream map, OSM adopts them as the starting point for the value-stream inventory and capability map it hands to PTS and CVDM, and changes them through its own decisions.
 - **ArchiMate → the organization's own models:** IIVCS value streams, value stages and capabilities, and the links between them, can be modeled with ArchiMate's strategy and business elements in the organization's existing architecture repository.
 
-**What IIVCS is designed to add:** a customer journey anchor for the capabilities the architecture describes; an operating model for the product teams that run them (PTS); and measurement, 3E → AER → 8 Values, designed to read whether they are producing value (a reasoned hypothesis, not yet validated).
+**What IIVCS is designed to add:** a customer-journey pairing for the value stages those capabilities enable; an operating model for the product teams that run them (PTS); and measurement, 3E → AER → 8 Values, designed to read whether they are producing value (a reasoned hypothesis, not yet validated).
 
 ---
 

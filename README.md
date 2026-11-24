@@ -138,7 +138,7 @@ Each Product Mindset principle has a direct home in CVDM:
 
 ## Comparison with Established Frameworks
 
-IIVCS is designed to differ from established Enterprise Architecture, product, and value delivery frameworks in the combination of two things: a coherent system connecting customer journey, value stream delivery, outcome measurement, and upstream feedback — and dual-track behavioral measurement, reading organizational and customer adoption in parallel within it. Standalone comparisons cover each layer:
+IIVCS is designed to differ from established Enterprise Architecture, product, and value delivery frameworks in the combination of two things: a coherent system with value streams as the common spine, read outside-in through CVDM's journey-to-stage mapping, connecting delivery, outcome measurement, and upstream feedback — and dual-track behavioral measurement, reading organizational and customer adoption in parallel within it. Standalone comparisons cover each layer:
 
 - [IIVCS Comparison with Established Frameworks](iivcs-comparison.md) — TOGAF, BIZBOK, ArchiMate, SAFe, Service Blueprint, Value Stream Mapping, Jobs To Be Done; related prior work: Service-Profit Chain, Strategy Maps, Net Promoter System
 - [3E Comparison with Industry Standards](3e-comparison.md) — ISO 9241-11, Balanced Scorecard, Google HEART, NPS/CSAT/CES, AARRR
