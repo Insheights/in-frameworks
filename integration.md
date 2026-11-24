@@ -80,7 +80,7 @@ PTS uses its own team vocabulary — Core, Shared, and Platform-Enabled teams, a
 
 | PTS team | Closest Team Topologies type | Difference |
 |---|---|---|
-| **Core** | Stream-aligned | A Team Topologies stream-aligned team follows a flow of work; a PTS Core team is aligned to one IIVCS value stream and accountable for its outcome |
+| **Core** | Stream-aligned | A Team Topologies stream-aligned team follows a flow of work; a PTS Core team is aligned to one IIVCS value stream and accountable for the customer outcomes at the value stages it serves; a stream has one or more |
 | **Shared** | No exact equivalent | Owns a capability several value streams draw on, served to their Core teams on agreed terms |
 | **Platform-Enabled** | Platform | Owns a technology capability offered as a self-service internal product |
 | — | Enabling, complicated-subsystem | PTS defines no separate type for these; where an organization runs them, they sit alongside the three PTS types |

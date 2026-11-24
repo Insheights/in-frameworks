@@ -142,14 +142,14 @@ Each step below is an action. Complete them in order — later steps depend on e
 
   | Team | What it is | Aligned to |
   |---|---|---|
-  | **Core** | A persistent cross-functional team aligned to one value stream. It owns the capabilities only that stream's stages use, consumes the rest, and is accountable for the stream's outcome end to end. | One value stream |
+  | **Core** | A persistent cross-functional team aligned to one value stream and the value stages it serves; a value stream has one or more Core teams. It owns the customer outcomes at its stages, which evidence the value-stream outcome, and delivers them end to end, without hand-offs. It owns the capabilities only its stages use and consumes the rest; when two Core teams in one stream use a capability, one owns it and the other consumes it. The value-stream owner owns the value-stream outcome. | One value stream |
   | **Shared** | A persistent team that owns a capability value stages in several value streams draw on. It serves those streams' Core teams on agreed terms and is judged on their outcomes. | The value streams that draw on its capability |
   | **Platform-Enabled** | A persistent team that owns a technology capability, such as a platform, data and AI, integration or developer tooling, and offers it as a self-service internal product, so other teams consume it without hand-offs. | Every value stream that consumes it |
 
 - **Record owned and consumed capabilities on the capability map.** Every capability has exactly one owning team; every other team that draws on it consumes it. A capability sourced from a partner is always consumed, with one internal team accountable for the partner, the integration, and the service level: the team that would own it if it were built in-house. A capability the map is missing, or a duplicate, goes back to OSM to decide; PTS does not add it locally.
 - Each Core team must own or consume the capabilities to deliver end-to-end. Consuming a capability from a Shared or Platform-Enabled team, on agreed terms or as self-service, is not a handoff. If delivering an outcome needs an ad-hoc handoff to another team, either a capability is missing or the value-stream boundary is wrong — fix the topology, don't add a handoff.
 - The team owns the **customer outcomes** that evidence the value-stream outcome; the value-stream owner owns the value-stream outcome itself. Make both explicit so accountability does not blur.
-- You are done when every value stream has a persistent Core team with clear ownership and one named accountable product role, every capability on the map has one owning team, each team's owned and consumed capabilities are recorded, and no value stage depends on an ad-hoc hand-off.
+- You are done when every value stage is served by a persistent Core team (a value stream has one or more) with clear ownership and one named accountable product role, every capability on the map has one owning team, each team's owned and consumed capabilities are recorded, and no value stage depends on an ad-hoc hand-off.
 
 ---
 
