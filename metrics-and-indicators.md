@@ -155,6 +155,15 @@ For an organization without full 3E and AER instrumentation, this is the **singl
 2. **Read leading signals on a short cadence, lagging on a long one.** Experience weekly/sprint; Efficiency sprint/monthly; Effectiveness and Financial monthly/quarterly, never shorter than the outcome-realization window.
 3. **Compare to your own baseline.** Movement vs. your prior reading is more trustworthy than any absolute number, until external benchmarks exist (*3E Benchmarking*).
 4. **Set an at-risk floor and act on it** — don't wait for the lagging confirmation to arrive.
+5. **Before there is a baseline, set a starting band from the outcome.** A new metric has no readings to compare against, so its first target cannot rest on a baseline (step 3):
+   - **Work back from the outcome to the target.** Name the smallest change in the outcome that would be worth having, and the level of this metric it takes to get there. That level is the target. State the conversion you assumed, so it can be checked when readings arrive.
+   - **Set it above what people already do unprompted.** Count that behavior on the same base and inside the measure, so the metric gives no credit for what was already happening. Behavior that compliance already requires is part of that base, not headroom.
+   - **Set the floor below the target by the measure's noise.** Until baseline noise exists, state that margin as a figure to calibrate.
+   - **Fix a minimum count of observations before readings are judged against the target and floor.** Until the count is reached, readings read **Watch**; with no reading at all, the metric is unmeasured.
+   - **Write down what each reading triggers before the first one arrives.** When the metric tests a hypothesis, the consequences belong to that hypothesis, not to the bands: for a [strategic hypothesis](glossary.md#key-concepts), in its [rejection condition](guides/osm-practitioners-guide.md#step-3--set-and-rank-strategic-value-priorities). The [PTS guide](guides/pts-practitioners-guide.md) does not yet ask for one on a value hypothesis; until it does, write each band's consequence beside the hypothesis. An upper line, such as the result that would justify widening, is one of those decisions, not a band edge.
+   - **Hand over to your own baseline.** Once there are readings enough to set a normal range, they replace the starting band, and [the change rule](#when-a-reading-has-changed) applies.
+
+   Some write-ups call this first target a floor, meaning the smallest result worth having.
 
 ### When a reading has changed
 
@@ -229,6 +238,7 @@ Consistent with [3e.md](3e.md) and [8-values.md](8-values.md):
 
 - **No external benchmarks yet.** Every band here is baseline-relative or a starting default to calibrate — not a validated industry range. Peer comparison is the separate *3E Benchmarking* deliverable.
 - **Thresholds are reference defaults, not field-validated.** The v3 reference bars and the change rule rest on reasoned judgment until real assessment runs calibrate them.
+- **A starting band is an assumption.** One set before any baseline rests on the stated conversion from outcome to metric and on a judged margin; it holds only until the team's own readings replace it.
 - **Instrumentation-dependent.** A metric you cannot observe is not a metric — the Minimum Viable Signal Set exists precisely because most organizations start under-instrumented.
 - **Metrics are signals, not the value.** A metric proxies a dimension; it does not *equal* it. Read several together and in sequence, and treat a single number as a prompt to look, not a verdict.
 
