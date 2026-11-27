@@ -129,7 +129,7 @@ Each Product Mindset principle has a direct home in CVDM:
 | Customer obsession | Anchors every decision to the Customer Journey — not the product, not the feature |
 | Outcome over output | Maps to the Value Proposition and feedback loops — CVDM measures value received, not features shipped |
 | Continuous discovery | Powers the feedback loop from Customer Experience back to Journey Insights |
-| Hypothesis-driven thinking | Each Value Stage in CVDM is a testable assumption about how value is delivered |
+| Hypothesis-driven thinking | Each Value Stage's outcome is measured; the value hypotheses that claim to move it are tested |
 | Cross-functional ownership | CVDM's Capability and Process require teams to own end-to-end delivery, not hand-offs |
 
 ![CVDM Diagram](diagrams/cvdm-layered.svg)

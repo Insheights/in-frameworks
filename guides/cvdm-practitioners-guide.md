@@ -84,13 +84,13 @@ Each step below is an action. Complete them in order — later steps depend on e
 **Key question this step answers:** *What value does each stage deliver, and what realized outcome proves it landed?*
 
 **Inputs:** Journey-to-value-stream map (Step 1); the value proposition
-**Output:** Defined value stages — each with a stated value promise and a realized-outcome definition
+**Output:** Defined value stages — each with a stated value promise, a realized-outcome definition and a target band
 
 **Guidance:**
 - State each value stage's promise from the customer's outcome, not the deliverable. "The customer can trust the service with their money" is a value-stage promise; "account is provisioned" is the deliverable that serves it.
-- Each value stage is a testable hypothesis about how value is delivered. Define the realized outcome precisely enough that you could later confirm whether it happened.
+- **A value stage's outcome is measured; the value hypotheses that serve it are tested.** Define the stage's realized outcome, the customer's and not a product measure standing in for it, precisely enough that you could later confirm whether it happened, and read it against a target band ([Metrics and Indicators](../metrics-and-indicators.md#setting-healthy--watch--at-risk-bands), with step 5 for a first band). The stage carries no rejection condition of its own. What is tested is each value hypothesis that claims to move the outcome: it names the outcome as its measure and carries the condition, as the [PTS guide](pts-practitioners-guide.md#step-4--run-the-continuous-product-lifecycle) sets out. Several hypotheses may serve one stage, and one hypothesis may move several stages, naming each outcome under one condition.
 - The sum of value stages must add up to the value proposition. If the customer completes every stage but the value proposition is not realized, a stage is missing or mis-defined.
-- You are done when each value stage has a customer-outcome promise and a realized-outcome definition you can measure.
+- You are done when each value stage has a customer-outcome promise, a realized-outcome definition you can measure, and a target band to read it against.
 
 ---
 
@@ -143,6 +143,7 @@ Each step below is an action. Complete them in order — later steps depend on e
 - The loops form a diagnostic sequence, each narrowing the cause one layer further: **Experience feedback** first (the most immediate customer signal), then **Journey insights** (where in the journey), **Delivery learning** (which value stage is not delivering its outcome), **Performance optimization** (which capability or process to fix), and **Strategic signals** last (whether strategic priorities still hold). Delivery learning and performance optimization work as a pair. The sequence is the order of diagnosis, not of cadence — performance optimization can run more often than delivery learning. Do not collapse them into one review — each surfaces a different signal at a different cadence.
 - Each loop has a return destination. Experience, Journey insights, and Performance optimization mostly improve delivery (return to the team and PTS); Delivery learning confirms value-stage outcomes; Strategic signals land on the value stream as a whole and return customer reality to OSM for strategic reassessment — the product team consolidates its learnings, including these signals, and OSM decides.
 - **Specify each loop, hear the customer directly, and set its cadence.** The rules are set out once in the [IIVCS Feedback System](../feedback.md#operational-feedback--cvdm): the product team owns every loop, and a loop is active only once it is specified and has informed a decision; loops that read the customer draw on the customer's own words or behavior, with staff observation added and labelled; and the cadences shown are typical, run at the organization's own. A loop that surfaces signal no one acts on is not a feedback loop.
+- **Delivery learning reads each value stage against its band.** A stage below its band is a signal, not the rejection of a hypothesis: retune the stage, writing the retune as a value hypothesis with its own condition in Define ([PTS guide](pts-practitioners-guide.md#step-4--run-the-continuous-product-lifecycle)), or remodel the value stream where a stage is missing or mis-defined (Step 2). A stage whose outcome no value hypothesis names is a gap; flag it.
 - **Set out-of-cycle triggers.** An experience-signal drop should trigger an immediate journey review; a retention drop should trigger a delivery-learning and strategic-signals review.
 
 **The five feedback loops** — what each surfaces, its typical signal source, the decision it informs, where it returns, and its typical cadence — are set out once in the [IIVCS Feedback System](../feedback.md#operational-feedback--cvdm).
